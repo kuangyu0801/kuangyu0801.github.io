@@ -46,7 +46,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 Sun  |Mon  |Tue  |Wed  |Thu  |Fri  |Sat  
 ---|---|---|---|---|---|---
 5.3  |5.4  |5.5  |5.6  |5.7  |5.8  |5.9  
-|11/145  |/145  |/145  |/145  |/145  |/145  |/145  |
+11/145  |/145  |/145  |/145  |/145  |/145  |/145
 ## Java Library
 **[HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)**
 ```markdown
