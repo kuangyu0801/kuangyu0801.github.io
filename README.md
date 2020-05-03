@@ -41,9 +41,25 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # 刷題
 ## 連結 
 - [高頻一百連結](https://leetcode.com/problemset/top-interview-questions/)
-## 紀錄()
+## 紀錄
+|Sun  |Mon  |Tue  |Wed  |Thu  |Fri  |Sat  |
+|---|---|---|---|---|---|---|
+|5.3  |5.4  |5.5  |5.6  |5.7  |5.8  |5.9  |
+|11/145  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
 ## Java Library
-**HashMap**[link](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
+**[HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)**
 ```markdown
 replace(K key, V value)
 ```
