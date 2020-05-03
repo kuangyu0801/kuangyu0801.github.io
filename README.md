@@ -38,7 +38,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-# LeetCode
+# 刷題
+## 連結 
+- [高頻一百連結](https://leetcode.com/problemset/top-interview-questions/)
+## 紀錄()
 ## Java Library
 **HashMap**[link](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
 ```markdown
