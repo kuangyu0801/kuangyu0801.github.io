@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 [slackedit](https://stackedit.io/)
+
 [Just The Docs Jekyll theme](https://jekyllthemes.io/theme/documentation)
 
 You can use the [editor on GitHub](https://github.com/kuangyu0801/kuangyu0801.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -62,4 +63,29 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 **[HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)**
 ```markdown
 replace(K key, V value)
+```
+## Problem
+### 383. Ransom Note (Easy)
+要快的話就用array lookup
+```
+public class Solution {
+    public boolean canConstruct(String ransomNote, String magazine) {
+        if(ransomNote.length() > magazine.length())
+            return false;
+        int []chars= new int[26];
+        for(int i=0; i< magazine.length(); i++){
+            chars[magazine.charAt(i)- 'a']++;
+        }
+        for(int i=0; i< ransomNote.length(); i++){
+            chars[ransomNote.charAt(i)- 'a']--;
+            if(chars[ransomNote.charAt(i)- 'a'] < 0){
+                return false;
+            }
+        }
+        return true;
+    }
+}
+————————————————
+版权声明：本文为CSDN博主「负雪明烛」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/fuxuemingzhu/java/article/details/54178342
 ```
