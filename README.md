@@ -72,9 +72,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ## 連結 
 - [高頻一百連結](https://leetcode.com/problemset/top-interview-questions/)
 ## 紀錄
-Sun  |Mon  |Tue  |Wed  |Thu  |Fri  |Sat  
+Sun|Mon|Tue|Wed|Thu|Fri|Sat  
 ---|---|---|---|---|---|---
-5.3  |5.4  |5.5  |5.6  |5.7  |5.8  |5.9  
+5.3|5.4|5.5|5.6|5.7|5.8|5.9  
 11/145  |/145  |/145  |/145  |/145  |/145  |/145
 ## Java Library
 **[HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)**
@@ -82,8 +82,9 @@ Sun  |Mon  |Tue  |Wed  |Thu  |Fri  |Sat
 replace(K key, V value)
 ```
 ## Problem
-### 383. Ransom Note (Easy)
-要快的話就用array lookup
+### 383 Ransom Note (Easy)
+ 
+要快的話就用array lookup, 不要用hashMap
 ```
 public class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
@@ -106,3 +107,5 @@ public class Solution {
 版权声明：本文为CSDN博主「负雪明烛」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/fuxuemingzhu/java/article/details/54178342
 ```
+### 476	Number Complement (Easy)   
+記住Java還是support shift >>
