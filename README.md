@@ -104,6 +104,7 @@ Sun|Mon|Tue|Wed|Thu|Fri|Sat
 Nr.|1st|2nd|3rd
 ---|---|---|---
 124| v | - | - 
+---|---|---|---
 
 ## Java Library
 **[HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)**
@@ -111,6 +112,45 @@ Nr.|1st|2nd|3rd
 replace(K key, V value)
 ```
 ## Problem
+
+### 124. Binary Tree Maximum Path Sum (Hard)
+[java解答](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
+這題tricky的地方是，helper function要回報只能選一個child，但如果是max sum update就可以考慮both children
+```
+class Solution {
+    
+    public int maxPathSum(TreeNode root) {
+
+        MaxValNode maxValNode = new MaxValNode(Integer.MIN_VALUE);
+        pathSumRecursive(root, maxValNode);
+        
+        # don't use return pathSumRecursive(root, maxValNode);
+        # because this means we want root to return its selection!
+        return maxValNode.maxVal;
+    }
+    
+    public class MaxValNode {
+        private int maxVal;
+        
+        public MaxValNode(int val) {
+            this.maxVal = val;
+        }
+    }
+    
+    private int pathSumRecursive(TreeNode node, MaxValNode maxValNode) {
+        if (node == null) {
+            return 0;
+        }
+        
+        int leftMax = Math.max(pathSumRecursive(node.left, maxValNode), 0);
+        int rightMax  = Math.max(pathSumRecursive(node.right, maxValNode), 0);
+        int sum = node.val + leftMax + rightMax;
+        maxValNode.maxVal = Math.max(maxValNode.maxVal , sum);
+        return node.val + Math.max(leftMax, rightMax);
+    }
+}
+```
+
 ### 383 Ransom Note (Easy)
  
 要快的話就用array lookup, 不要用hashMap
@@ -136,8 +176,9 @@ public class Solution {
 版权声明：本文为CSDN博主「负雪明烛」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/fuxuemingzhu/java/article/details/54178342
 ```
+
 ### 476.	Number Complement (Easy)   
 記住Java還是support shift >>
 
-### 124. Binary Tree Maximum Path Sum (Hard)
+
 
