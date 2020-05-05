@@ -70,7 +70,27 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-# 刷題
+# Python 常用library
+## reference
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): 非常實用的入門書，把python data science最重要的numpy, matplotlib都介紹一遍, 基本function就不需要一直去查overstack查的很心累
+##  numpy
+### numpy.loadtxt
+```
+np_array = np.loadtxt(f, comments='#', skiprows=1)
+```
+### tosting
+一個點 <class 'numpy.float64'> 用formatter
+ndarray 必須改用 ndarray.tostring
+不能用tostring(ndarry[0])
+```
+# correct
+str_single_point = 'mean_x= ' + '{:.2f}'.format(mean[0])
+# correct
+str_array = ndarray.tostring(mean, precision=3)
+# error
+str_array = ndarray.tostring(mean[0], precision=3)
+```
+# 刷題 
 ## 連結 
 - [高頻一百連結](https://leetcode.com/problemset/top-interview-questions/)
 ## 紀錄
