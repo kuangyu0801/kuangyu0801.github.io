@@ -87,8 +87,10 @@ ndarray 必須改用 ndarray.tostring
 ```
 # correct
 str_single_point = 'mean_x= ' + '{:.2f}'.format(mean[0])
+
 # correct
 str_array = ndarray.tostring(mean, precision=3)
+
 # error
 str_array = ndarray.tostring(mean[0], precision=3)
 ```
