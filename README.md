@@ -87,12 +87,13 @@ ndarray 必須改用 ndarray.tostring
 ```
 # correct
 str_single_point = 'mean_x= ' + '{:.2f}'.format(mean[0])
+print(str_single_point)
 
 # correct
-str_array = ndarray.tostring(mean, precision=3)
+str_array = np.ndarray.tostring(mean, precision=3)
 
 # error
-str_array = ndarray.tostring(mean[0], precision=3)
+str_array = np.ndarray.tostring(mean[0], precision=3)
 ```
 # 刷題 
 ## 連結 
@@ -120,6 +121,7 @@ replace(K key, V value)
 ### 124. Binary Tree Maximum Path Sum (Hard)
 [java解答](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
 這題tricky的地方是，helper function要回報只能選一個child，但如果是max sum update就可以考慮both children
+
 ```
 class Solution {
     
