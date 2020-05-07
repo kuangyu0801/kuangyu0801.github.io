@@ -4,7 +4,7 @@
 - [刷題](#刷題)
   * [紀錄](#紀錄)
   * [Problems](#problems)
-  * [Java Library](#java-library)
+  * [Frequent-Used Library](#frequent-used-library)
 - [Java](#java)
   * [IntelliJ](#intelliJ)
     + [Sub-sub-heading](#sub-sub-heading)
@@ -18,6 +18,11 @@
 
 # Java
 ## IntelliJ
+### Version Control
+- [Version control](https://www.jetbrains.com/help/idea/version-control-integration.html)
+
+# GitHub
+
 
 # Python
 ## Reference
@@ -61,7 +66,7 @@ Nr.|1st|2nd|3rd
 124| v | - | - 
 ---|---|---|---
 
-## Java Library
+## Frequent-Used Library
 **[HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)**
 ```markdown
 replace(K key, V value)
