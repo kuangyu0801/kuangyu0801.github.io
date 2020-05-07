@@ -72,9 +72,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Python 常用library
 ## reference
+[Fluent Java](https://drive.google.com/file/d/1AV59fwciY2RwgEN11vs5V9_G_mJhyy6e/view?usp=sharing) 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): 非常實用的入門書，把python data science最重要的numpy, matplotlib都介紹一遍, 基本function就不需要一直去查overstack查的很心累
+[w3schools](https://www.w3schools.com/python/default.asp): 網站把所有常用的python syntax都列入，每次忘記直接來查
 
-[w3schools](https://www.w3schools.com/python/default.asp): 把所有常用的python syntax都列入，每次忘記直接來查
 ##  numpy
 ### numpy.loadtxt
 ```
