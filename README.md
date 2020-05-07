@@ -91,6 +91,19 @@ Nr.|1st|2nd|3rd
 replace(K key, V value)
 ```
 ## Problems
+### 1. Two Sum
+
+最優解法是用HashMap記錄餘數與index, 很巧妙
+```
+for (int i = 0; i < nums.length;i++) {
+    if (map.containsKey(nums[i])){
+        res[0] = map.get(nums[i]);
+        res[1] = i; break;
+    } else {
+        map.put((target - nums[i]),i);
+    }
+}
+```
 
 ### 124. Binary Tree Maximum Path Sum (Hard)
 [java解答](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
