@@ -190,4 +190,7 @@ public class Solution {
 
 # Android Development
 ## Reference
-[Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/)
+
+- [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/)
+- [Adroid Studio User Guide](https://developer.android.com/studio/intro)
+
