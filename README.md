@@ -16,6 +16,13 @@
     + [Sub-sub-heading](#sub-sub-heading-2)
 - [Markdown Quick Lookup](#markdown-quick-lookup)
 
+Mac 鍵符號
+- Command 鍵 ⌘
+- Shift 鍵 ⇧
+- Option（或 Alt）鍵 ⌥
+- Control（或 Ctrl）鍵 ⌃
+- Caps Lock 鍵 ⇪
+
 # Java
 ## IntelliJ
 - [Josh’s IntelliJ Editor Settings](https://drive.google.com/drive/folders/1Y5cHl-nNe731EgG4pAk2Dokgbu4ZpV5E?usp=sharing):CS61B Josh自己tune的的color scheme,兩個字：好看！黑背景、高對比、關鍵字一目瞭然，用過就回不去！[original page](https://sp18.datastructur.es/materials/lab/lab2setup/lab2setup)
@@ -25,6 +32,9 @@
 - [Version control](https://www.jetbrains.com/help/idea/version-control-integration.html)
 - [Check out a project from a remote host (clone)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#clone-repo)
 - [Push your Project to Github directly](https://youtu.be/Zx74laLnFvw)
+1. VCS | Enable Version Control Integration
+2. VCS | Import into Version Control | Create Git Repository
+3. 
 - [Exclude files from version control (ignore)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#ignore-files)
 
 # GitHub
