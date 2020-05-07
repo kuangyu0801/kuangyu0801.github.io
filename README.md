@@ -34,8 +34,8 @@ Mac 鍵符號
 - [Push your Project to Github directly](https://youtu.be/Zx74laLnFvw)
 1. VCS | Enable Version Control Integration
 2. VCS | Import into Version Control | Create Git Repository
-3. Add files to the local repository
-4. 
+3. Add files to the local repository: 做這一步之後所有檔案的顏色會從紅色變成綠色、從unresolved files改成default changelist
+4. VCS | Import into Version Control | Share Project on Github
 - [Exclude files from version control (ignore)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#ignore-files)
 
 # GitHub
