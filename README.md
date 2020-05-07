@@ -7,8 +7,8 @@ https://jekyll-themes.com/docsy-jekyll/
 
 - [刷題](#刷題)
   * [紀錄](#紀錄)
-    + [Problems](#problems)
-    + [Java Library](#java-library)
+  * [Problems](#problems)
+  * [Java Library](#java-library)
 - [Java](#java)
   * [IntelliJ](#intelliJ)
     + [Sub-sub-heading](#sub-sub-heading)
