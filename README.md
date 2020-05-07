@@ -18,12 +18,14 @@
 
 # Java
 ## IntelliJ
+- [Josh’s IntelliJ Editor Settings](https://drive.google.com/drive/folders/1Y5cHl-nNe731EgG4pAk2Dokgbu4ZpV5E?usp=sharing), [original page](https://sp18.datastructur.es/materials/lab/lab2setup/lab2setup)
+
 ### Version Control
 
 - [Version control](https://www.jetbrains.com/help/idea/version-control-integration.html)
-[Check out a project from a remote host (clone)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#clone-repo)
-[Push your Project to Github directly](https://youtu.be/Zx74laLnFvw)
-[Exclude files from version control (ignore)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#ignore-files)
+- [Check out a project from a remote host (clone)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#clone-repo)
+- [Push your Project to Github directly](https://youtu.be/Zx74laLnFvw)
+- [Exclude files from version control (ignore)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#ignore-files)
 
 # GitHub
 
