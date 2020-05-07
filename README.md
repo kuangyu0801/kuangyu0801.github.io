@@ -5,13 +5,15 @@ https://jekyll-themes.com/docsy-jekyll/
 
 [Just The Docs Jekyll theme](https://jekyllthemes.io/theme/documentation)
 
-
-
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
 - [刷題](#刷題)
-  * [Sub-heading](#sub-heading-1)
+  * [紀錄](#紀錄)
+    + [Problems](#problems)
+    + [Java Library](#java-library)
+- [Java](#java)
+  * [IntelliJ](#intelliJ)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Python](#python)
+  * [numpy](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 - [Android Development](#android-development)
   * [Reference](#reference)
@@ -21,7 +23,7 @@ You can use the [editor on GitHub](https://github.com/kuangyu0801/kuangyu0801.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Markdown Quick Lookup
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -70,7 +72,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-# Python 常用library
+# Java
+## IntelliJ
+
+# Python
 ## Reference
 [Fluent Java](https://drive.google.com/file/d/1AV59fwciY2RwgEN11vs5V9_G_mJhyy6e/view?usp=sharing) 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): 非常實用的入門書，把python data science最重要的numpy, matplotlib都介紹一遍, 基本function就不需要一直去查overstack查的很心累
@@ -81,7 +86,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ```
 np_array = np.loadtxt(f, comments='#', skiprows=1)
 ```
-### tosting
+### numpy.ndarray.tostring
 一個點 <class 'numpy.float64'> 用formatter
 ndarray 必須改用 ndarray.tostring
 不能用tostring(ndarry[0])
@@ -117,7 +122,7 @@ Nr.|1st|2nd|3rd
 ```markdown
 replace(K key, V value)
 ```
-## Problem
+## Problems
 
 ### 124. Binary Tree Maximum Path Sum (Hard)
 [java解答](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
