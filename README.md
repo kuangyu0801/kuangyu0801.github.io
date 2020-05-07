@@ -34,7 +34,8 @@ Mac 鍵符號
 - [Push your Project to Github directly](https://youtu.be/Zx74laLnFvw)
 1. VCS | Enable Version Control Integration
 2. VCS | Import into Version Control | Create Git Repository
-3. 
+3. Add files to the local repository
+4. 
 - [Exclude files from version control (ignore)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#ignore-files)
 
 # GitHub
