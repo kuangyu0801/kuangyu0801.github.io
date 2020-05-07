@@ -2,6 +2,7 @@
 
 
 - [刷題](#刷題)
+  * [高頻一百連結](#高頻一百連結)
   * [紀錄](#紀錄)
   * [Problems](#problems)
   * [Frequent-Used Library](#frequent-used-library)
@@ -68,8 +69,9 @@ str_array = np.ndarray.tostring(mean, precision=3)
 str_array = np.ndarray.tostring(mean[0], precision=3)
 ```
 # 刷題 
-## 連結 
-- [高頻一百連結](https://leetcode.com/problemset/top-interview-questions/)
+
+## [高頻一百連結](https://leetcode.com/problemset/top-interview-questions/)
+
 ## 紀錄
 
 Sun|Mon|Tue|Wed|Thu|Fri|Sat  
