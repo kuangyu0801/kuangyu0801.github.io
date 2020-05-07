@@ -19,7 +19,11 @@
 # Java
 ## IntelliJ
 ### Version Control
+
 - [Version control](https://www.jetbrains.com/help/idea/version-control-integration.html)
+[Check out a project from a remote host (clone)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#clone-repo)
+[Push your Project to Github directly](https://youtu.be/Zx74laLnFvw)
+[Exclude files from version control (ignore)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#ignore-files)
 
 # GitHub
 
