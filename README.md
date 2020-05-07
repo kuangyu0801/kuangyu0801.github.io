@@ -165,6 +165,10 @@ public class Solution {
 - [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/)
 - [Adroid Studio User Guide](https://developer.android.com/studio/intro)
 
+[How to delete a module in Android Studio](https://mranderson.nl/2019/06/08/how-to-delete-a-module-in-android-studio/)
+1. Right click on the Project and select “Open module settings”
+2. Select the module you want to delete and press the minus button above.
+
 # Markdown Quick Lookup
 
 [slackedit](https://stackedit.io/)
