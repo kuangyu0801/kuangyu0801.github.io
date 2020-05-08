@@ -77,13 +77,15 @@ str_array = np.ndarray.tostring(mean[0], precision=3)
 Sun|Mon|Tue|Wed|Thu|Fri|Sat  
 ---|---|---|---|---|---|---
 5.3|5.4|5.5|5.6|5.7|5.8|5.9
-11  |11  |12(+1) |/145  |/145  |/145  |/145
+11  |11  |12(+1) |12  |13(+1)  |14(+1)  |/145
 
 
 Nr.|1st|2nd|3rd
 ---|---|---|---
+1| v | - | - 
+2| v | - | - 
 124| v | - | - 
----|---|---|---
+383| v | - | - 
 
 ## Frequent-Used Library
 **[HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)**
@@ -91,6 +93,11 @@ Nr.|1st|2nd|3rd
 replace(K key, V value)
 ```
 ## Problems
+
+#### 2. Add Two Numbers
+corner case: 考慮最高位進位問題
+最優解法
+
 ### 1. Two Sum
 
 最優解法是用HashMap記錄餘數與index, 很巧妙
