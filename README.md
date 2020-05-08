@@ -188,12 +188,18 @@ public class Solution {
 # Android Development
 ## Reference
 
+- [Android开发书籍推荐：从入门到精通系列学习路线书籍介绍](https://zhuanlan.zhihu.com/p/25843565)
+
 - [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/)
 - [Adroid Studio User Guide](https://developer.android.com/studio/intro)
+
+-[回调函数（callback）是什么？](https://www.zhihu.com/question/19801131/answer/26586203): 舉例的深入簡出
 
 [How to delete a module in Android Studio](https://mranderson.nl/2019/06/08/how-to-delete-a-module-in-android-studio/)
 1. Right click on the Project and select “Open module settings”
 2. Select the module you want to delete and press the minus button above.
+
+[https://zhuanlan.zhihu.com/p/25843565](https://zhuanlan.zhihu.com/p/25843565)
 
 # Markdown Quick Lookup
 
