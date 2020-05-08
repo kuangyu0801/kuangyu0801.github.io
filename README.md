@@ -25,6 +25,9 @@ Mac 鍵符號
 - Caps Lock 鍵 ⇪
 
 # Java
+## Concurrency
+[Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
+
 ## IntelliJ
 - [Josh’s IntelliJ Editor Settings](https://drive.google.com/drive/folders/1Y5cHl-nNe731EgG4pAk2Dokgbu4ZpV5E?usp=sharing):CS61B Josh自己tune的的color scheme,兩個字：好看！黑背景、高對比、關鍵字一目瞭然，用過就回不去！[original page](https://sp18.datastructur.es/materials/lab/lab2setup/lab2setup)
 
