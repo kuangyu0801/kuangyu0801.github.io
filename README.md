@@ -40,6 +40,7 @@ Mac 鍵符號
 - [Exclude files from version control (ignore)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#ignore-files)
 
 # GitHub
+[Git Official Documentation](https://git-scm.com/book/en/v2): 講得很完整！
 [Git/Github操作手册](https://zhuanlan.zhihu.com/p/58547172)
 
 # Python
