@@ -8,13 +8,10 @@
   * [Frequent-Used Library](#frequent-used-library)
 - [Java](#java)
   * [IntelliJ](#intelliJ)
-    + [Sub-sub-heading](#sub-sub-heading)
 - [Python](#python)
   * [numpy](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
 - [Android Development](#android-development)
   * [Reference](#reference)
-    + [Sub-sub-heading](#sub-sub-heading-2)
 - [Markdown Quick Lookup](#markdown-quick-lookup)
 
 Mac 鍵符號
