@@ -201,6 +201,10 @@ public class Solution {
 
 [https://zhuanlan.zhihu.com/p/25843565](https://zhuanlan.zhihu.com/p/25843565)
 
+## Issue
+[TextView and Button get stuck in the top-left corner of the blueprint in android studio](https://stackoverflow.com/questions/51056109/textview-and-button-get-stuck-in-the-top-left-corner-of-the-blueprint-in-android/51058177)
+
+
 # Markdown Quick Lookup
 
 [slackedit](https://stackedit.io/)
