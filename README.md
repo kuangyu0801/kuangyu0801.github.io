@@ -204,6 +204,7 @@ public class Solution {
 ## Issue
 [TextView and Button get stuck in the top-left corner of the blueprint in android studio](https://stackoverflow.com/questions/51056109/textview-and-button-get-stuck-in-the-top-left-corner-of-the-blueprint-in-android/51058177)
 
+在Component Tree點選view convert 成[constraint layout](https://developer.android.com/training/constraint-layout#convert)
 
 # Markdown Quick Lookup
 
