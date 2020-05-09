@@ -25,6 +25,8 @@ Mac 鍵符號
 - Caps Lock 鍵 ⇪
 
 # Java
+
+## Fre
 ## Concurrency
 [Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
 
@@ -92,10 +94,19 @@ Nr.|1st|2nd|3rd
 383| v | - | - 
 
 ## Frequent-Used Library
-**[HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)**
+
+
+### [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
 ```markdown
 replace(K key, V value)
 ```
+
+### [Integer](https://docs.oracle.com/javase/7/docs/api/java/lang/Integer.html)
+**Parse String to Integer**
+```
+int i = Integer.parseInt(myString);
+```
+
 ## Problems
 
 #### 2. Add Two Numbers
