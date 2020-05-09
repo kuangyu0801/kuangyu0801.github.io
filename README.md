@@ -107,6 +107,14 @@ replace(K key, V value)
 int i = Integer.parseInt(myString);
 ```
 
+### [String]()
+[Convert float to String](https://www.javatpoint.com/java-float-to-string)
+```
+String.valueOf()
+
+float f=12.3F;//F is the suffix for float  
+String s=String.valueOf(f);  
+```
 ## Problems
 
 #### 2. Add Two Numbers
