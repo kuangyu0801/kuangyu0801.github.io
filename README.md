@@ -198,6 +198,30 @@ public class Solution {
 原文链接：https://blog.csdn.net/fuxuemingzhu/java/article/details/54178342
 ```
 
+### 454. 4Sum II (Medium)
+用hashMap的觀念沒錯，我的方法太搞剛，還考慮把AB為零的先挑出來，再組一次array
+[花花將快速解](https://zxi.mytechroad.com/blog/hashtable/leetcode-454-4sum-ii/)
+```
+    public int fourSumCount(int[] A, int[] B, int[] C, int[] D) {
+        
+        //TODO: how to declare a array of object
+        HashMap<Integer, Integer> mapA, mapB, mapC, mapD, mapABnonZero, mapCDnonZero;
+        mapABnonZero = new HashMap();
+        mapCDnonZero = new HashMap();
+        
+        mapA = constructHashMap(A);
+        mapB = constructHashMap(B);
+        mapC = constructHashMap(C);
+        mapD = constructHashMap(D);
+        
+        int solABCounts = twoSumCount(mapA, mapB, mapABnonZero);
+        int solCDCounts = twoSumCount(mapC, mapD, mapCDnonZero);
+        int solABCDCounts = twoSumCount(mapABnonZero, mapCDnonZero, mapA);
+        int finalSol = solABCounts*solCDCounts + solABCDCounts;
+        
+        return finalSol;
+```
+
 ### 476.	Number Complement (Easy)   
 記住Java還是support shift >>
 
