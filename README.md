@@ -94,6 +94,19 @@ Nr.|1st|2nd|3rd
 
 ## Frequent-Used Library
 
+Object cloning means to create an exact copy of the original object.
+```markdown
+ clone()
+```
+### Array
+```markdown
+Arrays.copyOf(original,original.length);
+```
+### [Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
+```markdown
+nextInt(int bound)
+int rand = Random.nexInt(maxNum);
+```
 ### Iterator
 ```markdown
 Iterator.hasNext();
