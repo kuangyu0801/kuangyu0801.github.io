@@ -81,8 +81,8 @@ str_array = np.ndarray.tostring(mean[0], precision=3)
 Sun|Mon|Tue|Wed|Thu|Fri|Sat  
 ---|---|---|---|---|---|---
 5.3|5.4|5.5|5.6|5.7|5.8|5.9
-11  |11  |12(+1) |12  |13(+1)  |14(+1)  |/145
-
+11  |11  |12(+1) |-  |13(+1)  |14(+1)  |-
+14  |15(+1)|||||
 
 Nr.|1st|2nd|3rd
 ---|---|---|---
@@ -90,18 +90,31 @@ Nr.|1st|2nd|3rd
 2| v | - | - 
 124| v | - | - 
 383| v | - | - 
+454| v | - | -
 
 ## Frequent-Used Library
 
+### Iterator
+```markdown
+Iterator.hasNext();
 
+Iterator.next();
+```
 ### [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
 ```markdown
-replace(K key, V value)
+HashMap.replace(K key, V value);
+
+HashMap.put(K key, V value);
+
+<K> = HashMap.getOrDefault(K key, V value);
+
+Set<K> = HashMap.keySet();
+
 ```
 
 ### [Integer](https://docs.oracle.com/javase/7/docs/api/java/lang/Integer.html)
 **Parse String to Integer**
-```
+``` markdown
 int i = Integer.parseInt(myString);
 ```
 
