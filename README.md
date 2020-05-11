@@ -82,7 +82,7 @@ Sun|Mon|Tue|Wed|Thu|Fri|Sat
 ---|---|---|---|---|---|---
 5.3|5.4|5.5|5.6|5.7|5.8|5.9
 11  |11  |12(+1) |-  |13(+1)  |14(+1)  |-
-14  |15(+1)|||||
+14  |16(+2)|||||
 
 Nr.|1st|2nd|3rd
 ---|---|---|---
@@ -90,6 +90,7 @@ Nr.|1st|2nd|3rd
 2| v | - | - 
 124| v | - | - 
 383| v | - | - 
+384| v | - | - 
 454| v | - | -
 
 ## Frequent-Used Library
@@ -223,6 +224,8 @@ public class Solution {
 版权声明：本文为CSDN博主「负雪明烛」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/fuxuemingzhu/java/article/details/54178342
 ```
+### 384. Shuffle an Array (Medium)
+[解法參考](https://leetcode.jp/leetcode-384-shuffle-an-array-%E8%A7%A3%E9%A2%98%E6%80%9D%E8%B7%AF%E5%88%86%E6%9E%90/)
 
 ### 454. 4Sum II (Medium)
 用hashMap的觀念沒錯，我的方法太搞剛，還考慮把AB為零的先挑出來，再組一次array
