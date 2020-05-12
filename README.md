@@ -126,6 +126,13 @@ Set<K> = HashMap.keySet();
 
 ```
 
+### [Character](https://docs.oracle.com/javase/7/docs/api/java/lang/Character.html)
+```markdown
+Character.isDigit(char ch);
+Character.isLetter(cahr ch);
+Character.isSpaceChar(char ch);
+
+```
 ### [Integer](https://docs.oracle.com/javase/7/docs/api/java/lang/Integer.html)
 **Parse String to Integer**
 ``` markdown
@@ -140,6 +147,11 @@ String.valueOf()
 float f=12.3F;//F is the suffix for float  
 String s=String.valueOf(f);  
 ```
+
+### LinkedList
+
+
+
 ## Problems
 
 #### 2. Add Two Numbers
