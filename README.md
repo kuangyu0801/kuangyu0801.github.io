@@ -275,6 +275,9 @@ public class Solution {
 
 - [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/)
 - [Adroid Studio User Guide](https://developer.android.com/studio/intro)
+課程：
+[Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/toc-v2):谷歌官方教程
+[Course on Android Official wedsite](https://developer.android.com/courses/fundamentals-training/overview-v2)
 
 -[回调函数（callback）是什么？](https://www.zhihu.com/question/19801131/answer/26586203): 舉例的深入簡出
 
