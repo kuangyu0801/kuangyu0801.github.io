@@ -82,12 +82,13 @@ Sun|Mon|Tue|Wed|Thu|Fri|Sat
 ---|---|---|---|---|---|---
 5.3|5.4|5.5|5.6|5.7|5.8|5.9
 11  |11  |12(+1) |-  |13(+1)  |14(+1)  |-
-14  |16(+2)|||||
+14  |16(+2)|- |17(+1)|||
 
 Nr.|1st|2nd|3rd
 ---|---|---|---
 1| v | - | - 
 2| v | - | - 
+8| v | - | - 
 124| v | - | - 
 383| v | - | - 
 384| v | - | - 
@@ -154,9 +155,7 @@ String s=String.valueOf(f);
 
 ## Problems
 
-#### 2. Add Two Numbers
-corner case: 考慮最高位進位問題
-最優解法
+
 
 ### 1. Two Sum
 
@@ -171,6 +170,14 @@ for (int i = 0; i < nums.length;i++) {
     }
 }
 ```
+### 2. Add Two Numbers
+corner case: 考慮最高位進位問題
+最優解法
+
+### 8. String to Integer (atoi)
+看似簡單直觀，但有很多corner case, 然後對API也要很熟悉，光在tactical debug就超過一小時...
+最優解法：
+
 
 ### 124. Binary Tree Maximum Path Sum (Hard)
 [java解答](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
