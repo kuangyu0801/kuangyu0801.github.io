@@ -284,6 +284,7 @@ public class Solution {
 # Android Development
 ## Reference
 視頻：
+- [Android Developer Fundamentals on Youtube](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB):谷歌官方教程，有些api版本比較舊，需要多注意。
 - [Android开发教程（2019最新版,使用JetPack](https://www.bilibili.com/video/BV1w4411t7UQ/)：操作跟講解都很清楚
 - [Android开发书籍推荐：从入门到精通系列学习路线书籍介绍](https://zhuanlan.zhihu.com/p/25843565)
 
