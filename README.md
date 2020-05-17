@@ -60,7 +60,7 @@ Mac 鍵符號
 - [w3schools](https://www.w3schools.com/python/default.asp): 網站把所有常用的python syntax都列入，每次忘記直接來查
 
 ##  numpy
-### numpy.loadtxt
+### 從文字檔load進數值到numpy array numpy.loadtxt
 ```
 np_array = np.loadtxt(f, comments='#', skiprows=1)
 ```
@@ -78,7 +78,14 @@ str_array = np.ndarray.tostring(mean, precision=3)
 
 # error
 str_array = np.ndarray.tostring(mean[0], precision=3)
+
 ```
+### 解線性代數 [numpy.linalg.solve](https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.solve.html)
+
+```
+numpy.linalg.solve
+```
+
 # 刷題 
 
 ## [高頻一百連結](https://leetcode.com/problemset/top-interview-questions/)
