@@ -283,16 +283,22 @@ public class Solution {
 
 # Android Development
 ## Reference
+### 谷歌官方教程
+- 官方網站: [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/toc-v2)
+- 影片:[Android Developer Fundamentals on Youtube](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB):谷歌官方教程，有些api版本比較舊，需要多注意。
+- [課程投影片](https://drive.google.com/open?id=1eu-LXxiHocSktGYpG04PfE9Xmr_pBY5P)
+- 代碼: [colab source code] (https://developer.android.com/courses/fundamentals-training/toc-v2)
+- gitbook: [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/)
+
+書籍：
+
 視頻：
-- [Android Developer Fundamentals on Youtube](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB):谷歌官方教程，有些api版本比較舊，需要多注意。
 - [Android开发教程（2019最新版,使用JetPack](https://www.bilibili.com/video/BV1w4411t7UQ/)：操作跟講解都很清楚
 - [Android开发书籍推荐：从入门到精通系列学习路线书籍介绍](https://zhuanlan.zhihu.com/p/25843565)
-
-- [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/)
 - [Adroid Studio User Guide](https://developer.android.com/studio/intro)
 課程：
-[Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/toc-v2):谷歌官方教程
-[Course on Android Official wedsite](https://developer.android.com/courses/fundamentals-training/overview-v2)
+
+
 
 -[回调函数（callback）是什么？](https://www.zhihu.com/question/19801131/answer/26586203): 舉例的深入簡出
 
