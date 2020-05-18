@@ -24,9 +24,9 @@ Mac 鍵符號
 # [Programming Book](https://drive.google.com/drive/folders/1_afYce_KHKfEtYlaGUonWOQSmTcjy3f1?usp=sharing)
 
 - [《疯狂Java讲义第4版》](https://drive.google.com/file/d/1Q0qyitxsjvgoZaayHz4TO8oHuLHMaE9g/view?usp=sharing)
-- 《疯狂Android讲义第3版》
-- 《程序员的自我修养—链接、装载与库》
-- 《Thinking.In.Java.4th.Edition》
+- [《疯狂Android讲义第3版》](https://drive.google.com/file/d/1Ky2T2K3zByyDQLnCvKzO76sD42LpTcoi/view?usp=sharing)
+- [《程序员的自我修养—链接、装载与库》](https://drive.google.com/file/d/1ydLFZ7QUl_iEOIOsdfkq-MiQM6Yfnss4/view?usp=sharing)
+- [《Thinking.In.Java.4th.Edition》](https://drive.google.com/open?id=1cbNwWrzHdRqjqR_vc_V5vSRfz34vqjTt)
 - [《Fluent Python》](https://drive.google.com/file/d/1AV59fwciY2RwgEN11vs5V9_G_mJhyy6e/view?usp=sharing) 
 - [《Python Data Science Handbook》](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
