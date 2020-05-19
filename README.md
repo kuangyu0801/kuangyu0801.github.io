@@ -53,6 +53,9 @@ Mac 鍵符號
 
 ### [All we need to know about git](https://www.jetbrains.com/help/idea/using-git-integration.html)
 1. [如何在IDE中與github repo協作](https://youtu.be/lyiBnyPPnG4)
+	- fetch: 把remote commit file抓到local但不改變local
+	- pull: fetch + auto merge
+	- update projects: fetch from all remote branches + PULL
 2. 
 
 
@@ -389,5 +392,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjEwNjUxMSwtMTgyNTM1MjIwNF19
+eyJoaXN0b3J5IjpbMjEwODI2MzkxMywxMjQ2MTA2NTExLC0xOD
+I1MzUyMjA0XX0=
 -->
