@@ -51,6 +51,8 @@ Mac 鍵符號
 4. VCS | Import into Version Control | Share Project on Github
 - [Exclude files from version control (ignore)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#ignore-files)
 
+### [All we need to know about git]()
+
 # GitHub
 - [Coursera: Introduction to Git and GitHub by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
 - [Git Official Documentation](https://git-scm.com/book/en/v2): 講得很完整！
@@ -382,3 +384,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI5Mjc2MTMyN119
+-->
