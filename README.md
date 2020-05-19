@@ -52,6 +52,7 @@ Mac 鍵符號
 - [Exclude files from version control (ignore)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#ignore-files)
 
 ### [All we need to know about git](https://www.jetbrains.com/help/idea/using-git-integration.html)
+1. https://youtu.be/lyiBnyPPnG4
 
 
 
@@ -387,5 +388,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjUzNTIyMDRdfQ==
+eyJoaXN0b3J5IjpbNzU0MDQxMDM4LC0xODI1MzUyMjA0XX0=
 -->
