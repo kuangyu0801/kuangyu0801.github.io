@@ -129,6 +129,8 @@ Object cloning means to create an exact copy of the original object.
 ### Array
 ```markdown
 Arrays.copyOf(original,original.length);
+// fill the array with designated value
+Arrays.fill(array, value)
 ```
 ### [Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
 ```markdown
@@ -392,6 +394,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDAwODUxNiwxMjQ2MTA2NTExLC0xOD
-I1MzUyMjA0XX0=
+eyJoaXN0b3J5IjpbNzE4NzE0MDI0LC03MDAwMDg1MTYsMTI0Nj
+EwNjUxMSwtMTgyNTM1MjIwNF19
 -->
