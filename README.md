@@ -209,8 +209,10 @@ corner case: 考慮最高位進位問題
 
 ### 46. Permutation (Medium)
 [三種解法in java](https://blog.csdn.net/happyaaaaaaaaaaa/article/details/51534048)
-
+類型：
+【思路-Java、Python】回溯算法|递归实现
 【思路2-Java】回溯算法|递归实现
+【思路3-Java】非递归实现
 
 
 ### 124. Binary Tree Maximum Path Sum (Hard)
@@ -400,6 +402,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1Nzg1MTIyMiw3MTg3MTQwMjQsLTcwMD
+eyJoaXN0b3J5IjpbMTY4MDY1NjE5MCw3MTg3MTQwMjQsLTcwMD
 AwODUxNiwxMjQ2MTA2NTExLC0xODI1MzUyMjA0XX0=
 -->
