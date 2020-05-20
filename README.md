@@ -115,6 +115,7 @@ Nr.|1st|2nd|3rd
 1| v | - | - 
 2| v | - | - 
 8| v | - | - 
+4| v | - | -
 124| v | - | - 
 383| v | - | - 
 384| v | - | - 
@@ -205,6 +206,11 @@ corner case: 考慮最高位進位問題
 ### 8. String to Integer (atoi)
 看似簡單直觀，但有很多corner case, 然後對API也要很熟悉，光在tactical debug就超過一小時...
 最優解法：
+
+### 46. Permutation (Medium)
+[三種解法in java](https://blog.csdn.net/happyaaaaaaaaaaa/article/details/51534048)
+
+【思路2-Java】回溯算法|递归实现
 
 
 ### 124. Binary Tree Maximum Path Sum (Hard)
@@ -394,6 +400,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4NzE0MDI0LC03MDAwMDg1MTYsMTI0Nj
-EwNjUxMSwtMTgyNTM1MjIwNF19
+eyJoaXN0b3J5IjpbLTY1Nzg1MTIyMiw3MTg3MTQwMjQsLTcwMD
+AwODUxNiwxMjQ2MTA2NTExLC0xODI1MzUyMjA0XX0=
 -->
