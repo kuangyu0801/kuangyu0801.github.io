@@ -213,7 +213,7 @@ corner case: 考慮最高位進位問題
 ### 46. Permutation (Medium)
 [三種解法in java](https://blog.csdn.net/happyaaaaaaaaaaa/article/details/51534048)
 類型：backtrack（回溯法)
-【思路-Java、Python】回溯算法|递归实现
+【思路-Java、Python】回溯算法|递归实现[解法說明](http://www.noteanddata.com/leetcode-46-Permutations-java-solution-note.html)
 【思路2-Java】回溯算法|递归实现
 【思路3-Java】非递归实现
 
@@ -405,7 +405,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTg1MDM4OCwxMzk1MTYyMjY4LDcxOD
-cxNDAyNCwtNzAwMDA4NTE2LDEyNDYxMDY1MTEsLTE4MjUzNTIy
-MDRdfQ==
+eyJoaXN0b3J5IjpbNzcwNTcxNjU2LC03MjU4NTAzODgsMTM5NT
+E2MjI2OCw3MTg3MTQwMjQsLTcwMDAwODUxNiwxMjQ2MTA2NTEx
+LC0xODI1MzUyMjA0XX0=
 -->
