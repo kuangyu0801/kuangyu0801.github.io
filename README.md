@@ -35,10 +35,11 @@ Mac 鍵符號
 
 ## The Missing Semester of Your CS Education
 ### # Course overview + the shell
+why learn terminal? 
 - #program < #input :program take #input as input argument
 - #program > #output
 - #program >> #output :program append output to #output
-- / : space (because shell differientiate
+- / : space (because shell differentiate different argument by space character 
 # Java
 
 ## Fre
@@ -413,7 +414,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjA4NzIyMSwtMTI0MjE2MzEyNSwtMT
+eyJoaXN0b3J5IjpbMTA2NTgxODc2MSwtMTI0MjE2MzEyNSwtMT
 AzODc2ODY0MywtNDk0MDk3NjI3LDc3MDU3MTY1NiwtNzI1ODUw
 Mzg4LDEzOTUxNjIyNjgsNzE4NzE0MDI0LC03MDAwMDg1MTYsMT
 I0NjEwNjUxMSwtMTgyNTM1MjIwNF19
