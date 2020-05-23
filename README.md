@@ -34,8 +34,10 @@ Mac 鍵符號
 - [《The Missing Semester of Your CS Education》](https://missing.csail.mit.edu/)
 
 ## The Missing Semester of Your CS Education
-### # Course overview + the shell
-why learn terminal? 
+###  Course overview + the shell
+- Why learn terminal? GUI has limited function, and text-based command terminal is more general, and versatile
+- privilege: x: execute, have the permission to access the paran
+useful command
 - #program < #input :program take #input as input argument
 - #program > #output
 - #program >> #output :program append output to #output
@@ -414,8 +416,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTgxODc2MSwtMTI0MjE2MzEyNSwtMT
-AzODc2ODY0MywtNDk0MDk3NjI3LDc3MDU3MTY1NiwtNzI1ODUw
-Mzg4LDEzOTUxNjIyNjgsNzE4NzE0MDI0LC03MDAwMDg1MTYsMT
-I0NjEwNjUxMSwtMTgyNTM1MjIwNF19
+eyJoaXN0b3J5IjpbOTY5MjEwMDc2LC0xMjQyMTYzMTI1LC0xMD
+M4NzY4NjQzLC00OTQwOTc2MjcsNzcwNTcxNjU2LC03MjU4NTAz
+ODgsMTM5NTE2MjI2OCw3MTg3MTQwMjQsLTcwMDAwODUxNiwxMj
+Q2MTA2NTExLC0xODI1MzUyMjA0XX0=
 -->
