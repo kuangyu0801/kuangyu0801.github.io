@@ -36,7 +36,7 @@ Mac 鍵符號
 ## The Missing Semester of Your CS Education
 ###  Course overview + the shell
 - Why learn terminal? GUI has limited function, and text-based command terminal is more general, and versatile
-- privilege: x: execute, have the permission to access the paran
+- privilege: x: execute, have the permission to access the entire parent folder of certain file/directory
 useful command
 - #program < #input :program take #input as input argument
 - #program > #output
@@ -416,7 +416,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5MjEwMDc2LC0xMjQyMTYzMTI1LC0xMD
+eyJoaXN0b3J5IjpbNDkyNTQ5MTc4LC0xMjQyMTYzMTI1LC0xMD
 M4NzY4NjQzLC00OTQwOTc2MjcsNzcwNTcxNjU2LC03MjU4NTAz
 ODgsMTM5NTE2MjI2OCw3MTg3MTQwMjQsLTcwMDAwODUxNiwxMj
 Q2MTA2NTExLC0xODI1MzUyMjA0XX0=
