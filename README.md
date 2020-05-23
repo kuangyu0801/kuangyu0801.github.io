@@ -31,6 +31,8 @@ Mac 鍵符號
 - [《Python Data Science Handbook》](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 # [Programming Book]
+- [《The Missing Semester of Your CS Education》]((https://missing.csail.mit.edu/)
+
 
 # Java
 
@@ -406,7 +408,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwMjEwNTM1LDc3MDU3MTY1NiwtNzI1OD
-UwMzg4LDEzOTUxNjIyNjgsNzE4NzE0MDI0LC03MDAwMDg1MTYs
-MTI0NjEwNjUxMSwtMTgyNTM1MjIwNF19
+eyJoaXN0b3J5IjpbLTQ5NDA5NzYyNyw3NzA1NzE2NTYsLTcyNT
+g1MDM4OCwxMzk1MTYyMjY4LDcxODcxNDAyNCwtNzAwMDA4NTE2
+LDEyNDYxMDY1MTEsLTE4MjUzNTIyMDRdfQ==
 -->
