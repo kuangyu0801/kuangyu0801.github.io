@@ -39,11 +39,21 @@ Mac 鍵符號
 - privilege: x: execute, have the permission to access the entire parent folder of certain file/directory
 useful command
 ```
- #program < #input :program take #input as input argument
+ //program take #input as input argument
+ #program < #input 
+ 
+ 
  #program > #output
- #program >> #output :program append output to #output
- / : space (because shell differentiate different argument by space character 
-``
+ 
+ //program append output to #output
+ #program >> #output  
+ 
+ // means space (because shell differentiate different argument by space character 
+ \
+ 
+ // takes an input write to a file and also show it
+ tee 
+```
 
 # Java
 
@@ -419,8 +429,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3MTE0NTg2LDQ5MjU0OTE3OCwtMTI0Mj
-E2MzEyNSwtMTAzODc2ODY0MywtNDk0MDk3NjI3LDc3MDU3MTY1
-NiwtNzI1ODUwMzg4LDEzOTUxNjIyNjgsNzE4NzE0MDI0LC03MD
-AwMDg1MTYsMTI0NjEwNjUxMSwtMTgyNTM1MjIwNF19
+eyJoaXN0b3J5IjpbLTc0MTc1ODgwNyw0OTI1NDkxNzgsLTEyND
+IxNjMxMjUsLTEwMzg3Njg2NDMsLTQ5NDA5NzYyNyw3NzA1NzE2
+NTYsLTcyNTg1MDM4OCwxMzk1MTYyMjY4LDcxODcxNDAyNCwtNz
+AwMDA4NTE2LDEyNDYxMDY1MTEsLTE4MjUzNTIyMDRdfQ==
 -->
