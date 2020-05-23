@@ -42,7 +42,7 @@ useful command
  //program take #input as input argument
  #program < #input 
  
- 
+ //program its export output to #output
  #program > #output
  
  //program append output to #output
@@ -429,8 +429,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTc1ODgwNyw0OTI1NDkxNzgsLTEyND
-IxNjMxMjUsLTEwMzg3Njg2NDMsLTQ5NDA5NzYyNyw3NzA1NzE2
-NTYsLTcyNTg1MDM4OCwxMzk1MTYyMjY4LDcxODcxNDAyNCwtNz
-AwMDA4NTE2LDEyNDYxMDY1MTEsLTE4MjUzNTIyMDRdfQ==
+eyJoaXN0b3J5IjpbLTEwOTU4ODA2MDUsNDkyNTQ5MTc4LC0xMj
+QyMTYzMTI1LC0xMDM4NzY4NjQzLC00OTQwOTc2MjcsNzcwNTcx
+NjU2LC03MjU4NTAzODgsMTM5NTE2MjI2OCw3MTg3MTQwMjQsLT
+cwMDAwODUxNiwxMjQ2MTA2NTExLC0xODI1MzUyMjA0XX0=
 -->
