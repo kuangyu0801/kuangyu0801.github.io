@@ -35,9 +35,10 @@ Mac 鍵符號
 
 ## The Missing Semester of Your CS Education
 ### # Course overview + the shell
-- #program < #input: pro
+- #program < #input :program take #input as input argument
 - #program > #output
-- #program >> #output
+- #program >> #output :program append output to #output
+- / : space (because shell differientiate
 # Java
 
 ## Fre
@@ -412,8 +413,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzNzEyOTIyLC0xMjQyMTYzMTI1LC0xMD
-M4NzY4NjQzLC00OTQwOTc2MjcsNzcwNTcxNjU2LC03MjU4NTAz
-ODgsMTM5NTE2MjI2OCw3MTg3MTQwMjQsLTcwMDAwODUxNiwxMj
-Q2MTA2NTExLC0xODI1MzUyMjA0XX0=
+eyJoaXN0b3J5IjpbLTc5NjA4NzIyMSwtMTI0MjE2MzEyNSwtMT
+AzODc2ODY0MywtNDk0MDk3NjI3LDc3MDU3MTY1NiwtNzI1ODUw
+Mzg4LDEzOTUxNjIyNjgsNzE4NzE0MDI0LC03MDAwMDg1MTYsMT
+I0NjEwNjUxMSwtMTgyNTM1MjIwNF19
 -->
