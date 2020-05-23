@@ -38,10 +38,13 @@ Mac 鍵符號
 - Why learn terminal? GUI has limited function, and text-based command terminal is more general, and versatile
 - privilege: x: execute, have the permission to access the entire parent folder of certain file/directory
 useful command
-- #program < #input :program take #input as input argument
-- #program > #output
-- #program >> #output :program append output to #output
-- / : space (because shell differentiate different argument by space character 
+```
+ #program < #input :program take #input as input argument
+ #program > #output
+ #program >> #output :program append output to #output
+ / : space (because shell differentiate different argument by space character 
+``
+
 # Java
 
 ## Fre
@@ -416,8 +419,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyNTQ5MTc4LC0xMjQyMTYzMTI1LC0xMD
-M4NzY4NjQzLC00OTQwOTc2MjcsNzcwNTcxNjU2LC03MjU4NTAz
-ODgsMTM5NTE2MjI2OCw3MTg3MTQwMjQsLTcwMDAwODUxNiwxMj
-Q2MTA2NTExLC0xODI1MzUyMjA0XX0=
+eyJoaXN0b3J5IjpbODQ3MTE0NTg2LDQ5MjU0OTE3OCwtMTI0Mj
+E2MzEyNSwtMTAzODc2ODY0MywtNDk0MDk3NjI3LDc3MDU3MTY1
+NiwtNzI1ODUwMzg4LDEzOTUxNjIyNjgsNzE4NzE0MDI0LC03MD
+AwMDg1MTYsMTI0NjEwNjUxMSwtMTgyNTM1MjIwNF19
 -->
