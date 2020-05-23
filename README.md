@@ -30,7 +30,7 @@ Mac 鍵符號
 - [《Fluent Python》](https://drive.google.com/file/d/1AV59fwciY2RwgEN11vs5V9_G_mJhyy6e/view?usp=sharing) 
 - [《Python Data Science Handbook》](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-# [Programming Book]
+# [Programming Course]
 - [《The Missing Semester of Your CS Education》](https://missing.csail.mit.edu/)
 
 
@@ -408,8 +408,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzg3Njg2NDMsLTQ5NDA5NzYyNyw3Nz
-A1NzE2NTYsLTcyNTg1MDM4OCwxMzk1MTYyMjY4LDcxODcxNDAy
-NCwtNzAwMDA4NTE2LDEyNDYxMDY1MTEsLTE4MjUzNTIyMDRdfQ
-==
+eyJoaXN0b3J5IjpbLTEyNDIxNjMxMjUsLTEwMzg3Njg2NDMsLT
+Q5NDA5NzYyNyw3NzA1NzE2NTYsLTcyNTg1MDM4OCwxMzk1MTYy
+MjY4LDcxODcxNDAyNCwtNzAwMDA4NTE2LDEyNDYxMDY1MTEsLT
+E4MjUzNTIyMDRdfQ==
 -->
