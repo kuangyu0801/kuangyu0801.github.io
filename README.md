@@ -68,6 +68,8 @@ useful command
  tee 
 ```
 
+## Android Developer Fundamentals
+[學習紀錄](https://docs.google.com/document/d/1s32QPhb5lg1lOj1ke2YFubwk6O8naeVqfNGvok5X3c4/edit?usp=sharing)
 # Java
 ## Concurrency
 [Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
@@ -449,10 +451,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQ5MjI1NjYsNjc1NzUyNTEyLC0xOD
-M1NjIzMCwtMTM5ODA0NTM1NiwtMTMyNjIyODY0OSwtMTU4NTgz
-MzEzNCwtMTA5NTg4MDYwNSw0OTI1NDkxNzgsLTEyNDIxNjMxMj
-UsLTEwMzg3Njg2NDMsLTQ5NDA5NzYyNyw3NzA1NzE2NTYsLTcy
-NTg1MDM4OCwxMzk1MTYyMjY4LDcxODcxNDAyNCwtNzAwMDA4NT
-E2LDEyNDYxMDY1MTEsLTE4MjUzNTIyMDRdfQ==
+eyJoaXN0b3J5IjpbLTEzMTE5NzgzMjQsLTE1MTQ5MjI1NjYsNj
+c1NzUyNTEyLC0xODM1NjIzMCwtMTM5ODA0NTM1NiwtMTMyNjIy
+ODY0OSwtMTU4NTgzMzEzNCwtMTA5NTg4MDYwNSw0OTI1NDkxNz
+gsLTEyNDIxNjMxMjUsLTEwMzg3Njg2NDMsLTQ5NDA5NzYyNyw3
+NzA1NzE2NTYsLTcyNTg1MDM4OCwxMzk1MTYyMjY4LDcxODcxND
+AyNCwtNzAwMDA4NTE2LDEyNDYxMDY1MTEsLTE4MjUzNTIyMDRd
+fQ==
 -->
