@@ -41,6 +41,7 @@ Mac 鍵符號
 - [《Algorithms, Part I》by Princeton](https://www.coursera.org/learn/algorithms-part1/home/welcome)
 - [《The Missing Semester of Your CS Education 》by MIT](https://missing.csail.mit.edu/)
 - [《 Introduction to Git and GitHub by Google》by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
+-  [《Android Developer Fundamentals》by Google](https://developer.android.com/courses/fundamentals-training/toc-v2)
 
 
 ## The Missing Semester of Your CS Education
@@ -448,10 +449,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1NzUyNTEyLC0xODM1NjIzMCwtMTM5OD
-A0NTM1NiwtMTMyNjIyODY0OSwtMTU4NTgzMzEzNCwtMTA5NTg4
-MDYwNSw0OTI1NDkxNzgsLTEyNDIxNjMxMjUsLTEwMzg3Njg2ND
-MsLTQ5NDA5NzYyNyw3NzA1NzE2NTYsLTcyNTg1MDM4OCwxMzk1
-MTYyMjY4LDcxODcxNDAyNCwtNzAwMDA4NTE2LDEyNDYxMDY1MT
-EsLTE4MjUzNTIyMDRdfQ==
+eyJoaXN0b3J5IjpbLTE1MTQ5MjI1NjYsNjc1NzUyNTEyLC0xOD
+M1NjIzMCwtMTM5ODA0NTM1NiwtMTMyNjIyODY0OSwtMTU4NTgz
+MzEzNCwtMTA5NTg4MDYwNSw0OTI1NDkxNzgsLTEyNDIxNjMxMj
+UsLTEwMzg3Njg2NDMsLTQ5NDA5NzYyNyw3NzA1NzE2NTYsLTcy
+NTg1MDM4OCwxMzk1MTYyMjY4LDcxODcxNDAyNCwtNzAwMDA4NT
+E2LDEyNDYxMDY1MTEsLTE4MjUzNTIyMDRdfQ==
 -->
