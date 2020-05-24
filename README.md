@@ -8,6 +8,7 @@
   * [Frequent-Used Library](#frequent-used-library)
 - [Java](#java)
   * [IntelliJ](#intelliJ)
+	+ [Version Control](#version-control)
 - [Python](#python)
   * [numpy](#sub-heading-1)
 - [Android Development](#android-development)
@@ -429,9 +430,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU4MzMxMzQsLTEwOTU4ODA2MDUsND
-kyNTQ5MTc4LC0xMjQyMTYzMTI1LC0xMDM4NzY4NjQzLC00OTQw
-OTc2MjcsNzcwNTcxNjU2LC03MjU4NTAzODgsMTM5NTE2MjI2OC
-w3MTg3MTQwMjQsLTcwMDAwODUxNiwxMjQ2MTA2NTExLC0xODI1
-MzUyMjA0XX0=
+eyJoaXN0b3J5IjpbLTEwMDMzNTgxMjAsLTE1ODU4MzMxMzQsLT
+EwOTU4ODA2MDUsNDkyNTQ5MTc4LC0xMjQyMTYzMTI1LC0xMDM4
+NzY4NjQzLC00OTQwOTc2MjcsNzcwNTcxNjU2LC03MjU4NTAzOD
+gsMTM5NTE2MjI2OCw3MTg3MTQwMjQsLTcwMDAwODUxNiwxMjQ2
+MTA2NTExLC0xODI1MzUyMjA0XX0=
 -->
