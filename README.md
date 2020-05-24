@@ -34,13 +34,13 @@ Mac 鍵符號
 - [《Python Data Science Handbook》](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 # [Programming Course]
-- 《CS61B Data Structure》
+- 《CS61B Data Structure》by UC Berkeley
 + [https://sp18.datastructur.es/](https://sp18.datastructur.es/)
 + [https://sp19.datastructur.es/](https://sp19.datastructur.es/)
 + Screencast of sp18
-- 《Algorithms, Part I》[https://www.coursera.org/learn/algorithms-part1/home/welcome](https://www.coursera.org/learn/algorithms-part1/home/welcome)
-- [《The Missing Semester of Your CS Education》](https://missing.csail.mit.edu/)
-- ## Introduction to Git and GitHub
+- 《Algorithms, Part I》by Princeton[https://www.coursera.org/learn/algorithms-part1/home/welcome](https://www.coursera.org/learn/algorithms-part1/home/welcome)
+- [《The Missing Semester of Your CS Education 》by MIT](https://missing.csail.mit.edu/)
+- 《 Introduction to Git and GitHub by Google》by Google[https://www.coursera.org/learn/introduction-git-github/home/welcome](https://www.coursera.org/learn/introduction-git-github/home/welcome)
 
 ## The Missing Semester of Your CS Education
 ###  Course overview + the shell
@@ -447,10 +447,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjY1NTA1MiwtMTgzNTYyMzAsLTEzOT
-gwNDUzNTYsLTEzMjYyMjg2NDksLTE1ODU4MzMxMzQsLTEwOTU4
-ODA2MDUsNDkyNTQ5MTc4LC0xMjQyMTYzMTI1LC0xMDM4NzY4Nj
-QzLC00OTQwOTc2MjcsNzcwNTcxNjU2LC03MjU4NTAzODgsMTM5
-NTE2MjI2OCw3MTg3MTQwMjQsLTcwMDAwODUxNiwxMjQ2MTA2NT
-ExLC0xODI1MzUyMjA0XX0=
+eyJoaXN0b3J5IjpbLTEyMjQyNzMyMjYsLTE4MzU2MjMwLC0xMz
+k4MDQ1MzU2LC0xMzI2MjI4NjQ5LC0xNTg1ODMzMTM0LC0xMDk1
+ODgwNjA1LDQ5MjU0OTE3OCwtMTI0MjE2MzEyNSwtMTAzODc2OD
+Y0MywtNDk0MDk3NjI3LDc3MDU3MTY1NiwtNzI1ODUwMzg4LDEz
+OTUxNjIyNjgsNzE4NzE0MDI0LC03MDAwMDg1MTYsMTI0NjEwNj
+UxMSwtMTgyNTM1MjIwNF19
 -->
