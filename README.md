@@ -73,6 +73,7 @@ useful command
 # Java
 ## Concurrency
 [Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
+[Google Java Style Guide](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
 
 ## IntelliJ
 - [Josh’s IntelliJ Editor Settings](https://drive.google.com/drive/folders/1Y5cHl-nNe731EgG4pAk2Dokgbu4ZpV5E?usp=sharing):CS61B Josh自己tune的的color scheme,兩個字：好看！黑背景、高對比、關鍵字一目瞭然，用過就回不去！[original page](https://sp18.datastructur.es/materials/lab/lab2setup/lab2setup)
@@ -451,11 +452,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE5NzgzMjQsLTE1MTQ5MjI1NjYsNj
-c1NzUyNTEyLC0xODM1NjIzMCwtMTM5ODA0NTM1NiwtMTMyNjIy
-ODY0OSwtMTU4NTgzMzEzNCwtMTA5NTg4MDYwNSw0OTI1NDkxNz
-gsLTEyNDIxNjMxMjUsLTEwMzg3Njg2NDMsLTQ5NDA5NzYyNyw3
-NzA1NzE2NTYsLTcyNTg1MDM4OCwxMzk1MTYyMjY4LDcxODcxND
-AyNCwtNzAwMDA4NTE2LDEyNDYxMDY1MTEsLTE4MjUzNTIyMDRd
-fQ==
+eyJoaXN0b3J5IjpbLTE1NDE5MjExMiwtMTMxMTk3ODMyNCwtMT
+UxNDkyMjU2Niw2NzU3NTI1MTIsLTE4MzU2MjMwLC0xMzk4MDQ1
+MzU2LC0xMzI2MjI4NjQ5LC0xNTg1ODMzMTM0LC0xMDk1ODgwNj
+A1LDQ5MjU0OTE3OCwtMTI0MjE2MzEyNSwtMTAzODc2ODY0Mywt
+NDk0MDk3NjI3LDc3MDU3MTY1NiwtNzI1ODUwMzg4LDEzOTUxNj
+IyNjgsNzE4NzE0MDI0LC03MDAwMDg1MTYsMTI0NjEwNjUxMSwt
+MTgyNTM1MjIwNF19
 -->
