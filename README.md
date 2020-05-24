@@ -10,7 +10,7 @@
     + [Random](#random)
 - [Programming Book](#programming-book)
 - [Programming Course](#programming-course)
-	- 
+	- [The Missing Semester of Your CS Education](#the-missing-semester-of-yourEducation
 - [Java](#java)
   * [IntelliJ](#intelliJ)
 	+ [Version Control](#version-control)
@@ -47,8 +47,8 @@ Mac 鍵符號
 -  [《Android Developer Fundamentals》by Google](https://developer.android.com/courses/fundamentals-training/toc-v2)
 
 
-## The Missing Semester of Your CS Education
-###  Course overview + the shell
+
+The Missing Semester of Your CS Education###  Course overview + the shell
 
 - Why learn terminal? GUI has limited function, and text-based command terminal is more general, and versatile
 - privilege: x: execute, have the permission to access the entire parent folder of certain file/directory
@@ -455,11 +455,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNjIzNTAxLC0xNTQxOTIxMTIsLTEzMT
-E5NzgzMjQsLTE1MTQ5MjI1NjYsNjc1NzUyNTEyLC0xODM1NjIz
-MCwtMTM5ODA0NTM1NiwtMTMyNjIyODY0OSwtMTU4NTgzMzEzNC
-wtMTA5NTg4MDYwNSw0OTI1NDkxNzgsLTEyNDIxNjMxMjUsLTEw
-Mzg3Njg2NDMsLTQ5NDA5NzYyNyw3NzA1NzE2NTYsLTcyNTg1MD
-M4OCwxMzk1MTYyMjY4LDcxODcxNDAyNCwtNzAwMDA4NTE2LDEy
-NDYxMDY1MTFdfQ==
+eyJoaXN0b3J5IjpbMTYyMDg1NDc5MiwtMTU0MTkyMTEyLC0xMz
+ExOTc4MzI0LC0xNTE0OTIyNTY2LDY3NTc1MjUxMiwtMTgzNTYy
+MzAsLTEzOTgwNDUzNTYsLTEzMjYyMjg2NDksLTE1ODU4MzMxMz
+QsLTEwOTU4ODA2MDUsNDkyNTQ5MTc4LC0xMjQyMTYzMTI1LC0x
+MDM4NzY4NjQzLC00OTQwOTc2MjcsNzcwNTcxNjU2LC03MjU4NT
+AzODgsMTM5NTE2MjI2OCw3MTg3MTQwMjQsLTcwMDAwODUxNiwx
+MjQ2MTA2NTExXX0=
 -->
