@@ -39,8 +39,8 @@ Mac 鍵符號
 ## The Missing Semester of Your CS Education
 ###  Course overview + the shell
 
-Why learn terminal? GUI has limited function, and text-based command terminal is more general, and versatile
-privilege: x: execute, have the permission to access the entire parent folder of certain file/directory
+- Why learn terminal? GUI has limited function, and text-based command terminal is more general, and versatile
+- privilege: x: execute, have the permission to access the entire parent folder of certain file/directory
 useful command
 
 ```markdown
@@ -441,9 +441,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgwNDUzNTYsLTEzMjYyMjg2NDksLT
-E1ODU4MzMxMzQsLTEwOTU4ODA2MDUsNDkyNTQ5MTc4LC0xMjQy
-MTYzMTI1LC0xMDM4NzY4NjQzLC00OTQwOTc2MjcsNzcwNTcxNj
-U2LC03MjU4NTAzODgsMTM5NTE2MjI2OCw3MTg3MTQwMjQsLTcw
-MDAwODUxNiwxMjQ2MTA2NTExLC0xODI1MzUyMjA0XX0=
+eyJoaXN0b3J5IjpbLTE4MzU2MjMwLC0xMzk4MDQ1MzU2LC0xMz
+I2MjI4NjQ5LC0xNTg1ODMzMTM0LC0xMDk1ODgwNjA1LDQ5MjU0
+OTE3OCwtMTI0MjE2MzEyNSwtMTAzODc2ODY0MywtNDk0MDk3Nj
+I3LDc3MDU3MTY1NiwtNzI1ODUwMzg4LDEzOTUxNjIyNjgsNzE4
+NzE0MDI0LC03MDAwMDg1MTYsMTI0NjEwNjUxMSwtMTgyNTM1Mj
+IwNF19
 -->
