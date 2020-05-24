@@ -100,14 +100,17 @@ useful command
 
 ##  numpy
 ### 從文字檔load進數值到numpy array numpy.loadtxt
-```
+
+```markdown
 np_array = np.loadtxt(f, comments='#', skiprows=1)
 ```
+
 ### numpy.ndarray.tostring
 一個點 <class 'numpy.float64'> 用formatter
 ndarray 必須改用 ndarray.tostring
 不能用tostring(ndarry[0])
-```
+
+```markdown
 # correct
 str_single_point = 'mean_x= ' + '{:.2f}'.format(mean[0])
 print(str_single_point)
@@ -117,11 +120,11 @@ str_array = np.ndarray.tostring(mean, precision=3)
 
 # error
 str_array = np.ndarray.tostring(mean[0], precision=3)
-
 ```
+
 ### 解線性代數 [numpy.linalg.solve](https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.solve.html)
 
-```
+```markdown
 numpy.linalg.solve
 ```
 
@@ -154,9 +157,11 @@ Nr.|1st|2nd|3rd
 ## Frequent-Used Library
 
 Object cloning means to create an exact copy of the original object.
+
 ```markdown
  clone()
 ```
+
 ### Array
 ```markdown
 Arrays.copyOf(original,original.length);
@@ -164,16 +169,20 @@ Arrays.copyOf(original,original.length);
 Arrays.fill(array, value)
 ```
 ### [Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
+
 ```markdown
 nextInt(int bound)
 int rand = Random.nexInt(maxNum);
 ```
+
 ### Iterator
+
 ```markdown
 Iterator.hasNext();
 
 Iterator.next();
 ```
+
 ### [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
 ```markdown
 HashMap.replace(K key, V value);
@@ -432,7 +441,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDAzNjYzNCwtMTU4NTgzMzEzNCwtMT
+eyJoaXN0b3J5IjpbLTEyODIwNjA4MywtMTU4NTgzMzEzNCwtMT
 A5NTg4MDYwNSw0OTI1NDkxNzgsLTEyNDIxNjMxMjUsLTEwMzg3
 Njg2NDMsLTQ5NDA5NzYyNyw3NzA1NzE2NTYsLTcyNTg1MDM4OC
 wxMzk1MTYyMjY4LDcxODcxNDAyNCwtNzAwMDA4NTE2LDEyNDYx
