@@ -6,6 +6,8 @@
   * [紀錄](#紀錄)
   * [Problems](#problems)
   * [Frequent-Used Library](#frequent-used-library)
+    + [Array](#array)
+    + [Random](#random)
 - [Java](#java)
   * [IntelliJ](#intelliJ)
 	+ [Version Control](#version-control)
@@ -430,9 +432,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDMzNTgxMjAsLTE1ODU4MzMxMzQsLT
-EwOTU4ODA2MDUsNDkyNTQ5MTc4LC0xMjQyMTYzMTI1LC0xMDM4
-NzY4NjQzLC00OTQwOTc2MjcsNzcwNTcxNjU2LC03MjU4NTAzOD
-gsMTM5NTE2MjI2OCw3MTg3MTQwMjQsLTcwMDAwODUxNiwxMjQ2
-MTA2NTExLC0xODI1MzUyMjA0XX0=
+eyJoaXN0b3J5IjpbMTcwMDAzNjYzNCwtMTU4NTgzMzEzNCwtMT
+A5NTg4MDYwNSw0OTI1NDkxNzgsLTEyNDIxNjMxMjUsLTEwMzg3
+Njg2NDMsLTQ5NDA5NzYyNyw3NzA1NzE2NTYsLTcyNTg1MDM4OC
+wxMzk1MTYyMjY4LDcxODcxNDAyNCwtNzAwMDA4NTE2LDEyNDYx
+MDY1MTEsLTE4MjUzNTIyMDRdfQ==
 -->
