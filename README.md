@@ -61,8 +61,6 @@ useful command
 ```
 
 # Java
-
-## Fre
 ## Concurrency
 [Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
 
@@ -443,9 +441,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjYyMjg2NDksLTE1ODU4MzMxMzQsLT
-EwOTU4ODA2MDUsNDkyNTQ5MTc4LC0xMjQyMTYzMTI1LC0xMDM4
-NzY4NjQzLC00OTQwOTc2MjcsNzcwNTcxNjU2LC03MjU4NTAzOD
-gsMTM5NTE2MjI2OCw3MTg3MTQwMjQsLTcwMDAwODUxNiwxMjQ2
-MTA2NTExLC0xODI1MzUyMjA0XX0=
+eyJoaXN0b3J5IjpbLTEzOTgwNDUzNTYsLTEzMjYyMjg2NDksLT
+E1ODU4MzMxMzQsLTEwOTU4ODA2MDUsNDkyNTQ5MTc4LC0xMjQy
+MTYzMTI1LC0xMDM4NzY4NjQzLC00OTQwOTc2MjcsNzcwNTcxNj
+U2LC03MjU4NTAzODgsMTM5NTE2MjI2OCw3MTg3MTQwMjQsLTcw
+MDAwODUxNiwxMjQ2MTA2NTExLC0xODI1MzUyMjA0XX0=
 -->
