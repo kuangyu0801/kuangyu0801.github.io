@@ -40,7 +40,8 @@ Mac 鍵符號
 	- Screencast of sp18
 - [《Algorithms, Part I》by Princeton](https://www.coursera.org/learn/algorithms-part1/home/welcome)
 - [《The Missing Semester of Your CS Education 》by MIT](https://missing.csail.mit.edu/)
-- 《 Introduction to Git and GitHub by Google》by Google[https://www.coursera.org/learn/introduction-git-github/home/welcome](https://www.coursera.org/learn/introduction-git-github/home/welcome)
+- [《 Introduction to Git and GitHub by Google》by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
+
 
 ## The Missing Semester of Your CS Education
 ###  Course overview + the shell
@@ -447,10 +448,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgzMjM1MDAsLTE4MzU2MjMwLC0xMz
-k4MDQ1MzU2LC0xMzI2MjI4NjQ5LC0xNTg1ODMzMTM0LC0xMDk1
-ODgwNjA1LDQ5MjU0OTE3OCwtMTI0MjE2MzEyNSwtMTAzODc2OD
-Y0MywtNDk0MDk3NjI3LDc3MDU3MTY1NiwtNzI1ODUwMzg4LDEz
-OTUxNjIyNjgsNzE4NzE0MDI0LC03MDAwMDg1MTYsMTI0NjEwNj
-UxMSwtMTgyNTM1MjIwNF19
+eyJoaXN0b3J5IjpbNjc1NzUyNTEyLC0xODM1NjIzMCwtMTM5OD
+A0NTM1NiwtMTMyNjIyODY0OSwtMTU4NTgzMzEzNCwtMTA5NTg4
+MDYwNSw0OTI1NDkxNzgsLTEyNDIxNjMxMjUsLTEwMzg3Njg2ND
+MsLTQ5NDA5NzYyNyw3NzA1NzE2NTYsLTcyNTg1MDM4OCwxMzk1
+MTYyMjY4LDcxODcxNDAyNCwtNzAwMDA4NTE2LDEyNDYxMDY1MT
+EsLTE4MjUzNTIyMDRdfQ==
 -->
