@@ -34,6 +34,8 @@ Mac 鍵符號
 - [《Python Data Science Handbook》](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 # [Programming Course]
+- 《CS61B Data Structure》[https://sp18.datastructur.es/](https://sp18.datastructur.es/)
+- 《Algorithms, Part I》[https://www.coursera.org/learn/algorithms-part1/home/welcome](https://www.coursera.org/learn/algorithms-part1/home/welcome)
 - [《The Missing Semester of Your CS Education》](https://missing.csail.mit.edu/)
 
 ## The Missing Semester of Your CS Education
@@ -441,10 +443,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzU2MjMwLC0xMzk4MDQ1MzU2LC0xMz
-I2MjI4NjQ5LC0xNTg1ODMzMTM0LC0xMDk1ODgwNjA1LDQ5MjU0
-OTE3OCwtMTI0MjE2MzEyNSwtMTAzODc2ODY0MywtNDk0MDk3Nj
-I3LDc3MDU3MTY1NiwtNzI1ODUwMzg4LDEzOTUxNjIyNjgsNzE4
-NzE0MDI0LC03MDAwMDg1MTYsMTI0NjEwNjUxMSwtMTgyNTM1Mj
-IwNF19
+eyJoaXN0b3J5IjpbLTIzMjkxMjM1NiwtMTgzNTYyMzAsLTEzOT
+gwNDUzNTYsLTEzMjYyMjg2NDksLTE1ODU4MzMxMzQsLTEwOTU4
+ODA2MDUsNDkyNTQ5MTc4LC0xMjQyMTYzMTI1LC0xMDM4NzY4Nj
+QzLC00OTQwOTc2MjcsNzcwNTcxNjU2LC03MjU4NTAzODgsMTM5
+NTE2MjI2OCw3MTg3MTQwMjQsLTcwMDAwODUxNiwxMjQ2MTA2NT
+ExLC0xODI1MzUyMjA0XX0=
 -->
