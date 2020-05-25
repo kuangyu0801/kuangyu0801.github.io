@@ -257,7 +257,8 @@ int ran = Math.random();
 
 ## Problems
 
-
+### TODO
+- 8. String to Integer (atoi)
 
 ### 1. Two Sum
 
@@ -279,6 +280,9 @@ corner case: 考慮最高位進位問題
 ### 8. String to Integer (atoi)
 看似簡單直觀，但有很多corner case, 然後對API也要很熟悉，光在tactical debug就超過一小時...
 最優解法：
+
+
+### 15. 3Sum  (Medium)
 
 ### 46. Permutation (Medium)
 [三種解法in java](https://blog.csdn.net/happyaaaaaaaaaaa/article/details/51534048)
@@ -479,7 +483,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzAxNTAzNSwtNzQ4NTM1NTY1LDk1MD
+eyJoaXN0b3J5IjpbMTI0MzkxNDQzNCwtNzQ4NTM1NTY1LDk1MD
 A5NDkxOCwtMzQwOTUxODQ2LC0xMTE4MTk1ODEyLC00NzU2NjMy
 NzEsLTk2NTY4MDE4OSwtMTU0MTkyMTEyLC0xMzExOTc4MzI0LC
 0xNTE0OTIyNTY2LDY3NTc1MjUxMiwtMTgzNTYyMzAsLTEzOTgw
