@@ -180,9 +180,13 @@ Object cloning means to create an exact copy of the original object.
 
 ### Array
 ```markdown
+// return a copy array
 Arrays.copyOf(original,original.length);
+
+// 
+Arrays.copyOf(int[] original, int newLength);
 // fill the array with designated value
-Arrays.fill(array, value)
+Arrays.fill(array, value);
 ```
 ### [Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
 
@@ -461,11 +465,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTgxOTU4MTIsLTQ3NTY2MzI3MSwtOT
-Y1NjgwMTg5LC0xNTQxOTIxMTIsLTEzMTE5NzgzMjQsLTE1MTQ5
-MjI1NjYsNjc1NzUyNTEyLC0xODM1NjIzMCwtMTM5ODA0NTM1Ni
-wtMTMyNjIyODY0OSwtMTU4NTgzMzEzNCwtMTA5NTg4MDYwNSw0
-OTI1NDkxNzgsLTEyNDIxNjMxMjUsLTEwMzg3Njg2NDMsLTQ5ND
-A5NzYyNyw3NzA1NzE2NTYsLTcyNTg1MDM4OCwxMzk1MTYyMjY4
-LDcxODcxNDAyNF19
+eyJoaXN0b3J5IjpbNDc1Mjc3NTYxLC0xMTE4MTk1ODEyLC00Nz
+U2NjMyNzEsLTk2NTY4MDE4OSwtMTU0MTkyMTEyLC0xMzExOTc4
+MzI0LC0xNTE0OTIyNTY2LDY3NTc1MjUxMiwtMTgzNTYyMzAsLT
+EzOTgwNDUzNTYsLTEzMjYyMjg2NDksLTE1ODU4MzMxMzQsLTEw
+OTU4ODA2MDUsNDkyNTQ5MTc4LC0xMjQyMTYzMTI1LC0xMDM4Nz
+Y4NjQzLC00OTQwOTc2MjcsNzcwNTcxNjU2LC03MjU4NTAzODgs
+MTM5NTE2MjI2OF19
 -->
