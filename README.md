@@ -210,7 +210,9 @@ HashMap.replace(K key, V value);
 
 HashMap.put(K key, V value);
 
-<K> = HashMap.getOrDefault(K key, V value);
+<V> = HashMap.get(K key);
+
+<V> = HashMap.getOrDefault(K key, V value);
 
 Set<K> = HashMap.keySet();
 
@@ -466,11 +468,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDk1MTg0NiwtMTExODE5NTgxMiwtND
-c1NjYzMjcxLC05NjU2ODAxODksLTE1NDE5MjExMiwtMTMxMTk3
-ODMyNCwtMTUxNDkyMjU2Niw2NzU3NTI1MTIsLTE4MzU2MjMwLC
-0xMzk4MDQ1MzU2LC0xMzI2MjI4NjQ5LC0xNTg1ODMzMTM0LC0x
-MDk1ODgwNjA1LDQ5MjU0OTE3OCwtMTI0MjE2MzEyNSwtMTAzOD
-c2ODY0MywtNDk0MDk3NjI3LDc3MDU3MTY1NiwtNzI1ODUwMzg4
-LDEzOTUxNjIyNjhdfQ==
+eyJoaXN0b3J5IjpbOTUwMDk0OTE4LC0zNDA5NTE4NDYsLTExMT
+gxOTU4MTIsLTQ3NTY2MzI3MSwtOTY1NjgwMTg5LC0xNTQxOTIx
+MTIsLTEzMTE5NzgzMjQsLTE1MTQ5MjI1NjYsNjc1NzUyNTEyLC
+0xODM1NjIzMCwtMTM5ODA0NTM1NiwtMTMyNjIyODY0OSwtMTU4
+NTgzMzEzNCwtMTA5NTg4MDYwNSw0OTI1NDkxNzgsLTEyNDIxNj
+MxMjUsLTEwMzg3Njg2NDMsLTQ5NDA5NzYyNyw3NzA1NzE2NTYs
+LTcyNTg1MDM4OF19
 -->
