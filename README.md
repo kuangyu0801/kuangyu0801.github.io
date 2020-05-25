@@ -240,6 +240,13 @@ float f=12.3F;//F is the suffix for float
 String s=String.valueOf(f);  
 ```
 
+### Math
+```
+int ran = Math.random();
+
+
+```
+
 ### LinkedList
 
 
@@ -468,11 +475,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMDk0OTE4LC0zNDA5NTE4NDYsLTExMT
-gxOTU4MTIsLTQ3NTY2MzI3MSwtOTY1NjgwMTg5LC0xNTQxOTIx
-MTIsLTEzMTE5NzgzMjQsLTE1MTQ5MjI1NjYsNjc1NzUyNTEyLC
-0xODM1NjIzMCwtMTM5ODA0NTM1NiwtMTMyNjIyODY0OSwtMTU4
-NTgzMzEzNCwtMTA5NTg4MDYwNSw0OTI1NDkxNzgsLTEyNDIxNj
-MxMjUsLTEwMzg3Njg2NDMsLTQ5NDA5NzYyNyw3NzA1NzE2NTYs
-LTcyNTg1MDM4OF19
+eyJoaXN0b3J5IjpbLTc0ODUzNTU2NSw5NTAwOTQ5MTgsLTM0MD
+k1MTg0NiwtMTExODE5NTgxMiwtNDc1NjYzMjcxLC05NjU2ODAx
+ODksLTE1NDE5MjExMiwtMTMxMTk3ODMyNCwtMTUxNDkyMjU2Ni
+w2NzU3NTI1MTIsLTE4MzU2MjMwLC0xMzk4MDQ1MzU2LC0xMzI2
+MjI4NjQ5LC0xNTg1ODMzMTM0LC0xMDk1ODgwNjA1LDQ5MjU0OT
+E3OCwtMTI0MjE2MzEyNSwtMTAzODc2ODY0MywtNDk0MDk3NjI3
+LDc3MDU3MTY1Nl19
 -->
