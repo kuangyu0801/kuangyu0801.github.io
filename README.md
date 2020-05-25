@@ -307,6 +307,10 @@ class Solution {
 }
 ```
 
+### 380. Insert Delete GetRandom O(1)
+[花花醬解法](https://www.youtube.com/watch?v=y240Qh9H9uk)
+HashMap to store array index + array for index output
+
 ### 383 Ransom Note (Easy)
  
 要快的話就用array lookup, 不要用hashMap
@@ -455,11 +459,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTY4MDE4OSwtMTU0MTkyMTEyLC0xMz
-ExOTc4MzI0LC0xNTE0OTIyNTY2LDY3NTc1MjUxMiwtMTgzNTYy
-MzAsLTEzOTgwNDUzNTYsLTEzMjYyMjg2NDksLTE1ODU4MzMxMz
-QsLTEwOTU4ODA2MDUsNDkyNTQ5MTc4LC0xMjQyMTYzMTI1LC0x
-MDM4NzY4NjQzLC00OTQwOTc2MjcsNzcwNTcxNjU2LC03MjU4NT
-AzODgsMTM5NTE2MjI2OCw3MTg3MTQwMjQsLTcwMDAwODUxNiwx
-MjQ2MTA2NTExXX0=
+eyJoaXN0b3J5IjpbLTQ3NTY2MzI3MSwtOTY1NjgwMTg5LC0xNT
+QxOTIxMTIsLTEzMTE5NzgzMjQsLTE1MTQ5MjI1NjYsNjc1NzUy
+NTEyLC0xODM1NjIzMCwtMTM5ODA0NTM1NiwtMTMyNjIyODY0OS
+wtMTU4NTgzMzEzNCwtMTA5NTg4MDYwNSw0OTI1NDkxNzgsLTEy
+NDIxNjMxMjUsLTEwMzg3Njg2NDMsLTQ5NDA5NzYyNyw3NzA1Nz
+E2NTYsLTcyNTg1MDM4OCwxMzk1MTYyMjY4LDcxODcxNDAyNCwt
+NzAwMDA4NTE2XX0=
 -->
