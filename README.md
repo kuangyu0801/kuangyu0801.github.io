@@ -192,8 +192,8 @@ Arrays.fill(array, value);
 ### [Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
 
 ```markdown
-nextInt(int bound)
-int rand = Random.nexInt(maxNum);
+//nextInt(int bound), from 0 to bound - 1
+int rand = Random.nexInt(maxNum + 1); // from 0 to maxNum
 ```
 
 ### Iterator
@@ -475,11 +475,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODUzNTU2NSw5NTAwOTQ5MTgsLTM0MD
-k1MTg0NiwtMTExODE5NTgxMiwtNDc1NjYzMjcxLC05NjU2ODAx
-ODksLTE1NDE5MjExMiwtMTMxMTk3ODMyNCwtMTUxNDkyMjU2Ni
-w2NzU3NTI1MTIsLTE4MzU2MjMwLC0xMzk4MDQ1MzU2LC0xMzI2
-MjI4NjQ5LC0xNTg1ODMzMTM0LC0xMDk1ODgwNjA1LDQ5MjU0OT
-E3OCwtMTI0MjE2MzEyNSwtMTAzODc2ODY0MywtNDk0MDk3NjI3
-LDc3MDU3MTY1Nl19
+eyJoaXN0b3J5IjpbMTI3NzQ1ODU5MywtNzQ4NTM1NTY1LDk1MD
+A5NDkxOCwtMzQwOTUxODQ2LC0xMTE4MTk1ODEyLC00NzU2NjMy
+NzEsLTk2NTY4MDE4OSwtMTU0MTkyMTEyLC0xMzExOTc4MzI0LC
+0xNTE0OTIyNTY2LDY3NTc1MjUxMiwtMTgzNTYyMzAsLTEzOTgw
+NDUzNTYsLTEzMjYyMjg2NDksLTE1ODU4MzMxMzQsLTEwOTU4OD
+A2MDUsNDkyNTQ5MTc4LC0xMjQyMTYzMTI1LC0xMDM4NzY4NjQz
+LC00OTQwOTc2MjddfQ==
 -->
