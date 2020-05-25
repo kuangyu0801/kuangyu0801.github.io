@@ -81,6 +81,8 @@ useful command
 ## IntelliJ
 - [Josh’s IntelliJ Editor Settings](https://drive.google.com/drive/folders/1Y5cHl-nNe731EgG4pAk2Dokgbu4ZpV5E?usp=sharing):CS61B Josh自己tune的的color scheme,兩個字：好看！黑背景、高對比、關鍵字一目瞭然，用過就回不去！[original page](https://sp18.datastructur.es/materials/lab/lab2setup/lab2setup)
 
+### I/O
+#### Writing to Files[https://www.youtube.com/watch?v=Bws9aQuAcdg](https://www.youtube.com/watch?v=Bws9aQuAcdg)
 ### Version Control
 
 - [Version control](https://www.jetbrains.com/help/idea/version-control-integration.html)
@@ -459,11 +461,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTY2MzI3MSwtOTY1NjgwMTg5LC0xNT
-QxOTIxMTIsLTEzMTE5NzgzMjQsLTE1MTQ5MjI1NjYsNjc1NzUy
-NTEyLC0xODM1NjIzMCwtMTM5ODA0NTM1NiwtMTMyNjIyODY0OS
-wtMTU4NTgzMzEzNCwtMTA5NTg4MDYwNSw0OTI1NDkxNzgsLTEy
-NDIxNjMxMjUsLTEwMzg3Njg2NDMsLTQ5NDA5NzYyNyw3NzA1Nz
-E2NTYsLTcyNTg1MDM4OCwxMzk1MTYyMjY4LDcxODcxNDAyNCwt
-NzAwMDA4NTE2XX0=
+eyJoaXN0b3J5IjpbLTExMTgxOTU4MTIsLTQ3NTY2MzI3MSwtOT
+Y1NjgwMTg5LC0xNTQxOTIxMTIsLTEzMTE5NzgzMjQsLTE1MTQ5
+MjI1NjYsNjc1NzUyNTEyLC0xODM1NjIzMCwtMTM5ODA0NTM1Ni
+wtMTMyNjIyODY0OSwtMTU4NTgzMzEzNCwtMTA5NTg4MDYwNSw0
+OTI1NDkxNzgsLTEyNDIxNjMxMjUsLTEwMzg3Njg2NDMsLTQ5ND
+A5NzYyNyw3NzA1NzE2NTYsLTcyNTg1MDM4OCwxMzk1MTYyMjY4
+LDcxODcxNDAyNF19
 -->
