@@ -71,7 +71,9 @@ useful command
  tee 
 ```
 
-##
+### Vim 小技巧
+set number 開啟行數顯示
+修改.vimrc 加入set number讓vim都可以顯示行數
 
 
 ## Android Developer Fundamentals
@@ -489,7 +491,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTYzMTY5LDE2OTA1MDQyNSwxMjQzOT
+eyJoaXN0b3J5IjpbNDUxNjg4Nzg1LDE2OTA1MDQyNSwxMjQzOT
 E0NDM0LC03NDg1MzU1NjUsOTUwMDk0OTE4LC0zNDA5NTE4NDYs
 LTExMTgxOTU4MTIsLTQ3NTY2MzI3MSwtOTY1NjgwMTg5LC0xNT
 QxOTIxMTIsLTEzMTE5NzgzMjQsLTE1MTQ5MjI1NjYsNjc1NzUy
