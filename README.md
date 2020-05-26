@@ -74,6 +74,8 @@ useful command
 ## Android Developer Fundamentals
 [學習紀錄](https://docs.google.com/document/d/1s32QPhb5lg1lOj1ke2YFubwk6O8naeVqfNGvok5X3c4/edit?usp=sharing)
 # Java
+- [w3schools](https://www.w3schools.com/java/): 網站把所有常用的python syntax都列入，每次忘記直接來查
+
 ## Concurrency
 [Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
@@ -483,11 +485,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzkxNDQzNCwtNzQ4NTM1NTY1LDk1MD
-A5NDkxOCwtMzQwOTUxODQ2LC0xMTE4MTk1ODEyLC00NzU2NjMy
-NzEsLTk2NTY4MDE4OSwtMTU0MTkyMTEyLC0xMzExOTc4MzI0LC
-0xNTE0OTIyNTY2LDY3NTc1MjUxMiwtMTgzNTYyMzAsLTEzOTgw
-NDUzNTYsLTEzMjYyMjg2NDksLTE1ODU4MzMxMzQsLTEwOTU4OD
-A2MDUsNDkyNTQ5MTc4LC0xMjQyMTYzMTI1LC0xMDM4NzY4NjQz
-LC00OTQwOTc2MjddfQ==
+eyJoaXN0b3J5IjpbMTY5MDUwNDI1LDEyNDM5MTQ0MzQsLTc0OD
+UzNTU2NSw5NTAwOTQ5MTgsLTM0MDk1MTg0NiwtMTExODE5NTgx
+MiwtNDc1NjYzMjcxLC05NjU2ODAxODksLTE1NDE5MjExMiwtMT
+MxMTk3ODMyNCwtMTUxNDkyMjU2Niw2NzU3NTI1MTIsLTE4MzU2
+MjMwLC0xMzk4MDQ1MzU2LC0xMzI2MjI4NjQ5LC0xNTg1ODMzMT
+M0LC0xMDk1ODgwNjA1LDQ5MjU0OTE3OCwtMTI0MjE2MzEyNSwt
+MTAzODc2ODY0M119
 -->
