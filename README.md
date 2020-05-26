@@ -71,6 +71,9 @@ useful command
  tee 
 ```
 
+##
+
+
 ## Android Developer Fundamentals
 [學習紀錄](https://docs.google.com/document/d/1s32QPhb5lg1lOj1ke2YFubwk6O8naeVqfNGvok5X3c4/edit?usp=sharing)
 # Java
@@ -425,6 +428,7 @@ public class Solution {
 
 在Component Tree點選view convert 成[constraint layout](https://developer.android.com/training/constraint-layout#convert)
 
+
 # Markdown Quick Lookup
 
 [slackedit](https://stackedit.io/)
@@ -485,11 +489,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDUwNDI1LDEyNDM5MTQ0MzQsLTc0OD
-UzNTU2NSw5NTAwOTQ5MTgsLTM0MDk1MTg0NiwtMTExODE5NTgx
-MiwtNDc1NjYzMjcxLC05NjU2ODAxODksLTE1NDE5MjExMiwtMT
-MxMTk3ODMyNCwtMTUxNDkyMjU2Niw2NzU3NTI1MTIsLTE4MzU2
-MjMwLC0xMzk4MDQ1MzU2LC0xMzI2MjI4NjQ5LC0xNTg1ODMzMT
-M0LC0xMDk1ODgwNjA1LDQ5MjU0OTE3OCwtMTI0MjE2MzEyNSwt
-MTAzODc2ODY0M119
+eyJoaXN0b3J5IjpbMTM5MTYzMTY5LDE2OTA1MDQyNSwxMjQzOT
+E0NDM0LC03NDg1MzU1NjUsOTUwMDk0OTE4LC0zNDA5NTE4NDYs
+LTExMTgxOTU4MTIsLTQ3NTY2MzI3MSwtOTY1NjgwMTg5LC0xNT
+QxOTIxMTIsLTEzMTE5NzgzMjQsLTE1MTQ5MjI1NjYsNjc1NzUy
+NTEyLC0xODM1NjIzMCwtMTM5ODA0NTM1NiwtMTMyNjIyODY0OS
+wtMTU4NTgzMzEzNCwtMTA5NTg4MDYwNSw0OTI1NDkxNzgsLTEy
+NDIxNjMxMjVdfQ==
 -->
