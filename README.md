@@ -524,31 +524,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### Graph
-graph LR: 
-id1((A)) --> id2((B)) 
-id2 --> id3((C))  
-  
-
-%% Example of sequence diagram
-  sequenceDiagram
-    Alice->>Bob: Hello Bob, how are you?
-    alt is sick
-    Bob->>Alice: Not so good :(
-    else is well
-    Bob->>Alice: Feeling fresh like a daisy
-    end
-    opt Extra response
-    Bob->>Alice: Thanks for asking
-    end
 
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTMzMzg0MDIsNTM3NDYyMTA3LDk1MT
-EzNDU2NSwxNzAzNDEyOTEyLDQ1MTY4ODc4NSwxNjkwNTA0MjUs
-MTI0MzkxNDQzNCwtNzQ4NTM1NTY1LDk1MDA5NDkxOCwtMzQwOT
-UxODQ2LC0xMTE4MTk1ODEyLC00NzU2NjMyNzEsLTk2NTY4MDE4
-OSwtMTU0MTkyMTEyLC0xMzExOTc4MzI0LC0xNTE0OTIyNTY2LD
-Y3NTc1MjUxMiwtMTgzNTYyMzAsLTEzOTgwNDUzNTYsLTEzMjYy
-Mjg2NDldfQ==
+eyJoaXN0b3J5IjpbLTE0NzQwNDgwMyw1Mzc0NjIxMDcsOTUxMT
+M0NTY1LDE3MDM0MTI5MTIsNDUxNjg4Nzg1LDE2OTA1MDQyNSwx
+MjQzOTE0NDM0LC03NDg1MzU1NjUsOTUwMDk0OTE4LC0zNDA5NT
+E4NDYsLTExMTgxOTU4MTIsLTQ3NTY2MzI3MSwtOTY1NjgwMTg5
+LC0xNTQxOTIxMTIsLTEzMTE5NzgzMjQsLTE1MTQ5MjI1NjYsNj
+c1NzUyNTEyLC0xODM1NjIzMCwtMTM5ODA0NTM1NiwtMTMyNjIy
+ODY0OV19
 -->
