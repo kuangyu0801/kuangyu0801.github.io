@@ -450,7 +450,8 @@ public class Solution {
 ### Request App Permissions
 谷歌官方介紹[https://developer.android.com/training/permissions/requesting](https://developer.android.com/training/permissions/requesting)
 我找到的youtube教學跟source code[https://codinginflow.com/tutorials/android/run-time-permission-request](https://codinginflow.com/tutorials/android/run-time-permission-request)
-On Android 6.0 (API level 23) and higher, user not only have to declare permission in manifest.xml but also need to acquire permission at runtime. For version below (API level 32),
+On Android 6.0 (API level 23) and higher, user not only have to declare permission in manifest.xml but also need to acquire permission at runtime. For version below (API level 32), only declare permission in manifest.xml is required and permission is acquired at install-time/compile-time.
+
 Request permission特別麻煩，主要分成好5個stage:
  1. check Android version 
  2. check permission via public method **ActivityCompat.checkSelfPermission()**
@@ -555,7 +556,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzA4MDEyNCwyMTA2OTQyNTM4LDEzMj
+eyJoaXN0b3J5IjpbMTgxNjU0ODc4OSwyMTA2OTQyNTM4LDEzMj
 QwMDIxMTAsNTM3NDYyMTA3LDk1MTEzNDU2NSwxNzAzNDEyOTEy
 LDQ1MTY4ODc4NSwxNjkwNTA0MjUsMTI0MzkxNDQzNCwtNzQ4NT
 M1NTY1LDk1MDA5NDkxOCwtMzQwOTUxODQ2LC0xMTE4MTk1ODEy
