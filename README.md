@@ -522,12 +522,20 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Graph
+graph LR 
+id1((A)) --> id2((B)) 
+id2 --> id3((C))  
+  
+原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NDYyMTA3LDk1MTEzNDU2NSwxNzAzND
-EyOTEyLDQ1MTY4ODc4NSwxNjkwNTA0MjUsMTI0MzkxNDQzNCwt
-NzQ4NTM1NTY1LDk1MDA5NDkxOCwtMzQwOTUxODQ2LC0xMTE4MT
-k1ODEyLC00NzU2NjMyNzEsLTk2NTY4MDE4OSwtMTU0MTkyMTEy
-LC0xMzExOTc4MzI0LC0xNTE0OTIyNTY2LDY3NTc1MjUxMiwtMT
-gzNTYyMzAsLTEzOTgwNDUzNTYsLTEzMjYyMjg2NDksLTE1ODU4
-MzMxMzRdfQ==
+eyJoaXN0b3J5IjpbNjkxNzY5MTY3LDUzNzQ2MjEwNyw5NTExMz
+Q1NjUsMTcwMzQxMjkxMiw0NTE2ODg3ODUsMTY5MDUwNDI1LDEy
+NDM5MTQ0MzQsLTc0ODUzNTU2NSw5NTAwOTQ5MTgsLTM0MDk1MT
+g0NiwtMTExODE5NTgxMiwtNDc1NjYzMjcxLC05NjU2ODAxODks
+LTE1NDE5MjExMiwtMTMxMTk3ODMyNCwtMTUxNDkyMjU2Niw2Nz
+U3NTI1MTIsLTE4MzU2MjMwLC0xMzk4MDQ1MzU2LC0xMzI2MjI4
+NjQ5XX0=
 -->
