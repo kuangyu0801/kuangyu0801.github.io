@@ -62,10 +62,10 @@ This requirement is a position from a typical Software Development Position in A
 
 - [《疯狂Java讲义第4版》](https://drive.google.com/file/d/1Q0qyitxsjvgoZaayHz4TO8oHuLHMaE9g/view?usp=sharing)
 - [《疯狂Android讲义第3版》](https://drive.google.com/file/d/1Ky2T2K3zByyDQLnCvKzO76sD42LpTcoi/view?usp=sharing)
-- [《程序员的自我修养—链接、装载与库》](https://drive.google.com/file/d/1ydLFZ7QUl_iEOIOsdfkq-MiQM6Yfnss4/view?usp=sharing)
+- [《程序员的自我修养—链接、装载与库》](https://drive.google.com/file/d/1ydLFZ7QUl_iEOIOsdfkq-MiQM6Yfnss4/view?usp=sharing)：經典程式書
 - [《Thinking.In.Java.4th.Edition》](https://drive.google.com/open?id=1cbNwWrzHdRqjqR_vc_V5vSRfz34vqjTt)
 - [《Fluent Python》](https://drive.google.com/file/d/1AV59fwciY2RwgEN11vs5V9_G_mJhyy6e/view?usp=sharing) 
-- [《Python Data Science Handbook》](https://jakevdp.github.io/PythonDataScienceHandbook/): Machine Learning實作會用到各種library, package都可以
+- [《Python Data Science Handbook》](https://jakevdp.github.io/PythonDataScienceHandbook/): Machine Learning實作會用到各種library, package都可以在這裡面查找
 - [《Cracking the Coding Interview》](https://drive.google.com/file/d/1t2GL9Nvj9sRa2hHgi0_2MNJnbeE64IN5/view?usp=sharing): 大家大推的面試指南
 
 # [Programming Course]
@@ -523,11 +523,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjYwOTA5MywxNzAzNDEyOTEyLDQ1MT
-Y4ODc4NSwxNjkwNTA0MjUsMTI0MzkxNDQzNCwtNzQ4NTM1NTY1
-LDk1MDA5NDkxOCwtMzQwOTUxODQ2LC0xMTE4MTk1ODEyLC00Nz
-U2NjMyNzEsLTk2NTY4MDE4OSwtMTU0MTkyMTEyLC0xMzExOTc4
-MzI0LC0xNTE0OTIyNTY2LDY3NTc1MjUxMiwtMTgzNTYyMzAsLT
-EzOTgwNDUzNTYsLTEzMjYyMjg2NDksLTE1ODU4MzMxMzQsLTEw
-OTU4ODA2MDVdfQ==
+eyJoaXN0b3J5IjpbOTUxMTM0NTY1LDE3MDM0MTI5MTIsNDUxNj
+g4Nzg1LDE2OTA1MDQyNSwxMjQzOTE0NDM0LC03NDg1MzU1NjUs
+OTUwMDk0OTE4LC0zNDA5NTE4NDYsLTExMTgxOTU4MTIsLTQ3NT
+Y2MzI3MSwtOTY1NjgwMTg5LC0xNTQxOTIxMTIsLTEzMTE5Nzgz
+MjQsLTE1MTQ5MjI1NjYsNjc1NzUyNTEyLC0xODM1NjIzMCwtMT
+M5ODA0NTM1NiwtMTMyNjIyODY0OSwtMTU4NTgzMzEzNCwtMTA5
+NTg4MDYwNV19
 -->
