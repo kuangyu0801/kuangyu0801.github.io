@@ -66,6 +66,7 @@ This requirement is a position from a typical Software Development Position in A
 - [《Thinking.In.Java.4th.Edition》](https://drive.google.com/open?id=1cbNwWrzHdRqjqR_vc_V5vSRfz34vqjTt)
 - [《Fluent Python》](https://drive.google.com/file/d/1AV59fwciY2RwgEN11vs5V9_G_mJhyy6e/view?usp=sharing) 
 - [《Python Data Science Handbook》](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [《Cracking the Coding Interview》]
 
 # [Programming Course]
 - 《CS61B Data Structure》by UC Berkeley
@@ -522,11 +523,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzQxMjkxMiw0NTE2ODg3ODUsMTY5MD
-UwNDI1LDEyNDM5MTQ0MzQsLTc0ODUzNTU2NSw5NTAwOTQ5MTgs
-LTM0MDk1MTg0NiwtMTExODE5NTgxMiwtNDc1NjYzMjcxLC05Nj
-U2ODAxODksLTE1NDE5MjExMiwtMTMxMTk3ODMyNCwtMTUxNDky
-MjU2Niw2NzU3NTI1MTIsLTE4MzU2MjMwLC0xMzk4MDQ1MzU2LC
-0xMzI2MjI4NjQ5LC0xNTg1ODMzMTM0LC0xMDk1ODgwNjA1LDQ5
-MjU0OTE3OF19
+eyJoaXN0b3J5IjpbMTEzMDMzMjEyNCwxNzAzNDEyOTEyLDQ1MT
+Y4ODc4NSwxNjkwNTA0MjUsMTI0MzkxNDQzNCwtNzQ4NTM1NTY1
+LDk1MDA5NDkxOCwtMzQwOTUxODQ2LC0xMTE4MTk1ODEyLC00Nz
+U2NjMyNzEsLTk2NTY4MDE4OSwtMTU0MTkyMTEyLC0xMzExOTc4
+MzI0LC0xNTE0OTIyNTY2LDY3NTc1MjUxMiwtMTgzNTYyMzAsLT
+EzOTgwNDUzNTYsLTEzMjYyMjg2NDksLTE1ODU4MzMxMzQsLTEw
+OTU4ODA2MDVdfQ==
 -->
