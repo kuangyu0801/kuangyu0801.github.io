@@ -27,6 +27,31 @@ Mac 鍵符號
 - Control（或 Ctrl）鍵 ⌃
 - Caps Lock 鍵 ⇪
 
+# Amazon Wants This
+This requirement is a position from a t
+
+### BASIC QUALIFICATIONS
+- Bachelor’s Degree in Computer Science or related field.  
+- 2+ years of software engineering experience.  
+- A proven track record in architecting and shipping innovative and highly scalable cloud systems in an agile environment.  
+- Exceptional communication skills.  
+- A proven track record of making good technical judgement.  
+- Excellent problem solving skills.  
+- Highly organized individual  
+- Computer Science fundamentals in data structures  
+- Computer Science fundamentals in algorithm design, problem solving, and complexity analysis  
+- Proficiency in, at least, one modern programming language such as Java or other
+
+### PREFERRED QUALIFICATIONS
+
+- Master’s Degree preferred.  
+- Experience with various industry analytics and monitoring platforms.  
+- Machine learning experience.  
+- Experience building complex software systems that have been successfully delivered to customers  
+- Knowledge of professional software engineering practices, including coding standards, code reviews, source control management, build processes, testing, and operations  
+- Ability to take a project from scoping requirements through actual launch of the project  
+- Experience of building solutions using AWS technologies.
+
 # [Programming Book](https://drive.google.com/drive/folders/1_afYce_KHKfEtYlaGUonWOQSmTcjy3f1?usp=sharing)
 
 - [《疯狂Java讲义第4版》](https://drive.google.com/file/d/1Q0qyitxsjvgoZaayHz4TO8oHuLHMaE9g/view?usp=sharing)
@@ -491,11 +516,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxNjg4Nzg1LDE2OTA1MDQyNSwxMjQzOT
-E0NDM0LC03NDg1MzU1NjUsOTUwMDk0OTE4LC0zNDA5NTE4NDYs
-LTExMTgxOTU4MTIsLTQ3NTY2MzI3MSwtOTY1NjgwMTg5LC0xNT
-QxOTIxMTIsLTEzMTE5NzgzMjQsLTE1MTQ5MjI1NjYsNjc1NzUy
-NTEyLC0xODM1NjIzMCwtMTM5ODA0NTM1NiwtMTMyNjIyODY0OS
-wtMTU4NTgzMzEzNCwtMTA5NTg4MDYwNSw0OTI1NDkxNzgsLTEy
-NDIxNjMxMjVdfQ==
+eyJoaXN0b3J5IjpbLTMwNTk3NDc5OSw0NTE2ODg3ODUsMTY5MD
+UwNDI1LDEyNDM5MTQ0MzQsLTc0ODUzNTU2NSw5NTAwOTQ5MTgs
+LTM0MDk1MTg0NiwtMTExODE5NTgxMiwtNDc1NjYzMjcxLC05Nj
+U2ODAxODksLTE1NDE5MjExMiwtMTMxMTk3ODMyNCwtMTUxNDky
+MjU2Niw2NzU3NTI1MTIsLTE4MzU2MjMwLC0xMzk4MDQ1MzU2LC
+0xMzI2MjI4NjQ5LC0xNTg1ODMzMTM0LC0xMDk1ODgwNjA1LDQ5
+MjU0OTE3OF19
 -->
