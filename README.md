@@ -450,7 +450,7 @@ public class Solution {
 ### Request App Permissions
 谷歌官方介紹:[https://developer.android.com/training/permissions/requesting](https://developer.android.com/training/permissions/requesting)
 谷歌官方source code: [https://github.com/android/permissions-samples](https://github.com/android/permissions-samples)
-- import "[RuntimePermissionsBasic](https://github.com/android/permissions-samples/tree/master/RuntimePermissionsBasic "RuntimePermissionsBasic")
+- import [RuntimePermissionsBasic](https://github.com/android/permissions-samples/tree/master/RuntimePermissionsBasic "RuntimePermissionsBasic")這個資料夾到project就好
 - 不要用Snackbar, 改用Toast
 ActivityCompat class谷歌官方文件:[https://developer.android.com/reference/androidx/core/app/ActivityCompat](https://developer.android.com/reference/androidx/core/app/ActivityCompat)
 我找到的youtube教學跟source code[https://codinginflow.com/tutorials/android/run-time-permission-request](https://codinginflow.com/tutorials/android/run-time-permission-request)
@@ -580,7 +580,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTUzNDU1MiwxODM0NzI3MTE3LDE4MT
+eyJoaXN0b3J5IjpbMTQwODU4ODI2NywxODM0NzI3MTE3LDE4MT
 Y1NDg3ODksMjEwNjk0MjUzOCwxMzI0MDAyMTEwLDUzNzQ2MjEw
 Nyw5NTExMzQ1NjUsMTcwMzQxMjkxMiw0NTE2ODg3ODUsMTY5MD
 UwNDI1LDEyNDM5MTQ0MzQsLTc0ODUzNTU2NSw5NTAwOTQ5MTgs
