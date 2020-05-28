@@ -449,10 +449,9 @@ public class Solution {
 
 ### Request App Permissions
 谷歌官方介紹[https://developer.android.com/training/permissions/requesting](https://developer.android.com/training/permissions/requesting)
-我找到的youtube教學
-Request permission特別麻煩，主要分成好幾個stage
--
+我找到的youtube教學跟source code[https://codinginflow.com/tutorials/android/run-time-permission-request](https://codinginflow.com/tutorials/android/run-time-permission-request)
 
+Request permission特別麻煩，主要分成好5個stage:
  1. check Android version 
  2. check permission via public method **ActivityCompat.checkSelfPermission()**
  3. explain permission to User via public method **ActivityCompat.shouldShowRequestPermissionRationale()**
@@ -470,6 +469,11 @@ if (Build.VERSION.SDK_INT >= 23) {
 void checkPermission() {
 
 }
+
+// Step-3
+
+
+//
 ```
 
 -[回调函数（callback）是什么？](https://www.zhihu.com/question/19801131/answer/26586203): 舉例的深入簡出
@@ -551,7 +555,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTM3MDU5MCwxMzI0MDAyMTEwLDUzNz
+eyJoaXN0b3J5IjpbMjEwNjk0MjUzOCwxMzI0MDAyMTEwLDUzNz
 Q2MjEwNyw5NTExMzQ1NjUsMTcwMzQxMjkxMiw0NTE2ODg3ODUs
 MTY5MDUwNDI1LDEyNDM5MTQ0MzQsLTc0ODUzNTU2NSw5NTAwOT
 Q5MTgsLTM0MDk1MTg0NiwtMTExODE5NTgxMiwtNDc1NjYzMjcx
