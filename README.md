@@ -27,8 +27,14 @@ Mac 鍵符號
 - Control（或 Ctrl）鍵 ⌃
 - Caps Lock 鍵 ⇪
 
+# Prepare Interview
+Stage-1: Stuttgart small company -> Large company
+Stage-2: Berlin or Munich large company
+Stage-3
+
+
 # Amazon Wants This
-This requirement is a position from a t
+This requirement is a position from a typical Software Development Position in Amazon Dublin
 
 ### BASIC QUALIFICATIONS
 - Bachelor’s Degree in Computer Science or related field.  
@@ -516,11 +522,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTk3NDc5OSw0NTE2ODg3ODUsMTY5MD
-UwNDI1LDEyNDM5MTQ0MzQsLTc0ODUzNTU2NSw5NTAwOTQ5MTgs
-LTM0MDk1MTg0NiwtMTExODE5NTgxMiwtNDc1NjYzMjcxLC05Nj
-U2ODAxODksLTE1NDE5MjExMiwtMTMxMTk3ODMyNCwtMTUxNDky
-MjU2Niw2NzU3NTI1MTIsLTE4MzU2MjMwLC0xMzk4MDQ1MzU2LC
-0xMzI2MjI4NjQ5LC0xNTg1ODMzMTM0LC0xMDk1ODgwNjA1LDQ5
-MjU0OTE3OF19
+eyJoaXN0b3J5IjpbLTEwNTEzNTcyNDUsNDUxNjg4Nzg1LDE2OT
+A1MDQyNSwxMjQzOTE0NDM0LC03NDg1MzU1NjUsOTUwMDk0OTE4
+LC0zNDA5NTE4NDYsLTExMTgxOTU4MTIsLTQ3NTY2MzI3MSwtOT
+Y1NjgwMTg5LC0xNTQxOTIxMTIsLTEzMTE5NzgzMjQsLTE1MTQ5
+MjI1NjYsNjc1NzUyNTEyLC0xODM1NjIzMCwtMTM5ODA0NTM1Ni
+wtMTMyNjIyODY0OSwtMTU4NTgzMzEzNCwtMTA5NTg4MDYwNSw0
+OTI1NDkxNzhdfQ==
 -->
