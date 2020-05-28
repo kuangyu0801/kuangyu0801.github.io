@@ -476,6 +476,11 @@ void checkPermission() {
 public static boolean shouldShowRequestPermissionRationale ([Activity] activity, String permission)
 
 //
+
+// Step-4
+public static void requestPermissions ([Activity]ctivity, String[] permissions, 
+ int requestCode)
+
 ```
 
 -[回调函数（callback）是什么？](https://www.zhihu.com/question/19801131/answer/26586203): 舉例的深入簡出
@@ -557,11 +562,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDcyNzExNywxODE2NTQ4Nzg5LDIxMD
-Y5NDI1MzgsMTMyNDAwMjExMCw1Mzc0NjIxMDcsOTUxMTM0NTY1
-LDE3MDM0MTI5MTIsNDUxNjg4Nzg1LDE2OTA1MDQyNSwxMjQzOT
-E0NDM0LC03NDg1MzU1NjUsOTUwMDk0OTE4LC0zNDA5NTE4NDYs
-LTExMTgxOTU4MTIsLTQ3NTY2MzI3MSwtOTY1NjgwMTg5LC0xNT
-QxOTIxMTIsLTEzMTE5NzgzMjQsLTE1MTQ5MjI1NjYsNjc1NzUy
-NTEyXX0=
+eyJoaXN0b3J5IjpbLTEyNTMxMDY4NTAsMTgzNDcyNzExNywxOD
+E2NTQ4Nzg5LDIxMDY5NDI1MzgsMTMyNDAwMjExMCw1Mzc0NjIx
+MDcsOTUxMTM0NTY1LDE3MDM0MTI5MTIsNDUxNjg4Nzg1LDE2OT
+A1MDQyNSwxMjQzOTE0NDM0LC03NDg1MzU1NjUsOTUwMDk0OTE4
+LC0zNDA5NTE4NDYsLTExMTgxOTU4MTIsLTQ3NTY2MzI3MSwtOT
+Y1NjgwMTg5LC0xNTQxOTIxMTIsLTEzMTE5NzgzMjQsLTE1MTQ5
+MjI1NjZdfQ==
 -->
