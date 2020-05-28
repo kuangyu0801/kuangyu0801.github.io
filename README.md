@@ -465,7 +465,7 @@ public class Solution {
 
 # Markdown Quick Lookup
 
-[slackedit](https://stackedit.io/)
+- 推薦編輯器[SlackEdit](https://stackedit.io/): 這是一款chrome-based編輯器，可以即時預覽跟更新
 
 https://jekyll-themes.com/docsy-jekyll/
 
@@ -523,11 +523,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxMTM0NTY1LDE3MDM0MTI5MTIsNDUxNj
-g4Nzg1LDE2OTA1MDQyNSwxMjQzOTE0NDM0LC03NDg1MzU1NjUs
-OTUwMDk0OTE4LC0zNDA5NTE4NDYsLTExMTgxOTU4MTIsLTQ3NT
-Y2MzI3MSwtOTY1NjgwMTg5LC0xNTQxOTIxMTIsLTEzMTE5Nzgz
-MjQsLTE1MTQ5MjI1NjYsNjc1NzUyNTEyLC0xODM1NjIzMCwtMT
-M5ODA0NTM1NiwtMTMyNjIyODY0OSwtMTU4NTgzMzEzNCwtMTA5
-NTg4MDYwNV19
+eyJoaXN0b3J5IjpbNTM3NDYyMTA3LDk1MTEzNDU2NSwxNzAzND
+EyOTEyLDQ1MTY4ODc4NSwxNjkwNTA0MjUsMTI0MzkxNDQzNCwt
+NzQ4NTM1NTY1LDk1MDA5NDkxOCwtMzQwOTUxODQ2LC0xMTE4MT
+k1ODEyLC00NzU2NjMyNzEsLTk2NTY4MDE4OSwtMTU0MTkyMTEy
+LC0xMzExOTc4MzI0LC0xNTE0OTIyNTY2LDY3NTc1MjUxMiwtMT
+gzNTYyMzAsLTEzOTgwNDUzNTYsLTEzMjYyMjg2NDksLTE1ODU4
+MzMxMzRdfQ==
 -->
