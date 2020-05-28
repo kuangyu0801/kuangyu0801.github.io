@@ -480,7 +480,22 @@ public static void requestPermissions ([Activity]ctivity, String[] permissions, 
 
 // Step-5
 @Override  
-public  void onRequestPermissionsResults(int requestCode,  String[] permissions,  int[] grantResults)  {  switch  (requestCode)  {  case  PERMISSION_REQUEST_CODE:  // If request is cancelled, the result arrays are empty.  if  (grantResults.length >  0  && grantResults[0]  ==  PackageManager.PERMISSION_GRANTED)  {  // Permission is granted. Continue the action or workflow  // in your app.  }  else  {  // Explain to the user that the feature is unavailable because  // the features requires a permission that the user has denied.  // At the same time, respect the user's decision. Don't link to  // system settings in an effort to convince the user to change  // their decision.  }  return;  }  // Other 'case' lines to check for other  // permissions this app might request.  }
+public  void onRequestPermissionsResults(int requestCode,  String[] permissions,  int[] grantResults)  {  switch  (requestCode)  {  
+	case  PERMISSION_REQUEST_CODE:  
+	// If request is cancelled, the result arrays are empty.  
+	if  (grantResults.length >  0  && grantResults[0]  ==  PackageManager.PERMISSION_GRANTED)  {  
+		// Permission is granted. Continue the action or workflow  /
+		/ in your app.  
+	}  
+	else  {  
+		// Explain to the user that the feature is unavailable because  
+		// the features requires a permission that the user has denied.  
+		// At the same time, respect the user's decision. Don't link to  
+		// system settings in an effort to convince the user to change  
+		// their decision.  
+	}  
+	return;  
+}  // Other 'case' lines to check for other  // permissions this app might request.  }
 ```
 
 -[回调函数（callback）是什么？](https://www.zhihu.com/question/19801131/answer/26586203): 舉例的深入簡出
@@ -562,7 +577,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjI2MzYyOSwxODM0NzI3MTE3LDE4MT
+eyJoaXN0b3J5IjpbMTM2NTE2ODY5MSwxODM0NzI3MTE3LDE4MT
 Y1NDg3ODksMjEwNjk0MjUzOCwxMzI0MDAyMTEwLDUzNzQ2MjEw
 Nyw5NTExMzQ1NjUsMTcwMzQxMjkxMiw0NTE2ODg3ODUsMTY5MD
 UwNDI1LDEyNDM5MTQ0MzQsLTc0ODUzNTU2NSw5NTAwOTQ5MTgs
