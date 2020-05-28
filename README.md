@@ -454,7 +454,7 @@ Request permission特別麻煩，主要分成好幾個stage
 -
 
  1. check Android version 
- 2. check permission
+ 2. check permission via public method ***checkSelfPermission()***
  3. explain permission to User
  4. Request permission
  5. Handle the response
@@ -463,6 +463,11 @@ example code:
 ```
 // Step-1
 if (Build.VERSION.SDK_INT >= 23) {
+	checkPermission();
+}
+
+// Step-2 
+void checkPermission() {
 
 }
 ```
@@ -546,11 +551,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjAzODEyMSwxMzI0MDAyMTEwLDUzNz
-Q2MjEwNyw5NTExMzQ1NjUsMTcwMzQxMjkxMiw0NTE2ODg3ODUs
-MTY5MDUwNDI1LDEyNDM5MTQ0MzQsLTc0ODUzNTU2NSw5NTAwOT
-Q5MTgsLTM0MDk1MTg0NiwtMTExODE5NTgxMiwtNDc1NjYzMjcx
-LC05NjU2ODAxODksLTE1NDE5MjExMiwtMTMxMTk3ODMyNCwtMT
-UxNDkyMjU2Niw2NzU3NTI1MTIsLTE4MzU2MjMwLC0xMzk4MDQ1
-MzU2XX0=
+eyJoaXN0b3J5IjpbLTE2NTY2MDM1NDksMTMyNDAwMjExMCw1Mz
+c0NjIxMDcsOTUxMTM0NTY1LDE3MDM0MTI5MTIsNDUxNjg4Nzg1
+LDE2OTA1MDQyNSwxMjQzOTE0NDM0LC03NDg1MzU1NjUsOTUwMD
+k0OTE4LC0zNDA5NTE4NDYsLTExMTgxOTU4MTIsLTQ3NTY2MzI3
+MSwtOTY1NjgwMTg5LC0xNTQxOTIxMTIsLTEzMTE5NzgzMjQsLT
+E1MTQ5MjI1NjYsNjc1NzUyNTEyLC0xODM1NjIzMCwtMTM5ODA0
+NTM1Nl19
 -->
