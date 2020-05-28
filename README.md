@@ -454,10 +454,10 @@ Request permission特別麻煩，主要分成好幾個stage
 -
 
  1. check Android version 
- 2. check permission via public method ***ActivityCompat.checkSelfPermission()***
- 3. explain permission to User via public method ActivityCompat.shouldShowRequestPermissionRationale()
- 4. Request permission via public method ActivityCompat.requestPermissions()
- 5. Handle the response via override method 
+ 2. check permission via public method **ActivityCompat.checkSelfPermission()**
+ 3. explain permission to User via public method **ActivityCompat.shouldShowRequestPermissionRationale()**
+ 4. Request permission via public method **ActivityCompat.requestPermissions()**
+ 5. Handle the response via override method **onRequestPermissionsResult**
 
 example code:
 ```
@@ -551,7 +551,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzM1MTAzOSwxMzI0MDAyMTEwLDUzNz
+eyJoaXN0b3J5IjpbMjA4OTM3MDU5MCwxMzI0MDAyMTEwLDUzNz
 Q2MjEwNyw5NTExMzQ1NjUsMTcwMzQxMjkxMiw0NTE2ODg3ODUs
 MTY5MDUwNDI1LDEyNDM5MTQ0MzQsLTc0ODUzNTU2NSw5NTAwOT
 Q5MTgsLTM0MDk1MTg0NiwtMTExODE5NTgxMiwtNDc1NjYzMjcx
