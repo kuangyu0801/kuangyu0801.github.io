@@ -451,9 +451,16 @@ public class Solution {
 谷歌官方介紹[https://developer.android.com/training/permissions/requesting](https://developer.android.com/training/permissions/requesting)
 我找到的youtube教學
 Request permission特別麻煩，主要分成好幾個stage
-- check Android version
-- check Permission
-- explain Permission to US
+- check Android version 
+- check permission
+- explain permission to User
+- Request permission
+- Handle the response
+example code:
+```
+
+```
+
 -[回调函数（callback）是什么？](https://www.zhihu.com/question/19801131/answer/26586203): 舉例的深入簡出
 
 [How to delete a module in Android Studio](https://mranderson.nl/2019/06/08/how-to-delete-a-module-in-android-studio/)
@@ -533,11 +540,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE4MjMyNTgsNTM3NDYyMTA3LDk1MT
-EzNDU2NSwxNzAzNDEyOTEyLDQ1MTY4ODc4NSwxNjkwNTA0MjUs
-MTI0MzkxNDQzNCwtNzQ4NTM1NTY1LDk1MDA5NDkxOCwtMzQwOT
-UxODQ2LC0xMTE4MTk1ODEyLC00NzU2NjMyNzEsLTk2NTY4MDE4
-OSwtMTU0MTkyMTEyLC0xMzExOTc4MzI0LC0xNTE0OTIyNTY2LD
-Y3NTc1MjUxMiwtMTgzNTYyMzAsLTEzOTgwNDUzNTYsLTEzMjYy
-Mjg2NDldfQ==
+eyJoaXN0b3J5IjpbMTMyNDAwMjExMCw1Mzc0NjIxMDcsOTUxMT
+M0NTY1LDE3MDM0MTI5MTIsNDUxNjg4Nzg1LDE2OTA1MDQyNSwx
+MjQzOTE0NDM0LC03NDg1MzU1NjUsOTUwMDk0OTE4LC0zNDA5NT
+E4NDYsLTExMTgxOTU4MTIsLTQ3NTY2MzI3MSwtOTY1NjgwMTg5
+LC0xNTQxOTIxMTIsLTEzMTE5NzgzMjQsLTE1MTQ5MjI1NjYsNj
+c1NzUyNTEyLC0xODM1NjIzMCwtMTM5ODA0NTM1NiwtMTMyNjIy
+ODY0OV19
 -->
