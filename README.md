@@ -451,14 +451,20 @@ public class Solution {
 谷歌官方介紹[https://developer.android.com/training/permissions/requesting](https://developer.android.com/training/permissions/requesting)
 我找到的youtube教學
 Request permission特別麻煩，主要分成好幾個stage
-- check Android version 
-- check permission
-- explain permission to User
-- Request permission
-- Handle the response
+-
+
+ 1. check Android version 
+ 2. check permission
+ 3. explain permission to User
+ 4. Request permission
+ 5. Handle the response
+
 example code:
 ```
+// Step-1
+if (Build.VERSION.SDK_INT >= 23) {
 
+}
 ```
 
 -[回调函数（callback）是什么？](https://www.zhihu.com/question/19801131/answer/26586203): 舉例的深入簡出
@@ -540,11 +546,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDAwMjExMCw1Mzc0NjIxMDcsOTUxMT
-M0NTY1LDE3MDM0MTI5MTIsNDUxNjg4Nzg1LDE2OTA1MDQyNSwx
-MjQzOTE0NDM0LC03NDg1MzU1NjUsOTUwMDk0OTE4LC0zNDA5NT
-E4NDYsLTExMTgxOTU4MTIsLTQ3NTY2MzI3MSwtOTY1NjgwMTg5
-LC0xNTQxOTIxMTIsLTEzMTE5NzgzMjQsLTE1MTQ5MjI1NjYsNj
-c1NzUyNTEyLC0xODM1NjIzMCwtMTM5ODA0NTM1NiwtMTMyNjIy
-ODY0OV19
+eyJoaXN0b3J5IjpbLTM3MjAzODEyMSwxMzI0MDAyMTEwLDUzNz
+Q2MjEwNyw5NTExMzQ1NjUsMTcwMzQxMjkxMiw0NTE2ODg3ODUs
+MTY5MDUwNDI1LDEyNDM5MTQ0MzQsLTc0ODUzNTU2NSw5NTAwOT
+Q5MTgsLTM0MDk1MTg0NiwtMTExODE5NTgxMiwtNDc1NjYzMjcx
+LC05NjU2ODAxODksLTE1NDE5MjExMiwtMTMxMTk3ODMyNCwtMT
+UxNDkyMjU2Niw2NzU3NTI1MTIsLTE4MzU2MjMwLC0xMzk4MDQ1
+MzU2XX0=
 -->
