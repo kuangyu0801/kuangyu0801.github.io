@@ -447,8 +447,9 @@ public class Solution {
 - [Adroid Studio User Guide](https://developer.android.com/studio/intro)
 課程：
 
-
-
+### Request App Permissions
+谷歌ㄍㄨ[https://developer.android.com/training/permissions/requesting](https://developer.android.com/training/permissions/requesting)
+Request permission特別麻煩，
 -[回调函数（callback）是什么？](https://www.zhihu.com/question/19801131/answer/26586203): 舉例的深入簡出
 
 [How to delete a module in Android Studio](https://mranderson.nl/2019/06/08/how-to-delete-a-module-in-android-studio/)
@@ -528,7 +529,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQwNDgwMyw1Mzc0NjIxMDcsOTUxMT
+eyJoaXN0b3J5IjpbLTQxMzU0OTU3NSw1Mzc0NjIxMDcsOTUxMT
 M0NTY1LDE3MDM0MTI5MTIsNDUxNjg4Nzg1LDE2OTA1MDQyNSwx
 MjQzOTE0NDM0LC03NDg1MzU1NjUsOTUwMDk0OTE4LC0zNDA5NT
 E4NDYsLTExMTgxOTU4MTIsLTQ3NTY2MzI3MSwtOTY1NjgwMTg5
