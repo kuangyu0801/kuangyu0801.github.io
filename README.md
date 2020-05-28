@@ -65,8 +65,8 @@ This requirement is a position from a typical Software Development Position in A
 - [《程序员的自我修养—链接、装载与库》](https://drive.google.com/file/d/1ydLFZ7QUl_iEOIOsdfkq-MiQM6Yfnss4/view?usp=sharing)
 - [《Thinking.In.Java.4th.Edition》](https://drive.google.com/open?id=1cbNwWrzHdRqjqR_vc_V5vSRfz34vqjTt)
 - [《Fluent Python》](https://drive.google.com/file/d/1AV59fwciY2RwgEN11vs5V9_G_mJhyy6e/view?usp=sharing) 
-- [《Python Data Science Handbook》](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [《Cracking the Coding Interview》]
+- [《Python Data Science Handbook》](https://jakevdp.github.io/PythonDataScienceHandbook/): Machine Learning實作會用到各種library, package都可以
+- [《Cracking the Coding Interview》](https://drive.google.com/file/d/1t2GL9Nvj9sRa2hHgi0_2MNJnbeE64IN5/view?usp=sharing): 大家大推的面試指南
 
 # [Programming Course]
 - 《CS61B Data Structure》by UC Berkeley
@@ -523,7 +523,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDMzMjEyNCwxNzAzNDEyOTEyLDQ1MT
+eyJoaXN0b3J5IjpbMTU0MjYwOTA5MywxNzAzNDEyOTEyLDQ1MT
 Y4ODc4NSwxNjkwNTA0MjUsMTI0MzkxNDQzNCwtNzQ4NTM1NTY1
 LDk1MDA5NDkxOCwtMzQwOTUxODQ2LC0xMTE4MTk1ODEyLC00Nz
 U2NjMyNzEsLTk2NTY4MDE4OSwtMTU0MTkyMTEyLC0xMzExOTc4
