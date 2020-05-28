@@ -449,13 +449,14 @@ public class Solution {
 
 ### Request App Permissions
 谷歌官方介紹:[https://developer.android.com/training/permissions/requesting](https://developer.android.com/training/permissions/requesting)
+估歌
 ActivityCompat class谷歌官方文件:[https://developer.android.com/reference/androidx/core/app/ActivityCompat](https://developer.android.com/reference/androidx/core/app/ActivityCompat)
 我找到的youtube教學跟source code[https://codinginflow.com/tutorials/android/run-time-permission-request](https://codinginflow.com/tutorials/android/run-time-permission-request)
 On Android 6.0 (API level 23) and higher, user not only have to declare permission in manifest.xml but also need to acquire permission at runtime. For version below (API level 32), only declare permission in manifest.xml is required and permission is acquired at install-time/compile-time.
 
 Request permission特別麻煩，主要分成好5個stage:
  1. check Android version 
- 2. check permission via public method **ActivityCompat.checkSelfPermission()**
+ 2. check permission via public method **ContextCompat.checkSelfPermission() **
  3. explain permission to User via public method **ActivityCompat.shouldShowRequestPermissionRationale()**
  4. Request permission via public method **ActivityCompat.requestPermissions()**
  5. Handle the response via override method **onRequestPermissionsResult**
@@ -469,7 +470,7 @@ if (Build.VERSION.SDK_INT >= 23) {
 
 // Step-2 
 void checkPermission() {
-
+	public static int checkSelfPermission ([Context] context, String permission)
 }
 
 // Step-3
@@ -577,11 +578,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTE2ODY5MSwxODM0NzI3MTE3LDE4MT
-Y1NDg3ODksMjEwNjk0MjUzOCwxMzI0MDAyMTEwLDUzNzQ2MjEw
-Nyw5NTExMzQ1NjUsMTcwMzQxMjkxMiw0NTE2ODg3ODUsMTY5MD
-UwNDI1LDEyNDM5MTQ0MzQsLTc0ODUzNTU2NSw5NTAwOTQ5MTgs
-LTM0MDk1MTg0NiwtMTExODE5NTgxMiwtNDc1NjYzMjcxLC05Nj
-U2ODAxODksLTE1NDE5MjExMiwtMTMxMTk3ODMyNCwtMTUxNDky
-MjU2Nl19
+eyJoaXN0b3J5IjpbLTExMzE5ODcyNjEsMTgzNDcyNzExNywxOD
+E2NTQ4Nzg5LDIxMDY5NDI1MzgsMTMyNDAwMjExMCw1Mzc0NjIx
+MDcsOTUxMTM0NTY1LDE3MDM0MTI5MTIsNDUxNjg4Nzg1LDE2OT
+A1MDQyNSwxMjQzOTE0NDM0LC03NDg1MzU1NjUsOTUwMDk0OTE4
+LC0zNDA5NTE4NDYsLTExMTgxOTU4MTIsLTQ3NTY2MzI3MSwtOT
+Y1NjgwMTg5LC0xNTQxOTIxMTIsLTEzMTE5NzgzMjQsLTE1MTQ5
+MjI1NjZdfQ==
 -->
