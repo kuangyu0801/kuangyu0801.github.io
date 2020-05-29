@@ -322,9 +322,12 @@ corner case: 考慮最高位進位問題
 
 
 ### 15. 3Sum  (Medium)
+直覺會想要學2Sum但是會有重複排列的問題！
+
 觀念：排序 + 双指针
 清楚思路的解法：[https://leetcode-cn.com/problems/3sum/solution/pai-xu-shuang-zhi-zhen-zhu-xing-jie-shi-python3-by/](https://leetcode-cn.com/problems/3sum/solution/pai-xu-shuang-zhi-zhen-zhu-xing-jie-shi-python3-by/)
-Time complexity O(N^2
+Time complexity O(N^2)
+Space complexity O(1): in place
 ### 46. Permutation (Medium)
 [三種解法in java](https://blog.csdn.net/happyaaaaaaaaaaa/article/details/51534048)
 類型：backtrack（回溯法)
@@ -589,11 +592,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc1Njc2MzUsMTQ5MTQ2NTc0MSwtMj
-g3ODk4Mjc5LDE0MDg1ODgyNjcsMTgzNDcyNzExNywxODE2NTQ4
-Nzg5LDIxMDY5NDI1MzgsMTMyNDAwMjExMCw1Mzc0NjIxMDcsOT
-UxMTM0NTY1LDE3MDM0MTI5MTIsNDUxNjg4Nzg1LDE2OTA1MDQy
-NSwxMjQzOTE0NDM0LC03NDg1MzU1NjUsOTUwMDk0OTE4LC0zND
-A5NTE4NDYsLTExMTgxOTU4MTIsLTQ3NTY2MzI3MSwtOTY1Njgw
-MTg5XX0=
+eyJoaXN0b3J5IjpbLTg1NTE2NDUwNywxNDkxNDY1NzQxLC0yOD
+c4OTgyNzksMTQwODU4ODI2NywxODM0NzI3MTE3LDE4MTY1NDg3
+ODksMjEwNjk0MjUzOCwxMzI0MDAyMTEwLDUzNzQ2MjEwNyw5NT
+ExMzQ1NjUsMTcwMzQxMjkxMiw0NTE2ODg3ODUsMTY5MDUwNDI1
+LDEyNDM5MTQ0MzQsLTc0ODUzNTU2NSw5NTAwOTQ5MTgsLTM0MD
+k1MTg0NiwtMTExODE5NTgxMiwtNDc1NjYzMjcxLC05NjU2ODAx
+ODldfQ==
 -->
