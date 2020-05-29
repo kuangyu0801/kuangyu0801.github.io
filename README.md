@@ -447,6 +447,9 @@ public class Solution {
 - [Adroid Studio User Guide](https://developer.android.com/studio/intro)
 課程：
 
+### Broadcast 
+
+
 ### Request App Permissions
 Reference:
 - 谷歌官方介紹:[https://developer.android.com/training/permissions/requesting](https://developer.android.com/training/permissions/requesting)
@@ -584,7 +587,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjU5NTIyMSwxNDA4NTg4MjY3LDE4Mz
+eyJoaXN0b3J5IjpbLTI4Nzg5ODI3OSwxNDA4NTg4MjY3LDE4Mz
 Q3MjcxMTcsMTgxNjU0ODc4OSwyMTA2OTQyNTM4LDEzMjQwMDIx
 MTAsNTM3NDYyMTA3LDk1MTEzNDU2NSwxNzAzNDEyOTEyLDQ1MT
 Y4ODc4NSwxNjkwNTA0MjUsMTI0MzkxNDQzNCwtNzQ4NTM1NTY1
