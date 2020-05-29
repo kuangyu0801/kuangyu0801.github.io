@@ -217,10 +217,11 @@ Nr.|1st|2nd|3rd
 
 Object cloning means to create an exact copy of the original object.
 
+### Object
 ```markdown
  clone()
 ```
-
+### Sor
 ### Array
 ```markdown
 // return a copy array
@@ -592,7 +593,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTE2NDUwNywxNDkxNDY1NzQxLC0yOD
+eyJoaXN0b3J5IjpbMTczMzE4MDAzNiwxNDkxNDY1NzQxLC0yOD
 c4OTgyNzksMTQwODU4ODI2NywxODM0NzI3MTE3LDE4MTY1NDg3
 ODksMjEwNjk0MjUzOCwxMzI0MDAyMTEwLDUzNzQ2MjEwNyw5NT
 ExMzQ1NjUsMTcwMzQxMjkxMiw0NTE2ODg3ODUsMTY5MDUwNDI1
