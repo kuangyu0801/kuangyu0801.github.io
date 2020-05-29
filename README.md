@@ -322,7 +322,7 @@ corner case: 考慮最高位進位問題
 
 
 ### 15. 3Sum  (Medium)
-
+清楚思路的解法：[https://leetcode-cn.com/problems/3sum/solution/three-sum-ti-jie-by-wonderful611/](https://leetcode-cn.com/problems/3sum/solution/three-sum-ti-jie-by-wonderful611/)
 ### 46. Permutation (Medium)
 [三種解法in java](https://blog.csdn.net/happyaaaaaaaaaaa/article/details/51534048)
 類型：backtrack（回溯法)
@@ -587,11 +587,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Nzg5ODI3OSwxNDA4NTg4MjY3LDE4Mz
-Q3MjcxMTcsMTgxNjU0ODc4OSwyMTA2OTQyNTM4LDEzMjQwMDIx
-MTAsNTM3NDYyMTA3LDk1MTEzNDU2NSwxNzAzNDEyOTEyLDQ1MT
-Y4ODc4NSwxNjkwNTA0MjUsMTI0MzkxNDQzNCwtNzQ4NTM1NTY1
-LDk1MDA5NDkxOCwtMzQwOTUxODQ2LC0xMTE4MTk1ODEyLC00Nz
-U2NjMyNzEsLTk2NTY4MDE4OSwtMTU0MTkyMTEyLC0xMzExOTc4
-MzI0XX0=
+eyJoaXN0b3J5IjpbMTQ5MTQ2NTc0MSwtMjg3ODk4Mjc5LDE0MD
+g1ODgyNjcsMTgzNDcyNzExNywxODE2NTQ4Nzg5LDIxMDY5NDI1
+MzgsMTMyNDAwMjExMCw1Mzc0NjIxMDcsOTUxMTM0NTY1LDE3MD
+M0MTI5MTIsNDUxNjg4Nzg1LDE2OTA1MDQyNSwxMjQzOTE0NDM0
+LC03NDg1MzU1NjUsOTUwMDk0OTE4LC0zNDA5NTE4NDYsLTExMT
+gxOTU4MTIsLTQ3NTY2MzI3MSwtOTY1NjgwMTg5LC0xNTQxOTIx
+MTJdfQ==
 -->
