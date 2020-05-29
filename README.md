@@ -225,6 +225,7 @@ Object cloning means to create an exact copy of the original object.
 2 Ways:
 collection.sort()
 Arrays.sort()
+Previously, Java’s Arrays.sort method used Quicksort for arrays of primitives and Merge sort for arrays of objects. In the latest versions of Java, Arrays.sort method and Collection.sort() uses Timsort.
 ### Arrays
 ```markdown
 // return a copy array
@@ -596,7 +597,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjIzMDAyOCwxNDkxNDY1NzQxLC0yOD
+eyJoaXN0b3J5IjpbMTY1NTc3MTI0NiwxNDkxNDY1NzQxLC0yOD
 c4OTgyNzksMTQwODU4ODI2NywxODM0NzI3MTE3LDE4MTY1NDg3
 ODksMjEwNjk0MjUzOCwxMzI0MDAyMTEwLDUzNzQ2MjEwNyw5NT
 ExMzQ1NjUsMTcwMzQxMjkxMiw0NTE2ODg3ODUsMTY5MDUwNDI1
