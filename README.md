@@ -448,12 +448,15 @@ public class Solution {
 課程：
 
 ### Request App Permissions
-谷歌官方介紹:[https://developer.android.com/training/permissions/requesting](https://developer.android.com/training/permissions/requesting)
-谷歌官方source code: [https://github.com/android/permissions-samples](https://github.com/android/permissions-samples)
+Reference:
+- 谷歌官方介紹:[https://developer.android.com/training/permissions/requesting](https://developer.android.com/training/permissions/requesting)
+- 谷歌官方source code: [https://github.com/android/permissions-samples](https://github.com/android/permissions-samples)
 - import [RuntimePermissionsBasic](https://github.com/android/permissions-samples/tree/master/RuntimePermissionsBasic "RuntimePermissionsBasic")這個資料夾到project就好
 - 不要用Snackbar, 改用Toast
-ActivityCompat class谷歌官方文件:[https://developer.android.com/reference/androidx/core/app/ActivityCompat](https://developer.android.com/reference/androidx/core/app/ActivityCompat)
-我找到的youtube教學跟source code[https://codinginflow.com/tutorials/android/run-time-permission-request](https://codinginflow.com/tutorials/android/run-time-permission-request)
+- ActivityCompat class谷歌官方文件:[https://developer.android.com/reference/androidx/core/app/ActivityCompat](https://developer.android.com/reference/androidx/core/app/ActivityCompat)
+- 我找到的youtube教學跟source code[https://codinginflow.com/tutorials/android/run-time-permission-request](https://codinginflow.com/tutorials/android/run-time-permission-request): 講得很明確
+
+注意：
 On Android 6.0 (API level 23) and higher, user not only have to declare permission in manifest.xml but also need to acquire permission at runtime. For version below (API level 32), only declare permission in manifest.xml is required and permission is acquired at install-time/compile-time.
 
 Request permission特別麻煩，主要分成好5個stage:
@@ -501,7 +504,7 @@ public  void onRequestPermissionsResults(int requestCode,  String[] permissions,
 }  // Other 'case' lines to check for other  // permissions this app might request.  }
 ```
 
--[回调函数（callback）是什么？](https://www.zhihu.com/question/19801131/answer/26586203): 舉例的深入簡出
+＃[回调函数（callback）是什么？](https://www.zhihu.com/question/19801131/answer/26586203): 舉例的深入簡出
 
 [How to delete a module in Android Studio](https://mranderson.nl/2019/06/08/how-to-delete-a-module-in-android-studio/)
 1. Right click on the Project and select “Open module settings”
@@ -580,11 +583,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODU4ODI2NywxODM0NzI3MTE3LDE4MT
-Y1NDg3ODksMjEwNjk0MjUzOCwxMzI0MDAyMTEwLDUzNzQ2MjEw
-Nyw5NTExMzQ1NjUsMTcwMzQxMjkxMiw0NTE2ODg3ODUsMTY5MD
-UwNDI1LDEyNDM5MTQ0MzQsLTc0ODUzNTU2NSw5NTAwOTQ5MTgs
-LTM0MDk1MTg0NiwtMTExODE5NTgxMiwtNDc1NjYzMjcxLC05Nj
-U2ODAxODksLTE1NDE5MjExMiwtMTMxMTk3ODMyNCwtMTUxNDky
-MjU2Nl19
+eyJoaXN0b3J5IjpbLTExMDQwMjc0NjMsMTQwODU4ODI2NywxOD
+M0NzI3MTE3LDE4MTY1NDg3ODksMjEwNjk0MjUzOCwxMzI0MDAy
+MTEwLDUzNzQ2MjEwNyw5NTExMzQ1NjUsMTcwMzQxMjkxMiw0NT
+E2ODg3ODUsMTY5MDUwNDI1LDEyNDM5MTQ0MzQsLTc0ODUzNTU2
+NSw5NTAwOTQ5MTgsLTM0MDk1MTg0NiwtMTExODE5NTgxMiwtND
+c1NjYzMjcxLC05NjU2ODAxODksLTE1NDE5MjExMiwtMTMxMTk3
+ODMyNF19
 -->
