@@ -240,6 +240,10 @@ Nr.|1st|2nd|3rd
 
 Object cloning means to create an exact copy of the original object.
 
+### Generic Type
+Always states the type 
+Stack<Integer> stack = new Stack<>();
+
 ### Object
 ```markdown
  clone()
@@ -620,11 +624,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTYyMjMxMCwxNDE5NzA1MTgzLDE2NT
-U3NzEyNDYsMTQ5MTQ2NTc0MSwtMjg3ODk4Mjc5LDE0MDg1ODgy
-NjcsMTgzNDcyNzExNywxODE2NTQ4Nzg5LDIxMDY5NDI1MzgsMT
-MyNDAwMjExMCw1Mzc0NjIxMDcsOTUxMTM0NTY1LDE3MDM0MTI5
-MTIsNDUxNjg4Nzg1LDE2OTA1MDQyNSwxMjQzOTE0NDM0LC03ND
-g1MzU1NjUsOTUwMDk0OTE4LC0zNDA5NTE4NDYsLTExMTgxOTU4
-MTJdfQ==
+eyJoaXN0b3J5IjpbNDk0MjcwMzEzLC05Nzk2MjIzMTAsMTQxOT
+cwNTE4MywxNjU1NzcxMjQ2LDE0OTE0NjU3NDEsLTI4Nzg5ODI3
+OSwxNDA4NTg4MjY3LDE4MzQ3MjcxMTcsMTgxNjU0ODc4OSwyMT
+A2OTQyNTM4LDEzMjQwMDIxMTAsNTM3NDYyMTA3LDk1MTEzNDU2
+NSwxNzAzNDEyOTEyLDQ1MTY4ODc4NSwxNjkwNTA0MjUsMTI0Mz
+kxNDQzNCwtNzQ4NTM1NTY1LDk1MDA5NDkxOCwtMzQwOTUxODQ2
+XX0=
 -->
