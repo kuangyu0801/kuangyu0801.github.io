@@ -58,6 +58,34 @@ This requirement is a position from a typical Software Development Position in A
 - Ability to take a project from scoping requirements through actual launch of the project  
 - Experience of building solutions using AWS technologies.
 
+# FACEBOOK Wants This: 
+## 2021 Production Engineer Intern
+
+Minimum Qualifications
+
+-   Currently has, or is in the process of obtaining, a BS or MS in Computer Science, Engineering, or a related technical discipline
+    
+
+-   Experience coding in at least one language (even if it is not one that Facebook uses)
+    
+
+-   Ability to rapidly learn new development languages (Python, PHP, C++, and Java are all in heavy use)
+    
+
+-   Ability to pick up new software, frameworks and APIs quickly
+    
+
+-   Ability to perform 'guerrilla capacity planning' for internet service architectures
+    
+
+-   Knowledge of basic large-scale internet service architectures (such as load balancing, LAMP, CDN's), even if you haven't worked on one
+    
+
+-   Configuration and maintenance of common applications such as Apache, memcached, Squid, MySQL, NFS, DHCP, NTP, SSH, DNS, and SNMP
+    
+
+-   Must obtain work authorization in country of employment at the time of hire and maintain ongoing work authorization during employment
+
 # [Programming Book](https://drive.google.com/drive/folders/1_afYce_KHKfEtYlaGUonWOQSmTcjy3f1?usp=sharing)
 
 - [《疯狂Java讲义第4版》](https://drive.google.com/file/d/1Q0qyitxsjvgoZaayHz4TO8oHuLHMaE9g/view?usp=sharing)
@@ -598,11 +626,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTcwNTE4MywxNjU1NzcxMjQ2LDE0OT
-E0NjU3NDEsLTI4Nzg5ODI3OSwxNDA4NTg4MjY3LDE4MzQ3Mjcx
-MTcsMTgxNjU0ODc4OSwyMTA2OTQyNTM4LDEzMjQwMDIxMTAsNT
-M3NDYyMTA3LDk1MTEzNDU2NSwxNzAzNDEyOTEyLDQ1MTY4ODc4
-NSwxNjkwNTA0MjUsMTI0MzkxNDQzNCwtNzQ4NTM1NTY1LDk1MD
-A5NDkxOCwtMzQwOTUxODQ2LC0xMTE4MTk1ODEyLC00NzU2NjMy
-NzFdfQ==
+eyJoaXN0b3J5IjpbMTA3NTk0OTM2NSwxNDE5NzA1MTgzLDE2NT
+U3NzEyNDYsMTQ5MTQ2NTc0MSwtMjg3ODk4Mjc5LDE0MDg1ODgy
+NjcsMTgzNDcyNzExNywxODE2NTQ4Nzg5LDIxMDY5NDI1MzgsMT
+MyNDAwMjExMCw1Mzc0NjIxMDcsOTUxMTM0NTY1LDE3MDM0MTI5
+MTIsNDUxNjg4Nzg1LDE2OTA1MDQyNSwxMjQzOTE0NDM0LC03ND
+g1MzU1NjUsOTUwMDk0OTE4LC0zNDA5NTE4NDYsLTExMTgxOTU4
+MTJdfQ==
 -->
