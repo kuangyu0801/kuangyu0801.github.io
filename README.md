@@ -54,12 +54,12 @@ This requirement is a position from a typical Software Development Position in A
 - Experience with various industry analytics and monitoring platforms.  
 - Machine learning experience.  
 - Experience building complex software systems that have been successfully delivered to customers  
-- Knowledge of professional software engineering practices, including coding standards, code reviews, source control management, build processes, testing, and operations  
+- Knowledge of professional software engineering practices, including ***coding standards, code reviews, source control management, build processes, testing, and operations***  
 - Ability to take a project from scoping requirements through actual launch of the project  
 - Experience of building solutions using ***AWS technologies***.
 
 # FACEBOOK Wants This: 
-## 2021 Production Engineer Intern
+## 2021 Production Engineer Intern[https://www.facebook.com/careers/jobs/146184539793025/](https://www.facebook.com/careers/jobs/146184539793025/)
 
 Minimum Qualifications
 
@@ -620,11 +620,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNjg5NDc3LDE0MTk3MDUxODMsMTY1NT
-c3MTI0NiwxNDkxNDY1NzQxLC0yODc4OTgyNzksMTQwODU4ODI2
-NywxODM0NzI3MTE3LDE4MTY1NDg3ODksMjEwNjk0MjUzOCwxMz
-I0MDAyMTEwLDUzNzQ2MjEwNyw5NTExMzQ1NjUsMTcwMzQxMjkx
-Miw0NTE2ODg3ODUsMTY5MDUwNDI1LDEyNDM5MTQ0MzQsLTc0OD
-UzNTU2NSw5NTAwOTQ5MTgsLTM0MDk1MTg0NiwtMTExODE5NTgx
-Ml19
+eyJoaXN0b3J5IjpbLTk3OTYyMjMxMCwxNDE5NzA1MTgzLDE2NT
+U3NzEyNDYsMTQ5MTQ2NTc0MSwtMjg3ODk4Mjc5LDE0MDg1ODgy
+NjcsMTgzNDcyNzExNywxODE2NTQ4Nzg5LDIxMDY5NDI1MzgsMT
+MyNDAwMjExMCw1Mzc0NjIxMDcsOTUxMTM0NTY1LDE3MDM0MTI5
+MTIsNDUxNjg4Nzg1LDE2OTA1MDQyNSwxMjQzOTE0NDM0LC03ND
+g1MzU1NjUsOTUwMDk0OTE4LC0zNDA5NTE4NDYsLTExMTgxOTU4
+MTJdfQ==
 -->
