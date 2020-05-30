@@ -241,8 +241,12 @@ Nr.|1st|2nd|3rd
 Object cloning means to create an exact copy of the original object.
 
 ### Generic Type
-Always states the type 
+Always states the type explicitly!
+In Java 6, you must specify the concrete type both in the variable declaration (left-hand side) and the constructor call (right-hand side). Starting in Java 7, you can use the diamond operator instead:
+```markdown
+Stack<Integer> stack = new Stack<Integer>();
 Stack<Integer> stack = new Stack<>();
+```
 
 ### Object
 ```markdown
@@ -624,7 +628,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0MjcwMzEzLC05Nzk2MjIzMTAsMTQxOT
+eyJoaXN0b3J5IjpbNTM2MDQ1NjU4LC05Nzk2MjIzMTAsMTQxOT
 cwNTE4MywxNjU1NzcxMjQ2LDE0OTE0NjU3NDEsLTI4Nzg5ODI3
 OSwxNDA4NTg4MjY3LDE4MzQ3MjcxMTcsMTgxNjU0ODc4OSwyMT
 A2OTQyNTM4LDEzMjQwMDIxMTAsNTM3NDYyMTA3LDk1MTEzNDU2
