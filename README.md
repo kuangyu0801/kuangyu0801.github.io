@@ -134,7 +134,8 @@ set number 開啟行數顯示
 [學習紀錄](https://docs.google.com/document/d/1s32QPhb5lg1lOj1ke2YFubwk6O8naeVqfNGvok5X3c4/edit?usp=sharing)
 # Java
 - [w3schools](https://www.w3schools.com/java/): 網站把所有常用的python syntax都列入，每次忘記直接來查
-
+- # Google Java Style Guide
+[http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
 ## Concurrency
 [Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
@@ -628,11 +629,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2MDQ1NjU4LC05Nzk2MjIzMTAsMTQxOT
-cwNTE4MywxNjU1NzcxMjQ2LDE0OTE0NjU3NDEsLTI4Nzg5ODI3
-OSwxNDA4NTg4MjY3LDE4MzQ3MjcxMTcsMTgxNjU0ODc4OSwyMT
-A2OTQyNTM4LDEzMjQwMDIxMTAsNTM3NDYyMTA3LDk1MTEzNDU2
-NSwxNzAzNDEyOTEyLDQ1MTY4ODc4NSwxNjkwNTA0MjUsMTI0Mz
-kxNDQzNCwtNzQ4NTM1NTY1LDk1MDA5NDkxOCwtMzQwOTUxODQ2
+eyJoaXN0b3J5IjpbMTM1Njc3NzQxMyw1MzYwNDU2NTgsLTk3OT
+YyMjMxMCwxNDE5NzA1MTgzLDE2NTU3NzEyNDYsMTQ5MTQ2NTc0
+MSwtMjg3ODk4Mjc5LDE0MDg1ODgyNjcsMTgzNDcyNzExNywxOD
+E2NTQ4Nzg5LDIxMDY5NDI1MzgsMTMyNDAwMjExMCw1Mzc0NjIx
+MDcsOTUxMTM0NTY1LDE3MDM0MTI5MTIsNDUxNjg4Nzg1LDE2OT
+A1MDQyNSwxMjQzOTE0NDM0LC03NDg1MzU1NjUsOTUwMDk0OTE4
 XX0=
 -->
