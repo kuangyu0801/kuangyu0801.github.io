@@ -273,6 +273,12 @@ Arrays.copyOf(int[] original, int newLength);
 // fill the array with designated value
 Arrays.fill(array, value);
 ```
+###  List
+```markdown
+// 把一個list全部加到另外一個list裡
+aList.addAll(bList);
+// 把list 
+```
 ### [Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
 
 ```markdown
@@ -647,7 +653,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjkxMDIxOCwtMTk4NjczMTc3MiwxMT
+eyJoaXN0b3J5IjpbLTM4OTYyNTgzMiwtMTk4NjczMTc3MiwxMT
 M1NzgxNTg5LDEzNTY3Nzc0MTMsNTM2MDQ1NjU4LC05Nzk2MjIz
 MTAsMTQxOTcwNTE4MywxNjU1NzcxMjQ2LDE0OTE0NjU3NDEsLT
 I4Nzg5ODI3OSwxNDA4NTg4MjY3LDE4MzQ3MjcxMTcsMTgxNjU0
