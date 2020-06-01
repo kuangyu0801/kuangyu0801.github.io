@@ -274,11 +274,15 @@ Arrays.copyOf(int[] original, int newLength);
 Arrays.fill(array, value);
 ```
 ###  List
+[https://docs.oracle.com/javase/8/docs/api/java/util/List.html](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)
 ```markdown
 // 把一個list全部加到另外一個list裡
-aList.addAll(bList);
-// 把list 
+someList.addAll(anotherList);
+// 把list輸出成array;
+int[] arr = new int[someList.size()];
+someList.toArray(arr);
 ```
+
 ### [Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
 
 ```markdown
@@ -653,11 +657,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTYyNTgzMiwtMTk4NjczMTc3MiwxMT
-M1NzgxNTg5LDEzNTY3Nzc0MTMsNTM2MDQ1NjU4LC05Nzk2MjIz
-MTAsMTQxOTcwNTE4MywxNjU1NzcxMjQ2LDE0OTE0NjU3NDEsLT
-I4Nzg5ODI3OSwxNDA4NTg4MjY3LDE4MzQ3MjcxMTcsMTgxNjU0
-ODc4OSwyMTA2OTQyNTM4LDEzMjQwMDIxMTAsNTM3NDYyMTA3LD
-k1MTEzNDU2NSwxNzAzNDEyOTEyLDQ1MTY4ODc4NSwxNjkwNTA0
-MjVdfQ==
+eyJoaXN0b3J5IjpbLTE2MDE1ODMyMjEsLTE5ODY3MzE3NzIsMT
+EzNTc4MTU4OSwxMzU2Nzc3NDEzLDUzNjA0NTY1OCwtOTc5NjIy
+MzEwLDE0MTk3MDUxODMsMTY1NTc3MTI0NiwxNDkxNDY1NzQxLC
+0yODc4OTgyNzksMTQwODU4ODI2NywxODM0NzI3MTE3LDE4MTY1
+NDg3ODksMjEwNjk0MjUzOCwxMzI0MDAyMTEwLDUzNzQ2MjEwNy
+w5NTExMzQ1NjUsMTcwMzQxMjkxMiw0NTE2ODg3ODUsMTY5MDUw
+NDI1XX0=
 -->
