@@ -313,7 +313,7 @@ HashMap.put(K key, V value);
 Set<K> = HashMap.keySet();
 
 Set<Map.Entry<K,V>> = HashMap.entrySet();
-// Java HashMap無法直接return iterator, 必須先return entry set再, get entry set的 iterator
+// Java HashMap無法直接return iterator(沒有繼承Set), 必須先return entry set再, get entry set的 iterator
 
 ```
 Traverse through a HashMap in Java: [https://www.geeksforgeeks.org/traverse-through-a-hashmap-in-java/](https://www.geeksforgeeks.org/traverse-through-a-hashmap-in-java/)
@@ -678,11 +678,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTc5NjY3NSwtMTYwMTU4MzIyMSwtMT
-k4NjczMTc3MiwxMTM1NzgxNTg5LDEzNTY3Nzc0MTMsNTM2MDQ1
-NjU4LC05Nzk2MjIzMTAsMTQxOTcwNTE4MywxNjU1NzcxMjQ2LD
-E0OTE0NjU3NDEsLTI4Nzg5ODI3OSwxNDA4NTg4MjY3LDE4MzQ3
-MjcxMTcsMTgxNjU0ODc4OSwyMTA2OTQyNTM4LDEzMjQwMDIxMT
-AsNTM3NDYyMTA3LDk1MTEzNDU2NSwxNzAzNDEyOTEyLDQ1MTY4
-ODc4NV19
+eyJoaXN0b3J5IjpbODc4NTA2MTM0LC0xNjAxNTgzMjIxLC0xOT
+g2NzMxNzcyLDExMzU3ODE1ODksMTM1Njc3NzQxMyw1MzYwNDU2
+NTgsLTk3OTYyMjMxMCwxNDE5NzA1MTgzLDE2NTU3NzEyNDYsMT
+Q5MTQ2NTc0MSwtMjg3ODk4Mjc5LDE0MDg1ODgyNjcsMTgzNDcy
+NzExNywxODE2NTQ4Nzg5LDIxMDY5NDI1MzgsMTMyNDAwMjExMC
+w1Mzc0NjIxMDcsOTUxMTM0NTY1LDE3MDM0MTI5MTIsNDUxNjg4
+Nzg1XX0=
 -->
