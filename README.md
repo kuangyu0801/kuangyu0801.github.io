@@ -240,6 +240,8 @@ Nr.|1st|2nd|3rd
 ## Frequent-Used Library
 
 Object cloning means to create an exact copy of the original object.
+###  Bitwise operators in Java
+[https://www.geeksforgeeks.org/bitwise-operators-in-java/](https://www.geeksforgeeks.org/bitwise-operators-in-java/)
 
 ### Generic Type
 Always states the type explicitly!
@@ -418,6 +420,8 @@ class Solution {
 a ^ b; // a XOR b
 a & b; // a AND b
 a | b; // a OR b
+a << n; // a right shift with n bit
+~a ; // complement of a
 ```
 
 ### 380. Insert Delete GetRandom O(1)
@@ -637,11 +641,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDY4MzM0MCwxMzU2Nzc3NDEzLDUzNj
-A0NTY1OCwtOTc5NjIyMzEwLDE0MTk3MDUxODMsMTY1NTc3MTI0
-NiwxNDkxNDY1NzQxLC0yODc4OTgyNzksMTQwODU4ODI2NywxOD
-M0NzI3MTE3LDE4MTY1NDg3ODksMjEwNjk0MjUzOCwxMzI0MDAy
-MTEwLDUzNzQ2MjEwNyw5NTExMzQ1NjUsMTcwMzQxMjkxMiw0NT
-E2ODg3ODUsMTY5MDUwNDI1LDEyNDM5MTQ0MzQsLTc0ODUzNTU2
-NV19
+eyJoaXN0b3J5IjpbLTE2MTI5NjIwMTcsMTM1Njc3NzQxMyw1Mz
+YwNDU2NTgsLTk3OTYyMjMxMCwxNDE5NzA1MTgzLDE2NTU3NzEy
+NDYsMTQ5MTQ2NTc0MSwtMjg3ODk4Mjc5LDE0MDg1ODgyNjcsMT
+gzNDcyNzExNywxODE2NTQ4Nzg5LDIxMDY5NDI1MzgsMTMyNDAw
+MjExMCw1Mzc0NjIxMDcsOTUxMTM0NTY1LDE3MDM0MTI5MTIsND
+UxNjg4Nzg1LDE2OTA1MDQyNSwxMjQzOTE0NDM0LC03NDg1MzU1
+NjVdfQ==
 -->
