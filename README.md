@@ -415,7 +415,8 @@ class Solution {
     }
 }
 ```
-
+### 347. Top K Frequent Elements (Medium)
+[https://www.youtube.com/watch?v=lm6pBga98-w](https://www.youtube.com/watch?v=lm6pBga98-w)
 ### 371. Sum of Two Integers (Easy)
 這題要用遞迴，熟悉Java bit-wise operation
 ```
@@ -645,11 +646,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTc4MTU4OSwxMzU2Nzc3NDEzLDUzNj
-A0NTY1OCwtOTc5NjIyMzEwLDE0MTk3MDUxODMsMTY1NTc3MTI0
-NiwxNDkxNDY1NzQxLC0yODc4OTgyNzksMTQwODU4ODI2NywxOD
-M0NzI3MTE3LDE4MTY1NDg3ODksMjEwNjk0MjUzOCwxMzI0MDAy
-MTEwLDUzNzQ2MjEwNyw5NTExMzQ1NjUsMTcwMzQxMjkxMiw0NT
-E2ODg3ODUsMTY5MDUwNDI1LDEyNDM5MTQ0MzQsLTc0ODUzNTU2
-NV19
+eyJoaXN0b3J5IjpbLTE5ODY3MzE3NzIsMTEzNTc4MTU4OSwxMz
+U2Nzc3NDEzLDUzNjA0NTY1OCwtOTc5NjIyMzEwLDE0MTk3MDUx
+ODMsMTY1NTc3MTI0NiwxNDkxNDY1NzQxLC0yODc4OTgyNzksMT
+QwODU4ODI2NywxODM0NzI3MTE3LDE4MTY1NDg3ODksMjEwNjk0
+MjUzOCwxMzI0MDAyMTEwLDUzNzQ2MjEwNyw5NTExMzQ1NjUsMT
+cwMzQxMjkxMiw0NTE2ODg3ODUsMTY5MDUwNDI1LDEyNDM5MTQ0
+MzRdfQ==
 -->
