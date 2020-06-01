@@ -413,7 +413,12 @@ class Solution {
 ```
 
 ### 371. Sum of Two Integers (Easy)
-這題要用遞迴，
+這題要用遞迴，熟悉Java bit-wise operation
+```
+a ^ b; // a XOR b
+a & b; // a AND b
+a | b; // a OR b
+```
 
 ### 380. Insert Delete GetRandom O(1)
 [花花醬解法](https://www.youtube.com/watch?v=y240Qh9H9uk)
@@ -632,7 +637,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDE0MDE0MywxMzU2Nzc3NDEzLDUzNj
+eyJoaXN0b3J5IjpbLTk0NDY4MzM0MCwxMzU2Nzc3NDEzLDUzNj
 A0NTY1OCwtOTc5NjIyMzEwLDE0MTk3MDUxODMsMTY1NTc3MTI0
 NiwxNDkxNDY1NzQxLC0yODc4OTgyNzksMTQwODU4ODI2NywxOD
 M0NzI3MTE3LDE4MTY1NDg3ODksMjEwNjk0MjUzOCwxMzI0MDAy
