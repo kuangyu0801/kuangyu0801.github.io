@@ -222,7 +222,7 @@ Sun|Mon|Tue|Wed|Thu|Fri|Sat
 -|-|-|18(+1)|-|-|
 5.24|5.25|5.26|5.27|5.28|5.29|5.30
 -|19(+1)|-|-|-|20(+1)|-
--|21(+1)|-|-|-|-|-
+-|22(+2)|-|-|-|-|-
 
 
 Nr.|1st|2nd|3rd
@@ -233,6 +233,7 @@ Nr.|1st|2nd|3rd
 4| v | - | -
 15| v | - | -
 124| v | - | - 
+347| v | - | -
 371| v | - | - 
 380| v | - | - 
 383| v | - | - 
@@ -521,6 +522,8 @@ public class Solution {
 記住Java還是support shift >>
 
 
+### 692
+
 # Android Development
 ## Reference
 ### 谷歌官方教程
@@ -678,11 +681,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc4NTA2MTM0LC0xNjAxNTgzMjIxLC0xOT
-g2NzMxNzcyLDExMzU3ODE1ODksMTM1Njc3NzQxMyw1MzYwNDU2
-NTgsLTk3OTYyMjMxMCwxNDE5NzA1MTgzLDE2NTU3NzEyNDYsMT
-Q5MTQ2NTc0MSwtMjg3ODk4Mjc5LDE0MDg1ODgyNjcsMTgzNDcy
-NzExNywxODE2NTQ4Nzg5LDIxMDY5NDI1MzgsMTMyNDAwMjExMC
-w1Mzc0NjIxMDcsOTUxMTM0NTY1LDE3MDM0MTI5MTIsNDUxNjg4
-Nzg1XX0=
+eyJoaXN0b3J5IjpbMTE2Nzk0MzY1OCw4Nzg1MDYxMzQsLTE2MD
+E1ODMyMjEsLTE5ODY3MzE3NzIsMTEzNTc4MTU4OSwxMzU2Nzc3
+NDEzLDUzNjA0NTY1OCwtOTc5NjIyMzEwLDE0MTk3MDUxODMsMT
+Y1NTc3MTI0NiwxNDkxNDY1NzQxLC0yODc4OTgyNzksMTQwODU4
+ODI2NywxODM0NzI3MTE3LDE4MTY1NDg3ODksMjEwNjk0MjUzOC
+wxMzI0MDAyMTEwLDUzNzQ2MjEwNyw5NTExMzQ1NjUsMTcwMzQx
+MjkxMl19
 -->
