@@ -222,7 +222,7 @@ Sun|Mon|Tue|Wed|Thu|Fri|Sat
 -|-|-|18(+1)|-|-|
 5.24|5.25|5.26|5.27|5.28|5.29|5.30
 -|19(+1)|-|-|-|20(+1)|-
--|21(+1)|-|-|-|2|-
+-|21(+1)|-|-|-|-|-
 
 
 Nr.|1st|2nd|3rd
@@ -425,6 +425,8 @@ a | b; // a OR b
 a << n; // a right shift with n bit
 ~a ; // complement of a
 ```
+解法
+[https://www.youtube.com/watch?v=Pi7sMZWIIXE](https://www.youtube.com/watch?v=Pi7sMZWIIXE)
 
 ### 380. Insert Delete GetRandom O(1)
 [花花醬解法](https://www.youtube.com/watch?v=y240Qh9H9uk)
@@ -643,7 +645,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjcyMTU2NywxMzU2Nzc3NDEzLDUzNj
+eyJoaXN0b3J5IjpbMTEzNTc4MTU4OSwxMzU2Nzc3NDEzLDUzNj
 A0NTY1OCwtOTc5NjIyMzEwLDE0MTk3MDUxODMsMTY1NTc3MTI0
 NiwxNDkxNDY1NzQxLC0yODc4OTgyNzksMTQwODU4ODI2NywxOD
 M0NzI3MTE3LDE4MTY1NDg3ODksMjEwNjk0MjUzOCwxMzI0MDAy
