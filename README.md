@@ -313,6 +313,22 @@ HashMap.put(K key, V value);
 Set<K> = HashMap.keySet();
 
 ```
+Traverse through a HashMap in Java: [https://www.geeksforgeeks.org/traverse-through-a-hashmap-in-java/](https://www.geeksforgeeks.org/traverse-through-a-hashmap-in-java/)
+First use 
+
+```
+entrySet();
+
+        Iterator hmIterator = hm.entrySet().iterator(); 
+  
+        while (hmIterator.hasNext()) { 
+            Map.Entry mapElement = (Map.Entry)hmIterator.next(); 
+            int marks = ((int)mapElement.getValue() + 10); 
+            System.out.println(mapElement.getKey() + " : " + marks); 
+        } 
+```
+
+
 
 ### [Character](https://docs.oracle.com/javase/7/docs/api/java/lang/Character.html)
 ```markdown
@@ -659,7 +675,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2MzkwMTA3LC0xNjAxNTgzMjIxLC0xOT
+eyJoaXN0b3J5IjpbMTMwODA3Njg5LC0xNjAxNTgzMjIxLC0xOT
 g2NzMxNzcyLDExMzU3ODE1ODksMTM1Njc3NzQxMyw1MzYwNDU2
 NTgsLTk3OTYyMjMxMCwxNDE5NzA1MTgzLDE2NTU3NzEyNDYsMT
 Q5MTQ2NTc0MSwtMjg3ODk4Mjc5LDE0MDg1ODgyNjcsMTgzNDcy
