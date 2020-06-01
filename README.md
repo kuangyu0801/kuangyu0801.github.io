@@ -262,6 +262,7 @@ Stack<Integer> stack = new Stack<>();
 collection.sort()
 Arrays.sort()
 Previously, Java’s Arrays.sort method used Quicksort for arrays of primitives and Merge sort for arrays of objects. In the latest versions of Java, Arrays.sort method and Collection.sort() uses Timsort.
+
 ### Arrays
 ```markdown
 // return a copy array
@@ -282,6 +283,7 @@ someList.addAll(anotherList);
 int[] arr = new int[someList.size()];
 someList.toArray(arr);
 ```
+List to array in Java: [https://www.geeksforgeeks.org/list-array-java/](https://www.geeksforgeeks.org/list-array-java/)
 
 ### [Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
 
@@ -657,11 +659,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDE1ODMyMjEsLTE5ODY3MzE3NzIsMT
-EzNTc4MTU4OSwxMzU2Nzc3NDEzLDUzNjA0NTY1OCwtOTc5NjIy
-MzEwLDE0MTk3MDUxODMsMTY1NTc3MTI0NiwxNDkxNDY1NzQxLC
-0yODc4OTgyNzksMTQwODU4ODI2NywxODM0NzI3MTE3LDE4MTY1
-NDg3ODksMjEwNjk0MjUzOCwxMzI0MDAyMTEwLDUzNzQ2MjEwNy
-w5NTExMzQ1NjUsMTcwMzQxMjkxMiw0NTE2ODg3ODUsMTY5MDUw
-NDI1XX0=
+eyJoaXN0b3J5IjpbNzI2MzkwMTA3LC0xNjAxNTgzMjIxLC0xOT
+g2NzMxNzcyLDExMzU3ODE1ODksMTM1Njc3NzQxMyw1MzYwNDU2
+NTgsLTk3OTYyMjMxMCwxNDE5NzA1MTgzLDE2NTU3NzEyNDYsMT
+Q5MTQ2NTc0MSwtMjg3ODk4Mjc5LDE0MDg1ODgyNjcsMTgzNDcy
+NzExNywxODE2NTQ4Nzg5LDIxMDY5NDI1MzgsMTMyNDAwMjExMC
+w1Mzc0NjIxMDcsOTUxMTM0NTY1LDE3MDM0MTI5MTIsNDUxNjg4
+Nzg1XX0=
 -->
