@@ -210,6 +210,8 @@ numpy.linalg.solve
 
 ## [高頻一百連結](https://leetcode.com/problemset/top-interview-questions/)
 
+###
+
 ## 紀錄
 
 Sun|Mon|Tue|Wed|Thu|Fri|Sat  
@@ -449,6 +451,8 @@ class Solution {
 ```
 
 ### 341. Flatten Nested List Iterator
+[https://leetcode.jp/leetcode-341-flatten-nested-list-iterator-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-341-flatten-nested-list-iterator-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
+
 可以用stack解
 
 ### 347. Top K Frequent Elements (Medium)
@@ -685,11 +689,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODczMzkwNjAsMTE2Nzk0MzY1OCw4Nz
-g1MDYxMzQsLTE2MDE1ODMyMjEsLTE5ODY3MzE3NzIsMTEzNTc4
-MTU4OSwxMzU2Nzc3NDEzLDUzNjA0NTY1OCwtOTc5NjIyMzEwLD
-E0MTk3MDUxODMsMTY1NTc3MTI0NiwxNDkxNDY1NzQxLC0yODc4
-OTgyNzksMTQwODU4ODI2NywxODM0NzI3MTE3LDE4MTY1NDg3OD
-ksMjEwNjk0MjUzOCwxMzI0MDAyMTEwLDUzNzQ2MjEwNyw5NTEx
-MzQ1NjVdfQ==
+eyJoaXN0b3J5IjpbMTY3NzcyNzI5NiwtMTI4NzMzOTA2MCwxMT
+Y3OTQzNjU4LDg3ODUwNjEzNCwtMTYwMTU4MzIyMSwtMTk4Njcz
+MTc3MiwxMTM1NzgxNTg5LDEzNTY3Nzc0MTMsNTM2MDQ1NjU4LC
+05Nzk2MjIzMTAsMTQxOTcwNTE4MywxNjU1NzcxMjQ2LDE0OTE0
+NjU3NDEsLTI4Nzg5ODI3OSwxNDA4NTg4MjY3LDE4MzQ3MjcxMT
+csMTgxNjU0ODc4OSwyMTA2OTQyNTM4LDEzMjQwMDIxMTAsNTM3
+NDYyMTA3XX0=
 -->
