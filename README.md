@@ -210,7 +210,9 @@ numpy.linalg.solve
 
 ## [高頻一百連結](https://leetcode.com/problemset/top-interview-questions/)
 
-###
+### 解答網站
+- 某人簡單明瞭的部落格，答案是java[https://leetcode.jp/problems.php](https://leetcode.jp/problems.php)
+- 花花醬，部分有視頻講解，[https://zxi.mytechroad.com/blog/](https://zxi.mytechroad.com/blog/)
 
 ## 紀錄
 
@@ -689,7 +691,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NzcyNzI5NiwtMTI4NzMzOTA2MCwxMT
+eyJoaXN0b3J5IjpbMTc3NzA3OTU2NCwtMTI4NzMzOTA2MCwxMT
 Y3OTQzNjU4LDg3ODUwNjEzNCwtMTYwMTU4MzIyMSwtMTk4Njcz
 MTc3MiwxMTM1NzgxNTg5LDEzNTY3Nzc0MTMsNTM2MDQ1NjU4LC
 05Nzk2MjIzMTAsMTQxOTcwNTE4MywxNjU1NzcxMjQ2LDE0OTE0
