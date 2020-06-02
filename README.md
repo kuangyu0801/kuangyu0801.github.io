@@ -222,7 +222,7 @@ Sun|Mon|Tue|Wed|Thu|Fri|Sat
 -|-|-|18(+1)|-|-|
 5.24|5.25|5.26|5.27|5.28|5.29|5.30
 -|19(+1)|-|-|-|20(+1)|-
--|22(+2)|-|-|-|-|-
+-|22(+2)|23(+1)|-|-|-|-
 
 
 Nr.|1st|2nd|3rd
@@ -447,6 +447,10 @@ class Solution {
     }
 }
 ```
+
+### 341. Flatten Nested List Iterator
+可以用stack解
+
 ### 347. Top K Frequent Elements (Medium)
 相關題目：#692
 [https://www.youtube.com/watch?v=lm6pBga98-w](https://www.youtube.com/watch?v=lm6pBga98-w)
@@ -681,11 +685,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2Nzk0MzY1OCw4Nzg1MDYxMzQsLTE2MD
-E1ODMyMjEsLTE5ODY3MzE3NzIsMTEzNTc4MTU4OSwxMzU2Nzc3
-NDEzLDUzNjA0NTY1OCwtOTc5NjIyMzEwLDE0MTk3MDUxODMsMT
-Y1NTc3MTI0NiwxNDkxNDY1NzQxLC0yODc4OTgyNzksMTQwODU4
-ODI2NywxODM0NzI3MTE3LDE4MTY1NDg3ODksMjEwNjk0MjUzOC
-wxMzI0MDAyMTEwLDUzNzQ2MjEwNyw5NTExMzQ1NjUsMTcwMzQx
-MjkxMl19
+eyJoaXN0b3J5IjpbLTEyODczMzkwNjAsMTE2Nzk0MzY1OCw4Nz
+g1MDYxMzQsLTE2MDE1ODMyMjEsLTE5ODY3MzE3NzIsMTEzNTc4
+MTU4OSwxMzU2Nzc3NDEzLDUzNjA0NTY1OCwtOTc5NjIyMzEwLD
+E0MTk3MDUxODMsMTY1NTc3MTI0NiwxNDkxNDY1NzQxLC0yODc4
+OTgyNzksMTQwODU4ODI2NywxODM0NzI3MTE3LDE4MTY1NDg3OD
+ksMjEwNjk0MjUzOCwxMzI0MDAyMTEwLDUzNzQ2MjEwNyw5NTEx
+MzQ1NjVdfQ==
 -->
