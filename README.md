@@ -456,7 +456,7 @@ class Solution {
 ### 341. Flatten Nested List Iterator
 [https://leetcode.jp/leetcode-341-flatten-nested-list-iterator-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-341-flatten-nested-list-iterator-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
 
-可以用stack解
+可以用stack解: [http://www.noteanddata.com/leetcode-341-Flatten-Nested-List-Iterator-java-solution-note.html](http://www.noteanddata.com/leetcode-341-Flatten-Nested-List-Iterator-java-solution-note.html)
 
 ### 347. Top K Frequent Elements (Medium)
 相關題目：#692
@@ -692,11 +692,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQ5OTYsLTEyODczMzkwNjAsMTE2Nz
-k0MzY1OCw4Nzg1MDYxMzQsLTE2MDE1ODMyMjEsLTE5ODY3MzE3
-NzIsMTEzNTc4MTU4OSwxMzU2Nzc3NDEzLDUzNjA0NTY1OCwtOT
-c5NjIyMzEwLDE0MTk3MDUxODMsMTY1NTc3MTI0NiwxNDkxNDY1
-NzQxLC0yODc4OTgyNzksMTQwODU4ODI2NywxODM0NzI3MTE3LD
-E4MTY1NDg3ODksMjEwNjk0MjUzOCwxMzI0MDAyMTEwLDUzNzQ2
-MjEwN119
+eyJoaXN0b3J5IjpbLTIwODk5NjI2NjcsLTE0MzQ5OTYsLTEyOD
+czMzkwNjAsMTE2Nzk0MzY1OCw4Nzg1MDYxMzQsLTE2MDE1ODMy
+MjEsLTE5ODY3MzE3NzIsMTEzNTc4MTU4OSwxMzU2Nzc3NDEzLD
+UzNjA0NTY1OCwtOTc5NjIyMzEwLDE0MTk3MDUxODMsMTY1NTc3
+MTI0NiwxNDkxNDY1NzQxLC0yODc4OTgyNzksMTQwODU4ODI2Ny
+wxODM0NzI3MTE3LDE4MTY1NDg3ODksMjEwNjk0MjUzOCwxMzI0
+MDAyMTEwXX0=
 -->
