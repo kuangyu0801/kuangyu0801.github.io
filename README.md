@@ -456,6 +456,8 @@ class Solution {
 
 ### 341. Flatten Nested List Iterator
 [https://leetcode.jp/leetcode-341-flatten-nested-list-iterator-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-341-flatten-nested-list-iterator-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
+直觀的方法就是一次展開所有的nested list然後存到自己的list裡面，之後直接調用list的metho
+
 
 可以用stack解: [http://www.noteanddata.com/leetcode-341-Flatten-Nested-List-Iterator-java-solution-note.html](http://www.noteanddata.com/leetcode-341-Flatten-Nested-List-Iterator-java-solution-note.html)
 
@@ -693,11 +695,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjg3NDQxNywtMTQzNDk5NiwtMTI4Nz
-MzOTA2MCwxMTY3OTQzNjU4LDg3ODUwNjEzNCwtMTYwMTU4MzIy
-MSwtMTk4NjczMTc3MiwxMTM1NzgxNTg5LDEzNTY3Nzc0MTMsNT
-M2MDQ1NjU4LC05Nzk2MjIzMTAsMTQxOTcwNTE4MywxNjU1Nzcx
-MjQ2LDE0OTE0NjU3NDEsLTI4Nzg5ODI3OSwxNDA4NTg4MjY3LD
-E4MzQ3MjcxMTcsMTgxNjU0ODc4OSwyMTA2OTQyNTM4LDEzMjQw
-MDIxMTBdfQ==
+eyJoaXN0b3J5IjpbLTE5OTY0NTI3NzgsLTYxMjg3NDQxNywtMT
+QzNDk5NiwtMTI4NzMzOTA2MCwxMTY3OTQzNjU4LDg3ODUwNjEz
+NCwtMTYwMTU4MzIyMSwtMTk4NjczMTc3MiwxMTM1NzgxNTg5LD
+EzNTY3Nzc0MTMsNTM2MDQ1NjU4LC05Nzk2MjIzMTAsMTQxOTcw
+NTE4MywxNjU1NzcxMjQ2LDE0OTE0NjU3NDEsLTI4Nzg5ODI3OS
+wxNDA4NTg4MjY3LDE4MzQ3MjcxMTcsMTgxNjU0ODc4OSwyMTA2
+OTQyNTM4XX0=
 -->
