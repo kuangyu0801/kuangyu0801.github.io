@@ -372,6 +372,11 @@ int ran = Math.random();
 ### LinkedList
 
 
+### Deque
+Java 如果要用stack的話，建議用Deque而不是Stack
+[https://www.geeksforgeeks.org/deque-interface-java-example/](https://www.geeksforgeeks.org/deque-interface-java-example/)
+
+
 
 ## Problems
 
@@ -458,7 +463,7 @@ class Solution {
 #### 解法一：
 直觀的方法就是一次展開所有的nested list然後存到自己的list裡面，之後直接調用list的method
 [https://leetcode.jp/leetcode-341-flatten-nested-list-iterator-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-341-flatten-nested-list-iterator-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
-#### 解法二(難：
+#### 解法二(難）：
 可以用stack解，逐次展開: [http://www.noteanddata.com/leetcode-341-Flatten-Nested-List-Iterator-java-solution-note.html](http://www.noteanddata.com/leetcode-341-Flatten-Nested-List-Iterator-java-solution-note.html)
 
 ### 347. Top K Frequent Elements (Medium)
@@ -695,11 +700,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ0MjU0OTYsMjc0OTY0NTQ3LC03MT
-IzMjk1ODYsLTYxMjg3NDQxNywtMTQzNDk5NiwtMTI4NzMzOTA2
-MCwxMTY3OTQzNjU4LDg3ODUwNjEzNCwtMTYwMTU4MzIyMSwtMT
-k4NjczMTc3MiwxMTM1NzgxNTg5LDEzNTY3Nzc0MTMsNTM2MDQ1
-NjU4LC05Nzk2MjIzMTAsMTQxOTcwNTE4MywxNjU1NzcxMjQ2LD
-E0OTE0NjU3NDEsLTI4Nzg5ODI3OSwxNDA4NTg4MjY3LDE4MzQ3
-MjcxMTddfQ==
+eyJoaXN0b3J5IjpbLTI5OTg1ODgyMSwyNzQ5NjQ1NDcsLTcxMj
+MyOTU4NiwtNjEyODc0NDE3LC0xNDM0OTk2LC0xMjg3MzM5MDYw
+LDExNjc5NDM2NTgsODc4NTA2MTM0LC0xNjAxNTgzMjIxLC0xOT
+g2NzMxNzcyLDExMzU3ODE1ODksMTM1Njc3NzQxMyw1MzYwNDU2
+NTgsLTk3OTYyMjMxMCwxNDE5NzA1MTgzLDE2NTU3NzEyNDYsMT
+Q5MTQ2NTc0MSwtMjg3ODk4Mjc5LDE0MDg1ODgyNjcsMTgzNDcy
+NzExN119
 -->
