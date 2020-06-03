@@ -40,8 +40,8 @@ Mac 鍵符號
  - [ ] Java IO
  - [ ] Java concurrency
  - [ ] Java Casting.... more detail on overloading and overriding
- - [ ]  Java 關鍵字final static this https://www.bilibili.com/video/BV1uJ411k7wy/?p=190
- - [ ]  Java
+ - [ ]  [Java 關鍵字final static this] (https://www.bilibili.com/video/BV1uJ411k7wy/?p=190)
+ - [ ]  Java privacy: private, protected.... review
  - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
 
 # Prepare for Interview
@@ -797,7 +797,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTM5Nzg2OCwxODU4NjI0OTAwLDQ3Mz
+eyJoaXN0b3J5IjpbLTYwMTQ5NTg5MiwxODU4NjI0OTAwLDQ3Mz
 cyMjAzNCw2Mjk3NDMyOTMsLTEzOTY0Mzk5NywtMjk5ODU4ODIx
 LDI3NDk2NDU0NywtNzEyMzI5NTg2LC02MTI4NzQ0MTcsLTE0Mz
 Q5OTYsLTEyODczMzkwNjAsMTE2Nzk0MzY1OCw4Nzg1MDYxMzQs
