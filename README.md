@@ -96,7 +96,7 @@ Minimum Qualifications
 	- [https://sp19.datastructur.es/](https://sp19.datastructur.es/)
 	- Screencast of sp18
 - [《Algorithms, Part I》by Princeton](https://www.coursera.org/learn/algorithms-part1/home/welcome)
-- [《The Missing Semester of Your CS Education 》by MIT](https://missing.csail.mit.edu/)
+- [《The Missing Semester of Your CS Education 》by MIT](https://missing.csail.mit.edu/): 課程教授許多“職業”工程師應該要會知道的技能：shell-command, git,
 - [《 Introduction to Git and GitHub by Google》by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
 -  [《Android Developer Fundamentals》by Google](https://developer.android.com/courses/fundamentals-training/toc-v2)
 
@@ -718,11 +718,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY0Mzk5NywtMjk5ODU4ODIxLDI3ND
-k2NDU0NywtNzEyMzI5NTg2LC02MTI4NzQ0MTcsLTE0MzQ5OTYs
-LTEyODczMzkwNjAsMTE2Nzk0MzY1OCw4Nzg1MDYxMzQsLTE2MD
-E1ODMyMjEsLTE5ODY3MzE3NzIsMTEzNTc4MTU4OSwxMzU2Nzc3
-NDEzLDUzNjA0NTY1OCwtOTc5NjIyMzEwLDE0MTk3MDUxODMsMT
-Y1NTc3MTI0NiwxNDkxNDY1NzQxLC0yODc4OTgyNzksMTQwODU4
-ODI2N119
+eyJoaXN0b3J5IjpbLTEzMTc1NzE1MjQsLTEzOTY0Mzk5NywtMj
+k5ODU4ODIxLDI3NDk2NDU0NywtNzEyMzI5NTg2LC02MTI4NzQ0
+MTcsLTE0MzQ5OTYsLTEyODczMzkwNjAsMTE2Nzk0MzY1OCw4Nz
+g1MDYxMzQsLTE2MDE1ODMyMjEsLTE5ODY3MzE3NzIsMTEzNTc4
+MTU4OSwxMzU2Nzc3NDEzLDUzNjA0NTY1OCwtOTc5NjIyMzEwLD
+E0MTk3MDUxODMsMTY1NTc3MTI0NiwxNDkxNDY1NzQxLC0yODc4
+OTgyNzldfQ==
 -->
