@@ -5,7 +5,8 @@
 - [TODO](#todo)
 - [軟體工程師自學](#軟體工程師自學)
 - [Prepare for Interview](#prepare-for-interview)
-	* [Amazon Wants This](##amazon-wants-this
+	* [Amazon Wants This](##amazon-wants-this)
+	* [FACEBOOK Wants This](##face-bool-wants-this)
 
 
 
@@ -36,6 +37,7 @@ Mac 鍵符號
 - Caps Lock 鍵 ⇪
 
 # TODO
+- 持續閱讀給外行人的工程師自學手冊
 # Prepare for Interview
 Stage-1: JuneStuttgart small company -> Large company
 Stage-2: September Berlin or Munich large company
@@ -91,7 +93,7 @@ Minimum Qualifications
 
 # 軟體工程師自學
 
-## 參考
+## 給外行人的工程師自學手冊
 [這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
 這份文件是由現任職 Amazon 的 John Washam 整理而成。當初他會想要製作這份文件，是因為發現自學網頁開發的他，其實並不具備成為 Google 的工程師的電腦知識。在經過連續幾個月，每天 8-12 個小時的自學之後，雖然最後沒應徵上 Google，但也成功加入 Amazon 擔任軟體工程師。  
   
@@ -739,7 +741,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDgxNDI3LDYyOTc0MzI5MywtMTM5Nj
+eyJoaXN0b3J5IjpbNjE4MzI2NjY4LDYyOTc0MzI5MywtMTM5Nj
 QzOTk3LC0yOTk4NTg4MjEsMjc0OTY0NTQ3LC03MTIzMjk1ODYs
 LTYxMjg3NDQxNywtMTQzNDk5NiwtMTI4NzMzOTA2MCwxMTY3OT
 QzNjU4LDg3ODUwNjEzNCwtMTYwMTU4MzIyMSwtMTk4NjczMTc3
