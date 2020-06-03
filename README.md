@@ -309,12 +309,13 @@ str_array = np.ndarray.tostring(mean[0], precision=3)
 numpy.linalg.solve
 ```
 
-# 刷題 
+# 刷題找工作
 
 ## [高頻一百連結](https://leetcode.com/problemset/top-interview-questions/)
 
 ### 解答網站
 
+- [https://github.com/azl397985856/leetcode](https://github.com/azl397985856/leetcode)
 - 某人簡單明瞭的部落格，答案是java[https://leetcode.jp/problems.php](https://leetcode.jp/problems.php)
 - 花花醬，部分有視頻講解，代碼是c++ or  Python [https://zxi.mytechroad.com/blog/](https://zxi.mytechroad.com/blog/)
 
@@ -803,11 +804,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5MTc1MzksLTQyMzQ0MjE0NCwtNjAxND
-k1ODkyLDE4NTg2MjQ5MDAsNDczNzIyMDM0LDYyOTc0MzI5Mywt
-MTM5NjQzOTk3LC0yOTk4NTg4MjEsMjc0OTY0NTQ3LC03MTIzMj
-k1ODYsLTYxMjg3NDQxNywtMTQzNDk5NiwtMTI4NzMzOTA2MCwx
-MTY3OTQzNjU4LDg3ODUwNjEzNCwtMTYwMTU4MzIyMSwtMTk4Nj
-czMTc3MiwxMTM1NzgxNTg5LDEzNTY3Nzc0MTMsNTM2MDQ1NjU4
-XX0=
+eyJoaXN0b3J5IjpbNTc1MjQ5MzAsODY5MTc1MzksLTQyMzQ0Mj
+E0NCwtNjAxNDk1ODkyLDE4NTg2MjQ5MDAsNDczNzIyMDM0LDYy
+OTc0MzI5MywtMTM5NjQzOTk3LC0yOTk4NTg4MjEsMjc0OTY0NT
+Q3LC03MTIzMjk1ODYsLTYxMjg3NDQxNywtMTQzNDk5NiwtMTI4
+NzMzOTA2MCwxMTY3OTQzNjU4LDg3ODUwNjEzNCwtMTYwMTU4Mz
+IyMSwtMTk4NjczMTc3MiwxMTM1NzgxNTg5LDEzNTY3Nzc0MTNd
+fQ==
 -->
