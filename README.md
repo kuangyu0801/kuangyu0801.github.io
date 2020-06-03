@@ -44,6 +44,7 @@ Mac 鍵符號
  - [ ]  Java privacy: private, protected.... review
  - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
  - [ ]  692題[https://www.youtube.com/watch?v=POERw4yDVBw](https://www.youtube.com/watch?v=POERw4yDVBw)
+ - [ ] comparable interface review
 
 # Prepare for Interview
 Stage-1: JuneStuttgart small company -> Large company
@@ -372,7 +373,9 @@ Stack<Integer> stack = new Stack<>();
 ```markdown
  clone()
 ```
-### Sorting[https://www.geeksforgeeks.org/sorting-in-java/](https://www.geeksforgeeks.org/sorting-in-java/)
+### Sorting
+- [https://www.geeksforgeeks.org/sorting-in-java/](https://www.geeksforgeeks.org/sorting-in-java/)
+- [https://www.geeksforgeeks.org/collections-sort-java-examples/](https://www.geeksforgeeks.org/collections-sort-java-examples/)
 2 Ways:
 collection.sort()
 Arrays.sort()
@@ -814,11 +817,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjU1OTg3Nyw4ODI4OTM4NDksMTE0Nj
-MzNTk4MSw3ODkwMzM3MjIsNjc5MDMxNzg2LDg2OTE3NTM5LC00
-MjM0NDIxNDQsLTYwMTQ5NTg5MiwxODU4NjI0OTAwLDQ3MzcyMj
-AzNCw2Mjk3NDMyOTMsLTEzOTY0Mzk5NywtMjk5ODU4ODIxLDI3
-NDk2NDU0NywtNzEyMzI5NTg2LC02MTI4NzQ0MTcsLTE0MzQ5OT
-YsLTEyODczMzkwNjAsMTE2Nzk0MzY1OCw4Nzg1MDYxMzRdfQ==
+eyJoaXN0b3J5IjpbLTE5MzA0OTMzNDgsLTg4NjU1OTg3Nyw4OD
+I4OTM4NDksMTE0NjMzNTk4MSw3ODkwMzM3MjIsNjc5MDMxNzg2
+LDg2OTE3NTM5LC00MjM0NDIxNDQsLTYwMTQ5NTg5MiwxODU4Nj
+I0OTAwLDQ3MzcyMjAzNCw2Mjk3NDMyOTMsLTEzOTY0Mzk5Nywt
+Mjk5ODU4ODIxLDI3NDk2NDU0NywtNzEyMzI5NTg2LC02MTI4Nz
+Q0MTcsLTE0MzQ5OTYsLTEyODczMzkwNjAsMTE2Nzk0MzY1OF19
 
 -->
