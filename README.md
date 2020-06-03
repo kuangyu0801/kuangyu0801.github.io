@@ -565,8 +565,14 @@ class Solution {
     }
 }
 ```
+### 334. Increasing Triplet Subsequence (Medium)
+這題是greedy,
+[https://leetcode.jp/leetcode-334-increasing-triplet-subsequence-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-334-increasing-triplet-subsequence-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
+[https://zxi.mytechroad.com/blog/?s=334.+Increasing+Triplet+Subsequence](https://zxi.mytechroad.com/blog/?s=334.+Increasing+Triplet+Subsequence)
 
-### 341. Flatten Nested List Iterator
+[https://www.youtube.com/watch?v=HzeK7g8cD0Y](https://www.youtube.com/watch?v=HzeK7g8cD0Y)
+
+### 341. Flatten Nested List Iterator (Medium)
 #### 解法一：
 直觀的方法就是一次展開所有的nested list然後存到自己的list裡面，之後直接調用list的method
 [https://leetcode.jp/leetcode-341-flatten-nested-list-iterator-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-341-flatten-nested-list-iterator-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
@@ -807,11 +813,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjMzNTk4MSw3ODkwMzM3MjIsNjc5MD
-MxNzg2LDg2OTE3NTM5LC00MjM0NDIxNDQsLTYwMTQ5NTg5Miwx
-ODU4NjI0OTAwLDQ3MzcyMjAzNCw2Mjk3NDMyOTMsLTEzOTY0Mz
-k5NywtMjk5ODU4ODIxLDI3NDk2NDU0NywtNzEyMzI5NTg2LC02
-MTI4NzQ0MTcsLTE0MzQ5OTYsLTEyODczMzkwNjAsMTE2Nzk0Mz
-Y1OCw4Nzg1MDYxMzQsLTE2MDE1ODMyMjEsLTE5ODY3MzE3NzJd
-fQ==
+eyJoaXN0b3J5IjpbLTQyMzQ0MTg1NSwxMTQ2MzM1OTgxLDc4OT
+AzMzcyMiw2NzkwMzE3ODYsODY5MTc1MzksLTQyMzQ0MjE0NCwt
+NjAxNDk1ODkyLDE4NTg2MjQ5MDAsNDczNzIyMDM0LDYyOTc0Mz
+I5MywtMTM5NjQzOTk3LC0yOTk4NTg4MjEsMjc0OTY0NTQ3LC03
+MTIzMjk1ODYsLTYxMjg3NDQxNywtMTQzNDk5NiwtMTI4NzMzOT
+A2MCwxMTY3OTQzNjU4LDg3ODUwNjEzNCwtMTYwMTU4MzIyMV19
+
 -->
