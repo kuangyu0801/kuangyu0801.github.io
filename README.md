@@ -170,6 +170,11 @@ set number 開啟行數顯示
 
 
 ## Inheritance
+
+### Overriding vs Overloading
+
+
+
 ### Higher Order Function
 HOF在java-7必須要用interface來實作
 ```
@@ -789,11 +794,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTY3MzYyOSw0NzM3MjIwMzQsNjI5Nz
-QzMjkzLC0xMzk2NDM5OTcsLTI5OTg1ODgyMSwyNzQ5NjQ1NDcs
-LTcxMjMyOTU4NiwtNjEyODc0NDE3LC0xNDM0OTk2LC0xMjg3Mz
-M5MDYwLDExNjc5NDM2NTgsODc4NTA2MTM0LC0xNjAxNTgzMjIx
-LC0xOTg2NzMxNzcyLDExMzU3ODE1ODksMTM1Njc3NzQxMyw1Mz
-YwNDU2NTgsLTk3OTYyMjMxMCwxNDE5NzA1MTgzLDE2NTU3NzEy
-NDZdfQ==
+eyJoaXN0b3J5IjpbLTE5MzAxMjk4MzIsNDczNzIyMDM0LDYyOT
+c0MzI5MywtMTM5NjQzOTk3LC0yOTk4NTg4MjEsMjc0OTY0NTQ3
+LC03MTIzMjk1ODYsLTYxMjg3NDQxNywtMTQzNDk5NiwtMTI4Nz
+MzOTA2MCwxMTY3OTQzNjU4LDg3ODUwNjEzNCwtMTYwMTU4MzIy
+MSwtMTk4NjczMTc3MiwxMTM1NzgxNTg5LDEzNTY3Nzc0MTMsNT
+M2MDQ1NjU4LC05Nzk2MjIzMTAsMTQxOTcwNTE4MywxNjU1Nzcx
+MjQ2XX0=
 -->
