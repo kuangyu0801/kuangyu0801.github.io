@@ -125,6 +125,8 @@ Minimum Qualifications
 此兩門課是CS教育的核心，基礎不好地動山搖！
 CS
 
+Complexity 大[https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)
+
 ## The Missing Semester of Your CS Education
 ###  Course overview + the shell
 
@@ -742,11 +744,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Mjg5NzYyNyw2Mjk3NDMyOTMsLTEzOT
-Y0Mzk5NywtMjk5ODU4ODIxLDI3NDk2NDU0NywtNzEyMzI5NTg2
-LC02MTI4NzQ0MTcsLTE0MzQ5OTYsLTEyODczMzkwNjAsMTE2Nz
-k0MzY1OCw4Nzg1MDYxMzQsLTE2MDE1ODMyMjEsLTE5ODY3MzE3
-NzIsMTEzNTc4MTU4OSwxMzU2Nzc3NDEzLDUzNjA0NTY1OCwtOT
-c5NjIyMzEwLDE0MTk3MDUxODMsMTY1NTc3MTI0NiwxNDkxNDY1
-NzQxXX0=
+eyJoaXN0b3J5IjpbNTk5MjI4NSw2Mjk3NDMyOTMsLTEzOTY0Mz
+k5NywtMjk5ODU4ODIxLDI3NDk2NDU0NywtNzEyMzI5NTg2LC02
+MTI4NzQ0MTcsLTE0MzQ5OTYsLTEyODczMzkwNjAsMTE2Nzk0Mz
+Y1OCw4Nzg1MDYxMzQsLTE2MDE1ODMyMjEsLTE5ODY3MzE3NzIs
+MTEzNTc4MTU4OSwxMzU2Nzc3NDEzLDUzNjA0NTY1OCwtOTc5Nj
+IyMzEwLDE0MTk3MDUxODMsMTY1NTc3MTI0NiwxNDkxNDY1NzQx
+XX0=
 -->
