@@ -123,9 +123,9 @@ Minimum Qualifications
 
 ## Data Structure and Algorithm
 此兩門課是CS教育的核心，基礎不好地動山搖！
-CS
+軟體工程師遇到問題->選擇適合的演算法->選擇對應的資料結構：這兩點如果沒有學好，那就不用玩了！
 
-Complexity 大[https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)
+Complexity 大補懶人包[https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)：所有的資料結構與算法的complexity都整理在這邊
 
 ## The Missing Semester of Your CS Education
 ###  Course overview + the shell
@@ -744,11 +744,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5MjI4NSw2Mjk3NDMyOTMsLTEzOTY0Mz
-k5NywtMjk5ODU4ODIxLDI3NDk2NDU0NywtNzEyMzI5NTg2LC02
-MTI4NzQ0MTcsLTE0MzQ5OTYsLTEyODczMzkwNjAsMTE2Nzk0Mz
-Y1OCw4Nzg1MDYxMzQsLTE2MDE1ODMyMjEsLTE5ODY3MzE3NzIs
-MTEzNTc4MTU4OSwxMzU2Nzc3NDEzLDUzNjA0NTY1OCwtOTc5Nj
-IyMzEwLDE0MTk3MDUxODMsMTY1NTc3MTI0NiwxNDkxNDY1NzQx
-XX0=
+eyJoaXN0b3J5IjpbNDczNzIyMDM0LDYyOTc0MzI5MywtMTM5Nj
+QzOTk3LC0yOTk4NTg4MjEsMjc0OTY0NTQ3LC03MTIzMjk1ODYs
+LTYxMjg3NDQxNywtMTQzNDk5NiwtMTI4NzMzOTA2MCwxMTY3OT
+QzNjU4LDg3ODUwNjEzNCwtMTYwMTU4MzIyMSwtMTk4NjczMTc3
+MiwxMTM1NzgxNTg5LDEzNTY3Nzc0MTMsNTM2MDQ1NjU4LC05Nz
+k2MjIzMTAsMTQxOTcwNTE4MywxNjU1NzcxMjQ2LDE0OTE0NjU3
+NDFdfQ==
 -->
