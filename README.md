@@ -177,6 +177,10 @@ set number 開啟行數顯示
 ### Overriding vs Overloading
 [cs61b 2019 lec9 inheritance2](https://docs.google.com/presentation/d/15dNZyGIvXbBwkZX35BMRQx7Qjdu6i7Ul5-uovsxut-c/edit?usp=sharing)
 
+### Casting
+upcasting is always safe
+but down casting an object is only possible when this  is originally up-casted by 
+https://www.bilibili.com/video/BV1uJ411k7wy/?p=191
 
 ### Higher Order Function
 HOF在java-7必須要用interface來實作
@@ -797,11 +801,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTQ5NTg5MiwxODU4NjI0OTAwLDQ3Mz
-cyMjAzNCw2Mjk3NDMyOTMsLTEzOTY0Mzk5NywtMjk5ODU4ODIx
-LDI3NDk2NDU0NywtNzEyMzI5NTg2LC02MTI4NzQ0MTcsLTE0Mz
-Q5OTYsLTEyODczMzkwNjAsMTE2Nzk0MzY1OCw4Nzg1MDYxMzQs
-LTE2MDE1ODMyMjEsLTE5ODY3MzE3NzIsMTEzNTc4MTU4OSwxMz
-U2Nzc3NDEzLDUzNjA0NTY1OCwtOTc5NjIyMzEwLDE0MTk3MDUx
-ODNdfQ==
+eyJoaXN0b3J5IjpbMTc4MjcxNzE3NCwtNjAxNDk1ODkyLDE4NT
+g2MjQ5MDAsNDczNzIyMDM0LDYyOTc0MzI5MywtMTM5NjQzOTk3
+LC0yOTk4NTg4MjEsMjc0OTY0NTQ3LC03MTIzMjk1ODYsLTYxMj
+g3NDQxNywtMTQzNDk5NiwtMTI4NzMzOTA2MCwxMTY3OTQzNjU4
+LDg3ODUwNjEzNCwtMTYwMTU4MzIyMSwtMTk4NjczMTc3MiwxMT
+M1NzgxNTg5LDEzNTY3Nzc0MTMsNTM2MDQ1NjU4LC05Nzk2MjIz
+MTBdfQ==
 -->
