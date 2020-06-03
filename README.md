@@ -43,6 +43,7 @@ Mac 鍵符號
  - [ ]  [Java 關鍵字final static this] (https://www.bilibili.com/video/BV1uJ411k7wy/?p=190)
  - [ ]  Java privacy: private, protected.... review
  - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
+ - [ ]  692題[https://www.youtube.com/watch?v=POERw4yDVBw](https://www.youtube.com/watch?v=POERw4yDVBw)
 
 # Prepare for Interview
 Stage-1: JuneStuttgart small company -> Large company
@@ -806,11 +807,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5MDMzNzIyLDY3OTAzMTc4Niw4NjkxNz
-UzOSwtNDIzNDQyMTQ0LC02MDE0OTU4OTIsMTg1ODYyNDkwMCw0
-NzM3MjIwMzQsNjI5NzQzMjkzLC0xMzk2NDM5OTcsLTI5OTg1OD
-gyMSwyNzQ5NjQ1NDcsLTcxMjMyOTU4NiwtNjEyODc0NDE3LC0x
-NDM0OTk2LC0xMjg3MzM5MDYwLDExNjc5NDM2NTgsODc4NTA2MT
-M0LC0xNjAxNTgzMjIxLC0xOTg2NzMxNzcyLDExMzU3ODE1ODld
+eyJoaXN0b3J5IjpbMTE0NjMzNTk4MSw3ODkwMzM3MjIsNjc5MD
+MxNzg2LDg2OTE3NTM5LC00MjM0NDIxNDQsLTYwMTQ5NTg5Miwx
+ODU4NjI0OTAwLDQ3MzcyMjAzNCw2Mjk3NDMyOTMsLTEzOTY0Mz
+k5NywtMjk5ODU4ODIxLDI3NDk2NDU0NywtNzEyMzI5NTg2LC02
+MTI4NzQ0MTcsLTE0MzQ5OTYsLTEyODczMzkwNjAsMTE2Nzk0Mz
+Y1OCw4Nzg1MDYxMzQsLTE2MDE1ODMyMjEsLTE5ODY3MzE3NzJd
 fQ==
 -->
