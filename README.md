@@ -169,7 +169,10 @@ set number 開啟行數顯示
 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
 
 
-
+## Inheritance
+### Higher Order Function
+HOF在java-7必須要用interface來實作
+在java8則可以用
 
 ## IntelliJ
 - [Josh’s IntelliJ Editor Settings](https://drive.google.com/drive/folders/1Y5cHl-nNe731EgG4pAk2Dokgbu4ZpV5E?usp=sharing):CS61B Josh自己tune的的color scheme,兩個字：好看！黑背景、高對比、關鍵字一目瞭然，用過就回不去！[original page](https://sp18.datastructur.es/materials/lab/lab2setup/lab2setup)
@@ -749,7 +752,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODc4MjI2Miw0NzM3MjIwMzQsNjI5Nz
+eyJoaXN0b3J5IjpbMTI4NzQ4MjM1Myw0NzM3MjIwMzQsNjI5Nz
 QzMjkzLC0xMzk2NDM5OTcsLTI5OTg1ODgyMSwyNzQ5NjQ1NDcs
 LTcxMjMyOTU4NiwtNjEyODc0NDE3LC0xNDM0OTk2LC0xMjg3Mz
 M5MDYwLDExNjc5NDM2NTgsODc4NTA2MTM0LC0xNjAxNTgzMjIx
