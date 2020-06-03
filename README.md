@@ -171,7 +171,22 @@ set number 開啟行數顯示
 - [Git/Github操作手册](https://zhuanlan.zhihu.com/p/58547172)
 
 ## Commit Message要怎麼寫才好
-··
+```
+Header: <type>(<scope>): <subject>
+ - type: 代表 commit 的類別：feat, fix, docs, style, refactor, test, chore，必要欄位。
+ - scope 代表 commit 影響的範圍，例如資料庫、控制層、模板層等等，視專案不同而不同，為可選欄位。
+ - subject 代表此 commit 的簡短描述，不要超過 50 個字元，結尾不要加句號，為必要欄位。
+
+Body: 72-character wrapped. This should answer:
+ * Body 部份是對本次 Commit 的詳細描述，可以分成多行，每一行不要超過 72 個字元。
+ * 說明程式碼變動的項目與原因，還有與先前行為的對比。
+
+Footer: 
+ - 填寫任務編號（如果有的話）.
+ - BREAKING CHANGE（可忽略），記錄不兼容的變動，
+   以 BREAKING CHANGE: 開頭，後面是對變動的描述、以及變動原因和遷移方法。
+```
+[https://wadehuanglearning.blogspot.com/2019/05/commit-commit-commit-why-what-commit.html](https://wadehuanglearning.blogspot.com/2019/05/commit-commit-commit-why-what-commit.html)
 
 # Python
 ## Reference
@@ -703,7 +718,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTY3MjkzNywtMjk5ODU4ODIxLDI3ND
+eyJoaXN0b3J5IjpbLTEzOTY0Mzk5NywtMjk5ODU4ODIxLDI3ND
 k2NDU0NywtNzEyMzI5NTg2LC02MTI4NzQ0MTcsLTE0MzQ5OTYs
 LTEyODczMzkwNjAsMTE2Nzk0MzY1OCw4Nzg1MDYxMzQsLTE2MD
 E1ODMyMjEsLTE5ODY3MzE3NzIsMTEzNTc4MTU4OSwxMzU2Nzc3
