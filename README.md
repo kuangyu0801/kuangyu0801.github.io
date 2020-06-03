@@ -37,8 +37,10 @@ Mac 鍵符號
 - Caps Lock 鍵 ⇪
 
 # TODO
-- 持續閱讀給外行人的工程師自學手冊
-- [這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
+ - [ ] Java IO
+ - [ ] Java concurrency
+ - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
+
 # Prepare for Interview
 Stage-1: JuneStuttgart small company -> Large company
 Stage-2: September Berlin or Munich large company
@@ -165,6 +167,9 @@ set number 開啟行數顯示
 ## Concurrency
 [Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
+
+
+
 
 ## IntelliJ
 - [Josh’s IntelliJ Editor Settings](https://drive.google.com/drive/folders/1Y5cHl-nNe731EgG4pAk2Dokgbu4ZpV5E?usp=sharing):CS61B Josh自己tune的的color scheme,兩個字：好看！黑背景、高對比、關鍵字一目瞭然，用過就回不去！[original page](https://sp18.datastructur.es/materials/lab/lab2setup/lab2setup)
@@ -744,11 +749,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNzIyMDM0LDYyOTc0MzI5MywtMTM5Nj
-QzOTk3LC0yOTk4NTg4MjEsMjc0OTY0NTQ3LC03MTIzMjk1ODYs
-LTYxMjg3NDQxNywtMTQzNDk5NiwtMTI4NzMzOTA2MCwxMTY3OT
-QzNjU4LDg3ODUwNjEzNCwtMTYwMTU4MzIyMSwtMTk4NjczMTc3
-MiwxMTM1NzgxNTg5LDEzNTY3Nzc0MTMsNTM2MDQ1NjU4LC05Nz
-k2MjIzMTAsMTQxOTcwNTE4MywxNjU1NzcxMjQ2LDE0OTE0NjU3
-NDFdfQ==
+eyJoaXN0b3J5IjpbLTMzODc4MjI2Miw0NzM3MjIwMzQsNjI5Nz
+QzMjkzLC0xMzk2NDM5OTcsLTI5OTg1ODgyMSwyNzQ5NjQ1NDcs
+LTcxMjMyOTU4NiwtNjEyODc0NDE3LC0xNDM0OTk2LC0xMjg3Mz
+M5MDYwLDExNjc5NDM2NTgsODc4NTA2MTM0LC0xNjAxNTgzMjIx
+LC0xOTg2NzMxNzcyLDExMzU3ODE1ODksMTM1Njc3NzQxMyw1Mz
+YwNDU2NTgsLTk3OTYyMjMxMCwxNDE5NzA1MTgzLDE2NTU3NzEy
+NDZdfQ==
 -->
