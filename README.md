@@ -109,6 +109,9 @@ Minimum Qualifications
 -  [《Android Developer Fundamentals》by Google](https://developer.android.com/courses/fundamentals-training/toc-v2)
 
 
+## Data Structure and Algorithm
+此兩門課是CS教育的核心： 
+
 ## The Missing Semester of Your CS Education
 ###  Course overview + the shell
 
@@ -726,11 +729,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5NzQzMjkzLC0xMzk2NDM5OTcsLTI5OT
-g1ODgyMSwyNzQ5NjQ1NDcsLTcxMjMyOTU4NiwtNjEyODc0NDE3
-LC0xNDM0OTk2LC0xMjg3MzM5MDYwLDExNjc5NDM2NTgsODc4NT
-A2MTM0LC0xNjAxNTgzMjIxLC0xOTg2NzMxNzcyLDExMzU3ODE1
-ODksMTM1Njc3NzQxMyw1MzYwNDU2NTgsLTk3OTYyMjMxMCwxND
-E5NzA1MTgzLDE2NTU3NzEyNDYsMTQ5MTQ2NTc0MSwtMjg3ODk4
-Mjc5XX0=
+eyJoaXN0b3J5IjpbLTE5MjI2ODQ3NDgsNjI5NzQzMjkzLC0xMz
+k2NDM5OTcsLTI5OTg1ODgyMSwyNzQ5NjQ1NDcsLTcxMjMyOTU4
+NiwtNjEyODc0NDE3LC0xNDM0OTk2LC0xMjg3MzM5MDYwLDExNj
+c5NDM2NTgsODc4NTA2MTM0LC0xNjAxNTgzMjIxLC0xOTg2NzMx
+NzcyLDExMzU3ODE1ODksMTM1Njc3NzQxMyw1MzYwNDU2NTgsLT
+k3OTYyMjMxMCwxNDE5NzA1MTgzLDE2NTU3NzEyNDYsMTQ5MTQ2
+NTc0MV19
 -->
