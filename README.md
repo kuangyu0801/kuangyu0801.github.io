@@ -4,6 +4,11 @@
 
 - [TODO](#todo)
 - [軟體工程師自學](#軟體工程師自學)
+- [Prepare for Interview](#prepare-for-interview)
+	* [Amazon Wants This](##amazon-wants-this
+
+
+
 - [刷題](#刷題)
   * [高頻一百連結](#高頻一百連結)
   * [紀錄](#紀錄)
@@ -31,13 +36,13 @@ Mac 鍵符號
 - Caps Lock 鍵 ⇪
 
 # TODO
-# Prepare Interview
+# Prepare for Interview
 Stage-1: JuneStuttgart small company -> Large company
 Stage-2: September Berlin or Munich large company
 Stage-3: November Amazon in Dublin, and Singapore
 
 
-# Amazon Wants This
+## Amazon Wants This
 This requirement is a position from a typical Software Development Position in Amazon Dublin
 
 ### BASIC QUALIFICATIONS
@@ -62,7 +67,7 @@ This requirement is a position from a typical Software Development Position in A
 - Ability to take a project from scoping requirements through actual launch of the project  
 - Experience of building solutions using ***AWS technologies***.
 
-# FACEBOOK Wants This: 
+# FACEBOOK Wants This
 ## 2021 Production Engineer Intern[https://www.facebook.com/careers/jobs/146184539793025/](https://www.facebook.com/careers/jobs/146184539793025/)
 
 Minimum Qualifications
@@ -734,7 +739,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5OTI2MTcyLDYyOTc0MzI5MywtMTM5Nj
+eyJoaXN0b3J5IjpbLTg4NDgxNDI3LDYyOTc0MzI5MywtMTM5Nj
 QzOTk3LC0yOTk4NTg4MjEsMjc0OTY0NTQ3LC03MTIzMjk1ODYs
 LTYxMjg3NDQxNywtMTQzNDk5NiwtMTI4NzMzOTA2MCwxMTY3OT
 QzNjU4LDg3ODUwNjEzNCwtMTYwMTU4MzIyMSwtMTk4NjczMTc3
