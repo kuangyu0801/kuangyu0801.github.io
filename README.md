@@ -170,6 +170,9 @@ set number 開啟行數顯示
 - [Git Official Documentation](https://git-scm.com/book/en/v2): 講得很完整！
 - [Git/Github操作手册](https://zhuanlan.zhihu.com/p/58547172)
 
+## Commit Message要怎麼寫才好
+··
+
 # Python
 ## Reference
 - [Fluent Python](https://drive.google.com/file/d/1AV59fwciY2RwgEN11vs5V9_G_mJhyy6e/view?usp=sharing) 
@@ -700,11 +703,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTg1ODgyMSwyNzQ5NjQ1NDcsLTcxMj
-MyOTU4NiwtNjEyODc0NDE3LC0xNDM0OTk2LC0xMjg3MzM5MDYw
-LDExNjc5NDM2NTgsODc4NTA2MTM0LC0xNjAxNTgzMjIxLC0xOT
-g2NzMxNzcyLDExMzU3ODE1ODksMTM1Njc3NzQxMyw1MzYwNDU2
-NTgsLTk3OTYyMjMxMCwxNDE5NzA1MTgzLDE2NTU3NzEyNDYsMT
-Q5MTQ2NTc0MSwtMjg3ODk4Mjc5LDE0MDg1ODgyNjcsMTgzNDcy
-NzExN119
+eyJoaXN0b3J5IjpbMTk4OTY3MjkzNywtMjk5ODU4ODIxLDI3ND
+k2NDU0NywtNzEyMzI5NTg2LC02MTI4NzQ0MTcsLTE0MzQ5OTYs
+LTEyODczMzkwNjAsMTE2Nzk0MzY1OCw4Nzg1MDYxMzQsLTE2MD
+E1ODMyMjEsLTE5ODY3MzE3NzIsMTEzNTc4MTU4OSwxMzU2Nzc3
+NDEzLDUzNjA0NTY1OCwtOTc5NjIyMzEwLDE0MTk3MDUxODMsMT
+Y1NTc3MTI0NiwxNDkxNDY1NzQxLC0yODc4OTgyNzksMTQwODU4
+ODI2N119
 -->
