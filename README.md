@@ -80,6 +80,14 @@ Minimum Qualifications
    - Must obtain work authorization in country of employment at the time of hire and maintain ongoing work
    authorization during employment
 
+# 軟體工程師自學
+
+## 參考
+[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
+這份文件是由現任職 Amazon 的 John Washam 整理而成。當初他會想要製作這份文件，是因為發現自學網頁開發的他，其實並不具備成為 Google 的工程師的電腦知識。在經過連續幾個月，每天 8-12 個小時的自學之後，雖然最後沒應徵上 Google，但也成功加入 Amazon 擔任軟體工程師。  
+  
+這份文件就是他將過去的學習經驗所彙整出的學習手冊，詳列出成為軟體工程師，所需學習的電腦知識（如演算法、資料結構等）與可運用的學習資源（網站或書本）。更傳授學習電腦知識與練習解題的心法，以及準備履歷與面試的技巧。即便已是工程師的讀者，編輯認為你也能從中獲得不少收穫。雖然本文也有[簡體中文的版本](https://t.goodbits.io/f/a/Q9Q2cC16QjGr2OtmM5vXEg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2c1YXdTZFcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)，但編輯發現到有些許錯字，建議大家可以中英對照著一起閱讀。
+
 # [Programming Book](https://drive.google.com/drive/folders/1_afYce_KHKfEtYlaGUonWOQSmTcjy3f1?usp=sharing)
 
 - [《疯狂Java讲义第4版》](https://drive.google.com/file/d/1Q0qyitxsjvgoZaayHz4TO8oHuLHMaE9g/view?usp=sharing)
@@ -96,7 +104,7 @@ Minimum Qualifications
 	- [https://sp19.datastructur.es/](https://sp19.datastructur.es/)
 	- Screencast of sp18
 - [《Algorithms, Part I》by Princeton](https://www.coursera.org/learn/algorithms-part1/home/welcome)
-- [《The Missing Semester of Your CS Education 》by MIT](https://missing.csail.mit.edu/): 課程教授許多“職業”工程師應該要會知道的技能：shell-command, git,
+- [《The Missing Semester of Your CS Education 》by MIT](https://missing.csail.mit.edu/): 課程有系統教授許多“職業”工程師應該要會知道的技能：shell-command, git,
 - [《 Introduction to Git and GitHub by Google》by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
 -  [《Android Developer Fundamentals》by Google](https://developer.android.com/courses/fundamentals-training/toc-v2)
 
@@ -718,11 +726,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc1NzE1MjQsLTEzOTY0Mzk5NywtMj
-k5ODU4ODIxLDI3NDk2NDU0NywtNzEyMzI5NTg2LC02MTI4NzQ0
-MTcsLTE0MzQ5OTYsLTEyODczMzkwNjAsMTE2Nzk0MzY1OCw4Nz
-g1MDYxMzQsLTE2MDE1ODMyMjEsLTE5ODY3MzE3NzIsMTEzNTc4
-MTU4OSwxMzU2Nzc3NDEzLDUzNjA0NTY1OCwtOTc5NjIyMzEwLD
-E0MTk3MDUxODMsMTY1NTc3MTI0NiwxNDkxNDY1NzQxLC0yODc4
-OTgyNzldfQ==
+eyJoaXN0b3J5IjpbNjI5NzQzMjkzLC0xMzk2NDM5OTcsLTI5OT
+g1ODgyMSwyNzQ5NjQ1NDcsLTcxMjMyOTU4NiwtNjEyODc0NDE3
+LC0xNDM0OTk2LC0xMjg3MzM5MDYwLDExNjc5NDM2NTgsODc4NT
+A2MTM0LC0xNjAxNTgzMjIxLC0xOTg2NzMxNzcyLDExMzU3ODE1
+ODksMTM1Njc3NzQxMyw1MzYwNDU2NTgsLTk3OTYyMjMxMCwxND
+E5NzA1MTgzLDE2NTU3NzEyNDYsMTQ5MTQ2NTc0MSwtMjg3ODk4
+Mjc5XX0=
 -->
