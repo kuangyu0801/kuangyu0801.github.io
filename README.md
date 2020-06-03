@@ -182,8 +182,8 @@ upcasting is always safe
 but down casting an object is only possible when the object is originally up-casted by from the target downloaded class
 簡單來說animal can only be down casted to cat when this animal was originally up-casted from cat!
 https://www.bilibili.com/video/BV1uJ411k7wy/?p=191
+要確安全的向下轉型，使用`instnaceof` 確定class是不是繼承關係
 
-要確安全的向下轉型，使用`instnace`
 ### Higher Order Function
 HOF在java-7必須要用interface來實作
 ```
@@ -803,11 +803,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MTE1MDQ0LC00MjM0NDIxNDQsLTYwMT
-Q5NTg5MiwxODU4NjI0OTAwLDQ3MzcyMjAzNCw2Mjk3NDMyOTMs
-LTEzOTY0Mzk5NywtMjk5ODU4ODIxLDI3NDk2NDU0NywtNzEyMz
-I5NTg2LC02MTI4NzQ0MTcsLTE0MzQ5OTYsLTEyODczMzkwNjAs
-MTE2Nzk0MzY1OCw4Nzg1MDYxMzQsLTE2MDE1ODMyMjEsLTE5OD
-Y3MzE3NzIsMTEzNTc4MTU4OSwxMzU2Nzc3NDEzLDUzNjA0NTY1
-OF19
+eyJoaXN0b3J5IjpbODY5MTc1MzksLTQyMzQ0MjE0NCwtNjAxND
+k1ODkyLDE4NTg2MjQ5MDAsNDczNzIyMDM0LDYyOTc0MzI5Mywt
+MTM5NjQzOTk3LC0yOTk4NTg4MjEsMjc0OTY0NTQ3LC03MTIzMj
+k1ODYsLTYxMjg3NDQxNywtMTQzNDk5NiwtMTI4NzMzOTA2MCwx
+MTY3OTQzNjU4LDg3ODUwNjEzNCwtMTYwMTU4MzIyMSwtMTk4Nj
+czMTc3MiwxMTM1NzgxNTg5LDEzNTY3Nzc0MTMsNTM2MDQ1NjU4
+XX0=
 -->
