@@ -1,6 +1,9 @@
 ## Welcome to GitHub Pages
 
 
+
+- [TODO](#todo)
+- [軟體工程師自學](#軟體工程師自學)
 - [刷題](#刷題)
   * [高頻一百連結](#高頻一百連結)
   * [紀錄](#紀錄)
@@ -27,6 +30,7 @@ Mac 鍵符號
 - Control（或 Ctrl）鍵 ⌃
 - Caps Lock 鍵 ⇪
 
+# TODO
 # Prepare Interview
 Stage-1: JuneStuttgart small company -> Large company
 Stage-2: September Berlin or Munich large company
@@ -110,7 +114,8 @@ Minimum Qualifications
 
 
 ## Data Structure and Algorithm
-此兩門課是CS教育的核心： 
+此兩門課是CS教育的核心，基礎不好地動山搖！
+CS
 
 ## The Missing Semester of Your CS Education
 ###  Course overview + the shell
@@ -729,11 +734,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI2ODQ3NDgsNjI5NzQzMjkzLC0xMz
-k2NDM5OTcsLTI5OTg1ODgyMSwyNzQ5NjQ1NDcsLTcxMjMyOTU4
-NiwtNjEyODc0NDE3LC0xNDM0OTk2LC0xMjg3MzM5MDYwLDExNj
-c5NDM2NTgsODc4NTA2MTM0LC0xNjAxNTgzMjIxLC0xOTg2NzMx
-NzcyLDExMzU3ODE1ODksMTM1Njc3NzQxMyw1MzYwNDU2NTgsLT
-k3OTYyMjMxMCwxNDE5NzA1MTgzLDE2NTU3NzEyNDYsMTQ5MTQ2
-NTc0MV19
+eyJoaXN0b3J5IjpbNDA5OTI2MTcyLDYyOTc0MzI5MywtMTM5Nj
+QzOTk3LC0yOTk4NTg4MjEsMjc0OTY0NTQ3LC03MTIzMjk1ODYs
+LTYxMjg3NDQxNywtMTQzNDk5NiwtMTI4NzMzOTA2MCwxMTY3OT
+QzNjU4LDg3ODUwNjEzNCwtMTYwMTU4MzIyMSwtMTk4NjczMTc3
+MiwxMTM1NzgxNTg5LDEzNTY3Nzc0MTMsNTM2MDQ1NjU4LC05Nz
+k2MjIzMTAsMTQxOTcwNTE4MywxNjU1NzcxMjQ2LDE0OTE0NjU3
+NDFdfQ==
 -->
