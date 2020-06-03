@@ -185,18 +185,13 @@ public class TenX implements IntUnaryFunction {
 
 public class HoFDemo {
 
-public static  int do_twice(IntUnaryFunction f, int x) {
+	public static  int do_twice(IntUnaryFunction f, int x) {
+		return f.apply(f.apply(x));
+	}
 
-return f.apply(f.apply(x));
-
-}
-
-public static  void main(String[] args) {
-
-System.out.println(do_twice(new TenX(), 2));
-
-}
-
+	public static  void main(String[] args) {
+		System.out.println(do_twice(new TenX(), 2));
+	}
 }
 ```
 在java8則可以用interface `Function<T,R>`來完成
@@ -794,7 +789,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzY0NTQ1Nyw0NzM3MjIwMzQsNjI5Nz
+eyJoaXN0b3J5IjpbLTE2MTY3MzYyOSw0NzM3MjIwMzQsNjI5Nz
 QzMjkzLC0xMzk2NDM5OTcsLTI5OTg1ODgyMSwyNzQ5NjQ1NDcs
 LTcxMjMyOTU4NiwtNjEyODc0NDE3LC0xNDM0OTk2LC0xMjg3Mz
 M5MDYwLDExNjc5NDM2NTgsODc4NTA2MTM0LC0xNjAxNTgzMjIx
