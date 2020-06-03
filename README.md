@@ -179,8 +179,7 @@ public interface IntUnaryFunction {
 
 public class TenX implements IntUnaryFunction {
 	public  int apply(int x) {
-return 10 * x;
-
+	return 10 * x;
 }
 
 }
@@ -796,7 +795,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzQwODcxMyw0NzM3MjIwMzQsNjI5Nz
+eyJoaXN0b3J5IjpbLTE4ODUxNTI0OSw0NzM3MjIwMzQsNjI5Nz
 QzMjkzLC0xMzk2NDM5OTcsLTI5OTg1ODgyMSwyNzQ5NjQ1NDcs
 LTcxMjMyOTU4NiwtNjEyODc0NDE3LC0xNDM0OTk2LC0xMjg3Mz
 M5MDYwLDExNjc5NDM2NTgsODc4NTA2MTM0LC0xNjAxNTgzMjIx
