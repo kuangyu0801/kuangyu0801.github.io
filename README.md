@@ -164,7 +164,7 @@ set number 開啟行數顯示
 ## Android Developer Fundamentals
 [學習紀錄](https://docs.google.com/document/d/1s32QPhb5lg1lOj1ke2YFubwk6O8naeVqfNGvok5X3c4/edit?usp=sharing)
 # Java
-- 黑馬Java教學，超級清楚
+- 黑馬Java教學，超級清楚！！！
 - [w3schools](https://www.w3schools.com/java/): 網站把所有常用的python syntax都列入，每次忘記直接來查
 - # Google Java Style Guide
 [http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
@@ -806,11 +806,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDEwNjk5Myw4NjkxNzUzOSwtNDIzND
-QyMTQ0LC02MDE0OTU4OTIsMTg1ODYyNDkwMCw0NzM3MjIwMzQs
-NjI5NzQzMjkzLC0xMzk2NDM5OTcsLTI5OTg1ODgyMSwyNzQ5Nj
-Q1NDcsLTcxMjMyOTU4NiwtNjEyODc0NDE3LC0xNDM0OTk2LC0x
-Mjg3MzM5MDYwLDExNjc5NDM2NTgsODc4NTA2MTM0LC0xNjAxNT
-gzMjIxLC0xOTg2NzMxNzcyLDExMzU3ODE1ODksMTM1Njc3NzQx
-M119
+eyJoaXN0b3J5IjpbNjc5MDMxNzg2LDg2OTE3NTM5LC00MjM0ND
+IxNDQsLTYwMTQ5NTg5MiwxODU4NjI0OTAwLDQ3MzcyMjAzNCw2
+Mjk3NDMyOTMsLTEzOTY0Mzk5NywtMjk5ODU4ODIxLDI3NDk2ND
+U0NywtNzEyMzI5NTg2LC02MTI4NzQ0MTcsLTE0MzQ5OTYsLTEy
+ODczMzkwNjAsMTE2Nzk0MzY1OCw4Nzg1MDYxMzQsLTE2MDE1OD
+MyMjEsLTE5ODY3MzE3NzIsMTEzNTc4MTU4OSwxMzU2Nzc3NDEz
+XX0=
 -->
