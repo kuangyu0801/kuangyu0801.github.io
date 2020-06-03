@@ -38,6 +38,7 @@ Mac 鍵符號
 
 # TODO
 - 持續閱讀給外行人的工程師自學手冊
+- [這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
 # Prepare for Interview
 Stage-1: JuneStuttgart small company -> Large company
 Stage-2: September Berlin or Munich large company
@@ -741,11 +742,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4MzI2NjY4LDYyOTc0MzI5MywtMTM5Nj
-QzOTk3LC0yOTk4NTg4MjEsMjc0OTY0NTQ3LC03MTIzMjk1ODYs
-LTYxMjg3NDQxNywtMTQzNDk5NiwtMTI4NzMzOTA2MCwxMTY3OT
-QzNjU4LDg3ODUwNjEzNCwtMTYwMTU4MzIyMSwtMTk4NjczMTc3
-MiwxMTM1NzgxNTg5LDEzNTY3Nzc0MTMsNTM2MDQ1NjU4LC05Nz
-k2MjIzMTAsMTQxOTcwNTE4MywxNjU1NzcxMjQ2LDE0OTE0NjU3
-NDFdfQ==
+eyJoaXN0b3J5IjpbMTM0Mjg5NzYyNyw2Mjk3NDMyOTMsLTEzOT
+Y0Mzk5NywtMjk5ODU4ODIxLDI3NDk2NDU0NywtNzEyMzI5NTg2
+LC02MTI4NzQ0MTcsLTE0MzQ5OTYsLTEyODczMzkwNjAsMTE2Nz
+k0MzY1OCw4Nzg1MDYxMzQsLTE2MDE1ODMyMjEsLTE5ODY3MzE3
+NzIsMTEzNTc4MTU4OSwxMzU2Nzc3NDEzLDUzNjA0NTY1OCwtOT
+c5NjIyMzEwLDE0MTk3MDUxODMsMTY1NTc3MTI0NiwxNDkxNDY1
+NzQxXX0=
 -->
