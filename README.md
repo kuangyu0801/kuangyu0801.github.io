@@ -340,7 +340,7 @@ Sun|Mon|Tue|Wed|Thu|Fri|Sat
 -|-|-|18(+1)|-|-|
 5.24|5.25|5.26|5.27|5.28|5.29|5.30
 -|19(+1)|-|-|-|20(+1)|-
--|22(+2)|23(+1)|24(+1)|-|-|-
+-|22(+2)|23(+1)|24(+1)|25(+1)|-|-
 
 
 Nr.|1st|2nd|3rd
@@ -350,6 +350,7 @@ Nr.|1st|2nd|3rd
 8| v | - | - 
 4| v | - | -
 15| v | - | -
+56| v | - | -
 124| v | - | - 
 334| v | - | -
 341| v | - | -
@@ -396,6 +397,10 @@ Arrays.copyOf(int[] original, int newLength);
 
 // fill the array with designated value
 Arrays.fill(array, value);
+
+// int[][] intervals = new int[SIZE0][SIZE1];
+// sorting t
+Arrays.sort(intervals, (x1, x2)->x1[0] - x2[0]);
 ```
 ###  List
 [https://docs.oracle.com/javase/8/docs/api/java/util/List.html](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)
@@ -822,11 +827,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDkxODE1MSwxNTYxMTgyNTk5LC05Nz
-k3OTg4MDEsLTE5MzA0OTMzNDgsLTg4NjU1OTg3Nyw4ODI4OTM4
-NDksMTE0NjMzNTk4MSw3ODkwMzM3MjIsNjc5MDMxNzg2LDg2OT
-E3NTM5LC00MjM0NDIxNDQsLTYwMTQ5NTg5MiwxODU4NjI0OTAw
-LDQ3MzcyMjAzNCw2Mjk3NDMyOTMsLTEzOTY0Mzk5NywtMjk5OD
-U4ODIxLDI3NDk2NDU0NywtNzEyMzI5NTg2LC02MTI4NzQ0MTdd
+eyJoaXN0b3J5IjpbMjA5Mzc4MTM3NSwxOTQ0OTE4MTUxLDE1Nj
+ExODI1OTksLTk3OTc5ODgwMSwtMTkzMDQ5MzM0OCwtODg2NTU5
+ODc3LDg4Mjg5Mzg0OSwxMTQ2MzM1OTgxLDc4OTAzMzcyMiw2Nz
+kwMzE3ODYsODY5MTc1MzksLTQyMzQ0MjE0NCwtNjAxNDk1ODky
+LDE4NTg2MjQ5MDAsNDczNzIyMDM0LDYyOTc0MzI5MywtMTM5Nj
+QzOTk3LC0yOTk4NTg4MjEsMjc0OTY0NTQ3LC03MTIzMjk1ODZd
 fQ==
 -->
