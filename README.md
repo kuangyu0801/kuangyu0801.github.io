@@ -399,7 +399,7 @@ Arrays.copyOf(int[] original, int newLength);
 Arrays.fill(array, value);
 
 // int[][] intervals = new int[SIZE0][SIZE1];
-// sorting t
+// sorting the array using the comparator, this is done b
 Arrays.sort(intervals, (x1, x2)->x1[0] - x2[0]);
 ```
 ###  List
@@ -827,7 +827,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Mzc4MTM3NSwxOTQ0OTE4MTUxLDE1Nj
+eyJoaXN0b3J5IjpbMTQ4NjA3NTg1OCwxOTQ0OTE4MTUxLDE1Nj
 ExODI1OTksLTk3OTc5ODgwMSwtMTkzMDQ5MzM0OCwtODg2NTU5
 ODc3LDg4Mjg5Mzg0OSwxMTQ2MzM1OTgxLDc4OTAzMzcyMiw2Nz
 kwMzE3ODYsODY5MTc1MzksLTQyMzQ0MjE0NCwtNjAxNDk1ODky
