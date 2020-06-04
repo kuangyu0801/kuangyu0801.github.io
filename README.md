@@ -176,7 +176,9 @@ set number 開啟行數顯示
 [Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
 
+## Lambda function
 
+https://www.bilibili.com/video/BV1T7411m7Ta/?p=332
 
 ## Inheritance
 
@@ -819,7 +821,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDEzODUxOCwtOTc5Nzk4ODAxLC0xOT
+eyJoaXN0b3J5IjpbMTU2MTE4MjU5OSwtOTc5Nzk4ODAxLC0xOT
 MwNDkzMzQ4LC04ODY1NTk4NzcsODgyODkzODQ5LDExNDYzMzU5
 ODEsNzg5MDMzNzIyLDY3OTAzMTc4Niw4NjkxNzUzOSwtNDIzND
 QyMTQ0LC02MDE0OTU4OTIsMTg1ODYyNDkwMCw0NzM3MjIwMzQs
