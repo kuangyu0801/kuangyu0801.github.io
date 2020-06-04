@@ -37,14 +37,15 @@ Mac 鍵符號
 - Caps Lock 鍵 ⇪
 
 # TODO
- - [ ] Java IO
- - [ ] Java concurrency
+ - [ ] Java IO 看黑馬
+ - [ ] Java concurrency 看黑馬
  - [ ] Java Casting.... more detail on overloading and overriding
  - [ ]  [Java 關鍵字final static this] (https://www.bilibili.com/video/BV1uJ411k7wy/?p=190)
  - [ ]  Java privacy: private, protected.... review
  - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
  - [ ]  692題[https://www.youtube.com/watch?v=POERw4yDVBw](https://www.youtube.com/watch?v=POERw4yDVBw)
  - [ ] comparable interface review
+ - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 
 # Prepare for Interview
 Stage-1: JuneStuttgart small company -> Large company
@@ -821,11 +822,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTE4MjU5OSwtOTc5Nzk4ODAxLC0xOT
-MwNDkzMzQ4LC04ODY1NTk4NzcsODgyODkzODQ5LDExNDYzMzU5
-ODEsNzg5MDMzNzIyLDY3OTAzMTc4Niw4NjkxNzUzOSwtNDIzND
-QyMTQ0LC02MDE0OTU4OTIsMTg1ODYyNDkwMCw0NzM3MjIwMzQs
-NjI5NzQzMjkzLC0xMzk2NDM5OTcsLTI5OTg1ODgyMSwyNzQ5Nj
-Q1NDcsLTcxMjMyOTU4NiwtNjEyODc0NDE3LC0xNDM0OTk2XX0=
-
+eyJoaXN0b3J5IjpbMTk0NDkxODE1MSwxNTYxMTgyNTk5LC05Nz
+k3OTg4MDEsLTE5MzA0OTMzNDgsLTg4NjU1OTg3Nyw4ODI4OTM4
+NDksMTE0NjMzNTk4MSw3ODkwMzM3MjIsNjc5MDMxNzg2LDg2OT
+E3NTM5LC00MjM0NDIxNDQsLTYwMTQ5NTg5MiwxODU4NjI0OTAw
+LDQ3MzcyMjAzNCw2Mjk3NDMyOTMsLTEzOTY0Mzk5NywtMjk5OD
+U4ODIxLDI3NDk2NDU0NywtNzEyMzI5NTg2LC02MTI4NzQ0MTdd
+fQ==
 -->
