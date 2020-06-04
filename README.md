@@ -540,7 +540,8 @@ Space complexity O(1): in place
 【思路-Java、Python】回溯算法|递归实现[解法說明](http://www.noteanddata.com/leetcode-46-Permutations-java-solution-note.html)
 【思路2-Java】回溯算法|递归实现
 【思路3-Java】非递归实现
-
+### 56.  Merge Intervals (Medium)
+[https://leetcode.jp/leetcode-56-merge-intervals-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-56-merge-intervals-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
 
 ### 124. Binary Tree Maximum Path Sum (Hard)
 [java解答](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
@@ -828,11 +829,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyOTIzODAyLDE5NDQ5MTgxNTEsMTU2MT
-E4MjU5OSwtOTc5Nzk4ODAxLC0xOTMwNDkzMzQ4LC04ODY1NTk4
-NzcsODgyODkzODQ5LDExNDYzMzU5ODEsNzg5MDMzNzIyLDY3OT
-AzMTc4Niw4NjkxNzUzOSwtNDIzNDQyMTQ0LC02MDE0OTU4OTIs
-MTg1ODYyNDkwMCw0NzM3MjIwMzQsNjI5NzQzMjkzLC0xMzk2ND
-M5OTcsLTI5OTg1ODgyMSwyNzQ5NjQ1NDcsLTcxMjMyOTU4Nl19
+eyJoaXN0b3J5IjpbNjUwMDIyMjExLC02MjkyMzgwMiwxOTQ0OT
+E4MTUxLDE1NjExODI1OTksLTk3OTc5ODgwMSwtMTkzMDQ5MzM0
+OCwtODg2NTU5ODc3LDg4Mjg5Mzg0OSwxMTQ2MzM1OTgxLDc4OT
+AzMzcyMiw2NzkwMzE3ODYsODY5MTc1MzksLTQyMzQ0MjE0NCwt
+NjAxNDk1ODkyLDE4NTg2MjQ5MDAsNDczNzIyMDM0LDYyOTc0Mz
+I5MywtMTM5NjQzOTk3LC0yOTk4NTg4MjEsMjc0OTY0NTQ3XX0=
 
 -->
