@@ -177,6 +177,7 @@ set number 開啟行數顯示
 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
 
 
+
 ## Inheritance
 
 ### Overriding vs Overloading
@@ -818,11 +819,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzk3MTUxNzYsLTk3OTc5ODgwMSwtMT
-kzMDQ5MzM0OCwtODg2NTU5ODc3LDg4Mjg5Mzg0OSwxMTQ2MzM1
-OTgxLDc4OTAzMzcyMiw2NzkwMzE3ODYsODY5MTc1MzksLTQyMz
-Q0MjE0NCwtNjAxNDk1ODkyLDE4NTg2MjQ5MDAsNDczNzIyMDM0
-LDYyOTc0MzI5MywtMTM5NjQzOTk3LC0yOTk4NTg4MjEsMjc0OT
-Y0NTQ3LC03MTIzMjk1ODYsLTYxMjg3NDQxNywtMTQzNDk5Nl19
+eyJoaXN0b3J5IjpbLTE2MDEzODUxOCwtOTc5Nzk4ODAxLC0xOT
+MwNDkzMzQ4LC04ODY1NTk4NzcsODgyODkzODQ5LDExNDYzMzU5
+ODEsNzg5MDMzNzIyLDY3OTAzMTc4Niw4NjkxNzUzOSwtNDIzND
+QyMTQ0LC02MDE0OTU4OTIsMTg1ODYyNDkwMCw0NzM3MjIwMzQs
+NjI5NzQzMjkzLC0xMzk2NDM5OTcsLTI5OTg1ODgyMSwyNzQ5Nj
+Q1NDcsLTcxMjMyOTU4NiwtNjEyODc0NDE3LC0xNDM0OTk2XX0=
 
 -->
