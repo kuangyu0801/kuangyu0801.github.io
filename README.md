@@ -180,7 +180,17 @@ set number 開啟行數顯示
 ## Lambda function
 
 https://www.bilibili.com/video/BV1T7411m7Ta/?p=332
+兩種寫法都可以
+In case all your lambda expression is doing is to calculate a return value and return it, you can specify the return value in a shorter way. Instead of this:
+```
+ (a1, a2) -> { return a1 > a2; }
+```
+You can write:
+```
+ (a1, a2) -> a1 > a2;
+```
 
+The compiler then figures out that the expression  `a1 > a2`  is the return value of the lambda expression (hence the name lambda  _expressions_  - as expressions return a value of some kind).
 ## Inheritance
 
 ### Overriding vs Overloading
@@ -829,11 +839,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwMDIyMjExLC02MjkyMzgwMiwxOTQ0OT
-E4MTUxLDE1NjExODI1OTksLTk3OTc5ODgwMSwtMTkzMDQ5MzM0
-OCwtODg2NTU5ODc3LDg4Mjg5Mzg0OSwxMTQ2MzM1OTgxLDc4OT
-AzMzcyMiw2NzkwMzE3ODYsODY5MTc1MzksLTQyMzQ0MjE0NCwt
-NjAxNDk1ODkyLDE4NTg2MjQ5MDAsNDczNzIyMDM0LDYyOTc0Mz
-I5MywtMTM5NjQzOTk3LC0yOTk4NTg4MjEsMjc0OTY0NTQ3XX0=
+eyJoaXN0b3J5IjpbNDI3NzYyNjkxLDY1MDAyMjIxMSwtNjI5Mj
+M4MDIsMTk0NDkxODE1MSwxNTYxMTgyNTk5LC05Nzk3OTg4MDEs
+LTE5MzA0OTMzNDgsLTg4NjU1OTg3Nyw4ODI4OTM4NDksMTE0Nj
+MzNTk4MSw3ODkwMzM3MjIsNjc5MDMxNzg2LDg2OTE3NTM5LC00
+MjM0NDIxNDQsLTYwMTQ5NTg5MiwxODU4NjI0OTAwLDQ3MzcyMj
+AzNCw2Mjk3NDMyOTMsLTEzOTY0Mzk5NywtMjk5ODU4ODIxXX0=
 
 -->
