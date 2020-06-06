@@ -134,11 +134,11 @@ Complexity 大補懶人包[https://www.bigocheatsheet.com/](https://www.bigochea
 
 ### Sorting
 Comparison:
-| Algorithm |Time complexity||| Space complexity|Description
-|--|--|--|--|--|--|
-|--|Best |Average|Worst| Worst|
-| Selection Sort |  $\Omega(N^2)$  | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ | Most naive
-| Insertion Sort | $\Omega(N)$ | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ | Good for partially sorted array
+| Algorithm |Time complexity||| Space complexity|Stability|Description
+|--|--|--|--|--|--|--|
+|--|Best |Average|Worst| Worst||
+| Selection Sort |  $\Omega(N^2)$  | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |Stable| Most naive
+| Insertion Sort | $\Omega(N)$ | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |Unstable| Good for partially sorted array
 
 #### Total Order 
 - Antisymmetry: if v ≤ w and w ≤ v, then v = w. 
@@ -854,11 +854,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDI1MTcwLDEwNTIxODA0MTksNDI3Nz
-YyNjkxLDY1MDAyMjIxMSwtNjI5MjM4MDIsMTk0NDkxODE1MSwx
-NTYxMTgyNTk5LC05Nzk3OTg4MDEsLTE5MzA0OTMzNDgsLTg4Nj
-U1OTg3Nyw4ODI4OTM4NDksMTE0NjMzNTk4MSw3ODkwMzM3MjIs
-Njc5MDMxNzg2LDg2OTE3NTM5LC00MjM0NDIxNDQsLTYwMTQ5NT
-g5MiwxODU4NjI0OTAwLDQ3MzcyMjAzNCw2Mjk3NDMyOTNdfQ==
+eyJoaXN0b3J5IjpbLTg3ODc3NDg4MiwtNTYwMjUxNzAsMTA1Mj
+E4MDQxOSw0Mjc3NjI2OTEsNjUwMDIyMjExLC02MjkyMzgwMiwx
+OTQ0OTE4MTUxLDE1NjExODI1OTksLTk3OTc5ODgwMSwtMTkzMD
+Q5MzM0OCwtODg2NTU5ODc3LDg4Mjg5Mzg0OSwxMTQ2MzM1OTgx
+LDc4OTAzMzcyMiw2NzkwMzE3ODYsODY5MTc1MzksLTQyMzQ0Mj
+E0NCwtNjAxNDk1ODkyLDE4NTg2MjQ5MDAsNDczNzIyMDM0XX0=
 
 -->
