@@ -133,10 +133,17 @@ Minimum Qualifications
 Complexity 大補懶人包[https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)：所有的資料結構與算法的complexity都整理在這邊
 
 ### Sorting
+Comparison:
+| Algorithm | Big-O ||
+|--|--|--|--|
+| Insertion Sort |  |
+| Selection Sort |  |
+
 #### Total Order 
 - Antisymmetry: if v ≤ w and w ≤ v, then v = w. 
 - Transitivity: if v ≤ w and w ≤ x, then v ≤ x. 
 - Totality: either v ≤ w or w ≤ v or both.
+
 
 
 
@@ -844,11 +851,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjE4MDQxOSw0Mjc3NjI2OTEsNjUwMD
-IyMjExLC02MjkyMzgwMiwxOTQ0OTE4MTUxLDE1NjExODI1OTks
-LTk3OTc5ODgwMSwtMTkzMDQ5MzM0OCwtODg2NTU5ODc3LDg4Mj
-g5Mzg0OSwxMTQ2MzM1OTgxLDc4OTAzMzcyMiw2NzkwMzE3ODYs
-ODY5MTc1MzksLTQyMzQ0MjE0NCwtNjAxNDk1ODkyLDE4NTg2Mj
-Q5MDAsNDczNzIyMDM0LDYyOTc0MzI5MywtMTM5NjQzOTk3XX0=
+eyJoaXN0b3J5IjpbLTExODQ2OTQwNzgsMTA1MjE4MDQxOSw0Mj
+c3NjI2OTEsNjUwMDIyMjExLC02MjkyMzgwMiwxOTQ0OTE4MTUx
+LDE1NjExODI1OTksLTk3OTc5ODgwMSwtMTkzMDQ5MzM0OCwtOD
+g2NTU5ODc3LDg4Mjg5Mzg0OSwxMTQ2MzM1OTgxLDc4OTAzMzcy
+Miw2NzkwMzE3ODYsODY5MTc1MzksLTQyMzQ0MjE0NCwtNjAxND
+k1ODkyLDE4NTg2MjQ5MDAsNDczNzIyMDM0LDYyOTc0MzI5M119
 
 -->
