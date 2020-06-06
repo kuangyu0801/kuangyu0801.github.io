@@ -145,7 +145,8 @@ Comparison:
 - Transitivity: if v ≤ w and w ≤ x, then v ≤ x. 
 - Totality: either v ≤ w or w ≤ v or both.
 
-
+### Shuffling
+Shuffle sort produces a uniformly random permutation of the input array
 
 
 ## The Missing Semester of Your CS Education
@@ -852,7 +853,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Mzk1NTgzOCwxMDUyMTgwNDE5LDQyNz
+eyJoaXN0b3J5IjpbLTI1ODI3ODEyMSwxMDUyMTgwNDE5LDQyNz
 c2MjY5MSw2NTAwMjIyMTEsLTYyOTIzODAyLDE5NDQ5MTgxNTEs
 MTU2MTE4MjU5OSwtOTc5Nzk4ODAxLC0xOTMwNDkzMzQ4LC04OD
 Y1NTk4NzcsODgyODkzODQ5LDExNDYzMzU5ODEsNzg5MDMzNzIy
