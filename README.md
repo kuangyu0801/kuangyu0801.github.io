@@ -7,9 +7,6 @@
 - [Prepare for Interview](#prepare-for-interview)
 	* [Amazon Wants This](##amazon-wants-this)
 	* [FACEBOOK Wants This](##face-bool-wants-this)
-
-
-
 - [刷題找工作](#刷題找工作)
   * [高頻一百連結](#高頻一百連結)
   * [紀錄](#紀錄)
@@ -134,6 +131,9 @@ Minimum Qualifications
 軟體工程師遇到問題->選擇適合的演算法->選擇對應的資料結構：這兩點如果沒有學好，那就不用玩了！
 
 Complexity 大補懶人包[https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)：所有的資料結構與算法的complexity都整理在這邊
+
+### Sorting
+#### Total Order 的概念
 
 ## The Missing Semester of Your CS Education
 ###  Course overview + the shell
@@ -839,11 +839,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI3NzYyNjkxLDY1MDAyMjIxMSwtNjI5Mj
-M4MDIsMTk0NDkxODE1MSwxNTYxMTgyNTk5LC05Nzk3OTg4MDEs
-LTE5MzA0OTMzNDgsLTg4NjU1OTg3Nyw4ODI4OTM4NDksMTE0Nj
-MzNTk4MSw3ODkwMzM3MjIsNjc5MDMxNzg2LDg2OTE3NTM5LC00
-MjM0NDIxNDQsLTYwMTQ5NTg5MiwxODU4NjI0OTAwLDQ3MzcyMj
-AzNCw2Mjk3NDMyOTMsLTEzOTY0Mzk5NywtMjk5ODU4ODIxXX0=
+eyJoaXN0b3J5IjpbLTIyNTUzMzgxOSw0Mjc3NjI2OTEsNjUwMD
+IyMjExLC02MjkyMzgwMiwxOTQ0OTE4MTUxLDE1NjExODI1OTks
+LTk3OTc5ODgwMSwtMTkzMDQ5MzM0OCwtODg2NTU5ODc3LDg4Mj
+g5Mzg0OSwxMTQ2MzM1OTgxLDc4OTAzMzcyMiw2NzkwMzE3ODYs
+ODY5MTc1MzksLTQyMzQ0MjE0NCwtNjAxNDk1ODkyLDE4NTg2Mj
+Q5MDAsNDczNzIyMDM0LDYyOTc0MzI5MywtMTM5NjQzOTk3XX0=
 
 -->
