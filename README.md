@@ -139,7 +139,7 @@ Comparison:
 |--|Best |Average|Worst| Worst||
 | Selection Sort |  $\Omega(N^2)$  | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |Stable| Most naive
 | Insertion Sort | $\Omega(N)$ | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |Stable| Good for partially sorted 
-|Merge Sort|--|--|--|--|Stable|--|
+|Merge Sort|$\Omega(N log(N))$ |$\Theta(N log(N))$|$O(N log(N))$|$O(N)$|Stable|--|
 
 array
 
@@ -857,11 +857,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5NzkwNTc2LC01NjAyNTE3MCwxMDUyMT
-gwNDE5LDQyNzc2MjY5MSw2NTAwMjIyMTEsLTYyOTIzODAyLDE5
-NDQ5MTgxNTEsMTU2MTE4MjU5OSwtOTc5Nzk4ODAxLC0xOTMwND
-kzMzQ4LC04ODY1NTk4NzcsODgyODkzODQ5LDExNDYzMzU5ODEs
-Nzg5MDMzNzIyLDY3OTAzMTc4Niw4NjkxNzUzOSwtNDIzNDQyMT
-Q0LC02MDE0OTU4OTIsMTg1ODYyNDkwMCw0NzM3MjIwMzRdfQ==
+eyJoaXN0b3J5IjpbLTE1MDQzMTAzNDQsNDM5NzkwNTc2LC01Nj
+AyNTE3MCwxMDUyMTgwNDE5LDQyNzc2MjY5MSw2NTAwMjIyMTEs
+LTYyOTIzODAyLDE5NDQ5MTgxNTEsMTU2MTE4MjU5OSwtOTc5Nz
+k4ODAxLC0xOTMwNDkzMzQ4LC04ODY1NTk4NzcsODgyODkzODQ5
+LDExNDYzMzU5ODEsNzg5MDMzNzIyLDY3OTAzMTc4Niw4NjkxNz
+UzOSwtNDIzNDQyMTQ0LC02MDE0OTU4OTIsMTg1ODYyNDkwMF19
 
 -->
