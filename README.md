@@ -137,9 +137,10 @@ Comparison:
 | Algorithm |Time complexity||| Space complexity|Stability|Description
 |--|--|--|--|--|--|--|
 |--|Best |Average|Worst| Worst||
-| Selection Sort |  $\Omega(N^2)$  | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |Stable| Most naive
-| Insertion Sort | $\Omega(N)$ | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |Stable| Good for partially sorted 
-|Merge Sort|$\Omega(N log(N))$ |$\Theta(N log(N))$|$O(N log(N))$|$O(N)$|Stable|--|
+| Selection Sort |  $\Omega(N^2)$  | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |unstable| Most naive
+| Insertion Sort | $\Omega(N)$ | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |stable| Good for partially sorted 
+|Merge Sort|$\Omega(N log(N))$ |$\Theta(N log(N))$|$O(N log(N))$|$O(N)$|stable|--|
+|Quick Sort|$\Omega(N^2)$ |$\Theta(N log(N))$|$O(N^2)$|$O(N)$|unstable|--|
 
 array
 
@@ -857,11 +858,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQzMTAzNDQsNDM5NzkwNTc2LC01Nj
-AyNTE3MCwxMDUyMTgwNDE5LDQyNzc2MjY5MSw2NTAwMjIyMTEs
-LTYyOTIzODAyLDE5NDQ5MTgxNTEsMTU2MTE4MjU5OSwtOTc5Nz
-k4ODAxLC0xOTMwNDkzMzQ4LC04ODY1NTk4NzcsODgyODkzODQ5
-LDExNDYzMzU5ODEsNzg5MDMzNzIyLDY3OTAzMTc4Niw4NjkxNz
-UzOSwtNDIzNDQyMTQ0LC02MDE0OTU4OTIsMTg1ODYyNDkwMF19
-
+eyJoaXN0b3J5IjpbLTEzOTU1MTkxNTgsLTE1MDQzMTAzNDQsND
+M5NzkwNTc2LC01NjAyNTE3MCwxMDUyMTgwNDE5LDQyNzc2MjY5
+MSw2NTAwMjIyMTEsLTYyOTIzODAyLDE5NDQ5MTgxNTEsMTU2MT
+E4MjU5OSwtOTc5Nzk4ODAxLC0xOTMwNDkzMzQ4LC04ODY1NTk4
+NzcsODgyODkzODQ5LDExNDYzMzU5ODEsNzg5MDMzNzIyLDY3OT
+AzMTc4Niw4NjkxNzUzOSwtNDIzNDQyMTQ0LC02MDE0OTU4OTJd
+fQ==
 -->
