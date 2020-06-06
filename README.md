@@ -418,6 +418,9 @@ Arrays.sort()
 Previously, Java’s Arrays.sort method used Quicksort for arrays of primitives and Merge sort for arrays of objects. In the latest versions of Java, Arrays.sort method and Collection.sort() uses Timsort.
 
 ### Arrays
+
+[https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html](https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html)
+
 ```markdown
 // return a copy array
 Arrays.copyOf(original, original.length);
@@ -859,11 +862,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTgyODU5MCwtMTM5NTUxOTE1OCwtMT
-UwNDMxMDM0NCw0Mzk3OTA1NzYsLTU2MDI1MTcwLDEwNTIxODA0
-MTksNDI3NzYyNjkxLDY1MDAyMjIxMSwtNjI5MjM4MDIsMTk0ND
-kxODE1MSwxNTYxMTgyNTk5LC05Nzk3OTg4MDEsLTE5MzA0OTMz
-NDgsLTg4NjU1OTg3Nyw4ODI4OTM4NDksMTE0NjMzNTk4MSw3OD
-kwMzM3MjIsNjc5MDMxNzg2LDg2OTE3NTM5LC00MjM0NDIxNDRd
+eyJoaXN0b3J5IjpbLTI1MzI5NjIyNywyMDU1ODI4NTkwLC0xMz
+k1NTE5MTU4LC0xNTA0MzEwMzQ0LDQzOTc5MDU3NiwtNTYwMjUx
+NzAsMTA1MjE4MDQxOSw0Mjc3NjI2OTEsNjUwMDIyMjExLC02Mj
+kyMzgwMiwxOTQ0OTE4MTUxLDE1NjExODI1OTksLTk3OTc5ODgw
+MSwtMTkzMDQ5MzM0OCwtODg2NTU5ODc3LDg4Mjg5Mzg0OSwxMT
+Q2MzM1OTgxLDc4OTAzMzcyMiw2NzkwMzE3ODYsODY5MTc1Mzld
 fQ==
 -->
