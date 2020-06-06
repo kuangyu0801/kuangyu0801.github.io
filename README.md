@@ -511,12 +511,15 @@ int i = Integer.parseInt(myString);
 ### [String]()
 [Convert float to String](https://www.javatpoint.com/java-float-to-string)
 ```
-String.valueOf()
+int int1 = 10;
+String.valueOf(int1);
 
 float f=12.3F;//F is the suffix for float  
 String s=String.valueOf(f);  
 ```
-
+Compare string in Java
+- 
+[https://www.geeksforgeeks.org/compare-two-strings-in-java/](https://www.geeksforgeeks.org/compare-two-strings-in-java/)
 ### Math
 ```
 int ran = Math.random();
@@ -866,11 +869,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzAwNzEzNywtMjUzMjk2MjI3LDIwNT
-U4Mjg1OTAsLTEzOTU1MTkxNTgsLTE1MDQzMTAzNDQsNDM5Nzkw
-NTc2LC01NjAyNTE3MCwxMDUyMTgwNDE5LDQyNzc2MjY5MSw2NT
-AwMjIyMTEsLTYyOTIzODAyLDE5NDQ5MTgxNTEsMTU2MTE4MjU5
-OSwtOTc5Nzk4ODAxLC0xOTMwNDkzMzQ4LC04ODY1NTk4NzcsOD
-gyODkzODQ5LDExNDYzMzU5ODEsNzg5MDMzNzIyLDY3OTAzMTc4
-Nl19
+eyJoaXN0b3J5IjpbMTc1MDc3OTEzMSwtOTA3MDA3MTM3LC0yNT
+MyOTYyMjcsMjA1NTgyODU5MCwtMTM5NTUxOTE1OCwtMTUwNDMx
+MDM0NCw0Mzk3OTA1NzYsLTU2MDI1MTcwLDEwNTIxODA0MTksND
+I3NzYyNjkxLDY1MDAyMjIxMSwtNjI5MjM4MDIsMTk0NDkxODE1
+MSwxNTYxMTgyNTk5LC05Nzk3OTg4MDEsLTE5MzA0OTMzNDgsLT
+g4NjU1OTg3Nyw4ODI4OTM4NDksMTE0NjMzNTk4MSw3ODkwMzM3
+MjJdfQ==
 -->
