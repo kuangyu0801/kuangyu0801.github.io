@@ -138,7 +138,7 @@ Comparison:
 |--|--|--|--|--|--|
 |--|Best |Average|Worst| Worst|
 | Insertion Sort | O(N^2) |
-| Selection Sort |  |
+| Selection Sort | \**Omega** |
 
 #### Total Order 
 - Antisymmetry: if v ≤ w and w ≤ v, then v = w. 
@@ -852,11 +852,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ2MDI1MjgsMTA1MjE4MDQxOSw0Mj
-c3NjI2OTEsNjUwMDIyMjExLC02MjkyMzgwMiwxOTQ0OTE4MTUx
-LDE1NjExODI1OTksLTk3OTc5ODgwMSwtMTkzMDQ5MzM0OCwtOD
-g2NTU5ODc3LDg4Mjg5Mzg0OSwxMTQ2MzM1OTgxLDc4OTAzMzcy
-Miw2NzkwMzE3ODYsODY5MTc1MzksLTQyMzQ0MjE0NCwtNjAxND
-k1ODkyLDE4NTg2MjQ5MDAsNDczNzIyMDM0LDYyOTc0MzI5M119
+eyJoaXN0b3J5IjpbNjAyNDY2MjQzLDEwNTIxODA0MTksNDI3Nz
+YyNjkxLDY1MDAyMjIxMSwtNjI5MjM4MDIsMTk0NDkxODE1MSwx
+NTYxMTgyNTk5LC05Nzk3OTg4MDEsLTE5MzA0OTMzNDgsLTg4Nj
+U1OTg3Nyw4ODI4OTM4NDksMTE0NjMzNTk4MSw3ODkwMzM3MjIs
+Njc5MDMxNzg2LDg2OTE3NTM5LC00MjM0NDIxNDQsLTYwMTQ5NT
+g5MiwxODU4NjI0OTAwLDQ3MzcyMjAzNCw2Mjk3NDMyOTNdfQ==
 
 -->
