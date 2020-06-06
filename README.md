@@ -138,7 +138,7 @@ Comparison:
 |--|--|--|--|--|--|
 |--|Best |Average|Worst| Worst|
 | Selection Sort |  $\Omega(N^2)$  | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ | Most naive
-| Insertion Sort | O(N^2) |
+| Insertion Sort | $\Omega(N)$ | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ | Good for partially sorted array
 
 #### Total Order 
 - Antisymmetry: if v ≤ w and w ≤ v, then v = w. 
@@ -852,7 +852,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMzg4NTE3NCwxMDUyMTgwNDE5LDQyNz
+eyJoaXN0b3J5IjpbMTk2Mzk1NTgzOCwxMDUyMTgwNDE5LDQyNz
 c2MjY5MSw2NTAwMjIyMTEsLTYyOTIzODAyLDE5NDQ5MTgxNTEs
 MTU2MTE4MjU5OSwtOTc5Nzk4ODAxLC0xOTMwNDkzMzQ4LC04OD
 Y1NTk4NzcsODgyODkzODQ5LDExNDYzMzU5ODEsNzg5MDMzNzIy
