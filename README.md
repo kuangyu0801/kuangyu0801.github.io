@@ -146,6 +146,7 @@ Comparison:
 - Totality: either v ≤ w or w ≤ v or both.
 
 ### Shuffling
+Knuth shuffle
 Shuffle sort produces a uniformly random permutation of the input array
 
 
@@ -853,11 +854,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1ODI3ODEyMSwxMDUyMTgwNDE5LDQyNz
-c2MjY5MSw2NTAwMjIyMTEsLTYyOTIzODAyLDE5NDQ5MTgxNTEs
-MTU2MTE4MjU5OSwtOTc5Nzk4ODAxLC0xOTMwNDkzMzQ4LC04OD
-Y1NTk4NzcsODgyODkzODQ5LDExNDYzMzU5ODEsNzg5MDMzNzIy
-LDY3OTAzMTc4Niw4NjkxNzUzOSwtNDIzNDQyMTQ0LC02MDE0OT
-U4OTIsMTg1ODYyNDkwMCw0NzM3MjIwMzQsNjI5NzQzMjkzXX0=
+eyJoaXN0b3J5IjpbLTU2MDI1MTcwLDEwNTIxODA0MTksNDI3Nz
+YyNjkxLDY1MDAyMjIxMSwtNjI5MjM4MDIsMTk0NDkxODE1MSwx
+NTYxMTgyNTk5LC05Nzk3OTg4MDEsLTE5MzA0OTMzNDgsLTg4Nj
+U1OTg3Nyw4ODI4OTM4NDksMTE0NjMzNTk4MSw3ODkwMzM3MjIs
+Njc5MDMxNzg2LDg2OTE3NTM5LC00MjM0NDIxNDQsLTYwMTQ5NT
+g5MiwxODU4NjI0OTAwLDQ3MzcyMjAzNCw2Mjk3NDMyOTNdfQ==
 
 -->
