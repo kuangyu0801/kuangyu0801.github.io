@@ -138,7 +138,10 @@ Comparison:
 |--|--|--|--|--|--|--|
 |--|Best |Average|Worst| Worst||
 | Selection Sort |  $\Omega(N^2)$  | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |Stable| Most naive
-| Insertion Sort | $\Omega(N)$ | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |Unstable| Good for partially sorted array
+| Insertion Sort | $\Omega(N)$ | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |Stable| Good for partially sorted 
+|Merge Sort|--|--|--|--|Stable|--|
+
+array
 
 #### Total Order 
 - Antisymmetry: if v ≤ w and w ≤ v, then v = w. 
@@ -854,11 +857,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODc3NDg4MiwtNTYwMjUxNzAsMTA1Mj
-E4MDQxOSw0Mjc3NjI2OTEsNjUwMDIyMjExLC02MjkyMzgwMiwx
-OTQ0OTE4MTUxLDE1NjExODI1OTksLTk3OTc5ODgwMSwtMTkzMD
-Q5MzM0OCwtODg2NTU5ODc3LDg4Mjg5Mzg0OSwxMTQ2MzM1OTgx
-LDc4OTAzMzcyMiw2NzkwMzE3ODYsODY5MTc1MzksLTQyMzQ0Mj
-E0NCwtNjAxNDk1ODkyLDE4NTg2MjQ5MDAsNDczNzIyMDM0XX0=
+eyJoaXN0b3J5IjpbNDM5NzkwNTc2LC01NjAyNTE3MCwxMDUyMT
+gwNDE5LDQyNzc2MjY5MSw2NTAwMjIyMTEsLTYyOTIzODAyLDE5
+NDQ5MTgxNTEsMTU2MTE4MjU5OSwtOTc5Nzk4ODAxLC0xOTMwND
+kzMzQ4LC04ODY1NTk4NzcsODgyODkzODQ5LDExNDYzMzU5ODEs
+Nzg5MDMzNzIyLDY3OTAzMTc4Niw4NjkxNzUzOSwtNDIzNDQyMT
+Q0LC02MDE0OTU4OTIsMTg1ODYyNDkwMCw0NzM3MjIwMzRdfQ==
 
 -->
