@@ -614,6 +614,10 @@ class Solution {
     }
 }
 ```
+### 179. Largest Number
+[https://xinghao-huang-portfolio.herokuapp.com/year/01/08/LeetCode/179.%20Largest%20Number/#youtube-video](https://xinghao-huang-portfolio.herokuapp.com/year/01/08/LeetCode/179.%20Largest%20Number/#youtube-video)
+
+
 ### 334. Increasing Triplet Subsequence (Medium)
 這題是greedy,
 [https://leetcode.jp/leetcode-334-increasing-triplet-subsequence-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-334-increasing-triplet-subsequence-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
@@ -862,11 +866,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzI5NjIyNywyMDU1ODI4NTkwLC0xMz
-k1NTE5MTU4LC0xNTA0MzEwMzQ0LDQzOTc5MDU3NiwtNTYwMjUx
-NzAsMTA1MjE4MDQxOSw0Mjc3NjI2OTEsNjUwMDIyMjExLC02Mj
-kyMzgwMiwxOTQ0OTE4MTUxLDE1NjExODI1OTksLTk3OTc5ODgw
-MSwtMTkzMDQ5MzM0OCwtODg2NTU5ODc3LDg4Mjg5Mzg0OSwxMT
-Q2MzM1OTgxLDc4OTAzMzcyMiw2NzkwMzE3ODYsODY5MTc1Mzld
-fQ==
+eyJoaXN0b3J5IjpbLTkwNzAwNzEzNywtMjUzMjk2MjI3LDIwNT
+U4Mjg1OTAsLTEzOTU1MTkxNTgsLTE1MDQzMTAzNDQsNDM5Nzkw
+NTc2LC01NjAyNTE3MCwxMDUyMTgwNDE5LDQyNzc2MjY5MSw2NT
+AwMjIyMTEsLTYyOTIzODAyLDE5NDQ5MTgxNTEsMTU2MTE4MjU5
+OSwtOTc5Nzk4ODAxLC0xOTMwNDkzMzQ4LC04ODY1NTk4NzcsOD
+gyODkzODQ5LDExNDYzMzU5ODEsNzg5MDMzNzIyLDY3OTAzMTc4
+Nl19
 -->
