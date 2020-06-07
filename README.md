@@ -134,7 +134,7 @@ Complexity 大補懶人包[https://www.bigocheatsheet.com/](https://www.bigochea
 
 ### Sorting
 Comparison:
-| Algorithm |Time complexity||| Space complexity|Stability|Description
+| Algorithm |Time complexity|--|-|Space complexity|Stability|Description
 |--|--|--|--|--|--|--|
 |--|Best |Average|Worst| Worst||
 | Selection Sort |  $\Omega(N^2)$  | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |unstable| Most naive
@@ -877,11 +877,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDI5MjM4MTEsNzA2MDg1NDMyLC05MD
-cwMDcxMzcsLTI1MzI5NjIyNywyMDU1ODI4NTkwLC0xMzk1NTE5
-MTU4LC0xNTA0MzEwMzQ0LDQzOTc5MDU3NiwtNTYwMjUxNzAsMT
-A1MjE4MDQxOSw0Mjc3NjI2OTEsNjUwMDIyMjExLC02MjkyMzgw
-MiwxOTQ0OTE4MTUxLDE1NjExODI1OTksLTk3OTc5ODgwMSwtMT
-kzMDQ5MzM0OCwtODg2NTU5ODc3LDg4Mjg5Mzg0OSwxMTQ2MzM1
-OTgxXX0=
+eyJoaXN0b3J5IjpbMjA3OTM0MjgwLC0xMDAyOTIzODExLDcwNj
+A4NTQzMiwtOTA3MDA3MTM3LC0yNTMyOTYyMjcsMjA1NTgyODU5
+MCwtMTM5NTUxOTE1OCwtMTUwNDMxMDM0NCw0Mzk3OTA1NzYsLT
+U2MDI1MTcwLDEwNTIxODA0MTksNDI3NzYyNjkxLDY1MDAyMjIx
+MSwtNjI5MjM4MDIsMTk0NDkxODE1MSwxNTYxMTgyNTk5LC05Nz
+k3OTg4MDEsLTE5MzA0OTMzNDgsLTg4NjU1OTg3Nyw4ODI4OTM4
+NDldfQ==
 -->
