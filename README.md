@@ -185,6 +185,12 @@ set number 開啟行數顯示
 
 ## Android Developer Fundamentals
 [學習紀錄](https://docs.google.com/document/d/1s32QPhb5lg1lOj1ke2YFubwk6O8naeVqfNGvok5X3c4/edit?usp=sharing)
+
+# Mobile Computing
+## 
+
+# JSON
+
 # Java
 - 黑馬Java教學，有規劃有組織且超級清楚！！！[# 2019年IDEA版黑马Java就业班-基础+高级](https://www.bilibili.com/video/BV1T7411m7Ta/?p=332)
 - # [2020年新版Java学习路线图（内含大纲+视频+工具+书籍+面试）](http://bbs.itheima.com/thread-386464-1-1.html)
@@ -874,11 +880,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2MDg1NDMyLC05MDcwMDcxMzcsLTI1Mz
-I5NjIyNywyMDU1ODI4NTkwLC0xMzk1NTE5MTU4LC0xNTA0MzEw
-MzQ0LDQzOTc5MDU3NiwtNTYwMjUxNzAsMTA1MjE4MDQxOSw0Mj
-c3NjI2OTEsNjUwMDIyMjExLC02MjkyMzgwMiwxOTQ0OTE4MTUx
-LDE1NjExODI1OTksLTk3OTc5ODgwMSwtMTkzMDQ5MzM0OCwtOD
-g2NTU5ODc3LDg4Mjg5Mzg0OSwxMTQ2MzM1OTgxLDc4OTAzMzcy
-Ml19
+eyJoaXN0b3J5IjpbNDgwMzEzODQsNzA2MDg1NDMyLC05MDcwMD
+cxMzcsLTI1MzI5NjIyNywyMDU1ODI4NTkwLC0xMzk1NTE5MTU4
+LC0xNTA0MzEwMzQ0LDQzOTc5MDU3NiwtNTYwMjUxNzAsMTA1Mj
+E4MDQxOSw0Mjc3NjI2OTEsNjUwMDIyMjExLC02MjkyMzgwMiwx
+OTQ0OTE4MTUxLDE1NjExODI1OTksLTk3OTc5ODgwMSwtMTkzMD
+Q5MzM0OCwtODg2NTU5ODc3LDg4Mjg5Mzg0OSwxMTQ2MzM1OTgx
+XX0=
 -->
