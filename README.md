@@ -134,11 +134,11 @@ Complexity 大補懶人包[https://www.bigocheatsheet.com/](https://www.bigochea
 
 ### Sorting
 Comparison:
-| Algorithm |Time complexity|--|-|Space complexity|Stability|Description
+| Algorithm |Time complexity|--|--|Space complexity|Stability|Description|
 |--|--|--|--|--|--|--|
-|--|Best |Average|Worst| Worst||
-| Selection Sort |  $\Omega(N^2)$  | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |unstable| Most naive
-| Insertion Sort | $\Omega(N)$ | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |stable| Good for partially sorted 
+|--|Best |Average|Worst| Worst|--|--|
+| Selection Sort |  $\Omega(N^2)$  | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |unstable| Most naive approach|
+| Insertion Sort | $\Omega(N)$ | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |stable| Good for partially sorted|
 |Merge Sort|$\Omega(N log(N))$ |$\Theta(N log(N))$|$O(N log(N))$|$O(N)$|stable|--|
 |Quick Sort|$\Omega(N^2)$ |$\Theta(N log(N))$|$O(N^2)$|$O(N)$|unstable|--|
 
@@ -877,7 +877,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTM0MjgwLC0xMDAyOTIzODExLDcwNj
+eyJoaXN0b3J5IjpbMjQxNjczNjc3LC0xMDAyOTIzODExLDcwNj
 A4NTQzMiwtOTA3MDA3MTM3LC0yNTMyOTYyMjcsMjA1NTgyODU5
 MCwtMTM5NTUxOTE1OCwtMTUwNDMxMDM0NCw0Mzk3OTA1NzYsLT
 U2MDI1MTcwLDEwNTIxODA0MTksNDI3NzYyNjkxLDY1MDAyMjIx
