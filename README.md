@@ -115,7 +115,7 @@ Minimum Qualifications
 - [《Python Data Science Handbook》](https://jakevdp.github.io/PythonDataScienceHandbook/): Machine Learning實作會用到各種library, package都可以在這裡面查找
 - [《Cracking the Coding Interview》](https://drive.google.com/file/d/1t2GL9Nvj9sRa2hHgi0_2MNJnbeE64IN5/view?usp=sharing): 大家大推的面試指南
 
-# [Programming Course]
+# Programming Course
 - 《CS61B Data Structure》by UC Berkeley
 	- [https://sp18.datastructur.es/](https://sp18.datastructur.es/)
 	- [https://sp19.datastructur.es/](https://sp19.datastructur.es/)
@@ -124,6 +124,7 @@ Minimum Qualifications
 - [《The Missing Semester of Your CS Education 》by MIT](https://missing.csail.mit.edu/): 課程有系統教授許多“職業”工程師應該要會知道的技能：shell-command, git,
 - [《 Introduction to Git and GitHub by Google》by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
 -  [《Android Developer Fundamentals》by Google](https://developer.android.com/courses/fundamentals-training/toc-v2)
+- [《》
 
 
 ## Data Structure and Algorithm
@@ -878,11 +879,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDI1NjQ0NywyNjEyNTg0MjcsMjQxNj
-czNjc3LC0xMDAyOTIzODExLDcwNjA4NTQzMiwtOTA3MDA3MTM3
-LC0yNTMyOTYyMjcsMjA1NTgyODU5MCwtMTM5NTUxOTE1OCwtMT
-UwNDMxMDM0NCw0Mzk3OTA1NzYsLTU2MDI1MTcwLDEwNTIxODA0
-MTksNDI3NzYyNjkxLDY1MDAyMjIxMSwtNjI5MjM4MDIsMTk0ND
-kxODE1MSwxNTYxMTgyNTk5LC05Nzk3OTg4MDEsLTE5MzA0OTMz
-NDhdfQ==
+eyJoaXN0b3J5IjpbMTI2MzMwMDkyMiwxMDAwMjU2NDQ3LDI2MT
+I1ODQyNywyNDE2NzM2NzcsLTEwMDI5MjM4MTEsNzA2MDg1NDMy
+LC05MDcwMDcxMzcsLTI1MzI5NjIyNywyMDU1ODI4NTkwLC0xMz
+k1NTE5MTU4LC0xNTA0MzEwMzQ0LDQzOTc5MDU3NiwtNTYwMjUx
+NzAsMTA1MjE4MDQxOSw0Mjc3NjI2OTEsNjUwMDIyMjExLC02Mj
+kyMzgwMiwxOTQ0OTE4MTUxLDE1NjExODI1OTksLTk3OTc5ODgw
+MV19
 -->
