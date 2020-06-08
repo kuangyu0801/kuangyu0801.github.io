@@ -124,7 +124,7 @@ Minimum Qualifications
 - [《The Missing Semester of Your CS Education 》by MIT](https://missing.csail.mit.edu/): 課程有系統教授許多“職業”工程師應該要會知道的技能：shell-command, git,
 - [《 Introduction to Git and GitHub by Google》by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
 -  [《Android Developer Fundamentals》by Google](https://developer.android.com/courses/fundamentals-training/toc-v2)
-- [《黑馬Java》]()
+- [《黑馬Java》](https://drive.google.com/drive/folders/1k8OlKUAjlgz8Je7V-EjjaQCYOmjYmALy?usp=sharing): 
 - [《黑馬Git》](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
 - [《黑馬Android》]
 
@@ -881,11 +881,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU3NDAxNzgsMTAwMDI1NjQ0NywyNj
-EyNTg0MjcsMjQxNjczNjc3LC0xMDAyOTIzODExLDcwNjA4NTQz
-MiwtOTA3MDA3MTM3LC0yNTMyOTYyMjcsMjA1NTgyODU5MCwtMT
-M5NTUxOTE1OCwtMTUwNDMxMDM0NCw0Mzk3OTA1NzYsLTU2MDI1
-MTcwLDEwNTIxODA0MTksNDI3NzYyNjkxLDY1MDAyMjIxMSwtNj
-I5MjM4MDIsMTk0NDkxODE1MSwxNTYxMTgyNTk5LC05Nzk3OTg4
-MDFdfQ==
+eyJoaXN0b3J5IjpbLTYxOTkzNjU2LDEwMDAyNTY0NDcsMjYxMj
+U4NDI3LDI0MTY3MzY3NywtMTAwMjkyMzgxMSw3MDYwODU0MzIs
+LTkwNzAwNzEzNywtMjUzMjk2MjI3LDIwNTU4Mjg1OTAsLTEzOT
+U1MTkxNTgsLTE1MDQzMTAzNDQsNDM5NzkwNTc2LC01NjAyNTE3
+MCwxMDUyMTgwNDE5LDQyNzc2MjY5MSw2NTAwMjIyMTEsLTYyOT
+IzODAyLDE5NDQ5MTgxNTEsMTU2MTE4MjU5OSwtOTc5Nzk4ODAx
+XX0=
 -->
