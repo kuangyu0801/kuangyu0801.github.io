@@ -366,9 +366,11 @@ numpy.linalg.solve
 ## 心得
 
 刷題考出很多東西
-- 程式語言syntax的掌握度
 - 算法與資料結構的熟係度
-- coding的岩井
+- 程式語言syntax的掌握度
+- coding style的嚴謹度
+
+所以，每天一定要抽出時間來刷題，時間不夠挑一題easy來做也能夠維持自己對題目的熟悉
 ## 紀錄
 
 Sun|Mon|Tue|Wed|Thu|Fri|Sat  
@@ -886,11 +888,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjExMzcxLDc4MjU1MDM2MiwxNjg1NT
-E2MjIsLTUxMzYzMzI4NCwxMDAwMjU2NDQ3LDI2MTI1ODQyNywy
-NDE2NzM2NzcsLTEwMDI5MjM4MTEsNzA2MDg1NDMyLC05MDcwMD
-cxMzcsLTI1MzI5NjIyNywyMDU1ODI4NTkwLC0xMzk1NTE5MTU4
-LC0xNTA0MzEwMzQ0LDQzOTc5MDU3NiwtNTYwMjUxNzAsMTA1Mj
-E4MDQxOSw0Mjc3NjI2OTEsNjUwMDIyMjExLC02MjkyMzgwMl19
-
+eyJoaXN0b3J5IjpbLTU3OTc5MzAxNyw3ODI1NTAzNjIsMTY4NT
+UxNjIyLC01MTM2MzMyODQsMTAwMDI1NjQ0NywyNjEyNTg0Mjcs
+MjQxNjczNjc3LC0xMDAyOTIzODExLDcwNjA4NTQzMiwtOTA3MD
+A3MTM3LC0yNTMyOTYyMjcsMjA1NTgyODU5MCwtMTM5NTUxOTE1
+OCwtMTUwNDMxMDM0NCw0Mzk3OTA1NzYsLTU2MDI1MTcwLDEwNT
+IxODA0MTksNDI3NzYyNjkxLDY1MDAyMjIxMSwtNjI5MjM4MDJd
+fQ==
 -->
