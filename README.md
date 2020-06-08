@@ -370,7 +370,7 @@ numpy.linalg.solve
 - 程式語言syntax的掌握度
 - coding style的嚴謹度
 
-所以，每天一定要抽出時間來刷題，時間不夠挑一題easy來做也能夠維持自己對題目的熟悉
+所以，每天一定要抽出時間來刷題，時間不夠挑一題easy來做也能夠維持自己對語法的熟悉
 ## 紀錄
 
 Sun|Mon|Tue|Wed|Thu|Fri|Sat  
@@ -888,7 +888,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTc5MzAxNyw3ODI1NTAzNjIsMTY4NT
+eyJoaXN0b3J5IjpbLTQ2MTQzODI0NCw3ODI1NTAzNjIsMTY4NT
 UxNjIyLC01MTM2MzMyODQsMTAwMDI1NjQ0NywyNjEyNTg0Mjcs
 MjQxNjczNjc3LC0xMDAyOTIzODExLDcwNjA4NTQzMiwtOTA3MD
 A3MTM3LC0yNTMyOTYyMjcsMjA1NTgyODU5MCwtMTM5NTUxOTE1
