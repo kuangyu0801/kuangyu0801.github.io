@@ -363,7 +363,12 @@ numpy.linalg.solve
 - 強大的力扣心得[https://github.com/azl397985856/leetcode](https://github.com/azl397985856/leetcode)
 - 某人簡單明瞭的部落格，答案是java[https://leetcode.jp/problems.php](https://leetcode.jp/problems.php)
 - 花花醬，部分有視頻講解，代碼是c++ or  Python [https://zxi.mytechroad.com/blog/](https://zxi.mytechroad.com/blog/)
+## 心得
 
+刷題考出很多東西
+- 程式語言syntax的掌握度
+- 算法與資料結構的熟係度
+- coding的岩井
 ## 紀錄
 
 Sun|Mon|Tue|Wed|Thu|Fri|Sat  
@@ -881,11 +886,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODU3NDc5OTksNzgyNTUwMzYyLDE2OD
-U1MTYyMiwtNTEzNjMzMjg0LDEwMDAyNTY0NDcsMjYxMjU4NDI3
-LDI0MTY3MzY3NywtMTAwMjkyMzgxMSw3MDYwODU0MzIsLTkwNz
-AwNzEzNywtMjUzMjk2MjI3LDIwNTU4Mjg1OTAsLTEzOTU1MTkx
-NTgsLTE1MDQzMTAzNDQsNDM5NzkwNTc2LC01NjAyNTE3MCwxMD
-UyMTgwNDE5LDQyNzc2MjY5MSw2NTAwMjIyMTEsLTYyOTIzODAy
-XX0=
+eyJoaXN0b3J5IjpbMjAwMjExMzcxLDc4MjU1MDM2MiwxNjg1NT
+E2MjIsLTUxMzYzMzI4NCwxMDAwMjU2NDQ3LDI2MTI1ODQyNywy
+NDE2NzM2NzcsLTEwMDI5MjM4MTEsNzA2MDg1NDMyLC05MDcwMD
+cxMzcsLTI1MzI5NjIyNywyMDU1ODI4NTkwLC0xMzk1NTE5MTU4
+LC0xNTA0MzEwMzQ0LDQzOTc5MDU3NiwtNTYwMjUxNzAsMTA1Mj
+E4MDQxOSw0Mjc3NjI2OTEsNjUwMDIyMjExLC02MjkyMzgwMl19
+
 -->
