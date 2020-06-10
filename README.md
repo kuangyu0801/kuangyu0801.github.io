@@ -336,7 +336,9 @@ dev 是基於 master-v1拉出來，並且新增兩個feacture in v2, v3. 同時m
  v10 | v1 |  branch out dev 
  v10 | v2 |  dev add a feature
  v10 | v3 |  dev add another feature
- v11 | v3 |  master fix bug (這時dev
+ v11 | v3 |  master fix bug (這時dev的基板是master-v10, 但master已經進到v11)
+ v11 | v4 | dev "rebase onto master-v11"(這時
+ v12 |
  
 # GitHub
 - [Coursera: Introduction to Git and GitHub by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
@@ -931,11 +933,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjQ0NDI2OCwtNDAxNzEyMDQ4LDIxMj
-gzNTA2ODIsLTExNDU5NzI2NTUsLTQ4NzExMTQyMSwxOTYzMDYy
-ODA0LC04MDQ5ODc0ODYsMjAwMjQ3MjQzLDgzODE1ODEyNSwtMT
-cwNjAxMTcwMSwtNDYxNDM4MjQ0LDc4MjU1MDM2MiwxNjg1NTE2
-MjIsLTUxMzYzMzI4NCwxMDAwMjU2NDQ3LDI2MTI1ODQyNywyND
-E2NzM2NzcsLTEwMDI5MjM4MTEsNzA2MDg1NDMyLC05MDcwMDcx
-MzddfQ==
+eyJoaXN0b3J5IjpbNzkxNjQwNzU4LC00MDE3MTIwNDgsMjEyOD
+M1MDY4MiwtMTE0NTk3MjY1NSwtNDg3MTExNDIxLDE5NjMwNjI4
+MDQsLTgwNDk4NzQ4NiwyMDAyNDcyNDMsODM4MTU4MTI1LC0xNz
+A2MDExNzAxLC00NjE0MzgyNDQsNzgyNTUwMzYyLDE2ODU1MTYy
+MiwtNTEzNjMzMjg0LDEwMDAyNTY0NDcsMjYxMjU4NDI3LDI0MT
+Y3MzY3NywtMTAwMjkyMzgxMSw3MDYwODU0MzIsLTkwNzAwNzEz
+N119
 -->
