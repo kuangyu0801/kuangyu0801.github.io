@@ -338,7 +338,7 @@ dev 是基於 master-v1拉出來，並且新增兩個feacture in v2, v3. 同時m
  v10 | v3 (+ feat_b)|  dev add another feature
  v11 (+ bugfix) | v3 (+ feat_a + feat_b)|  master fix bug (這時master已經進到v11, need to rebase)
  v11 (+ bugfix) | v4 (+ feat_a + feat_b + bugfix)| dev "rebase onto master-v11"(這時dev已經涵蓋master所有改動）
- v12 (+ feat_a + feat_b + bugfix) | v5 | 
+ v12 (+ feat_a + feat_b + bugfix) | v5 (same as master v12)| merge dev into master, master包含所有feature
  
 # GitHub
 - [Coursera: Introduction to Git and GitHub by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
@@ -933,7 +933,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODg1NzIwOCwtNDAxNzEyMDQ4LDIxMj
+eyJoaXN0b3J5IjpbMTE3NzU3MzQyMiwtNDAxNzEyMDQ4LDIxMj
 gzNTA2ODIsLTExNDU5NzI2NTUsLTQ4NzExMTQyMSwxOTYzMDYy
 ODA0LC04MDQ5ODc0ODYsMjAwMjQ3MjQzLDgzODE1ODEyNSwtMT
 cwNjAxMTcwMSwtNDYxNDM4MjQ0LDc4MjU1MDM2MiwxNjg1NTE2
