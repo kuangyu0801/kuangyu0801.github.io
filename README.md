@@ -192,6 +192,8 @@ set number 開啟行數顯示
 
 
 ## Firebase in a Weekend on Udacity
+
+Issue: [https://discussions.udacity.com/t/keytool-error-java-lang-exception-only-one-command-is-allowed-both-exportcert-and-list-were-specified/935120](https://discussions.udacity.com/t/keytool-error-java-lang-exception-only-one-command-is-allowed-both-exportcert-and-list-were-specified/935120)
 # JSON
 
 # Java
@@ -890,11 +892,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4MTU4MTI1LC0xNzA2MDExNzAxLC00Nj
-E0MzgyNDQsNzgyNTUwMzYyLDE2ODU1MTYyMiwtNTEzNjMzMjg0
-LDEwMDAyNTY0NDcsMjYxMjU4NDI3LDI0MTY3MzY3NywtMTAwMj
-kyMzgxMSw3MDYwODU0MzIsLTkwNzAwNzEzNywtMjUzMjk2MjI3
-LDIwNTU4Mjg1OTAsLTEzOTU1MTkxNTgsLTE1MDQzMTAzNDQsND
-M5NzkwNTc2LC01NjAyNTE3MCwxMDUyMTgwNDE5LDQyNzc2MjY5
-MV19
+eyJoaXN0b3J5IjpbMjAwMjQ3MjQzLDgzODE1ODEyNSwtMTcwNj
+AxMTcwMSwtNDYxNDM4MjQ0LDc4MjU1MDM2MiwxNjg1NTE2MjIs
+LTUxMzYzMzI4NCwxMDAwMjU2NDQ3LDI2MTI1ODQyNywyNDE2Nz
+M2NzcsLTEwMDI5MjM4MTEsNzA2MDg1NDMyLC05MDcwMDcxMzcs
+LTI1MzI5NjIyNywyMDU1ODI4NTkwLC0xMzk1NTE5MTU4LC0xNT
+A0MzEwMzQ0LDQzOTc5MDU3NiwtNTYwMjUxNzAsMTA1MjE4MDQx
+OV19
 -->
