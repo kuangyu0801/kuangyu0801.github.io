@@ -328,7 +328,7 @@ public class Java8HoFDemo {
 [Keeping Feature Branches Up To Date With Rebasing | Git Workflows](https://youtu.be/dqVqMwLzOjU)
 
 6. Rebase vs. Merge
-
+dev 是基於 master-v1拉出來，並且新增兩個feacture in v2, v
 
 # GitHub
 - [Coursera: Introduction to Git and GitHub by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
@@ -923,7 +923,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDAxMTAzNSwtNDAxNzEyMDQ4LDIxMj
+eyJoaXN0b3J5IjpbMTI2MDU4MDU4MiwtNDAxNzEyMDQ4LDIxMj
 gzNTA2ODIsLTExNDU5NzI2NTUsLTQ4NzExMTQyMSwxOTYzMDYy
 ODA0LC04MDQ5ODc0ODYsMjAwMjQ3MjQzLDgzODE1ODEyNSwtMT
 cwNjAxMTcwMSwtNDYxNDM4MjQ0LDc4MjU1MDM2MiwxNjg1NTE2
