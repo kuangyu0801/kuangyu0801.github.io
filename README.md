@@ -206,6 +206,12 @@ Valid until: Saturday, April 30, 2050
 
 # JSON
 
+# Git & Github
+- 黑馬git教學，有規劃有組織且超級清楚！！！[# 2020黑马Git教程（2小时从入门到精通）](https://www.bilibili.com/video/BV1fK4y1b7XL/?p=18)
+
+# 常用問題
+###  Pull from a pu
+
 # Java
 - 黑馬Java教學，有規劃有組織且超級清楚！！！[# 2019年IDEA版黑马Java就业班-基础+高级](https://www.bilibili.com/video/BV1T7411m7Ta/?p=332)
 - # [2020年新版Java学习路线图（内含大纲+视频+工具+书籍+面试）](http://bbs.itheima.com/thread-386464-1-1.html)
@@ -902,11 +908,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDk4NzQ4NiwyMDAyNDcyNDMsODM4MT
-U4MTI1LC0xNzA2MDExNzAxLC00NjE0MzgyNDQsNzgyNTUwMzYy
-LDE2ODU1MTYyMiwtNTEzNjMzMjg0LDEwMDAyNTY0NDcsMjYxMj
-U4NDI3LDI0MTY3MzY3NywtMTAwMjkyMzgxMSw3MDYwODU0MzIs
-LTkwNzAwNzEzNywtMjUzMjk2MjI3LDIwNTU4Mjg1OTAsLTEzOT
-U1MTkxNTgsLTE1MDQzMTAzNDQsNDM5NzkwNTc2LC01NjAyNTE3
-MF19
+eyJoaXN0b3J5IjpbMTkxNjMxOTU5MSwtODA0OTg3NDg2LDIwMD
+I0NzI0Myw4MzgxNTgxMjUsLTE3MDYwMTE3MDEsLTQ2MTQzODI0
+NCw3ODI1NTAzNjIsMTY4NTUxNjIyLC01MTM2MzMyODQsMTAwMD
+I1NjQ0NywyNjEyNTg0MjcsMjQxNjczNjc3LC0xMDAyOTIzODEx
+LDcwNjA4NTQzMiwtOTA3MDA3MTM3LC0yNTMyOTYyMjcsMjA1NT
+gyODU5MCwtMTM5NTUxOTE1OCwtMTUwNDMxMDM0NCw0Mzk3OTA1
+NzZdfQ==
 -->
