@@ -317,8 +317,12 @@ public class Java8HoFDemo {
 	- FETCH: 把remote commit file抓到local但不改變local <- 不想要被蓋掉選這個！
 	- PULL: FETCH + auto MERGE + auto COMMIT to local <- 無腦拿remote蓋掉全部，如果local有改動就很危險
 	- UPDATE PROJECTS: FETCH from all remote branches + MERGE + COMMIT to local
-2. 
-
+2. 建立Branch
+- 建立local branch go to menu bar click "VCS" -> "Git" -> "Branches" -> "create branch"  
+- 建立remote branch: push 之後就會自動建立 remote branch  
+- 如何merge changes?  "VCS" -> "Git" -> "Merge Changes" 詳情參考  
+[JetBrain文章](https://www.jetbrains.com/help/idea/apply-changes-from-one-branch-to-another.html)  
+[Youtube教學How and when do I merge or rebase?](https://youtu.be/Nftif2ynvdA)
 
 
 # GitHub
@@ -914,11 +918,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDU5NzI2NTUsLTQ4NzExMTQyMSwxOT
-YzMDYyODA0LC04MDQ5ODc0ODYsMjAwMjQ3MjQzLDgzODE1ODEy
-NSwtMTcwNjAxMTcwMSwtNDYxNDM4MjQ0LDc4MjU1MDM2MiwxNj
-g1NTE2MjIsLTUxMzYzMzI4NCwxMDAwMjU2NDQ3LDI2MTI1ODQy
-NywyNDE2NzM2NzcsLTEwMDI5MjM4MTEsNzA2MDg1NDMyLC05MD
-cwMDcxMzcsLTI1MzI5NjIyNywyMDU1ODI4NTkwLC0xMzk1NTE5
-MTU4XX0=
+eyJoaXN0b3J5IjpbMjEyODM1MDY4MiwtMTE0NTk3MjY1NSwtND
+g3MTExNDIxLDE5NjMwNjI4MDQsLTgwNDk4NzQ4NiwyMDAyNDcy
+NDMsODM4MTU4MTI1LC0xNzA2MDExNzAxLC00NjE0MzgyNDQsNz
+gyNTUwMzYyLDE2ODU1MTYyMiwtNTEzNjMzMjg0LDEwMDAyNTY0
+NDcsMjYxMjU4NDI3LDI0MTY3MzY3NywtMTAwMjkyMzgxMSw3MD
+YwODU0MzIsLTkwNzAwNzEzNywtMjUzMjk2MjI3LDIwNTU4Mjg1
+OTBdfQ==
 -->
