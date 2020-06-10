@@ -210,7 +210,9 @@ Valid until: Saturday, April 30, 2050
 - 黑馬git教學，有規劃有組織且超級清楚！！！[# 2020黑马Git教程（2小时从入门到精通）](https://www.bilibili.com/video/BV1fK4y1b7XL/?p=18)
 
 # 常用問題
-###  Pull from a pu
+###  Pull from a remote public project and add it to my own remote repo in IDEA
+
+### Create local branch and push to remote in IDEA
 
 # Java
 - 黑馬Java教學，有規劃有組織且超級清楚！！！[# 2019年IDEA版黑马Java就业班-基础+高级](https://www.bilibili.com/video/BV1T7411m7Ta/?p=332)
@@ -908,7 +910,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjMxOTU5MSwtODA0OTg3NDg2LDIwMD
+eyJoaXN0b3J5IjpbMTk2MzA2MjgwNCwtODA0OTg3NDg2LDIwMD
 I0NzI0Myw4MzgxNTgxMjUsLTE3MDYwMTE3MDEsLTQ2MTQzODI0
 NCw3ODI1NTAzNjIsMTY4NTUxNjIyLC01MTM2MzMyODQsMTAwMD
 I1NjQ0NywyNjEyNTg0MjcsMjQxNjczNjc3LC0xMDAyOTIzODEx
