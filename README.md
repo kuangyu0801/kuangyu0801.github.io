@@ -214,6 +214,9 @@ Valid until: Saturday, April 30, 2050
 ###  Pull from a remote public project and add it to my own remote repo in IDEA
 
 ### Create local branch and push to remote in IDEA
+###  Apply changes from one Git branch to another
+JetBrain文章[https://www.jetbrains.com/help/idea/apply-changes-from-one-branch-to-another.html](https://www.jetbrains.com/help/idea/apply-changes-from-one-branch-to-another.html)
+Youtube # How and when do I merge or rebase?
 
 # Java
 - 黑馬Java教學，有規劃有組織且超級清楚！！！[# 2019年IDEA版黑马Java就业班-基础+高级](https://www.bilibili.com/video/BV1T7411m7Ta/?p=332)
@@ -911,11 +914,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzExMTQyMSwxOTYzMDYyODA0LC04MD
-Q5ODc0ODYsMjAwMjQ3MjQzLDgzODE1ODEyNSwtMTcwNjAxMTcw
-MSwtNDYxNDM4MjQ0LDc4MjU1MDM2MiwxNjg1NTE2MjIsLTUxMz
-YzMzI4NCwxMDAwMjU2NDQ3LDI2MTI1ODQyNywyNDE2NzM2Nzcs
-LTEwMDI5MjM4MTEsNzA2MDg1NDMyLC05MDcwMDcxMzcsLTI1Mz
-I5NjIyNywyMDU1ODI4NTkwLC0xMzk1NTE5MTU4LC0xNTA0MzEw
-MzQ0XX0=
+eyJoaXN0b3J5IjpbLTIzNDE4MzcwMSwtNDg3MTExNDIxLDE5Nj
+MwNjI4MDQsLTgwNDk4NzQ4NiwyMDAyNDcyNDMsODM4MTU4MTI1
+LC0xNzA2MDExNzAxLC00NjE0MzgyNDQsNzgyNTUwMzYyLDE2OD
+U1MTYyMiwtNTEzNjMzMjg0LDEwMDAyNTY0NDcsMjYxMjU4NDI3
+LDI0MTY3MzY3NywtMTAwMjkyMzgxMSw3MDYwODU0MzIsLTkwNz
+AwNzEzNywtMjUzMjk2MjI3LDIwNTU4Mjg1OTAsLTEzOTU1MTkx
+NThdfQ==
 -->
