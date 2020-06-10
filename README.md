@@ -208,6 +208,7 @@ Valid until: Saturday, April 30, 2050
 
 # Git & Github
 - 黑馬git教學，有規劃有組織且超級清楚！！！[# 2020黑马Git教程（2小时从入门到精通）](https://www.bilibili.com/video/BV1fK4y1b7XL/?p=18)
+- [課程文件](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
 
 # 常用問題
 ###  Pull from a remote public project and add it to my own remote repo in IDEA
@@ -910,11 +911,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzA2MjgwNCwtODA0OTg3NDg2LDIwMD
-I0NzI0Myw4MzgxNTgxMjUsLTE3MDYwMTE3MDEsLTQ2MTQzODI0
-NCw3ODI1NTAzNjIsMTY4NTUxNjIyLC01MTM2MzMyODQsMTAwMD
-I1NjQ0NywyNjEyNTg0MjcsMjQxNjczNjc3LC0xMDAyOTIzODEx
-LDcwNjA4NTQzMiwtOTA3MDA3MTM3LC0yNTMyOTYyMjcsMjA1NT
-gyODU5MCwtMTM5NTUxOTE1OCwtMTUwNDMxMDM0NCw0Mzk3OTA1
-NzZdfQ==
+eyJoaXN0b3J5IjpbLTQ4NzExMTQyMSwxOTYzMDYyODA0LC04MD
+Q5ODc0ODYsMjAwMjQ3MjQzLDgzODE1ODEyNSwtMTcwNjAxMTcw
+MSwtNDYxNDM4MjQ0LDc4MjU1MDM2MiwxNjg1NTE2MjIsLTUxMz
+YzMzI4NCwxMDAwMjU2NDQ3LDI2MTI1ODQyNywyNDE2NzM2Nzcs
+LTEwMDI5MjM4MTEsNzA2MDg1NDMyLC05MDcwMDcxMzcsLTI1Mz
+I5NjIyNywyMDU1ODI4NTkwLC0xMzk1NTE5MTU4LC0xNTA0MzEw
+MzQ0XX0=
 -->
