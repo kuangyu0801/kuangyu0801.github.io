@@ -190,6 +190,8 @@ set number 開啟行數顯示
 ## Android Developer Fundamentals
 [學習紀錄](https://docs.google.com/document/d/1s32QPhb5lg1lOj1ke2YFubwk6O8naeVqfNGvok5X3c4/edit?usp=sharing)
 
+
+## Firebase in a Weekend on Udacity
 # JSON
 
 # Java
@@ -888,11 +890,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDYwMTE3MDEsLTQ2MTQzODI0NCw3OD
-I1NTAzNjIsMTY4NTUxNjIyLC01MTM2MzMyODQsMTAwMDI1NjQ0
-NywyNjEyNTg0MjcsMjQxNjczNjc3LC0xMDAyOTIzODExLDcwNj
-A4NTQzMiwtOTA3MDA3MTM3LC0yNTMyOTYyMjcsMjA1NTgyODU5
-MCwtMTM5NTUxOTE1OCwtMTUwNDMxMDM0NCw0Mzk3OTA1NzYsLT
-U2MDI1MTcwLDEwNTIxODA0MTksNDI3NzYyNjkxLDY1MDAyMjIx
+eyJoaXN0b3J5IjpbODM4MTU4MTI1LC0xNzA2MDExNzAxLC00Nj
+E0MzgyNDQsNzgyNTUwMzYyLDE2ODU1MTYyMiwtNTEzNjMzMjg0
+LDEwMDAyNTY0NDcsMjYxMjU4NDI3LDI0MTY3MzY3NywtMTAwMj
+kyMzgxMSw3MDYwODU0MzIsLTkwNzAwNzEzNywtMjUzMjk2MjI3
+LDIwNTU4Mjg1OTAsLTEzOTU1MTkxNTgsLTE1MDQzMTAzNDQsND
+M5NzkwNTc2LC01NjAyNTE3MCwxMDUyMTgwNDE5LDQyNzc2MjY5
 MV19
 -->
