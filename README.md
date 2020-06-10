@@ -320,9 +320,11 @@ public class Java8HoFDemo {
 2. 建立Branch
 - 建立local branch go to menu bar click "VCS" -> "Git" -> "Branches" -> "create branch"  
 - 建立remote branch: push 之後就會自動建立 remote branch  
-- 如何merge changes?  "VCS" -> "Git" -> "Merge Changes" 詳情參考  
-[JetBrain文章](https://www.jetbrains.com/help/idea/apply-changes-from-one-branch-to-another.html)  
-[Youtube教學How and when do I merge or rebase?](https://youtu.be/Nftif2ynvdA)
+3. 如何merge changes?  "VCS" -> "Git" -> "Merge Changes" 詳情參考  
+- [JetBrain文章](https://www.jetbrains.com/help/idea/apply-changes-from-one-branch-to-another.html)  
+- [Youtube教學How and when do I merge or rebase?](https://youtu.be/Nftif2ynvdA)
+
+5.  如何rebase? Rebase vs. Merge
 
 
 # GitHub
@@ -918,11 +920,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODM1MDY4MiwtMTE0NTk3MjY1NSwtND
-g3MTExNDIxLDE5NjMwNjI4MDQsLTgwNDk4NzQ4NiwyMDAyNDcy
-NDMsODM4MTU4MTI1LC0xNzA2MDExNzAxLC00NjE0MzgyNDQsNz
-gyNTUwMzYyLDE2ODU1MTYyMiwtNTEzNjMzMjg0LDEwMDAyNTY0
-NDcsMjYxMjU4NDI3LDI0MTY3MzY3NywtMTAwMjkyMzgxMSw3MD
-YwODU0MzIsLTkwNzAwNzEzNywtMjUzMjk2MjI3LDIwNTU4Mjg1
-OTBdfQ==
+eyJoaXN0b3J5IjpbLTQwMTcxMjA0OCwyMTI4MzUwNjgyLC0xMT
+Q1OTcyNjU1LC00ODcxMTE0MjEsMTk2MzA2MjgwNCwtODA0OTg3
+NDg2LDIwMDI0NzI0Myw4MzgxNTgxMjUsLTE3MDYwMTE3MDEsLT
+Q2MTQzODI0NCw3ODI1NTAzNjIsMTY4NTUxNjIyLC01MTM2MzMy
+ODQsMTAwMDI1NjQ0NywyNjEyNTg0MjcsMjQxNjczNjc3LC0xMD
+AyOTIzODExLDcwNjA4NTQzMiwtOTA3MDA3MTM3LC0yNTMyOTYy
+MjddfQ==
 -->
