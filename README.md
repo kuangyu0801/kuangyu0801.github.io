@@ -194,6 +194,16 @@ set number 開啟行數顯示
 ## Firebase in a Weekend on Udacity
 
 Issue: [https://discussions.udacity.com/t/keytool-error-java-lang-exception-only-one-command-is-allowed-both-exportcert-and-list-were-specified/935120](https://discussions.udacity.com/t/keytool-error-java-lang-exception-only-one-command-is-allowed-both-exportcert-and-list-were-specified/935120)
+
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/Kuang-Yu/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: F3:02:0A:6E:20:34:25:E9:11:7F:66:D7:57:00:44:B6
+SHA1: F8:E6:05:65:D6:4A:58:17:C8:A9:75:6F:62:F5:58:DD:E5:8D:2A:78
+SHA-256: AD:75:30:44:9D:EC:F4:32:3E:1B:F5:24:44:4F:F6:A3:64:A4:DB:EB:71:F0:BE:47:83:F9:AE:15:EF:6B:4B:0B
+Valid until: Saturday, April 30, 2050
+
 # JSON
 
 # Java
@@ -892,11 +902,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjQ3MjQzLDgzODE1ODEyNSwtMTcwNj
-AxMTcwMSwtNDYxNDM4MjQ0LDc4MjU1MDM2MiwxNjg1NTE2MjIs
-LTUxMzYzMzI4NCwxMDAwMjU2NDQ3LDI2MTI1ODQyNywyNDE2Nz
-M2NzcsLTEwMDI5MjM4MTEsNzA2MDg1NDMyLC05MDcwMDcxMzcs
-LTI1MzI5NjIyNywyMDU1ODI4NTkwLC0xMzk1NTE5MTU4LC0xNT
-A0MzEwMzQ0LDQzOTc5MDU3NiwtNTYwMjUxNzAsMTA1MjE4MDQx
-OV19
+eyJoaXN0b3J5IjpbLTgwNDk4NzQ4NiwyMDAyNDcyNDMsODM4MT
+U4MTI1LC0xNzA2MDExNzAxLC00NjE0MzgyNDQsNzgyNTUwMzYy
+LDE2ODU1MTYyMiwtNTEzNjMzMjg0LDEwMDAyNTY0NDcsMjYxMj
+U4NDI3LDI0MTY3MzY3NywtMTAwMjkyMzgxMSw3MDYwODU0MzIs
+LTkwNzAwNzEzNywtMjUzMjk2MjI3LDIwNTU4Mjg1OTAsLTEzOT
+U1MTkxNTgsLTE1MDQzMTAzNDQsNDM5NzkwNTc2LC01NjAyNTE3
+MF19
 -->
