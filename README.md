@@ -330,9 +330,10 @@ public class Java8HoFDemo {
 6. Rebase vs. Merge
 dev 是基於 master-v1拉出來，並且新增兩個feacture in v2, v3. 同時master又進了一個改動v2.
 
-|master|dev|
-|v10|---|
-|---|v1|
+ master |dev| description |
+---|---|---
+ v10 | - | master branch |
+ v10 | v1 |  branch out dev |
 
 # GitHub
 - [Coursera: Introduction to Git and GitHub by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
@@ -927,7 +928,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MzgwMTE1LC00MDE3MTIwNDgsMjEyOD
+eyJoaXN0b3J5IjpbNTM3MjM4ODU3LC00MDE3MTIwNDgsMjEyOD
 M1MDY4MiwtMTE0NTk3MjY1NSwtNDg3MTExNDIxLDE5NjMwNjI4
 MDQsLTgwNDk4NzQ4NiwyMDAyNDcyNDMsODM4MTU4MTI1LC0xNz
 A2MDExNzAxLC00NjE0MzgyNDQsNzgyNTUwMzYyLDE2ODU1MTYy
