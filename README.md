@@ -324,7 +324,10 @@ public class Java8HoFDemo {
 - [JetBrain文章](https://www.jetbrains.com/help/idea/apply-changes-from-one-branch-to-another.html)  
 - [Youtube教學How and when do I merge or rebase?](https://youtu.be/Nftif2ynvdA)
 
-5.  如何rebase? Rebase vs. Merge
+4.  如何rebase?  "VCS" -> "Git" -> "rebase"
+[Keeping Feature Branches Up To Date With Rebasing | Git Workflows](https://youtu.be/dqVqMwLzOjU)
+
+6. Rebase vs. Merge
 
 
 # GitHub
@@ -920,11 +923,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTcxMjA0OCwyMTI4MzUwNjgyLC0xMT
-Q1OTcyNjU1LC00ODcxMTE0MjEsMTk2MzA2MjgwNCwtODA0OTg3
-NDg2LDIwMDI0NzI0Myw4MzgxNTgxMjUsLTE3MDYwMTE3MDEsLT
-Q2MTQzODI0NCw3ODI1NTAzNjIsMTY4NTUxNjIyLC01MTM2MzMy
-ODQsMTAwMDI1NjQ0NywyNjEyNTg0MjcsMjQxNjczNjc3LC0xMD
-AyOTIzODExLDcwNjA4NTQzMiwtOTA3MDA3MTM3LC0yNTMyOTYy
-MjddfQ==
+eyJoaXN0b3J5IjpbMTE1MDAxMTAzNSwtNDAxNzEyMDQ4LDIxMj
+gzNTA2ODIsLTExNDU5NzI2NTUsLTQ4NzExMTQyMSwxOTYzMDYy
+ODA0LC04MDQ5ODc0ODYsMjAwMjQ3MjQzLDgzODE1ODEyNSwtMT
+cwNjAxMTcwMSwtNDYxNDM4MjQ0LDc4MjU1MDM2MiwxNjg1NTE2
+MjIsLTUxMzYzMzI4NCwxMDAwMjU2NDQ3LDI2MTI1ODQyNywyND
+E2NzM2NzcsLTEwMDI5MjM4MTEsNzA2MDg1NDMyLC05MDcwMDcx
+MzddfQ==
 -->
