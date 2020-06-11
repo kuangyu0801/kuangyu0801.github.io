@@ -201,6 +201,9 @@ keytool -list -v -alias androiddebugkey -keystore ~/.android/debug.keystore
 SHA1: F8:E6:05:65:D6:4A:58:17:C8:A9:75:6F:62:F5:58:DD:E5:8D:2A:78
 ```
 
+     Caused by: java.lang.IllegalStateException: Default FirebaseApp is not initialized in this process com.google.firebase.udacity.friendlychat. Make sure to call FirebaseApp.initializeApp(Context) first.
+
+
 
 Variant: debugAndroidTest
 Config: debug
@@ -942,11 +945,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzM0NjIxNiwtMjQ2NDE0MDE2LC01Nz
-UyMjI3MjMsMTE3NzU3MzQyMiwtNDAxNzEyMDQ4LDIxMjgzNTA2
-ODIsLTExNDU5NzI2NTUsLTQ4NzExMTQyMSwxOTYzMDYyODA0LC
-04MDQ5ODc0ODYsMjAwMjQ3MjQzLDgzODE1ODEyNSwtMTcwNjAx
-MTcwMSwtNDYxNDM4MjQ0LDc4MjU1MDM2MiwxNjg1NTE2MjIsLT
-UxMzYzMzI4NCwxMDAwMjU2NDQ3LDI2MTI1ODQyNywyNDE2NzM2
-NzddfQ==
+eyJoaXN0b3J5IjpbMTMzNTM2NzAwOCwtNjgzMzQ2MjE2LC0yND
+Y0MTQwMTYsLTU3NTIyMjcyMywxMTc3NTczNDIyLC00MDE3MTIw
+NDgsMjEyODM1MDY4MiwtMTE0NTk3MjY1NSwtNDg3MTExNDIxLD
+E5NjMwNjI4MDQsLTgwNDk4NzQ4NiwyMDAyNDcyNDMsODM4MTU4
+MTI1LC0xNzA2MDExNzAxLC00NjE0MzgyNDQsNzgyNTUwMzYyLD
+E2ODU1MTYyMiwtNTEzNjMzMjg0LDEwMDAyNTY0NDcsMjYxMjU4
+NDI3XX0=
 -->
