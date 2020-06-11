@@ -198,9 +198,11 @@ set number 開啟行數顯示
 - JSON syntax [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
 - JSON intro [https://www.w3schools.com/js/js_json_intro.asp](https://www.w3schools.com/js/js_json_intro.asp)
 
+- Add Firebase to your Android project[https://firebase.google.com/docs/android/setup](https://firebase.google.com/docs/android/setup)
+- [https://firebase.google.com/docs/database/android/read-and-write](https://firebase.google.com/docs/database/android/read-and-write)
 
 ### Issue
-- [https://developer.android.com/jetpack/androidx/migrate](https://developer.android.com/jetpack/androidx/migrate)
+- Migrating to AndroidX [https://developer.android.com/jetpack/androidx/migrate](https://developer.android.com/jetpack/androidx/migrate)
 Issue: [https://discussions.udacity.com/t/keytool-error-java-lang-exception-only-one-command-is-allowed-both-exportcert-and-list-were-specified/935120](https://discussions.udacity.com/t/keytool-error-java-lang-exception-only-one-command-is-allowed-both-exportcert-and-list-were-specified/935120)
 
 
@@ -953,11 +955,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjMyNjU1NiwxMzM1MzY3MDA4LC02OD
-MzNDYyMTYsLTI0NjQxNDAxNiwtNTc1MjIyNzIzLDExNzc1NzM0
-MjIsLTQwMTcxMjA0OCwyMTI4MzUwNjgyLC0xMTQ1OTcyNjU1LC
-00ODcxMTE0MjEsMTk2MzA2MjgwNCwtODA0OTg3NDg2LDIwMDI0
-NzI0Myw4MzgxNTgxMjUsLTE3MDYwMTE3MDEsLTQ2MTQzODI0NC
-w3ODI1NTAzNjIsMTY4NTUxNjIyLC01MTM2MzMyODQsMTAwMDI1
-NjQ0N119
+eyJoaXN0b3J5IjpbOTUzMjEzNzIyLDEzMzUzNjcwMDgsLTY4Mz
+M0NjIxNiwtMjQ2NDE0MDE2LC01NzUyMjI3MjMsMTE3NzU3MzQy
+MiwtNDAxNzEyMDQ4LDIxMjgzNTA2ODIsLTExNDU5NzI2NTUsLT
+Q4NzExMTQyMSwxOTYzMDYyODA0LC04MDQ5ODc0ODYsMjAwMjQ3
+MjQzLDgzODE1ODEyNSwtMTcwNjAxMTcwMSwtNDYxNDM4MjQ0LD
+c4MjU1MDM2MiwxNjg1NTE2MjIsLTUxMzYzMzI4NCwxMDAwMjU2
+NDQ3XX0=
 -->
