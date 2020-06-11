@@ -197,8 +197,10 @@ Issue: [https://discussions.udacity.com/t/keytool-error-java-lang-exception-only
 
 ```
 ```
-keytool -list -v  -alias androiddebugkey -keystore %USERPROFILE%\.android\debug.keystore
+```
+keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android 
 
+```
 ```
 ```
 
@@ -941,11 +943,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjA5NzcyNzEsLTU3NTIyMjcyMywxMT
-c3NTczNDIyLC00MDE3MTIwNDgsMjEyODM1MDY4MiwtMTE0NTk3
-MjY1NSwtNDg3MTExNDIxLDE5NjMwNjI4MDQsLTgwNDk4NzQ4Ni
-wyMDAyNDcyNDMsODM4MTU4MTI1LC0xNzA2MDExNzAxLC00NjE0
-MzgyNDQsNzgyNTUwMzYyLDE2ODU1MTYyMiwtNTEzNjMzMjg0LD
-EwMDAyNTY0NDcsMjYxMjU4NDI3LDI0MTY3MzY3NywtMTAwMjky
-MzgxMV19
+eyJoaXN0b3J5IjpbMTI2NzQ0Mjk3OSwtNTc1MjIyNzIzLDExNz
+c1NzM0MjIsLTQwMTcxMjA0OCwyMTI4MzUwNjgyLC0xMTQ1OTcy
+NjU1LC00ODcxMTE0MjEsMTk2MzA2MjgwNCwtODA0OTg3NDg2LD
+IwMDI0NzI0Myw4MzgxNTgxMjUsLTE3MDYwMTE3MDEsLTQ2MTQz
+ODI0NCw3ODI1NTAzNjIsMTY4NTUxNjIyLC01MTM2MzMyODQsMT
+AwMDI1NjQ0NywyNjEyNTg0MjcsMjQxNjczNjc3LC0xMDAyOTIz
+ODExXX0=
 -->
