@@ -193,6 +193,14 @@ set number 開啟行數顯示
 
 ## Firebase in a Weekend on Udacity
 
+###  相關資料
+- Android Basics: Networking on Udacity[https://classroom.udacity.com/courses/ud843](https://classroom.udacity.com/courses/ud843)
+- JSON syntax [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
+- JSON intro [https://www.w3schools.com/js/js_json_intro.asp](https://www.w3schools.com/js/js_json_intro.asp)
+
+
+### Issue
+- [https://developer.android.com/jetpack/androidx/migrate](https://developer.android.com/jetpack/androidx/migrate)
 Issue: [https://discussions.udacity.com/t/keytool-error-java-lang-exception-only-one-command-is-allowed-both-exportcert-and-list-were-specified/935120](https://discussions.udacity.com/t/keytool-error-java-lang-exception-only-one-command-is-allowed-both-exportcert-and-list-were-specified/935120)
 
 
@@ -945,11 +953,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTM2NzAwOCwtNjgzMzQ2MjE2LC0yND
-Y0MTQwMTYsLTU3NTIyMjcyMywxMTc3NTczNDIyLC00MDE3MTIw
-NDgsMjEyODM1MDY4MiwtMTE0NTk3MjY1NSwtNDg3MTExNDIxLD
-E5NjMwNjI4MDQsLTgwNDk4NzQ4NiwyMDAyNDcyNDMsODM4MTU4
-MTI1LC0xNzA2MDExNzAxLC00NjE0MzgyNDQsNzgyNTUwMzYyLD
-E2ODU1MTYyMiwtNTEzNjMzMjg0LDEwMDAyNTY0NDcsMjYxMjU4
-NDI3XX0=
+eyJoaXN0b3J5IjpbLTYzNjMyNjU1NiwxMzM1MzY3MDA4LC02OD
+MzNDYyMTYsLTI0NjQxNDAxNiwtNTc1MjIyNzIzLDExNzc1NzM0
+MjIsLTQwMTcxMjA0OCwyMTI4MzUwNjgyLC0xMTQ1OTcyNjU1LC
+00ODcxMTE0MjEsMTk2MzA2MjgwNCwtODA0OTg3NDg2LDIwMDI0
+NzI0Myw4MzgxNTgxMjUsLTE3MDYwMTE3MDEsLTQ2MTQzODI0NC
+w3ODI1NTAzNjIsMTY4NTUxNjIyLC01MTM2MzMyODQsMTAwMDI1
+NjQ0N119
 -->
