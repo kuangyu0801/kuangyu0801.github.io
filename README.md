@@ -195,14 +195,12 @@ set number 開啟行數顯示
 
 Issue: [https://discussions.udacity.com/t/keytool-error-java-lang-exception-only-one-command-is-allowed-both-exportcert-and-list-were-specified/935120](https://discussions.udacity.com/t/keytool-error-java-lang-exception-only-one-command-is-allowed-both-exportcert-and-list-were-specified/935120)
 
-```
-```
-```
-keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android 
 
 ```
+keytool -list -v -alias androiddebugkey -keystore ~/.android/debug.keystore
+SHA1: F8:E6:05:65:D6:4A:58:17:C8:A9:75:6F:62:F5:58:DD:E5:8D:2A:78
 ```
-```
+
 
 Variant: debugAndroidTest
 Config: debug
@@ -943,7 +941,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzQ0Mjk3OSwtNTc1MjIyNzIzLDExNz
+eyJoaXN0b3J5IjpbLTI0NjQxNDAxNiwtNTc1MjIyNzIzLDExNz
 c1NzM0MjIsLTQwMTcxMjA0OCwyMTI4MzUwNjgyLC0xMTQ1OTcy
 NjU1LC00ODcxMTE0MjEsMTk2MzA2MjgwNCwtODA0OTg3NDg2LD
 IwMDI0NzI0Myw4MzgxNTgxMjUsLTE3MDYwMTE3MDEsLTQ2MTQz
