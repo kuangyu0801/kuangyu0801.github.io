@@ -195,6 +195,13 @@ set number 開啟行數顯示
 
 Issue: [https://discussions.udacity.com/t/keytool-error-java-lang-exception-only-one-command-is-allowed-both-exportcert-and-list-were-specified/935120](https://discussions.udacity.com/t/keytool-error-java-lang-exception-only-one-command-is-allowed-both-exportcert-and-list-were-specified/935120)
 
+```
+```
+keytool -list -v  -alias androiddebugkey -keystore %USERPROFILE%\.android\debug.keystore
+
+```
+```
+
 Variant: debugAndroidTest
 Config: debug
 Store: /Users/Kuang-Yu/.android/debug.keystore
@@ -934,11 +941,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTIyMjcyMywxMTc3NTczNDIyLC00MD
-E3MTIwNDgsMjEyODM1MDY4MiwtMTE0NTk3MjY1NSwtNDg3MTEx
-NDIxLDE5NjMwNjI4MDQsLTgwNDk4NzQ4NiwyMDAyNDcyNDMsOD
-M4MTU4MTI1LC0xNzA2MDExNzAxLC00NjE0MzgyNDQsNzgyNTUw
-MzYyLDE2ODU1MTYyMiwtNTEzNjMzMjg0LDEwMDAyNTY0NDcsMj
-YxMjU4NDI3LDI0MTY3MzY3NywtMTAwMjkyMzgxMSw3MDYwODU0
-MzJdfQ==
+eyJoaXN0b3J5IjpbLTE3MjA5NzcyNzEsLTU3NTIyMjcyMywxMT
+c3NTczNDIyLC00MDE3MTIwNDgsMjEyODM1MDY4MiwtMTE0NTk3
+MjY1NSwtNDg3MTExNDIxLDE5NjMwNjI4MDQsLTgwNDk4NzQ4Ni
+wyMDAyNDcyNDMsODM4MTU4MTI1LC0xNzA2MDExNzAxLC00NjE0
+MzgyNDQsNzgyNTUwMzYyLDE2ODU1MTYyMiwtNTEzNjMzMjg0LD
+EwMDAyNTY0NDcsMjYxMjU4NDI3LDI0MTY3MzY3NywtMTAwMjky
+MzgxMV19
 -->
