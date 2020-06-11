@@ -796,7 +796,8 @@ public class Solution {
 書籍：
 
 視頻：
-- [Android开发教程（2019最新版,使用JetPack](https://www.bilibili.com/video/BV1w4411t7UQ/)：操作跟講解都很清楚
+- [Android开发教程（2019最新版,使用JetPack)](https://www.bilibili.com/video/BV1w4411t7UQ/)：操作跟講解都很清楚
+- [# 黑马程序员95期培训 安卓开发基础教程 (全)](https://www.bilibili.com/video/BV1HJ411L756/):  搭配講義
 - [Android开发书籍推荐：从入门到精通系列学习路线书籍介绍](https://zhuanlan.zhihu.com/p/25843565)
 - [Adroid Studio User Guide](https://developer.android.com/studio/intro)
 課程：
@@ -941,11 +942,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjQxNDAxNiwtNTc1MjIyNzIzLDExNz
-c1NzM0MjIsLTQwMTcxMjA0OCwyMTI4MzUwNjgyLC0xMTQ1OTcy
-NjU1LC00ODcxMTE0MjEsMTk2MzA2MjgwNCwtODA0OTg3NDg2LD
-IwMDI0NzI0Myw4MzgxNTgxMjUsLTE3MDYwMTE3MDEsLTQ2MTQz
-ODI0NCw3ODI1NTAzNjIsMTY4NTUxNjIyLC01MTM2MzMyODQsMT
-AwMDI1NjQ0NywyNjEyNTg0MjcsMjQxNjczNjc3LC0xMDAyOTIz
-ODExXX0=
+eyJoaXN0b3J5IjpbLTY4MzM0NjIxNiwtMjQ2NDE0MDE2LC01Nz
+UyMjI3MjMsMTE3NzU3MzQyMiwtNDAxNzEyMDQ4LDIxMjgzNTA2
+ODIsLTExNDU5NzI2NTUsLTQ4NzExMTQyMSwxOTYzMDYyODA0LC
+04MDQ5ODc0ODYsMjAwMjQ3MjQzLDgzODE1ODEyNSwtMTcwNjAx
+MTcwMSwtNDYxNDM4MjQ0LDc4MjU1MDM2MiwxNjg1NTE2MjIsLT
+UxMzYzMzI4NCwxMDAwMjU2NDQ3LDI2MTI1ODQyNywyNDE2NzM2
+NzddfQ==
 -->
