@@ -618,6 +618,7 @@ int ran = Math.random();
 Java 如果要用stack的話，建議用Deque而不是Stack
 [https://www.geeksforgeeks.org/deque-interface-java-example/](https://www.geeksforgeeks.org/deque-interface-java-example/)
 
+### Integer-String Conversion
 
 
 ## Problems
@@ -958,11 +959,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTYxOTM3NDMsMTM4NzkyNjUwNyw5NT
-MyMTM3MjIsMTMzNTM2NzAwOCwtNjgzMzQ2MjE2LC0yNDY0MTQw
-MTYsLTU3NTIyMjcyMywxMTc3NTczNDIyLC00MDE3MTIwNDgsMj
-EyODM1MDY4MiwtMTE0NTk3MjY1NSwtNDg3MTExNDIxLDE5NjMw
-NjI4MDQsLTgwNDk4NzQ4NiwyMDAyNDcyNDMsODM4MTU4MTI1LC
-0xNzA2MDExNzAxLC00NjE0MzgyNDQsNzgyNTUwMzYyLDE2ODU1
-MTYyMl19
+eyJoaXN0b3J5IjpbNjg3MTAxNDMwLC0xOTk2MTkzNzQzLDEzOD
+c5MjY1MDcsOTUzMjEzNzIyLDEzMzUzNjcwMDgsLTY4MzM0NjIx
+NiwtMjQ2NDE0MDE2LC01NzUyMjI3MjMsMTE3NzU3MzQyMiwtND
+AxNzEyMDQ4LDIxMjgzNTA2ODIsLTExNDU5NzI2NTUsLTQ4NzEx
+MTQyMSwxOTYzMDYyODA0LC04MDQ5ODc0ODYsMjAwMjQ3MjQzLD
+gzODE1ODEyNSwtMTcwNjAxMTcwMSwtNDYxNDM4MjQ0LDc4MjU1
+MDM2Ml19
 -->
