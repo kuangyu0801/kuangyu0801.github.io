@@ -619,7 +619,7 @@ Java 如果要用stack的話，建議用Deque而不是Stack
 [https://www.geeksforgeeks.org/deque-interface-java-example/](https://www.geeksforgeeks.org/deque-interface-java-example/)
 
 ### Integer-String Conversion
-
+如何處理conversion造成的overflow問題？
 
 ## Problems
 
@@ -959,7 +959,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3MTAxNDMwLC0xOTk2MTkzNzQzLDEzOD
+eyJoaXN0b3J5IjpbNTkxNzUxOTIwLC0xOTk2MTkzNzQzLDEzOD
 c5MjY1MDcsOTUzMjEzNzIyLDEzMzUzNjcwMDgsLTY4MzM0NjIx
 NiwtMjQ2NDE0MDE2LC01NzUyMjI3MjMsMTE3NzU3MzQyMiwtND
 AxNzEyMDQ4LDIxMjgzNTA2ODIsLTExNDU5NzI2NTUsLTQ4NzEx
