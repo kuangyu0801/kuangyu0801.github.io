@@ -642,6 +642,9 @@ for (int i = 0; i < nums.length;i++) {
 corner case: 考慮最高位進位問題
 最優解法
 
+### 7. Reverse Integer
+要如何優雅處理
+
 ### 8. String to Integer (atoi)
 看似簡單直觀，但有很多corner case, 然後對API也要很熟悉，光在tactical debug就超過一小時...
 最優解法：
@@ -955,11 +958,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzkyNjUwNyw5NTMyMTM3MjIsMTMzNT
-M2NzAwOCwtNjgzMzQ2MjE2LC0yNDY0MTQwMTYsLTU3NTIyMjcy
-MywxMTc3NTczNDIyLC00MDE3MTIwNDgsMjEyODM1MDY4MiwtMT
-E0NTk3MjY1NSwtNDg3MTExNDIxLDE5NjMwNjI4MDQsLTgwNDk4
-NzQ4NiwyMDAyNDcyNDMsODM4MTU4MTI1LC0xNzA2MDExNzAxLC
-00NjE0MzgyNDQsNzgyNTUwMzYyLDE2ODU1MTYyMiwtNTEzNjMz
-Mjg0XX0=
+eyJoaXN0b3J5IjpbLTE5OTYxOTM3NDMsMTM4NzkyNjUwNyw5NT
+MyMTM3MjIsMTMzNTM2NzAwOCwtNjgzMzQ2MjE2LC0yNDY0MTQw
+MTYsLTU3NTIyMjcyMywxMTc3NTczNDIyLC00MDE3MTIwNDgsMj
+EyODM1MDY4MiwtMTE0NTk3MjY1NSwtNDg3MTExNDIxLDE5NjMw
+NjI4MDQsLTgwNDk4NzQ4NiwyMDAyNDcyNDMsODM4MTU4MTI1LC
+0xNzA2MDExNzAxLC00NjE0MzgyNDQsNzgyNTUwMzYyLDE2ODU1
+MTYyMl19
 -->
