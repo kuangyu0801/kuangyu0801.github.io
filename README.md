@@ -644,7 +644,7 @@ corner case: 考慮最高位進位問題
 最優解法
 
 ### 7. Reverse Integer
-要如何優雅處理？
+要如何優雅處理overflow or underflow?
 [https://leetcode.jp/leetcode-7-reverse-integer-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90](https://leetcode.jp/leetcode-7-reverse-integer-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90)
 
 ### 8. String to Integer (atoi)
@@ -960,11 +960,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA1MTUwNjI0LC0xOTk2MTkzNzQzLDEzOD
-c5MjY1MDcsOTUzMjEzNzIyLDEzMzUzNjcwMDgsLTY4MzM0NjIx
-NiwtMjQ2NDE0MDE2LC01NzUyMjI3MjMsMTE3NzU3MzQyMiwtND
-AxNzEyMDQ4LDIxMjgzNTA2ODIsLTExNDU5NzI2NTUsLTQ4NzEx
-MTQyMSwxOTYzMDYyODA0LC04MDQ5ODc0ODYsMjAwMjQ3MjQzLD
-gzODE1ODEyNSwtMTcwNjAxMTcwMSwtNDYxNDM4MjQ0LDc4MjU1
-MDM2Ml19
+eyJoaXN0b3J5IjpbLTE1ODE5MjQxMDksMzA1MTUwNjI0LC0xOT
+k2MTkzNzQzLDEzODc5MjY1MDcsOTUzMjEzNzIyLDEzMzUzNjcw
+MDgsLTY4MzM0NjIxNiwtMjQ2NDE0MDE2LC01NzUyMjI3MjMsMT
+E3NzU3MzQyMiwtNDAxNzEyMDQ4LDIxMjgzNTA2ODIsLTExNDU5
+NzI2NTUsLTQ4NzExMTQyMSwxOTYzMDYyODA0LC04MDQ5ODc0OD
+YsMjAwMjQ3MjQzLDgzODE1ODEyNSwtMTcwNjAxMTcwMSwtNDYx
+NDM4MjQ0XX0=
 -->
