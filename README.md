@@ -712,6 +712,7 @@ class Solution {
 - [https://leetcode.jp/leetcode-179-largest-number-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-179-largest-number-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
 
 ### 204. Count Primes
+[https://leetcode.jp/leetcode-204-count-primes-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-204-count-primes-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
 
 ### 334. Increasing Triplet Subsequence (Medium)
 這題是greedy,
@@ -962,7 +963,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTgzMDA1NSwtMTU4MTkyNDEwOSwzMD
+eyJoaXN0b3J5IjpbLTY3NTA2NzgyMiwtMTU4MTkyNDEwOSwzMD
 UxNTA2MjQsLTE5OTYxOTM3NDMsMTM4NzkyNjUwNyw5NTMyMTM3
 MjIsMTMzNTM2NzAwOCwtNjgzMzQ2MjE2LC0yNDY0MTQwMTYsLT
 U3NTIyMjcyMywxMTc3NTczNDIyLC00MDE3MTIwNDgsMjEyODM1
