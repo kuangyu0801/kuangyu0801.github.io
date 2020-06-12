@@ -711,6 +711,8 @@ class Solution {
 - [https://xinghao-huang-portfolio.herokuapp.com/year/01/08/LeetCode/179.%20Largest%20Number/#youtube-video](https://xinghao-huang-portfolio.herokuapp.com/year/01/08/LeetCode/179.%20Largest%20Number/#youtube-video)
 - [https://leetcode.jp/leetcode-179-largest-number-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-179-largest-number-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
 
+### 204. Count Primes
+
 ### 334. Increasing Triplet Subsequence (Medium)
 這題是greedy,
 [https://leetcode.jp/leetcode-334-increasing-triplet-subsequence-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-334-increasing-triplet-subsequence-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
@@ -960,11 +962,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE5MjQxMDksMzA1MTUwNjI0LC0xOT
-k2MTkzNzQzLDEzODc5MjY1MDcsOTUzMjEzNzIyLDEzMzUzNjcw
-MDgsLTY4MzM0NjIxNiwtMjQ2NDE0MDE2LC01NzUyMjI3MjMsMT
-E3NzU3MzQyMiwtNDAxNzEyMDQ4LDIxMjgzNTA2ODIsLTExNDU5
-NzI2NTUsLTQ4NzExMTQyMSwxOTYzMDYyODA0LC04MDQ5ODc0OD
-YsMjAwMjQ3MjQzLDgzODE1ODEyNSwtMTcwNjAxMTcwMSwtNDYx
-NDM4MjQ0XX0=
+eyJoaXN0b3J5IjpbMTU0OTgzMDA1NSwtMTU4MTkyNDEwOSwzMD
+UxNTA2MjQsLTE5OTYxOTM3NDMsMTM4NzkyNjUwNyw5NTMyMTM3
+MjIsMTMzNTM2NzAwOCwtNjgzMzQ2MjE2LC0yNDY0MTQwMTYsLT
+U3NTIyMjcyMywxMTc3NTczNDIyLC00MDE3MTIwNDgsMjEyODM1
+MDY4MiwtMTE0NTk3MjY1NSwtNDg3MTExNDIxLDE5NjMwNjI4MD
+QsLTgwNDk4NzQ4NiwyMDAyNDcyNDMsODM4MTU4MTI1LC0xNzA2
+MDExNzAxXX0=
 -->
