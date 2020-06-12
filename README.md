@@ -595,10 +595,10 @@ int i = Integer.parseInt(myString);
 [Convert float to String](https://www.javatpoint.com/java-float-to-string)
 ```
 int int1 = 10;
-String.valueOf(int1);
+String str = String.valueOf(int1);
 
-float f=12.3F;//F is the suffix for float  
-String s=String.valueOf(f);  
+float f = 12.3F;//F is the suffix for float  
+String s = String.valueOf(f);  
 ```
 Compare string in Java
 - String.compareTo(String): 順序是字典順序，同樣prefix, 越長的越大, 不同character a, b, ... z
@@ -955,11 +955,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzMjEzNzIyLDEzMzUzNjcwMDgsLTY4Mz
-M0NjIxNiwtMjQ2NDE0MDE2LC01NzUyMjI3MjMsMTE3NzU3MzQy
-MiwtNDAxNzEyMDQ4LDIxMjgzNTA2ODIsLTExNDU5NzI2NTUsLT
-Q4NzExMTQyMSwxOTYzMDYyODA0LC04MDQ5ODc0ODYsMjAwMjQ3
-MjQzLDgzODE1ODEyNSwtMTcwNjAxMTcwMSwtNDYxNDM4MjQ0LD
-c4MjU1MDM2MiwxNjg1NTE2MjIsLTUxMzYzMzI4NCwxMDAwMjU2
-NDQ3XX0=
+eyJoaXN0b3J5IjpbMTM4NzkyNjUwNyw5NTMyMTM3MjIsMTMzNT
+M2NzAwOCwtNjgzMzQ2MjE2LC0yNDY0MTQwMTYsLTU3NTIyMjcy
+MywxMTc3NTczNDIyLC00MDE3MTIwNDgsMjEyODM1MDY4MiwtMT
+E0NTk3MjY1NSwtNDg3MTExNDIxLDE5NjMwNjI4MDQsLTgwNDk4
+NzQ4NiwyMDAyNDcyNDMsODM4MTU4MTI1LC0xNzA2MDExNzAxLC
+00NjE0MzgyNDQsNzgyNTUwMzYyLDE2ODU1MTYyMiwtNTEzNjMz
+Mjg0XX0=
 -->
