@@ -135,6 +135,11 @@ Minimum Qualifications
 
 Complexity 大補懶人包[https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)：所有的資料結構與算法的complexity都整理在這邊
 
+
+### BST
+參考algorithm 3.2內容
+-
+
 ### Sorting
 Comparison:
 
@@ -964,11 +969,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDg1MDk5NiwtNjc1MDY3ODIyLC0xNT
-gxOTI0MTA5LDMwNTE1MDYyNCwtMTk5NjE5Mzc0MywxMzg3OTI2
-NTA3LDk1MzIxMzcyMiwxMzM1MzY3MDA4LC02ODMzNDYyMTYsLT
-I0NjQxNDAxNiwtNTc1MjIyNzIzLDExNzc1NzM0MjIsLTQwMTcx
-MjA0OCwyMTI4MzUwNjgyLC0xMTQ1OTcyNjU1LC00ODcxMTE0Mj
-EsMTk2MzA2MjgwNCwtODA0OTg3NDg2LDIwMDI0NzI0Myw4Mzgx
-NTgxMjVdfQ==
+eyJoaXN0b3J5IjpbLTExMDUwNjY0NDksMjA4NDg1MDk5NiwtNj
+c1MDY3ODIyLC0xNTgxOTI0MTA5LDMwNTE1MDYyNCwtMTk5NjE5
+Mzc0MywxMzg3OTI2NTA3LDk1MzIxMzcyMiwxMzM1MzY3MDA4LC
+02ODMzNDYyMTYsLTI0NjQxNDAxNiwtNTc1MjIyNzIzLDExNzc1
+NzM0MjIsLTQwMTcxMjA0OCwyMTI4MzUwNjgyLC0xMTQ1OTcyNj
+U1LC00ODcxMTE0MjEsMTk2MzA2MjgwNCwtODA0OTg3NDg2LDIw
+MDI0NzI0M119
 -->
