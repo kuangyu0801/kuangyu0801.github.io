@@ -138,7 +138,8 @@ Complexity 大補懶人包[https://www.bigocheatsheet.com/](https://www.bigochea
 
 ### BST
 參考algorithm 3.2內容
--
+- Hibbard deletion 這邊比較複雜
+- computing floor, computing ceiling都要再仔細看
 
 ### Sorting
 Comparison:
@@ -969,11 +970,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDUwNjY0NDksMjA4NDg1MDk5NiwtNj
-c1MDY3ODIyLC0xNTgxOTI0MTA5LDMwNTE1MDYyNCwtMTk5NjE5
-Mzc0MywxMzg3OTI2NTA3LDk1MzIxMzcyMiwxMzM1MzY3MDA4LC
-02ODMzNDYyMTYsLTI0NjQxNDAxNiwtNTc1MjIyNzIzLDExNzc1
-NzM0MjIsLTQwMTcxMjA0OCwyMTI4MzUwNjgyLC0xMTQ1OTcyNj
-U1LC00ODcxMTE0MjEsMTk2MzA2MjgwNCwtODA0OTg3NDg2LDIw
-MDI0NzI0M119
+eyJoaXN0b3J5IjpbNzAwNzQwMjcwLDIwODQ4NTA5OTYsLTY3NT
+A2NzgyMiwtMTU4MTkyNDEwOSwzMDUxNTA2MjQsLTE5OTYxOTM3
+NDMsMTM4NzkyNjUwNyw5NTMyMTM3MjIsMTMzNTM2NzAwOCwtNj
+gzMzQ2MjE2LC0yNDY0MTQwMTYsLTU3NTIyMjcyMywxMTc3NTcz
+NDIyLC00MDE3MTIwNDgsMjEyODM1MDY4MiwtMTE0NTk3MjY1NS
+wtNDg3MTExNDIxLDE5NjMwNjI4MDQsLTgwNDk4NzQ4NiwyMDAy
+NDcyNDNdfQ==
 -->
