@@ -230,6 +230,11 @@ SHA1: F8:E6:05:65:D6:4A:58:17:C8:A9:75:6F:62:F5:58:DD:E5:8D:2A:78
 SHA-256: AD:75:30:44:9D:EC:F4:32:3E:1B:F5:24:44:4F:F6:A3:64:A4:DB:EB:71:F0:BE:47:83:F9:AE:15:EF:6B:4B:0B
 Valid until: Saturday, April 30, 2050
 
+
+#### Firebase cloud storage Rules setting
+[https://firebase.google.com/docs/storage/security/start#user](https://firebase.google.com/docs/storage/security/start#user)
+
+
 # JSON
 
 # Git & Github
@@ -970,11 +975,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNzQwMjcwLDIwODQ4NTA5OTYsLTY3NT
-A2NzgyMiwtMTU4MTkyNDEwOSwzMDUxNTA2MjQsLTE5OTYxOTM3
-NDMsMTM4NzkyNjUwNyw5NTMyMTM3MjIsMTMzNTM2NzAwOCwtNj
-gzMzQ2MjE2LC0yNDY0MTQwMTYsLTU3NTIyMjcyMywxMTc3NTcz
-NDIyLC00MDE3MTIwNDgsMjEyODM1MDY4MiwtMTE0NTk3MjY1NS
-wtNDg3MTExNDIxLDE5NjMwNjI4MDQsLTgwNDk4NzQ4NiwyMDAy
-NDcyNDNdfQ==
+eyJoaXN0b3J5IjpbNTc2OTM3MjA1LDcwMDc0MDI3MCwyMDg0OD
+UwOTk2LC02NzUwNjc4MjIsLTE1ODE5MjQxMDksMzA1MTUwNjI0
+LC0xOTk2MTkzNzQzLDEzODc5MjY1MDcsOTUzMjEzNzIyLDEzMz
+UzNjcwMDgsLTY4MzM0NjIxNiwtMjQ2NDE0MDE2LC01NzUyMjI3
+MjMsMTE3NzU3MzQyMiwtNDAxNzEyMDQ4LDIxMjgzNTA2ODIsLT
+ExNDU5NzI2NTUsLTQ4NzExMTQyMSwxOTYzMDYyODA0LC04MDQ5
+ODc0ODZdfQ==
 -->
