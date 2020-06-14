@@ -198,6 +198,9 @@ set number 開啟行數顯示
 
 
 ## Firebase in a Weekend on Udacity
+### 我的github source code: [https://github.com/kuangyu0801/udacity-friendly-chat](https://github.com/kuangyu0801/udacity-friendly-chat)
+
+最後的remote config2.05沒有做，因為原本的api太舊
 
 ###  相關資料
 - Android Basics: Networking on Udacity[https://classroom.udacity.com/courses/ud843](https://classroom.udacity.com/courses/ud843)
@@ -975,11 +978,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2OTM3MjA1LDcwMDc0MDI3MCwyMDg0OD
-UwOTk2LC02NzUwNjc4MjIsLTE1ODE5MjQxMDksMzA1MTUwNjI0
-LC0xOTk2MTkzNzQzLDEzODc5MjY1MDcsOTUzMjEzNzIyLDEzMz
-UzNjcwMDgsLTY4MzM0NjIxNiwtMjQ2NDE0MDE2LC01NzUyMjI3
-MjMsMTE3NzU3MzQyMiwtNDAxNzEyMDQ4LDIxMjgzNTA2ODIsLT
-ExNDU5NzI2NTUsLTQ4NzExMTQyMSwxOTYzMDYyODA0LC04MDQ5
-ODc0ODZdfQ==
+eyJoaXN0b3J5IjpbLTQyMzc5NTE1MCw1NzY5MzcyMDUsNzAwNz
+QwMjcwLDIwODQ4NTA5OTYsLTY3NTA2NzgyMiwtMTU4MTkyNDEw
+OSwzMDUxNTA2MjQsLTE5OTYxOTM3NDMsMTM4NzkyNjUwNyw5NT
+MyMTM3MjIsMTMzNTM2NzAwOCwtNjgzMzQ2MjE2LC0yNDY0MTQw
+MTYsLTU3NTIyMjcyMywxMTc3NTczNDIyLC00MDE3MTIwNDgsMj
+EyODM1MDY4MiwtMTE0NTk3MjY1NSwtNDg3MTExNDIxLDE5NjMw
+NjI4MDRdfQ==
 -->
