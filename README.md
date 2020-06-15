@@ -41,7 +41,7 @@ Mac 鍵符號
  - [ ]  Java privacy: private, protected.... review
  - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
  - [ ]  692題[https://www.youtube.com/watch?v=POERw4yDVBw](https://www.youtube.com/watch?v=POERw4yDVBw)
- - [ ] comparable interface review
+ - [x] comparable interface review
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 
 # Prepare for Interview
@@ -978,11 +978,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM0OTQxNDAsNTc2OTM3MjA1LDcwMD
-c0MDI3MCwyMDg0ODUwOTk2LC02NzUwNjc4MjIsLTE1ODE5MjQx
-MDksMzA1MTUwNjI0LC0xOTk2MTkzNzQzLDEzODc5MjY1MDcsOT
-UzMjEzNzIyLDEzMzUzNjcwMDgsLTY4MzM0NjIxNiwtMjQ2NDE0
-MDE2LC01NzUyMjI3MjMsMTE3NzU3MzQyMiwtNDAxNzEyMDQ4LD
-IxMjgzNTA2ODIsLTExNDU5NzI2NTUsLTQ4NzExMTQyMSwxOTYz
-MDYyODA0XX0=
+eyJoaXN0b3J5IjpbMTgxNDA2MzY2MCwtMTYzMzQ5NDE0MCw1Nz
+Y5MzcyMDUsNzAwNzQwMjcwLDIwODQ4NTA5OTYsLTY3NTA2Nzgy
+MiwtMTU4MTkyNDEwOSwzMDUxNTA2MjQsLTE5OTYxOTM3NDMsMT
+M4NzkyNjUwNyw5NTMyMTM3MjIsMTMzNTM2NzAwOCwtNjgzMzQ2
+MjE2LC0yNDY0MTQwMTYsLTU3NTIyMjcyMywxMTc3NTczNDIyLC
+00MDE3MTIwNDgsMjEyODM1MDY4MiwtMTE0NTk3MjY1NSwtNDg3
+MTExNDIxXX0=
 -->
