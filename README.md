@@ -5,8 +5,8 @@
 - [TODO](#todo)
 - [軟體工程師自學](#軟體工程師自學)
 - [Prepare for Interview](#prepare-for-interview)
-	* [Amazon Wants This](##amazon-wants-this)
-	* [FACEBOOK Wants This](##face-bool-wants-this)
+	* [Amazon Wants This](#amazon-wants-this)
+	* [FACEBOOK Wants This](#facebook-wants-this)
 - [刷題找工作](#刷題找工作)
   * [高頻一百連結](#高頻一百連結)
   * [紀錄](#紀錄)
@@ -18,7 +18,7 @@
 - [Programming Course](#programming-course)
 	- [The Missing Semester of Your CS Education](#the-missing-semester-of-your-cs-education)
 - [Java](#java)
-  * [Java知識總整理大補包](#Java知識總整理大補包)
+  * [Java知識總整理大補包](#java知識總整理大補包)
   * [IntelliJ](#intelliJ)
 	+ [Version Control](#version-control)
 - [Python](#python)
@@ -982,7 +982,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODAyMzk5NjUsMTgxNDA2MzY2MCwtMT
+eyJoaXN0b3J5IjpbLTE2OTgxMzkwNTcsMTgxNDA2MzY2MCwtMT
 YzMzQ5NDE0MCw1NzY5MzcyMDUsNzAwNzQwMjcwLDIwODQ4NTA5
 OTYsLTY3NTA2NzgyMiwtMTU4MTkyNDEwOSwzMDUxNTA2MjQsLT
 E5OTYxOTM3NDMsMTM4NzkyNjUwNyw5NTMyMTM3MjIsMTMzNTM2
