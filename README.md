@@ -253,6 +253,7 @@ JetBrain文章[https://www.jetbrains.com/help/idea/apply-changes-from-one-branch
 Youtube [How and when do I merge or rebase?](https://youtu.be/Nftif2ynvdA)
 
 # Java
+## [Java知識總整理大補包](https://drive.google.com/file/d/1voJnGUnO34fW9k70s-ECjATN-g5bS3t1/view?usp=sharing)
 - 黑馬Java教學，有規劃有組織且超級清楚！！！[# 2019年IDEA版黑马Java就业班-基础+高级](https://www.bilibili.com/video/BV1T7411m7Ta/?p=332)
 - # [2020年新版Java学习路线图（内含大纲+视频+工具+书籍+面试）](http://bbs.itheima.com/thread-386464-1-1.html)
 - [w3schools](https://www.w3schools.com/java/): 網站把所有常用的python syntax都列入，每次忘記直接來查
@@ -978,11 +979,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDA2MzY2MCwtMTYzMzQ5NDE0MCw1Nz
-Y5MzcyMDUsNzAwNzQwMjcwLDIwODQ4NTA5OTYsLTY3NTA2Nzgy
-MiwtMTU4MTkyNDEwOSwzMDUxNTA2MjQsLTE5OTYxOTM3NDMsMT
-M4NzkyNjUwNyw5NTMyMTM3MjIsMTMzNTM2NzAwOCwtNjgzMzQ2
-MjE2LC0yNDY0MTQwMTYsLTU3NTIyMjcyMywxMTc3NTczNDIyLC
-00MDE3MTIwNDgsMjEyODM1MDY4MiwtMTE0NTk3MjY1NSwtNDg3
-MTExNDIxXX0=
+eyJoaXN0b3J5IjpbMjA0MDA0NzQ1NiwxODE0MDYzNjYwLC0xNj
+MzNDk0MTQwLDU3NjkzNzIwNSw3MDA3NDAyNzAsMjA4NDg1MDk5
+NiwtNjc1MDY3ODIyLC0xNTgxOTI0MTA5LDMwNTE1MDYyNCwtMT
+k5NjE5Mzc0MywxMzg3OTI2NTA3LDk1MzIxMzcyMiwxMzM1MzY3
+MDA4LC02ODMzNDYyMTYsLTI0NjQxNDAxNiwtNTc1MjIyNzIzLD
+ExNzc1NzM0MjIsLTQwMTcxMjA0OCwyMTI4MzUwNjgyLC0xMTQ1
+OTcyNjU1XX0=
 -->
