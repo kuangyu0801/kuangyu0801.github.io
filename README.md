@@ -18,6 +18,7 @@
 - [Programming Course](#programming-course)
 	- [The Missing Semester of Your CS Education](#the-missing-semester-of-your-cs-education)
 - [Java](#java)
+  * [Java知識總整理大補包](#Java知識總整理大補包)
   * [IntelliJ](#intelliJ)
 	+ [Version Control](#version-control)
 - [Python](#python)
@@ -981,11 +982,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDM5MTg1MSwxODE0MDYzNjYwLC0xNj
-MzNDk0MTQwLDU3NjkzNzIwNSw3MDA3NDAyNzAsMjA4NDg1MDk5
-NiwtNjc1MDY3ODIyLC0xNTgxOTI0MTA5LDMwNTE1MDYyNCwtMT
-k5NjE5Mzc0MywxMzg3OTI2NTA3LDk1MzIxMzcyMiwxMzM1MzY3
-MDA4LC02ODMzNDYyMTYsLTI0NjQxNDAxNiwtNTc1MjIyNzIzLD
-ExNzc1NzM0MjIsLTQwMTcxMjA0OCwyMTI4MzUwNjgyLC0xMTQ1
-OTcyNjU1XX0=
+eyJoaXN0b3J5IjpbLTEyODAyMzk5NjUsMTgxNDA2MzY2MCwtMT
+YzMzQ5NDE0MCw1NzY5MzcyMDUsNzAwNzQwMjcwLDIwODQ4NTA5
+OTYsLTY3NTA2NzgyMiwtMTU4MTkyNDEwOSwzMDUxNTA2MjQsLT
+E5OTYxOTM3NDMsMTM4NzkyNjUwNyw5NTMyMTM3MjIsMTMzNTM2
+NzAwOCwtNjgzMzQ2MjE2LC0yNDY0MTQwMTYsLTU3NTIyMjcyMy
+wxMTc3NTczNDIyLC00MDE3MTIwNDgsMjEyODM1MDY4MiwtMTE0
+NTk3MjY1NV19
 -->
