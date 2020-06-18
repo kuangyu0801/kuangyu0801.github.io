@@ -54,10 +54,10 @@ Mac 鍵符號
 # Mind Set
 ```mermaid
 graph LR
-A[暑期實習/學生工]  --> B(完成刷題三百)
-B --> C[休學六個月實習]
-C --> D[面試]
-D --> E[畢業]
+A[S20暑期實習/學生工]  --> B[WS20完成刷題三百]
+B --> C[SS21休學六個月實習]
+C --> D[WS21面試]
+D --> E[WS21畢業]
 E --> F{全職}
 ```
 
@@ -1047,11 +1047,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ5NTU3OTEsMTc0NzQwMDM4NCwxNz
-EwMTMxNTAzLDE3MTEyOTA3OSwyNDY0NDA5MzEsMjQ2NDQwOTMx
-LDg2ODc2NzA3MywtMTkyNzEwMDY1MCwtODc4NTE2NzAwLDIwMz
-U5NzA2NjUsLTM0ODAzMjU4OSwtMTI1OTE3MDQ2OSwxNzE0OTAx
-MTA3LC0xNjg4NTg2ODQ1LC0xMTE5MDQ3MTU2LC0xNjk4MTM5MD
-U3LDE4MTQwNjM2NjAsLTE2MzM0OTQxNDAsNTc2OTM3MjA1LDcw
-MDc0MDI3MF19
+eyJoaXN0b3J5IjpbMTM2NjQxMzM0OCwxNzQ3NDAwMzg0LDE3MT
+AxMzE1MDMsMTcxMTI5MDc5LDI0NjQ0MDkzMSwyNDY0NDA5MzEs
+ODY4NzY3MDczLC0xOTI3MTAwNjUwLC04Nzg1MTY3MDAsMjAzNT
+k3MDY2NSwtMzQ4MDMyNTg5LC0xMjU5MTcwNDY5LDE3MTQ5MDEx
+MDcsLTE2ODg1ODY4NDUsLTExMTkwNDcxNTYsLTE2OTgxMzkwNT
+csMTgxNDA2MzY2MCwtMTYzMzQ5NDE0MCw1NzY5MzcyMDUsNzAw
+NzQwMjcwXX0=
 -->
