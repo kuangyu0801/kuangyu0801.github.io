@@ -582,8 +582,8 @@ Arrays.fill(array, value);
 // sorting the array of array according to the 1st element of inner array.
 Arrays.sort(intervals, (x1, x2)->x1[0] - x2[0]);
 
-// checking whether 2 array a
-Arrays.equals(s1, s2);
+// checking whether 2 array are equal
+boolean isEqual = Arrays.equals(s1, s2);
 ```
 ###  List
 [https://docs.oracle.com/javase/8/docs/api/java/util/List.html](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)
@@ -1038,11 +1038,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc5NTA2MDAsMTcxMDEzMTUwMywxNz
-ExMjkwNzksMjQ2NDQwOTMxLDI0NjQ0MDkzMSw4Njg3NjcwNzMs
-LTE5MjcxMDA2NTAsLTg3ODUxNjcwMCwyMDM1OTcwNjY1LC0zND
-gwMzI1ODksLTEyNTkxNzA0NjksMTcxNDkwMTEwNywtMTY4ODU4
-Njg0NSwtMTExOTA0NzE1NiwtMTY5ODEzOTA1NywxODE0MDYzNj
-YwLC0xNjMzNDk0MTQwLDU3NjkzNzIwNSw3MDA3NDAyNzAsMjA4
-NDg1MDk5Nl19
+eyJoaXN0b3J5IjpbMTc0NzQwMDM4NCwxNzEwMTMxNTAzLDE3MT
+EyOTA3OSwyNDY0NDA5MzEsMjQ2NDQwOTMxLDg2ODc2NzA3Mywt
+MTkyNzEwMDY1MCwtODc4NTE2NzAwLDIwMzU5NzA2NjUsLTM0OD
+AzMjU4OSwtMTI1OTE3MDQ2OSwxNzE0OTAxMTA3LC0xNjg4NTg2
+ODQ1LC0xMTE5MDQ3MTU2LC0xNjk4MTM5MDU3LDE4MTQwNjM2Nj
+AsLTE2MzM0OTQxNDAsNTc2OTM3MjA1LDcwMDc0MDI3MCwyMDg0
+ODUwOTk2XX0=
 -->
