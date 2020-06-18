@@ -54,7 +54,9 @@ Mac 鍵符號
 # Mind Set
 ```mermaid
 graph LR
-暑期打工/學生工[Square Rect]--> 半年實習 -> 畢業 -> 全職
+暑期打工/學生工[Square Rect]--> 半年實習[Square Rect] --> 畢業[Square Rect] --> 全職[Square Rect]
+A[暑期打工/學生工] --> B[六個月實習]
+B --> C
 ```
 - 要趁著學生時期的優勢，找一個好的半年實習機會（目標放在愛爾蘭亞馬遜），不要急著畢業
 - 要找一個符合自己未來專業的實習跟學生工，面試可以多面，但是職缺要慎選，要能夠學到技能、要有一個願意帶人的主管、要有一個願意延續職缺的公司
@@ -1041,7 +1043,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ5OTgyNDcsMTc0NzQwMDM4NCwxNz
+eyJoaXN0b3J5IjpbLTEyNzkyMjAzMzEsMTc0NzQwMDM4NCwxNz
 EwMTMxNTAzLDE3MTEyOTA3OSwyNDY0NDA5MzEsMjQ2NDQwOTMx
 LDg2ODc2NzA3MywtMTkyNzEwMDY1MCwtODc4NTE2NzAwLDIwMz
 U5NzA2NjUsLTM0ODAzMjU4OSwtMTI1OTE3MDQ2OSwxNzE0OTAx
