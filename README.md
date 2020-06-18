@@ -67,8 +67,11 @@ Stage-3: November Amazon in Dublin, and Singapore
 ## 實習
 ## 學生工
   # |Company| description 
+1|---|---
 ---|---|---
----|---|---
+
+# 履歷
+[https://www.overleaf.com/project](https://www.overleaf.com/project)
 
 ## Amazon Wants This
 This requirement is a position from a typical Software Development Position in Amazon Dublin
@@ -1001,11 +1004,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTM2NjU4OSwtMTExOTA0NzE1NiwtMT
-Y5ODEzOTA1NywxODE0MDYzNjYwLC0xNjMzNDk0MTQwLDU3Njkz
-NzIwNSw3MDA3NDAyNzAsMjA4NDg1MDk5NiwtNjc1MDY3ODIyLC
-0xNTgxOTI0MTA5LDMwNTE1MDYyNCwtMTk5NjE5Mzc0MywxMzg3
-OTI2NTA3LDk1MzIxMzcyMiwxMzM1MzY3MDA4LC02ODMzNDYyMT
-YsLTI0NjQxNDAxNiwtNTc1MjIyNzIzLDExNzc1NzM0MjIsLTQw
-MTcxMjA0OF19
+eyJoaXN0b3J5IjpbLTE2ODg1ODY4NDUsLTExMTkwNDcxNTYsLT
+E2OTgxMzkwNTcsMTgxNDA2MzY2MCwtMTYzMzQ5NDE0MCw1NzY5
+MzcyMDUsNzAwNzQwMjcwLDIwODQ4NTA5OTYsLTY3NTA2NzgyMi
+wtMTU4MTkyNDEwOSwzMDUxNTA2MjQsLTE5OTYxOTM3NDMsMTM4
+NzkyNjUwNyw5NTMyMTM3MjIsMTMzNTM2NzAwOCwtNjgzMzQ2Mj
+E2LC0yNDY0MTQwMTYsLTU3NTIyMjcyMywxMTc3NTczNDIyLC00
+MDE3MTIwNDhdfQ==
 -->
