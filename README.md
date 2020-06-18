@@ -51,7 +51,6 @@ Mac 鍵符號
 - []  Database
 - []  Computer Vision
 
-
 # Mind Set
 暑期打工/學生工-> 半年實習 -> 畢業 -> 全職
 - 要趁著學生時期的優勢，找一個好的半年實習機會（目標放在愛爾蘭亞馬遜），不要急著畢業
@@ -1019,7 +1018,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODUxNzQwNSwtODc4NTE2NzAwLDIwMz
+eyJoaXN0b3J5IjpbMTM0NTA4NjM4OSwtODc4NTE2NzAwLDIwMz
 U5NzA2NjUsLTM0ODAzMjU4OSwtMTI1OTE3MDQ2OSwxNzE0OTAx
 MTA3LC0xNjg4NTg2ODQ1LC0xMTE5MDQ3MTU2LC0xNjk4MTM5MD
 U3LDE4MTQwNjM2NjAsLTE2MzM0OTQxNDAsNTc2OTM3MjA1LDcw
