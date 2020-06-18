@@ -45,6 +45,13 @@ Mac 鍵符號
  - [x] comparable interface review
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 
+# TO-LEARN
+- [] LaTex on Mac + Git
+- [] Cloud Computing
+- [] Database
+- [] Computer Vision
+- 
+
 
 # Mind Set
 暑期打工/學生工-> 半年實習 -> 畢業 -> 全職
@@ -991,11 +998,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTkwNDcxNTYsLTE2OTgxMzkwNTcsMT
-gxNDA2MzY2MCwtMTYzMzQ5NDE0MCw1NzY5MzcyMDUsNzAwNzQw
-MjcwLDIwODQ4NTA5OTYsLTY3NTA2NzgyMiwtMTU4MTkyNDEwOS
-wzMDUxNTA2MjQsLTE5OTYxOTM3NDMsMTM4NzkyNjUwNyw5NTMy
-MTM3MjIsMTMzNTM2NzAwOCwtNjgzMzQ2MjE2LC0yNDY0MTQwMT
-YsLTU3NTIyMjcyMywxMTc3NTczNDIyLC00MDE3MTIwNDgsMjEy
-ODM1MDY4Ml19
+eyJoaXN0b3J5IjpbMTE4NDE5MTMwNiwtMTExOTA0NzE1NiwtMT
+Y5ODEzOTA1NywxODE0MDYzNjYwLC0xNjMzNDk0MTQwLDU3Njkz
+NzIwNSw3MDA3NDAyNzAsMjA4NDg1MDk5NiwtNjc1MDY3ODIyLC
+0xNTgxOTI0MTA5LDMwNTE1MDYyNCwtMTk5NjE5Mzc0MywxMzg3
+OTI2NTA3LDk1MzIxMzcyMiwxMzM1MzY3MDA4LC02ODMzNDYyMT
+YsLTI0NjQxNDAxNiwtNTc1MjIyNzIzLDExNzc1NzM0MjIsLTQw
+MTcxMjA0OF19
 -->
