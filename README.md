@@ -45,11 +45,17 @@ Mac 鍵符號
  - [x] comparable interface review
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 
+
+# Mind Set
+暑期打工、學生ㄍ
+
 # Prepare for Interview
 Stage-1: JuneStuttgart small company -> Large company
 Stage-2: September Berlin or Munich large company
 Stage-3: November Amazon in Dublin, and Singapore
 
+## 實習
+## 學生工
 
 ## Amazon Wants This
 This requirement is a position from a typical Software Development Position in Amazon Dublin
@@ -982,11 +988,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTgxMzkwNTcsMTgxNDA2MzY2MCwtMT
-YzMzQ5NDE0MCw1NzY5MzcyMDUsNzAwNzQwMjcwLDIwODQ4NTA5
-OTYsLTY3NTA2NzgyMiwtMTU4MTkyNDEwOSwzMDUxNTA2MjQsLT
-E5OTYxOTM3NDMsMTM4NzkyNjUwNyw5NTMyMTM3MjIsMTMzNTM2
-NzAwOCwtNjgzMzQ2MjE2LC0yNDY0MTQwMTYsLTU3NTIyMjcyMy
-wxMTc3NTczNDIyLC00MDE3MTIwNDgsMjEyODM1MDY4MiwtMTE0
-NTk3MjY1NV19
+eyJoaXN0b3J5IjpbMTI3Mjg1MDU1LC0xNjk4MTM5MDU3LDE4MT
+QwNjM2NjAsLTE2MzM0OTQxNDAsNTc2OTM3MjA1LDcwMDc0MDI3
+MCwyMDg0ODUwOTk2LC02NzUwNjc4MjIsLTE1ODE5MjQxMDksMz
+A1MTUwNjI0LC0xOTk2MTkzNzQzLDEzODc5MjY1MDcsOTUzMjEz
+NzIyLDEzMzUzNjcwMDgsLTY4MzM0NjIxNiwtMjQ2NDE0MDE2LC
+01NzUyMjI3MjMsMTE3NzU3MzQyMiwtNDAxNzEyMDQ4LDIxMjgz
+NTA2ODJdfQ==
 -->
