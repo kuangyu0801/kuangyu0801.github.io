@@ -54,9 +54,9 @@ Mac 鍵符號
 # Mind Set
 ```mermaid
 graph LR
-A[暑期：暑期實習/學生工] --> B[第三學期:完成刷題三百]
-B --> C[第四學期休學:六個月實習]
-C --> D[第五學期:面試]
+A[暑期：暑期實習/學生工] --> B[第三學期完成刷題三百]
+B --> C[第四學期休學六個月實習]
+C --> D[第五學期面試]
 D --> E[畢業]
 E --> F[全職]
 ```
@@ -1046,7 +1046,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDE2MzE4NSwxNzQ3NDAwMzg0LDE3MT
+eyJoaXN0b3J5IjpbLTU0MzIyMDI5MSwxNzQ3NDAwMzg0LDE3MT
 AxMzE1MDMsMTcxMTI5MDc5LDI0NjQ0MDkzMSwyNDY0NDA5MzEs
 ODY4NzY3MDczLC0xOTI3MTAwNjUwLC04Nzg1MTY3MDAsMjAzNT
 k3MDY2NSwtMzQ4MDMyNTg5LC0xMjU5MTcwNDY5LDE3MTQ5MDEx
