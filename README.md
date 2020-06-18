@@ -79,13 +79,9 @@ Stage-3: November Amazon in Dublin, and Singapore
 ## 學生工
 |No.| Position | Company | Requirement | Attraction|
 |---|---|---|---|---|---|
-
 |1|Student (m/f/d) Software Development|[TeamViewer Global](https://de.indeed.com/cmp/Teamviewer?campaignid=mobvjcmp&from=mobviewjob&tk=1eb46cdb4ot1a800&fromjk=1421022b7d679653)| Good Linux and Windows experience, have good knowledge of C++|
-
 | 2 | Cloud & DevOps Entwickler & Berater Werkstudent-/in / Praktikant-/in (M/W/D) | [Cloud Excels GmbH](https://www.stepstone.de/cmp/de/Cloud-Excels-GmbH-237534/jobs.html) | You study computer science, software engineering, business informatics or similar, You are fit in at least one modern object-oriented programming language | 有機會學到database, AWS, CD/CI,Scrum |
-
 | 3 | Werkstudent (w/m/d) Softwareentwicklung Java|[adesso SE](https://www.linkedin.com/company/adesso-se/life/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3Bfv0aiYe3RcqiEYb5DZxI3Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-company_link)|Kenntnisse einiger Open Source Produkte und Frameworks (z.B. Tomcat, Hibernate, Spring), Erstes Entwicklungs-Know-How ist wünschenswert, Sehr gute Deutschkenntnisse | 大公司要求不多，但要好的德語|
-
 | 4 | Working Student - Software Engineering Golang |[thismo messenger](https://www.linkedin.com/company/thismo-com/life/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3BnhOXH082TM6jH4d2UBqcDw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-company_link)| Strong coding skills of Golang and preferrably Python, Experience with modern datastores like MongoDB and Redis.| 感覺我很有機會, 不用英文 |
 
 # 履歷
@@ -1022,7 +1018,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjU2MzUwMiwtODc4NTE2NzAwLDIwMz
+eyJoaXN0b3J5IjpbLTE3MTE4OTkzNCwtODc4NTE2NzAwLDIwMz
 U5NzA2NjUsLTM0ODAzMjU4OSwtMTI1OTE3MDQ2OSwxNzE0OTAx
 MTA3LC0xNjg4NTg2ODQ1LC0xMTE5MDQ3MTU2LC0xNjk4MTM5MD
 U3LDE4MTQwNjM2NjAsLTE2MzM0OTQxNDAsNTc2OTM3MjA1LDcw
