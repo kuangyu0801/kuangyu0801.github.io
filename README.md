@@ -58,6 +58,10 @@ Mac 鍵符號
 - 要趁著學生時期的優勢，找一個好的半年實習機會（目標放在愛爾蘭亞馬遜），不要急著畢業
 - 要找一個符合自己未來專業的實習跟學生工，面試可以多面，但是職缺要慎選，要能夠學到技能、要有一個願意帶人的主管、要有一個願意延續職缺的公司
 
+# Key Word
+- SPA frameworks (Angular, React, VueJS)
+- DevOps projects
+- JavaScript
 
 # Prepare for Interview
 Stage-1: JuneStuttgart small company -> Large company
@@ -1005,7 +1009,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTU5OTA3MzUsMTcxNDkwMTEwNywtMT
+eyJoaXN0b3J5IjpbLTEwNjM5NzMyNzgsMTcxNDkwMTEwNywtMT
 Y4ODU4Njg0NSwtMTExOTA0NzE1NiwtMTY5ODEzOTA1NywxODE0
 MDYzNjYwLC0xNjMzNDk0MTQwLDU3NjkzNzIwNSw3MDA3NDAyNz
 AsMjA4NDg1MDk5NiwtNjc1MDY3ODIyLC0xNTgxOTI0MTA5LDMw
