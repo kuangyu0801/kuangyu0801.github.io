@@ -581,6 +581,9 @@ Arrays.fill(array, value);
 // sorting the array using the comparator, this is done by using Lambda function
 // sorting the array of array according to the 1st element of inner array.
 Arrays.sort(intervals, (x1, x2)->x1[0] - x2[0]);
+
+// checking whether 2 array a
+Arrays.equals(s1, s2);
 ```
 ###  List
 [https://docs.oracle.com/javase/8/docs/api/java/util/List.html](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)
@@ -667,6 +670,12 @@ Compare string in Java
 - String.compareTo(String): 順序是字典順序，同樣prefix, 越長的越大, 不同character a, b, ... z
 - String.equals(String)
 [https://www.geeksforgeeks.org/compare-two-strings-in-java/](https://www.geeksforgeeks.org/compare-two-strings-in-java/)
+
+Converting String in Java
+```
+char[] s1 = s.toCharArray();
+```
+
 ### Math
 ```
 int ran = Math.random();
@@ -1029,7 +1038,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE5ODc5MjIsMTcxMDEzMTUwMywxNz
+eyJoaXN0b3J5IjpbLTE4MDc5NTA2MDAsMTcxMDEzMTUwMywxNz
 ExMjkwNzksMjQ2NDQwOTMxLDI0NjQ0MDkzMSw4Njg3NjcwNzMs
 LTE5MjcxMDA2NTAsLTg3ODUxNjcwMCwyMDM1OTcwNjY1LC0zND
 gwMzI1ODksLTEyNTkxNzA0NjksMTcxNDkwMTEwNywtMTY4ODU4
