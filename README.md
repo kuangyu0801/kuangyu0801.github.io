@@ -46,7 +46,7 @@ Mac 鍵符號
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 
 # TO-LEARN
-- [] LaTex on Mac + Git
+- [] LaTex on Mac + Git version control
 - [] Cloud Computing
 - [] Database
 - [] Computer Vision
@@ -66,6 +66,9 @@ Stage-3: November Amazon in Dublin, and Singapore
 
 ## 實習
 ## 學生工
+  # |Company| description 
+---|---|---
+---|---|---
 
 ## Amazon Wants This
 This requirement is a position from a typical Software Development Position in Amazon Dublin
@@ -998,7 +1001,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDE5MTMwNiwtMTExOTA0NzE1NiwtMT
+eyJoaXN0b3J5IjpbMTAxOTM2NjU4OSwtMTExOTA0NzE1NiwtMT
 Y5ODEzOTA1NywxODE0MDYzNjYwLC0xNjMzNDk0MTQwLDU3Njkz
 NzIwNSw3MDA3NDAyNzAsMjA4NDg1MDk5NiwtNjc1MDY3ODIyLC
 0xNTgxOTI0MTA5LDMwNTE1MDYyNCwtMTk5NjE5Mzc0MywxMzg3
