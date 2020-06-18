@@ -66,10 +66,10 @@ Stage-3: November Amazon in Dublin, and Singapore
 
 ## 實習
 ## 學生工
- |#| Position|Company| description 
- |---|---|---|---|
-|1|Student (m/f/d) Software Development|[TeamViewer Global](https://de.indeed.com/cmp/Teamviewer?campaignid=mobvjcmp&from=mobviewjob&tk=1eb46cdb4ot1a800&fromjk=1421022b7d679653)|Good Linux and Windows experience, have good knowledge of C++
----||---
+ |#| Position|Company| Requirement | Attraction
+ |---|---|---|---|---
+|1|Student (m/f/d) Software Development|[TeamViewer Global](https://de.indeed.com/cmp/Teamviewer?campaignid=mobvjcmp&from=mobviewjob&tk=1eb46cdb4ot1a800&fromjk=1421022b7d679653)|Good Linux and Windows experience, have good knowledge of C++ |
+|2|# Cloud & DevOps Entwickler & Berater Werkstudent-/in / Praktikant-/in (M/W/D)|[Cloud Excels GmbH](https://www.stepstone.de/cmp/de/Cloud-Excels-GmbH-237534/jobs.html)|
 
 # 履歷
 [https://www.overleaf.com/project](https://www.overleaf.com/project)
@@ -1005,11 +1005,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDkwMTEwNywtMTY4ODU4Njg0NSwtMT
-ExOTA0NzE1NiwtMTY5ODEzOTA1NywxODE0MDYzNjYwLC0xNjMz
-NDk0MTQwLDU3NjkzNzIwNSw3MDA3NDAyNzAsMjA4NDg1MDk5Ni
-wtNjc1MDY3ODIyLC0xNTgxOTI0MTA5LDMwNTE1MDYyNCwtMTk5
-NjE5Mzc0MywxMzg3OTI2NTA3LDk1MzIxMzcyMiwxMzM1MzY3MD
-A4LC02ODMzNDYyMTYsLTI0NjQxNDAxNiwtNTc1MjIyNzIzLDEx
-Nzc1NzM0MjJdfQ==
+eyJoaXN0b3J5IjpbLTEyNTU5OTA3MzUsMTcxNDkwMTEwNywtMT
+Y4ODU4Njg0NSwtMTExOTA0NzE1NiwtMTY5ODEzOTA1NywxODE0
+MDYzNjYwLC0xNjMzNDk0MTQwLDU3NjkzNzIwNSw3MDA3NDAyNz
+AsMjA4NDg1MDk5NiwtNjc1MDY3ODIyLC0xNTgxOTI0MTA5LDMw
+NTE1MDYyNCwtMTk5NjE5Mzc0MywxMzg3OTI2NTA3LDk1MzIxMz
+cyMiwxMzM1MzY3MDA4LC02ODMzNDYyMTYsLTI0NjQxNDAxNiwt
+NTc1MjIyNzIzXX0=
 -->
