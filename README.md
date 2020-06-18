@@ -776,6 +776,9 @@ class Solution {
 ### 204. Count Primes
 [https://leetcode.jp/leetcode-204-count-primes-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-204-count-primes-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
 
+###  242演算法 Valid Anagram  (Medium)
+[https://medium.com/leetcode-%E6%BC%94%E7%AE%97%E6%B3%95%E6%95%99%E5%AD%B8/015-leetcode-242%E6%BC%94%E7%AE%97%E6%B3%95-valid-anagram-%E9%A9%97%E8%AD%89%E6%98%93%E4%BD%8D%E6%A7%8B%E8%A9%9E-9111f3ef8102](https://medium.com/leetcode-%E6%BC%94%E7%AE%97%E6%B3%95%E6%95%99%E5%AD%B8/015-leetcode-242%E6%BC%94%E7%AE%97%E6%B3%95-valid-anagram-%E9%A9%97%E8%AD%89%E6%98%93%E4%BD%8D%E6%A7%8B%E8%A9%9E-9111f3ef8102)
+
 ### 334. Increasing Triplet Subsequence (Medium)
 這題是greedy,
 [https://leetcode.jp/leetcode-334-increasing-triplet-subsequence-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-334-increasing-triplet-subsequence-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
@@ -1025,11 +1028,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDEzMTUwMywxNzExMjkwNzksMjQ2ND
-QwOTMxLDI0NjQ0MDkzMSw4Njg3NjcwNzMsLTE5MjcxMDA2NTAs
-LTg3ODUxNjcwMCwyMDM1OTcwNjY1LC0zNDgwMzI1ODksLTEyNT
-kxNzA0NjksMTcxNDkwMTEwNywtMTY4ODU4Njg0NSwtMTExOTA0
-NzE1NiwtMTY5ODEzOTA1NywxODE0MDYzNjYwLC0xNjMzNDk0MT
-QwLDU3NjkzNzIwNSw3MDA3NDAyNzAsMjA4NDg1MDk5NiwtNjc1
-MDY3ODIyXX0=
+eyJoaXN0b3J5IjpbMjEyODE3MTcxMCwxNzEwMTMxNTAzLDE3MT
+EyOTA3OSwyNDY0NDA5MzEsMjQ2NDQwOTMxLDg2ODc2NzA3Mywt
+MTkyNzEwMDY1MCwtODc4NTE2NzAwLDIwMzU5NzA2NjUsLTM0OD
+AzMjU4OSwtMTI1OTE3MDQ2OSwxNzE0OTAxMTA3LC0xNjg4NTg2
+ODQ1LC0xMTE5MDQ3MTU2LC0xNjk4MTM5MDU3LDE4MTQwNjM2Nj
+AsLTE2MzM0OTQxNDAsNTc2OTM3MjA1LDcwMDc0MDI3MCwyMDg0
+ODUwOTk2XX0=
 -->
