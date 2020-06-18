@@ -78,7 +78,7 @@ Stage-3: November Amazon in Dublin, and Singapore
 ## 實習
 ## 學生工
 
-last update on 18 Jun. 2020
+last update on 18 Jun. 2020:
 
 |No| Position | Company | Requirement | Attraction|
 |---|---|---|---|---|---|
@@ -1021,11 +1021,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDU2MDE0NSwyNDY0NDA5MzEsMjQ2ND
-QwOTMxLDg2ODc2NzA3MywtMTkyNzEwMDY1MCwtODc4NTE2NzAw
-LDIwMzU5NzA2NjUsLTM0ODAzMjU4OSwtMTI1OTE3MDQ2OSwxNz
-E0OTAxMTA3LC0xNjg4NTg2ODQ1LC0xMTE5MDQ3MTU2LC0xNjk4
-MTM5MDU3LDE4MTQwNjM2NjAsLTE2MzM0OTQxNDAsNTc2OTM3Mj
-A1LDcwMDc0MDI3MCwyMDg0ODUwOTk2LC02NzUwNjc4MjIsLTE1
-ODE5MjQxMDldfQ==
+eyJoaXN0b3J5IjpbMTcxMTI5MDc5LDI0NjQ0MDkzMSwyNDY0ND
+A5MzEsODY4NzY3MDczLC0xOTI3MTAwNjUwLC04Nzg1MTY3MDAs
+MjAzNTk3MDY2NSwtMzQ4MDMyNTg5LC0xMjU5MTcwNDY5LDE3MT
+Q5MDExMDcsLTE2ODg1ODY4NDUsLTExMTkwNDcxNTYsLTE2OTgx
+MzkwNTcsMTgxNDA2MzY2MCwtMTYzMzQ5NDE0MCw1NzY5MzcyMD
+UsNzAwNzQwMjcwLDIwODQ4NTA5OTYsLTY3NTA2NzgyMiwtMTU4
+MTkyNDEwOV19
 -->
