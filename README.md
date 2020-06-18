@@ -50,7 +50,6 @@ Mac 鍵符號
 - []  Cloud Computing
 - []  Database
 - []  Computer Vision
-- 
 
 
 # Mind Set
@@ -1020,11 +1019,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQxODUxMjIsLTg3ODUxNjcwMCwyMD
-M1OTcwNjY1LC0zNDgwMzI1ODksLTEyNTkxNzA0NjksMTcxNDkw
-MTEwNywtMTY4ODU4Njg0NSwtMTExOTA0NzE1NiwtMTY5ODEzOT
-A1NywxODE0MDYzNjYwLC0xNjMzNDk0MTQwLDU3NjkzNzIwNSw3
-MDA3NDAyNzAsMjA4NDg1MDk5NiwtNjc1MDY3ODIyLC0xNTgxOT
-I0MTA5LDMwNTE1MDYyNCwtMTk5NjE5Mzc0MywxMzg3OTI2NTA3
-LDk1MzIxMzcyMl19
+eyJoaXN0b3J5IjpbLTc4ODUxNzQwNSwtODc4NTE2NzAwLDIwMz
+U5NzA2NjUsLTM0ODAzMjU4OSwtMTI1OTE3MDQ2OSwxNzE0OTAx
+MTA3LC0xNjg4NTg2ODQ1LC0xMTE5MDQ3MTU2LC0xNjk4MTM5MD
+U3LDE4MTQwNjM2NjAsLTE2MzM0OTQxNDAsNTc2OTM3MjA1LDcw
+MDc0MDI3MCwyMDg0ODUwOTk2LC02NzUwNjc4MjIsLTE1ODE5Mj
+QxMDksMzA1MTUwNjI0LC0xOTk2MTkzNzQzLDEzODc5MjY1MDcs
+OTUzMjEzNzIyXX0=
 -->
