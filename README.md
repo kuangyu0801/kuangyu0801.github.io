@@ -46,10 +46,10 @@ Mac 鍵符號
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 
 # TO-LEARN
-- [] LaTex on Mac + Git version control
-- [] Cloud Computing
-- [] Database
-- [] Computer Vision
+- []  LaTex on Mac + Git version control
+- []  Cloud Computing
+- []  Database
+- []  Computer Vision
 - 
 
 
@@ -1020,11 +1020,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODUxNjcwMCwyMDM1OTcwNjY1LC0zND
-gwMzI1ODksLTEyNTkxNzA0NjksMTcxNDkwMTEwNywtMTY4ODU4
-Njg0NSwtMTExOTA0NzE1NiwtMTY5ODEzOTA1NywxODE0MDYzNj
-YwLC0xNjMzNDk0MTQwLDU3NjkzNzIwNSw3MDA3NDAyNzAsMjA4
-NDg1MDk5NiwtNjc1MDY3ODIyLC0xNTgxOTI0MTA5LDMwNTE1MD
-YyNCwtMTk5NjE5Mzc0MywxMzg3OTI2NTA3LDk1MzIxMzcyMiwx
-MzM1MzY3MDA4XX0=
+eyJoaXN0b3J5IjpbLTE3OTQxODUxMjIsLTg3ODUxNjcwMCwyMD
+M1OTcwNjY1LC0zNDgwMzI1ODksLTEyNTkxNzA0NjksMTcxNDkw
+MTEwNywtMTY4ODU4Njg0NSwtMTExOTA0NzE1NiwtMTY5ODEzOT
+A1NywxODE0MDYzNjYwLC0xNjMzNDk0MTQwLDU3NjkzNzIwNSw3
+MDA3NDAyNzAsMjA4NDg1MDk5NiwtNjc1MDY3ODIyLC0xNTgxOT
+I0MTA5LDMwNTE1MDYyNCwtMTk5NjE5Mzc0MywxMzg3OTI2NTA3
+LDk1MzIxMzcyMl19
 -->
