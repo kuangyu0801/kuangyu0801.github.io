@@ -66,9 +66,9 @@ Stage-3: November Amazon in Dublin, and Singapore
 
 ## 實習
 ## 學生工
-  # |Company| description 
-1|---|---
----|---|---
+  # |Position|Company| description 
+1|Student (m/f/d) Software Development|---|---
+---|[TeamViewer Global](https://de.indeed.com/cmp/Teamviewer?campaignid=mobvjcmp&from=mobviewjob&tk=1eb46cdb4ot1a800&fromjk=1421022b7d679653)|---
 
 # 履歷
 [https://www.overleaf.com/project](https://www.overleaf.com/project)
@@ -1004,11 +1004,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg1ODY4NDUsLTExMTkwNDcxNTYsLT
-E2OTgxMzkwNTcsMTgxNDA2MzY2MCwtMTYzMzQ5NDE0MCw1NzY5
-MzcyMDUsNzAwNzQwMjcwLDIwODQ4NTA5OTYsLTY3NTA2NzgyMi
-wtMTU4MTkyNDEwOSwzMDUxNTA2MjQsLTE5OTYxOTM3NDMsMTM4
-NzkyNjUwNyw5NTMyMTM3MjIsMTMzNTM2NzAwOCwtNjgzMzQ2Mj
-E2LC0yNDY0MTQwMTYsLTU3NTIyMjcyMywxMTc3NTczNDIyLC00
-MDE3MTIwNDhdfQ==
+eyJoaXN0b3J5IjpbOTI2NTMxNTA3LC0xNjg4NTg2ODQ1LC0xMT
+E5MDQ3MTU2LC0xNjk4MTM5MDU3LDE4MTQwNjM2NjAsLTE2MzM0
+OTQxNDAsNTc2OTM3MjA1LDcwMDc0MDI3MCwyMDg0ODUwOTk2LC
+02NzUwNjc4MjIsLTE1ODE5MjQxMDksMzA1MTUwNjI0LC0xOTk2
+MTkzNzQzLDEzODc5MjY1MDcsOTUzMjEzNzIyLDEzMzUzNjcwMD
+gsLTY4MzM0NjIxNiwtMjQ2NDE0MDE2LC01NzUyMjI3MjMsMTE3
+NzU3MzQyMl19
 -->
