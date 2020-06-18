@@ -55,11 +55,12 @@ Mac 鍵符號
 ```mermaid
 graph LR
 A[暑期：暑期實習/學生工] --> B[第三學期:完成刷題三百]
-B --> C[第四學期(休學):六個月實習]
+B --> C[第四學期休學:六個月實習]
 C --> D[第五學期:面試]
 D --> E[畢業]
 E --> F[全職]
 ```
+
 - 要趁著學生時期的優勢，找一個好的半年實習機會（目標放在愛爾蘭亞馬遜），不要急著畢業
 - 要找一個符合自己未來專業的實習跟學生工，面試可以多面，但是職缺要慎選，要能夠學到技能、要有一個願意帶人的主管、要有一個願意延續職缺的公司
 
@@ -1045,7 +1046,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjkwNjM4MiwxNzQ3NDAwMzg0LDE3MT
+eyJoaXN0b3J5IjpbMTIwMDE2MzE4NSwxNzQ3NDAwMzg0LDE3MT
 AxMzE1MDMsMTcxMTI5MDc5LDI0NjQ0MDkzMSwyNDY0NDA5MzEs
 ODY4NzY3MDczLC0xOTI3MTAwNjUwLC04Nzg1MTY3MDAsMjAzNT
 k3MDY2NSwtMzQ4MDMyNTg5LC0xMjU5MTcwNDY5LDE3MTQ5MDEx
