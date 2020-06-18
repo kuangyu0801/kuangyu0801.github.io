@@ -48,7 +48,9 @@ Mac 鍵符號
 
 # Mind Set
 暑期打工/學生工-> 半年實習 -> 畢業 -> 全職
-要趁著學生時期的優勢，找一個好的半年實習機會（目標放在愛爾蘭亞馬遜），不要急著避
+- 要趁著學生時期的優勢，找一個好的半年實習機會（目標放在愛爾蘭亞馬遜），不要急著畢業
+- 要找一個符合自己未來專業的實習跟學生工，面試可以多面，但是職缺要慎選，要能夠學到技能、要有一個願意帶人的主管、要有一個願意延續職缺的公司
+
 
 # Prepare for Interview
 Stage-1: JuneStuttgart small company -> Large company
@@ -989,11 +991,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTg1OTA4MCwtMTY5ODEzOTA1NywxOD
-E0MDYzNjYwLC0xNjMzNDk0MTQwLDU3NjkzNzIwNSw3MDA3NDAy
-NzAsMjA4NDg1MDk5NiwtNjc1MDY3ODIyLC0xNTgxOTI0MTA5LD
-MwNTE1MDYyNCwtMTk5NjE5Mzc0MywxMzg3OTI2NTA3LDk1MzIx
-MzcyMiwxMzM1MzY3MDA4LC02ODMzNDYyMTYsLTI0NjQxNDAxNi
-wtNTc1MjIyNzIzLDExNzc1NzM0MjIsLTQwMTcxMjA0OCwyMTI4
-MzUwNjgyXX0=
+eyJoaXN0b3J5IjpbLTExMTkwNDcxNTYsLTE2OTgxMzkwNTcsMT
+gxNDA2MzY2MCwtMTYzMzQ5NDE0MCw1NzY5MzcyMDUsNzAwNzQw
+MjcwLDIwODQ4NTA5OTYsLTY3NTA2NzgyMiwtMTU4MTkyNDEwOS
+wzMDUxNTA2MjQsLTE5OTYxOTM3NDMsMTM4NzkyNjUwNyw5NTMy
+MTM3MjIsMTMzNTM2NzAwOCwtNjgzMzQ2MjE2LC0yNDY0MTQwMT
+YsLTU3NTIyMjcyMywxMTc3NTczNDIyLC00MDE3MTIwNDgsMjEy
+ODM1MDY4Ml19
 -->
