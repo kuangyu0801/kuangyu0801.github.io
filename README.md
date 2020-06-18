@@ -81,7 +81,6 @@ Stage-3: November Amazon in Dublin, and Singapore
 |---|---|---|---|---|---|
 | 1 |Student (m/f/d) Software Development|[TeamViewer Global](https://de.indeed.com/cmp/Teamviewer?campaignid=mobvjcmp&from=mobviewjob&tk=1eb46cdb4ot1a800&fromjk=1421022b7d679653)| Good Linux and Windows experience, have good knowledge of C++|---|
 
-|No.| Position | Company | Requirement | Attraction|
 | 2 | Cloud & DevOps Entwickler & Berater Werkstudent-/in / Praktikant-/in (M/W/D) | [Cloud Excels GmbH](https://www.stepstone.de/cmp/de/Cloud-Excels-GmbH-237534/jobs.html) | You study computer science, software engineering, business informatics or similar, You are fit in at least one modern object-oriented programming language | 有機會學到database, AWS, CD/CI,Scrum |
 | 3 | Werkstudent (w/m/d) Softwareentwicklung Java|[adesso SE](https://www.linkedin.com/company/adesso-se/life/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3Bfv0aiYe3RcqiEYb5DZxI3Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-company_link)|Kenntnisse einiger Open Source Produkte und Frameworks (z.B. Tomcat, Hibernate, Spring), Erstes Entwicklungs-Know-How ist wünschenswert, Sehr gute Deutschkenntnisse | 大公司要求不多，但要好的德語|
 | 4 | Working Student - Software Engineering Golang |[thismo messenger](https://www.linkedin.com/company/thismo-com/life/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3BnhOXH082TM6jH4d2UBqcDw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-company_link)| Strong coding skills of Golang and preferrably Python, Experience with modern datastores like MongoDB and Redis.| 感覺我很有機會, 不用英文 |
@@ -1020,11 +1019,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzc5Nzk0LDI0NjQ0MDkzMSw4Njg3Nj
-cwNzMsLTE5MjcxMDA2NTAsLTg3ODUxNjcwMCwyMDM1OTcwNjY1
-LC0zNDgwMzI1ODksLTEyNTkxNzA0NjksMTcxNDkwMTEwNywtMT
-Y4ODU4Njg0NSwtMTExOTA0NzE1NiwtMTY5ODEzOTA1NywxODE0
-MDYzNjYwLC0xNjMzNDk0MTQwLDU3NjkzNzIwNSw3MDA3NDAyNz
-AsMjA4NDg1MDk5NiwtNjc1MDY3ODIyLC0xNTgxOTI0MTA5LDMw
-NTE1MDYyNF19
+eyJoaXN0b3J5IjpbLTI5ODU4NTI5MSwyNDY0NDA5MzEsODY4Nz
+Y3MDczLC0xOTI3MTAwNjUwLC04Nzg1MTY3MDAsMjAzNTk3MDY2
+NSwtMzQ4MDMyNTg5LC0xMjU5MTcwNDY5LDE3MTQ5MDExMDcsLT
+E2ODg1ODY4NDUsLTExMTkwNDcxNTYsLTE2OTgxMzkwNTcsMTgx
+NDA2MzY2MCwtMTYzMzQ5NDE0MCw1NzY5MzcyMDUsNzAwNzQwMj
+cwLDIwODQ4NTA5OTYsLTY3NTA2NzgyMiwtMTU4MTkyNDEwOSwz
+MDUxNTA2MjRdfQ==
 -->
