@@ -55,8 +55,8 @@ Mac 鍵符號
 ```mermaid
 graph LR
 A[暑期:暑期實習/學生工] --> B[WS20期完成刷題三百]
-B --> C[SS21: 休學六個月實習]
-C --> D[SW21: 面試]
+B --> C[SS21休學六個月實習]
+C --> D[SW21面試]
 D --> E[畢業]
 E --> F[全職]
 ```
@@ -1046,7 +1046,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzcwNjM1NSwxNzQ3NDAwMzg0LDE3MT
+eyJoaXN0b3J5IjpbLTUwMDEwOTQzOSwxNzQ3NDAwMzg0LDE3MT
 AxMzE1MDMsMTcxMTI5MDc5LDI0NjQ0MDkzMSwyNDY0NDA5MzEs
 ODY4NzY3MDczLC0xOTI3MTAwNjUwLC04Nzg1MTY3MDAsMjAzNT
 k3MDY2NSwtMzQ4MDMyNTg5LC0xMjU5MTcwNDY5LDE3MTQ5MDEx
