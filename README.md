@@ -54,10 +54,11 @@ Mac 鍵符號
 # Mind Set
 ```mermaid
 graph LR
-A[暑期打工/學生工] --> B[六個月實習]
-B --> E[第三學期]
- --> C[刷題三百]
-C --> D[全職]
+A[暑期：暑期實習/學生工] --> B[第三學期:完成刷題三百]
+B --> C[第四學期（]
+C --> D[完成刷題三百]
+C --> D[第四學期]
+D --> F[全職]
 ```
 - 要趁著學生時期的優勢，找一個好的半年實習機會（目標放在愛爾蘭亞馬遜），不要急著畢業
 - 要找一個符合自己未來專業的實習跟學生工，面試可以多面，但是職缺要慎選，要能夠學到技能、要有一個願意帶人的主管、要有一個願意延續職缺的公司
@@ -1044,11 +1045,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTk0MTc1MDEsMTc0NzQwMDM4NCwxNz
-EwMTMxNTAzLDE3MTEyOTA3OSwyNDY0NDA5MzEsMjQ2NDQwOTMx
-LDg2ODc2NzA3MywtMTkyNzEwMDY1MCwtODc4NTE2NzAwLDIwMz
-U5NzA2NjUsLTM0ODAzMjU4OSwtMTI1OTE3MDQ2OSwxNzE0OTAx
-MTA3LC0xNjg4NTg2ODQ1LC0xMTE5MDQ3MTU2LC0xNjk4MTM5MD
-U3LDE4MTQwNjM2NjAsLTE2MzM0OTQxNDAsNTc2OTM3MjA1LDcw
-MDc0MDI3MF19
+eyJoaXN0b3J5IjpbNTI4OTkzNTIxLDE3NDc0MDAzODQsMTcxMD
+EzMTUwMywxNzExMjkwNzksMjQ2NDQwOTMxLDI0NjQ0MDkzMSw4
+Njg3NjcwNzMsLTE5MjcxMDA2NTAsLTg3ODUxNjcwMCwyMDM1OT
+cwNjY1LC0zNDgwMzI1ODksLTEyNTkxNzA0NjksMTcxNDkwMTEw
+NywtMTY4ODU4Njg0NSwtMTExOTA0NzE1NiwtMTY5ODEzOTA1Ny
+wxODE0MDYzNjYwLC0xNjMzNDk0MTQwLDU3NjkzNzIwNSw3MDA3
+NDAyNzBdfQ==
 -->
