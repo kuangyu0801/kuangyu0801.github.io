@@ -68,7 +68,7 @@ Stage-3: November Amazon in Dublin, and Singapore
 ## 學生工
  |#| Position|Company| description 
  |---|---|---|---|
-|1|Student (m/f/d) Software Development|[TeamViewer Global](https://de.indeed.com/cmp/Teamviewer?campaignid=mobvjcmp&from=mobviewjob&tk=1eb46cdb4ot1a800&fromjk=1421022b7d679653)|Good Linux and Windows experience \n have good knowledge of C++
+|1|Student (m/f/d) Software Development|[TeamViewer Global](https://de.indeed.com/cmp/Teamviewer?campaignid=mobvjcmp&from=mobviewjob&tk=1eb46cdb4ot1a800&fromjk=1421022b7d679653)|Good Linux and Windows experience, have good knowledge of C++
 ---||---
 
 # 履歷
@@ -1005,11 +1005,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzMjE2OTc5LC0xNjg4NTg2ODQ1LC0xMT
-E5MDQ3MTU2LC0xNjk4MTM5MDU3LDE4MTQwNjM2NjAsLTE2MzM0
-OTQxNDAsNTc2OTM3MjA1LDcwMDc0MDI3MCwyMDg0ODUwOTk2LC
-02NzUwNjc4MjIsLTE1ODE5MjQxMDksMzA1MTUwNjI0LC0xOTk2
-MTkzNzQzLDEzODc5MjY1MDcsOTUzMjEzNzIyLDEzMzUzNjcwMD
-gsLTY4MzM0NjIxNiwtMjQ2NDE0MDE2LC01NzUyMjI3MjMsMTE3
-NzU3MzQyMl19
+eyJoaXN0b3J5IjpbMTcxNDkwMTEwNywtMTY4ODU4Njg0NSwtMT
+ExOTA0NzE1NiwtMTY5ODEzOTA1NywxODE0MDYzNjYwLC0xNjMz
+NDk0MTQwLDU3NjkzNzIwNSw3MDA3NDAyNzAsMjA4NDg1MDk5Ni
+wtNjc1MDY3ODIyLC0xNTgxOTI0MTA5LDMwNTE1MDYyNCwtMTk5
+NjE5Mzc0MywxMzg3OTI2NTA3LDk1MzIxMzcyMiwxMzM1MzY3MD
+A4LC02ODMzNDYyMTYsLTI0NjQxNDAxNiwtNTc1MjIyNzIzLDEx
+Nzc1NzM0MjJdfQ==
 -->
