@@ -117,7 +117,9 @@ last update on 18 Jun. 2020:
 # Cover Letter
 我的優勢：
 - 在全世界第二大晶片公司三年半的工作經驗
-- 開
+- 開發世界最快的5g modem software
+- 參與超過千人的大型project、與世界各地同事工作過
+- 與世界級客戶
 
 
 ## Amazon Wants This
@@ -1064,11 +1066,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzIyMDg4NSw1MzY0Njk4MDcsMTg1MT
-E4MjkzLDEzNjY0MTMzNDgsMTc0NzQwMDM4NCwxNzEwMTMxNTAz
-LDE3MTEyOTA3OSwyNDY0NDA5MzEsMjQ2NDQwOTMxLDg2ODc2Nz
-A3MywtMTkyNzEwMDY1MCwtODc4NTE2NzAwLDIwMzU5NzA2NjUs
-LTM0ODAzMjU4OSwtMTI1OTE3MDQ2OSwxNzE0OTAxMTA3LC0xNj
-g4NTg2ODQ1LC0xMTE5MDQ3MTU2LC0xNjk4MTM5MDU3LDE4MTQw
-NjM2NjBdfQ==
+eyJoaXN0b3J5IjpbLTEwNTQxNDg5NjMsNTM2NDY5ODA3LDE4NT
+ExODI5MywxMzY2NDEzMzQ4LDE3NDc0MDAzODQsMTcxMDEzMTUw
+MywxNzExMjkwNzksMjQ2NDQwOTMxLDI0NjQ0MDkzMSw4Njg3Nj
+cwNzMsLTE5MjcxMDA2NTAsLTg3ODUxNjcwMCwyMDM1OTcwNjY1
+LC0zNDgwMzI1ODksLTEyNTkxNzA0NjksMTcxNDkwMTEwNywtMT
+Y4ODU4Njg0NSwtMTExOTA0NzE1NiwtMTY5ODEzOTA1NywxODE0
+MDYzNjYwXX0=
 -->
