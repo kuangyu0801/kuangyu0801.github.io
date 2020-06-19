@@ -35,6 +35,7 @@ Mac 鍵符號
 - Caps Lock 鍵 ⇪
 
 # TODO
+ - [] cover letter and cv
  - [ ] Java IO 看黑馬
  - [ ] Java concurrency 看黑馬
  - [ ] Java Casting.... more detail on overloading and overriding
@@ -1069,7 +1070,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0NjUwMDI1LDUzNjQ2OTgwNywxODUxMT
+eyJoaXN0b3J5IjpbNDgyODcxNDc1LDUzNjQ2OTgwNywxODUxMT
 gyOTMsMTM2NjQxMzM0OCwxNzQ3NDAwMzg0LDE3MTAxMzE1MDMs
 MTcxMTI5MDc5LDI0NjQ0MDkzMSwyNDY0NDA5MzEsODY4NzY3MD
 czLC0xOTI3MTAwNjUwLC04Nzg1MTY3MDAsMjAzNTk3MDY2NSwt
