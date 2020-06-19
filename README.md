@@ -52,10 +52,12 @@ Mac 鍵符號
 - []  Computer Vision
 
 # Mind Set
-目前schedule
+目前schedule:
+
 |Summer Freizeit 2020| WS20/21 | Winter Freizeit 2021 | SS21 | WS21/22|Feb. 2022|
 |---|---|---|---|---|---|
 |暑期實習/學生工|WS20完成刷題三百+面試實習|SS21休學六個月實習|準備亞馬面試|完成碩論|全職|
+
 
 ```mermaid
 graph LR
@@ -1056,11 +1058,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzA4NTc3MSwxODUxMTgyOTMsMTM2Nj
-QxMzM0OCwxNzQ3NDAwMzg0LDE3MTAxMzE1MDMsMTcxMTI5MDc5
-LDI0NjQ0MDkzMSwyNDY0NDA5MzEsODY4NzY3MDczLC0xOTI3MT
-AwNjUwLC04Nzg1MTY3MDAsMjAzNTk3MDY2NSwtMzQ4MDMyNTg5
-LC0xMjU5MTcwNDY5LDE3MTQ5MDExMDcsLTE2ODg1ODY4NDUsLT
-ExMTkwNDcxNTYsLTE2OTgxMzkwNTcsMTgxNDA2MzY2MCwtMTYz
-MzQ5NDE0MF19
+eyJoaXN0b3J5IjpbMTA0NTg2MjEsMTg1MTE4MjkzLDEzNjY0MT
+MzNDgsMTc0NzQwMDM4NCwxNzEwMTMxNTAzLDE3MTEyOTA3OSwy
+NDY0NDA5MzEsMjQ2NDQwOTMxLDg2ODc2NzA3MywtMTkyNzEwMD
+Y1MCwtODc4NTE2NzAwLDIwMzU5NzA2NjUsLTM0ODAzMjU4OSwt
+MTI1OTE3MDQ2OSwxNzE0OTAxMTA3LC0xNjg4NTg2ODQ1LC0xMT
+E5MDQ3MTU2LC0xNjk4MTM5MDU3LDE4MTQwNjM2NjAsLTE2MzM0
+OTQxNDBdfQ==
 -->
