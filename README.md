@@ -52,6 +52,10 @@ Mac 鍵符號
 - []  Computer Vision
 
 # Mind Set
+|Summer 2020| WS20/21 | Winter  | Requirement | Attraction|
+|---|---|---|---|---|---|
+|--|--|--|--|--|
+
 ```mermaid
 graph LR
 A[S20暑期實習/學生工]  --> B[WS20完成刷題三百]
@@ -1051,11 +1055,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTE4MjkzLDEzNjY0MTMzNDgsMTc0Nz
-QwMDM4NCwxNzEwMTMxNTAzLDE3MTEyOTA3OSwyNDY0NDA5MzEs
-MjQ2NDQwOTMxLDg2ODc2NzA3MywtMTkyNzEwMDY1MCwtODc4NT
-E2NzAwLDIwMzU5NzA2NjUsLTM0ODAzMjU4OSwtMTI1OTE3MDQ2
-OSwxNzE0OTAxMTA3LC0xNjg4NTg2ODQ1LC0xMTE5MDQ3MTU2LC
-0xNjk4MTM5MDU3LDE4MTQwNjM2NjAsLTE2MzM0OTQxNDAsNTc2
-OTM3MjA1XX0=
+eyJoaXN0b3J5IjpbLTg4ODMzMDIwNywxODUxMTgyOTMsMTM2Nj
+QxMzM0OCwxNzQ3NDAwMzg0LDE3MTAxMzE1MDMsMTcxMTI5MDc5
+LDI0NjQ0MDkzMSwyNDY0NDA5MzEsODY4NzY3MDczLC0xOTI3MT
+AwNjUwLC04Nzg1MTY3MDAsMjAzNTk3MDY2NSwtMzQ4MDMyNTg5
+LC0xMjU5MTcwNDY5LDE3MTQ5MDExMDcsLTE2ODg1ODY4NDUsLT
+ExMTkwNDcxNTYsLTE2OTgxMzkwNTcsMTgxNDA2MzY2MCwtMTYz
+MzQ5NDE0MF19
 -->
