@@ -54,7 +54,7 @@ Mac 鍵符號
 # Mind Set
 目前schedule:
 
-|Summer Freizeit 2020| WS20,21 | Winter Freizeit 2021 | SS21 | WS21,22|Feb 2022|
+|Summer Freizeit 2020| WS20/21 | Winter Freizeit 2021 | SS21 | WS21/22|Feb 2022|
 |---|---|---|---|---|---|
 |暑期實習/學生工|WS20完成刷題三百+面試實習|SS21休學六個月實習|準備亞馬面試|完成碩論|全職|
 
@@ -1058,11 +1058,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU0Njc3ODcsMTg1MTE4MjkzLDEzNj
-Y0MTMzNDgsMTc0NzQwMDM4NCwxNzEwMTMxNTAzLDE3MTEyOTA3
-OSwyNDY0NDA5MzEsMjQ2NDQwOTMxLDg2ODc2NzA3MywtMTkyNz
-EwMDY1MCwtODc4NTE2NzAwLDIwMzU5NzA2NjUsLTM0ODAzMjU4
-OSwtMTI1OTE3MDQ2OSwxNzE0OTAxMTA3LC0xNjg4NTg2ODQ1LC
-0xMTE5MDQ3MTU2LC0xNjk4MTM5MDU3LDE4MTQwNjM2NjAsLTE2
-MzM0OTQxNDBdfQ==
+eyJoaXN0b3J5IjpbNTM2NDY5ODA3LDE4NTExODI5MywxMzY2ND
+EzMzQ4LDE3NDc0MDAzODQsMTcxMDEzMTUwMywxNzExMjkwNzks
+MjQ2NDQwOTMxLDI0NjQ0MDkzMSw4Njg3NjcwNzMsLTE5MjcxMD
+A2NTAsLTg3ODUxNjcwMCwyMDM1OTcwNjY1LC0zNDgwMzI1ODks
+LTEyNTkxNzA0NjksMTcxNDkwMTEwNywtMTY4ODU4Njg0NSwtMT
+ExOTA0NzE1NiwtMTY5ODEzOTA1NywxODE0MDYzNjYwLC0xNjMz
+NDk0MTQwXX0=
 -->
