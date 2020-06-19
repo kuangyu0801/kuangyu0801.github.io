@@ -66,6 +66,9 @@ E --> F{全職}
 - 要找一個符合自己未來專業的實習跟學生工，面試可以多面，但是職缺要慎選，要能夠學到技能、要有一個願意帶人的主管、要有一個願意延續職缺的公司
 
 # Key Word 
+框架先不用管，其實就是一個語言
+DevOps是deploy到不同機器的work flow, 也先不用管
+agile開發很簡單, 只需要去udacity或是udemy上面上一門課，
 我沒有學過也不知道的
 - SPA frameworks (Angular, React, VueJS)
 - DevOps projects
@@ -95,7 +98,7 @@ last update on 18 Jun. 2020:
 | 2 | Cloud & DevOps Entwickler & Berater Werkstudent-/in / Praktikant-/in (M/W/D) | [Cloud Excels GmbH](https://www.stepstone.de/cmp/de/Cloud-Excels-GmbH-237534/jobs.html) | You study computer science, software engineering, business informatics or similar, You are fit in at least one modern object-oriented programming language | 有機會學到database, AWS, CD/CI,Scrum |
 | 3 | Werkstudent (w/m/d) Softwareentwicklung Java|[adesso SE](https://www.linkedin.com/company/adesso-se/life/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3Bfv0aiYe3RcqiEYb5DZxI3Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-company_link)|Kenntnisse einiger Open Source Produkte und Frameworks (z.B. Tomcat, Hibernate, Spring), Erstes Entwicklungs-Know-How ist wünschenswert, Sehr gute Deutschkenntnisse | 大公司要求不多，但要好的德語|
 | 4 | Working Student - Software Engineering Golang |[thismo messenger](https://www.linkedin.com/company/thismo-com/life/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3BnhOXH082TM6jH4d2UBqcDw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-company_link)| Strong coding skills of Golang and preferrably Python, Experience with modern datastores like MongoDB and Redis.| 感覺我很有機會, 不用英文 |
-|5|[IT PRAKTIKUM/ WERKSTUDENT IM BEREICH GOOGLE CLOUD (M/W/D)](https://cloudwuerdig.com/karriere/praktikum-google-cloud/)|--|Verständnis über agile Software-Projekte, Grundlegendes Wissen im Bereich Datenbanken, Datenmodellierung und SQL von Vorteil|可|
+|5|[IT PRAKTIKUM/ WERKSTUDENT IM BEREICH GOOGLE CLOUD (M/W/D)](https://cloudwuerdig.com/karriere/praktikum-google-cloud/)|--|Verständnis über agile Software-Projekte, Grundlegendes Wissen im Bereich Datenbanken, Datenmodellierung und SQL von Vorteil|可學習google cloud, database, agile|
 |--|--|--|--|--|
 |--|--|--|--|--|
 |--|--|--|--|--|
@@ -1047,11 +1050,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA3NTI1MDIsMTM2NjQxMzM0OCwxNz
-Q3NDAwMzg0LDE3MTAxMzE1MDMsMTcxMTI5MDc5LDI0NjQ0MDkz
-MSwyNDY0NDA5MzEsODY4NzY3MDczLC0xOTI3MTAwNjUwLC04Nz
-g1MTY3MDAsMjAzNTk3MDY2NSwtMzQ4MDMyNTg5LC0xMjU5MTcw
-NDY5LDE3MTQ5MDExMDcsLTE2ODg1ODY4NDUsLTExMTkwNDcxNT
-YsLTE2OTgxMzkwNTcsMTgxNDA2MzY2MCwtMTYzMzQ5NDE0MCw1
-NzY5MzcyMDVdfQ==
+eyJoaXN0b3J5IjpbLTkzOTAyNjUxOSwxMzY2NDEzMzQ4LDE3ND
+c0MDAzODQsMTcxMDEzMTUwMywxNzExMjkwNzksMjQ2NDQwOTMx
+LDI0NjQ0MDkzMSw4Njg3NjcwNzMsLTE5MjcxMDA2NTAsLTg3OD
+UxNjcwMCwyMDM1OTcwNjY1LC0zNDgwMzI1ODksLTEyNTkxNzA0
+NjksMTcxNDkwMTEwNywtMTY4ODU4Njg0NSwtMTExOTA0NzE1Ni
+wtMTY5ODEzOTA1NywxODE0MDYzNjYwLC0xNjMzNDk0MTQwLDU3
+NjkzNzIwNV19
 -->
