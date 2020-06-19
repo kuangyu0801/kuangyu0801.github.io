@@ -100,7 +100,7 @@ last update on 18 Jun. 2020:
 | 3 | Werkstudent (w/m/d) Softwareentwicklung Java|[adesso SE](https://www.linkedin.com/company/adesso-se/life/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3Bfv0aiYe3RcqiEYb5DZxI3Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-company_link)|Kenntnisse einiger Open Source Produkte und Frameworks (z.B. Tomcat, Hibernate, Spring), Erstes Entwicklungs-Know-How ist wünschenswert, Sehr gute Deutschkenntnisse | 大公司要求不多，但要好的德語|
 | 4 | Working Student - Software Engineering Golang |[thismo messenger](https://www.linkedin.com/company/thismo-com/life/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3BnhOXH082TM6jH4d2UBqcDw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-company_link)| Strong coding skills of Golang and preferrably Python, Experience with modern datastores like MongoDB and Redis.| 感覺我很有機會, 不用英文 |
 |5|[IT PRAKTIKUM/ WERKSTUDENT IM BEREICH GOOGLE CLOUD (M/W/D)](https://cloudwuerdig.com/karriere/praktikum-google-cloud/)|Cloudwürdig[https://cloudwuerdig.com/](https://cloudwuerdig.com/)|Verständnis über agile Software-Projekte, Grundlegendes Wissen im Bereich Datenbanken, Datenmodellierung und SQL von Vorteil|可學習google cloud, database, agile, jobsmess出現過|
-|6|[JAVA DEVELOPER](https://omm-solutions.de/wp-content/uploads/2019/06/2017-10-25_OMM_Stellenausschreibung_Java-Developer-Working-Student-Internship_Gross_DRUCK.pdf)|[omm-solutions](https://omm-solutions.de/home/)|java, agile development|--|
+|6|[JAVA DEVELOPER](https://omm-solutions.de/wp-content/uploads/2019/06/2017-10-25_OMM_Stellenausschreibung_Java-Developer-Working-Student-Internship_Gross_DRUCK.pdf)|[omm-solutions](https://omm-solutions.de/home/)|java, agile development|接觸data base, |
 |--|--|--|--|--|
 |--|--|--|--|--|
 
@@ -1051,7 +1051,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwNzEwNDAzLDEzNjY0MTMzNDgsMTc0Nz
+eyJoaXN0b3J5IjpbMTg1MTE4MjkzLDEzNjY0MTMzNDgsMTc0Nz
 QwMDM4NCwxNzEwMTMxNTAzLDE3MTEyOTA3OSwyNDY0NDA5MzEs
 MjQ2NDQwOTMxLDg2ODc2NzA3MywtMTkyNzEwMDY1MCwtODc4NT
 E2NzAwLDIwMzU5NzA2NjUsLTM0ODAzMjU4OSwtMTI1OTE3MDQ2
