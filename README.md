@@ -54,7 +54,7 @@ Mac 鍵符號
 # Mind Set
 |Summer Freizeit 2020| WS20/21 | Winter Freizeit 2021 | SS21 | WS21/22|
 |---|---|---|---|---|---|
-|暑期實習/學生工|WS20完成刷題三百|準備亞馬面試|完成碩論|--|
+|暑期實習/學生工|WS20完成刷題三百+面試實習|SS21休學六個月實習|準備亞馬面試|完成碩論|
 
 ```mermaid
 graph LR
@@ -1055,11 +1055,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyNjU1ODM0LDE4NTExODI5MywxMzY2ND
-EzMzQ4LDE3NDc0MDAzODQsMTcxMDEzMTUwMywxNzExMjkwNzks
-MjQ2NDQwOTMxLDI0NjQ0MDkzMSw4Njg3NjcwNzMsLTE5MjcxMD
-A2NTAsLTg3ODUxNjcwMCwyMDM1OTcwNjY1LC0zNDgwMzI1ODks
-LTEyNTkxNzA0NjksMTcxNDkwMTEwNywtMTY4ODU4Njg0NSwtMT
-ExOTA0NzE1NiwtMTY5ODEzOTA1NywxODE0MDYzNjYwLC0xNjMz
-NDk0MTQwXX0=
+eyJoaXN0b3J5IjpbMTA3NjA5MDg1MywxODUxMTgyOTMsMTM2Nj
+QxMzM0OCwxNzQ3NDAwMzg0LDE3MTAxMzE1MDMsMTcxMTI5MDc5
+LDI0NjQ0MDkzMSwyNDY0NDA5MzEsODY4NzY3MDczLC0xOTI3MT
+AwNjUwLC04Nzg1MTY3MDAsMjAzNTk3MDY2NSwtMzQ4MDMyNTg5
+LC0xMjU5MTcwNDY5LDE3MTQ5MDExMDcsLTE2ODg1ODY4NDUsLT
+ExMTkwNDcxNTYsLTE2OTgxMzkwNTcsMTgxNDA2MzY2MCwtMTYz
+MzQ5NDE0MF19
 -->
