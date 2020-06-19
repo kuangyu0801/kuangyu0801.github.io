@@ -111,8 +111,14 @@ last update on 18 Jun. 2020:
 |--|--|--|--|--|
 |--|--|--|--|--|
 
-# 履歷
+# 履歷 
 [https://www.overleaf.com/project](https://www.overleaf.com/project)
+
+# Cover Letter
+我的優勢：
+- 在全世界第二大晶片公司三年半的工作經驗
+- 開
+
 
 ## Amazon Wants This
 This requirement is a position from a typical Software Development Position in Amazon Dublin
@@ -1058,11 +1064,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2NDY5ODA3LDE4NTExODI5MywxMzY2ND
-EzMzQ4LDE3NDc0MDAzODQsMTcxMDEzMTUwMywxNzExMjkwNzks
-MjQ2NDQwOTMxLDI0NjQ0MDkzMSw4Njg3NjcwNzMsLTE5MjcxMD
-A2NTAsLTg3ODUxNjcwMCwyMDM1OTcwNjY1LC0zNDgwMzI1ODks
-LTEyNTkxNzA0NjksMTcxNDkwMTEwNywtMTY4ODU4Njg0NSwtMT
-ExOTA0NzE1NiwtMTY5ODEzOTA1NywxODE0MDYzNjYwLC0xNjMz
-NDk0MTQwXX0=
+eyJoaXN0b3J5IjpbMTA4NzIyMDg4NSw1MzY0Njk4MDcsMTg1MT
+E4MjkzLDEzNjY0MTMzNDgsMTc0NzQwMDM4NCwxNzEwMTMxNTAz
+LDE3MTEyOTA3OSwyNDY0NDA5MzEsMjQ2NDQwOTMxLDg2ODc2Nz
+A3MywtMTkyNzEwMDY1MCwtODc4NTE2NzAwLDIwMzU5NzA2NjUs
+LTM0ODAzMjU4OSwtMTI1OTE3MDQ2OSwxNzE0OTAxMTA3LC0xNj
+g4NTg2ODQ1LC0xMTE5MDQ3MTU2LC0xNjk4MTM5MDU3LDE4MTQw
+NjM2NjBdfQ==
 -->
