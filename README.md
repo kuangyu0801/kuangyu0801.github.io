@@ -115,11 +115,14 @@ last update on 18 Jun. 2020:
 [https://www.overleaf.com/project](https://www.overleaf.com/project)
 
 # Cover Letter
+我的背景：
+- IT student, 希望投入cloud computing軟體開發
 我的優勢：
+- 一流的軟體能力
 - 在全世界第二大晶片公司三年半的工作經驗
 - 開發世界最快的5g modem software
 - 參與超過千人的大型project、與世界各地同事工作過
-- 與世界級客戶
+- 與世界級客戶溝通協調解決問題的能力
 
 
 ## Amazon Wants This
@@ -1066,11 +1069,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQxNDg5NjMsNTM2NDY5ODA3LDE4NT
-ExODI5MywxMzY2NDEzMzQ4LDE3NDc0MDAzODQsMTcxMDEzMTUw
-MywxNzExMjkwNzksMjQ2NDQwOTMxLDI0NjQ0MDkzMSw4Njg3Nj
-cwNzMsLTE5MjcxMDA2NTAsLTg3ODUxNjcwMCwyMDM1OTcwNjY1
-LC0zNDgwMzI1ODksLTEyNTkxNzA0NjksMTcxNDkwMTEwNywtMT
-Y4ODU4Njg0NSwtMTExOTA0NzE1NiwtMTY5ODEzOTA1NywxODE0
-MDYzNjYwXX0=
+eyJoaXN0b3J5IjpbNTQ0NjUwMDI1LDUzNjQ2OTgwNywxODUxMT
+gyOTMsMTM2NjQxMzM0OCwxNzQ3NDAwMzg0LDE3MTAxMzE1MDMs
+MTcxMTI5MDc5LDI0NjQ0MDkzMSwyNDY0NDA5MzEsODY4NzY3MD
+czLC0xOTI3MTAwNjUwLC04Nzg1MTY3MDAsMjAzNTk3MDY2NSwt
+MzQ4MDMyNTg5LC0xMjU5MTcwNDY5LDE3MTQ5MDExMDcsLTE2OD
+g1ODY4NDUsLTExMTkwNDcxNTYsLTE2OTgxMzkwNTcsMTgxNDA2
+MzY2MF19
 -->
