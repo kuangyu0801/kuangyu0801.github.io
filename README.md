@@ -344,8 +344,8 @@ JetBrain文章[https://www.jetbrains.com/help/idea/apply-changes-from-one-branch
 [https://www.bilibili.com/video/BV1T7411m7Ta?p=203](https://www.bilibili.com/video/BV1T7411m7Ta?p=203)
 ```
 // 間接方式
-// 直接方式
-
+// 直接方式 外.內
+Body.Heart heart = new Body().new Heart();
 ```
 
 ## Lambda function
@@ -1078,11 +1078,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjA4NjM0NCwzMTkzMzY1MjUsNTM2ND
-Y5ODA3LDE4NTExODI5MywxMzY2NDEzMzQ4LDE3NDc0MDAzODQs
-MTcxMDEzMTUwMywxNzExMjkwNzksMjQ2NDQwOTMxLDI0NjQ0MD
-kzMSw4Njg3NjcwNzMsLTE5MjcxMDA2NTAsLTg3ODUxNjcwMCwy
-MDM1OTcwNjY1LC0zNDgwMzI1ODksLTEyNTkxNzA0NjksMTcxND
-kwMTEwNywtMTY4ODU4Njg0NSwtMTExOTA0NzE1NiwtMTY5ODEz
-OTA1N119
+eyJoaXN0b3J5IjpbLTEzOTc2MTgxNDcsMzE5MzM2NTI1LDUzNj
+Q2OTgwNywxODUxMTgyOTMsMTM2NjQxMzM0OCwxNzQ3NDAwMzg0
+LDE3MTAxMzE1MDMsMTcxMTI5MDc5LDI0NjQ0MDkzMSwyNDY0ND
+A5MzEsODY4NzY3MDczLC0xOTI3MTAwNjUwLC04Nzg1MTY3MDAs
+MjAzNTk3MDY2NSwtMzQ4MDMyNTg5LC0xMjU5MTcwNDY5LDE3MT
+Q5MDExMDcsLTE2ODg1ODY4NDUsLTExMTkwNDcxNTYsLTE2OTgx
+MzkwNTddfQ==
 -->
