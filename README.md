@@ -421,9 +421,11 @@ public class Java8HoFDemo {
 
 ### 快捷鍵
 
-| 功能 |  |
+
+| 功能 | mac按鍵 |
 |--|--|
-|  |  |
+| 快速打出main | psvm + enter |
+|刪除整行|--|
 
 
 ### I/O
@@ -1086,11 +1088,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxNTc0NzgzLC0xMzk3NjE4MTQ3LDMxOT
-MzNjUyNSw1MzY0Njk4MDcsMTg1MTE4MjkzLDEzNjY0MTMzNDgs
-MTc0NzQwMDM4NCwxNzEwMTMxNTAzLDE3MTEyOTA3OSwyNDY0ND
-A5MzEsMjQ2NDQwOTMxLDg2ODc2NzA3MywtMTkyNzEwMDY1MCwt
-ODc4NTE2NzAwLDIwMzU5NzA2NjUsLTM0ODAzMjU4OSwtMTI1OT
-E3MDQ2OSwxNzE0OTAxMTA3LC0xNjg4NTg2ODQ1LC0xMTE5MDQ3
-MTU2XX0=
+eyJoaXN0b3J5IjpbLTE3MjgwOTY5NDcsLTEzOTc2MTgxNDcsMz
+E5MzM2NTI1LDUzNjQ2OTgwNywxODUxMTgyOTMsMTM2NjQxMzM0
+OCwxNzQ3NDAwMzg0LDE3MTAxMzE1MDMsMTcxMTI5MDc5LDI0Nj
+Q0MDkzMSwyNDY0NDA5MzEsODY4NzY3MDczLC0xOTI3MTAwNjUw
+LC04Nzg1MTY3MDAsMjAzNTk3MDY2NSwtMzQ4MDMyNTg5LC0xMj
+U5MTcwNDY5LDE3MTQ5MDExMDcsLTE2ODg1ODY4NDUsLTExMTkw
+NDcxNTZdfQ==
 -->
