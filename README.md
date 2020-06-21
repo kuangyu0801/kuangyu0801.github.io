@@ -430,8 +430,9 @@ Mac 鍵符號
 | 功能 | mac按鍵 |
 |--|--|
 | 快速打出main | psvm + enter |
-| 快速打出println | sout |
+| 快速打出println | sout + enter|
 |刪除整行|⌘ + delete|
+|複製整行|⌘ + D|
 |移動整行|⇧⌥+ scroll|
 
 
@@ -1095,11 +1096,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5NzE0MDI1LC0xMzk3NjE4MTQ3LDMxOT
-MzNjUyNSw1MzY0Njk4MDcsMTg1MTE4MjkzLDEzNjY0MTMzNDgs
-MTc0NzQwMDM4NCwxNzEwMTMxNTAzLDE3MTEyOTA3OSwyNDY0ND
-A5MzEsMjQ2NDQwOTMxLDg2ODc2NzA3MywtMTkyNzEwMDY1MCwt
-ODc4NTE2NzAwLDIwMzU5NzA2NjUsLTM0ODAzMjU4OSwtMTI1OT
-E3MDQ2OSwxNzE0OTAxMTA3LC0xNjg4NTg2ODQ1LC0xMTE5MDQ3
-MTU2XX0=
+eyJoaXN0b3J5IjpbLTM3MjE1MzYxOSwtMTM5NzYxODE0NywzMT
+kzMzY1MjUsNTM2NDY5ODA3LDE4NTExODI5MywxMzY2NDEzMzQ4
+LDE3NDc0MDAzODQsMTcxMDEzMTUwMywxNzExMjkwNzksMjQ2ND
+QwOTMxLDI0NjQ0MDkzMSw4Njg3NjcwNzMsLTE5MjcxMDA2NTAs
+LTg3ODUxNjcwMCwyMDM1OTcwNjY1LC0zNDgwMzI1ODksLTEyNT
+kxNzA0NjksMTcxNDkwMTEwNywtMTY4ODU4Njg0NSwtMTExOTA0
+NzE1Nl19
 -->
