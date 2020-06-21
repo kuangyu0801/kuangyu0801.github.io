@@ -341,7 +341,7 @@ JetBrain文章[https://www.jetbrains.com/help/idea/apply-changes-from-one-branch
 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
 
 ## 內存管理
-參考黑馬
+參考黑馬day-05
 [https://www.bilibili.com/video/BV1T7411m7Ta/?p=85](https://www.bilibili.com/video/BV1T7411m7Ta/?p=85)
 
 ## 內部類
@@ -1100,7 +1100,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMzA1MzUzMywtMzcyMTUzNjE5LC0xMz
+eyJoaXN0b3J5IjpbLTgyMzg3NDUwMywtMzcyMTUzNjE5LC0xMz
 k3NjE4MTQ3LDMxOTMzNjUyNSw1MzY0Njk4MDcsMTg1MTE4Mjkz
 LDEzNjY0MTMzNDgsMTc0NzQwMDM4NCwxNzEwMTMxNTAzLDE3MT
 EyOTA3OSwyNDY0NDA5MzEsMjQ2NDQwOTMxLDg2ODc2NzA3Mywt
