@@ -346,7 +346,7 @@ JetBrain文章[https://www.jetbrains.com/help/idea/apply-changes-from-one-branch
 ### Modifier
 ### final
 ### static
-using "static" member variable, method belong to class not jobj
+using "static" member variable, method belong to class not object
 
 ## 內部類
 參考黑馬day-11
@@ -1104,11 +1104,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MjA2NDk5NCwtODIzODc0NTAzLC0zNz
-IxNTM2MTksLTEzOTc2MTgxNDcsMzE5MzM2NTI1LDUzNjQ2OTgw
-NywxODUxMTgyOTMsMTM2NjQxMzM0OCwxNzQ3NDAwMzg0LDE3MT
-AxMzE1MDMsMTcxMTI5MDc5LDI0NjQ0MDkzMSwyNDY0NDA5MzEs
-ODY4NzY3MDczLC0xOTI3MTAwNjUwLC04Nzg1MTY3MDAsMjAzNT
-k3MDY2NSwtMzQ4MDMyNTg5LC0xMjU5MTcwNDY5LDE3MTQ5MDEx
-MDddfQ==
+eyJoaXN0b3J5IjpbOTYzNjMzNzQ4LC04MjM4NzQ1MDMsLTM3Mj
+E1MzYxOSwtMTM5NzYxODE0NywzMTkzMzY1MjUsNTM2NDY5ODA3
+LDE4NTExODI5MywxMzY2NDEzMzQ4LDE3NDc0MDAzODQsMTcxMD
+EzMTUwMywxNzExMjkwNzksMjQ2NDQwOTMxLDI0NjQ0MDkzMSw4
+Njg3NjcwNzMsLTE5MjcxMDA2NTAsLTg3ODUxNjcwMCwyMDM1OT
+cwNjY1LC0zNDgwMzI1ODksLTEyNTkxNzA0NjksMTcxNDkwMTEw
+N119
 -->
