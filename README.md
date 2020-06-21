@@ -340,6 +340,10 @@ JetBrain文章[https://www.jetbrains.com/help/idea/apply-changes-from-one-branch
 [Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
 
+## 內存管理
+參考黑馬
+[https://www.bilibili.com/video/BV1T7411m7Ta/?p=85](https://www.bilibili.com/video/BV1T7411m7Ta/?p=85)
+
 ## 內部類
 參考黑馬day-11
 [https://www.bilibili.com/video/BV1T7411m7Ta?p=203](https://www.bilibili.com/video/BV1T7411m7Ta?p=203)
@@ -1096,11 +1100,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MjE1MzYxOSwtMTM5NzYxODE0NywzMT
-kzMzY1MjUsNTM2NDY5ODA3LDE4NTExODI5MywxMzY2NDEzMzQ4
-LDE3NDc0MDAzODQsMTcxMDEzMTUwMywxNzExMjkwNzksMjQ2ND
-QwOTMxLDI0NjQ0MDkzMSw4Njg3NjcwNzMsLTE5MjcxMDA2NTAs
-LTg3ODUxNjcwMCwyMDM1OTcwNjY1LC0zNDgwMzI1ODksLTEyNT
-kxNzA0NjksMTcxNDkwMTEwNywtMTY4ODU4Njg0NSwtMTExOTA0
-NzE1Nl19
+eyJoaXN0b3J5IjpbLTMxMzA1MzUzMywtMzcyMTUzNjE5LC0xMz
+k3NjE4MTQ3LDMxOTMzNjUyNSw1MzY0Njk4MDcsMTg1MTE4Mjkz
+LDEzNjY0MTMzNDgsMTc0NzQwMDM4NCwxNzEwMTMxNTAzLDE3MT
+EyOTA3OSwyNDY0NDA5MzEsMjQ2NDQwOTMxLDg2ODc2NzA3Mywt
+MTkyNzEwMDY1MCwtODc4NTE2NzAwLDIwMzU5NzA2NjUsLTM0OD
+AzMjU4OSwtMTI1OTE3MDQ2OSwxNzE0OTAxMTA3LC0xNjg4NTg2
+ODQ1XX0=
 -->
