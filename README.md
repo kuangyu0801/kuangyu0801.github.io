@@ -19,7 +19,7 @@
 	- [The Missing Semester of Your CS Education](#the-missing-semester-of-your-cs-education)
 - [Java](#java)
   * [Java知識總整理大補包](#java知識總整理大補包)
-  * [IntelliJ](#intelliJ)
+  * [IntelliJ](#intellij)
 	+ [Version Control](#version-control)
 - [Python](#python)
   * [numpy](#sub-heading-1)
@@ -341,6 +341,7 @@ JetBrain文章[https://www.jetbrains.com/help/idea/apply-changes-from-one-branch
 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
 
 ## 內部類
+參考黑馬day-11
 [https://www.bilibili.com/video/BV1T7411m7Ta?p=203](https://www.bilibili.com/video/BV1T7411m7Ta?p=203)
 ```
 // 間接方式
@@ -417,6 +418,13 @@ public class Java8HoFDemo {
 ```
 ## IntelliJ
 - [Josh’s IntelliJ Editor Settings](https://drive.google.com/drive/folders/1Y5cHl-nNe731EgG4pAk2Dokgbu4ZpV5E?usp=sharing):CS61B Josh自己tune的的color scheme,兩個字：好看！黑背景、高對比、關鍵字一目瞭然，用過就回不去！[original page](https://sp18.datastructur.es/materials/lab/lab2setup/lab2setup)
+
+### 快捷鍵
+
+| 功能 |  |
+|--|--|
+|  |  |
+
 
 ### I/O
 #### Writing to Files[https://www.youtube.com/watch?v=Bws9aQuAcdg](https://www.youtube.com/watch?v=Bws9aQuAcdg)
@@ -1078,11 +1086,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc2MTgxNDcsMzE5MzM2NTI1LDUzNj
-Q2OTgwNywxODUxMTgyOTMsMTM2NjQxMzM0OCwxNzQ3NDAwMzg0
-LDE3MTAxMzE1MDMsMTcxMTI5MDc5LDI0NjQ0MDkzMSwyNDY0ND
-A5MzEsODY4NzY3MDczLC0xOTI3MTAwNjUwLC04Nzg1MTY3MDAs
-MjAzNTk3MDY2NSwtMzQ4MDMyNTg5LC0xMjU5MTcwNDY5LDE3MT
-Q5MDExMDcsLTE2ODg1ODY4NDUsLTExMTkwNDcxNTYsLTE2OTgx
-MzkwNTddfQ==
+eyJoaXN0b3J5IjpbMjkxNTc0NzgzLC0xMzk3NjE4MTQ3LDMxOT
+MzNjUyNSw1MzY0Njk4MDcsMTg1MTE4MjkzLDEzNjY0MTMzNDgs
+MTc0NzQwMDM4NCwxNzEwMTMxNTAzLDE3MTEyOTA3OSwyNDY0ND
+A5MzEsMjQ2NDQwOTMxLDg2ODc2NzA3MywtMTkyNzEwMDY1MCwt
+ODc4NTE2NzAwLDIwMzU5NzA2NjUsLTM0ODAzMjU4OSwtMTI1OT
+E3MDQ2OSwxNzE0OTAxMTA3LC0xNjg4NTg2ODQ1LC0xMTE5MDQ3
+MTU2XX0=
 -->
