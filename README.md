@@ -420,12 +420,19 @@ public class Java8HoFDemo {
 - [Josh’s IntelliJ Editor Settings](https://drive.google.com/drive/folders/1Y5cHl-nNe731EgG4pAk2Dokgbu4ZpV5E?usp=sharing):CS61B Josh自己tune的的color scheme,兩個字：好看！黑背景、高對比、關鍵字一目瞭然，用過就回不去！[original page](https://sp18.datastructur.es/materials/lab/lab2setup/lab2setup)
 
 ### 快捷鍵
-
+Mac 鍵符號
+- Command 鍵 ⌘
+- Shift 鍵 ⇧
+- Option（或 Alt）鍵 ⌥
+- Control（或 Ctrl）鍵 ⌃
+- Caps Lock 鍵 ⇪
 
 | 功能 | mac按鍵 |
 |--|--|
 | 快速打出main | psvm + enter |
-|刪除整行|--|
+| 快速打出println | sout |
+|刪除整行|⌘ + delete|
+|移動整行|⇧⌥+ scroll|
 
 
 ### I/O
@@ -1088,11 +1095,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjgwOTY5NDcsLTEzOTc2MTgxNDcsMz
-E5MzM2NTI1LDUzNjQ2OTgwNywxODUxMTgyOTMsMTM2NjQxMzM0
-OCwxNzQ3NDAwMzg0LDE3MTAxMzE1MDMsMTcxMTI5MDc5LDI0Nj
-Q0MDkzMSwyNDY0NDA5MzEsODY4NzY3MDczLC0xOTI3MTAwNjUw
-LC04Nzg1MTY3MDAsMjAzNTk3MDY2NSwtMzQ4MDMyNTg5LC0xMj
-U5MTcwNDY5LDE3MTQ5MDExMDcsLTE2ODg1ODY4NDUsLTExMTkw
-NDcxNTZdfQ==
+eyJoaXN0b3J5IjpbNDE5NzE0MDI1LC0xMzk3NjE4MTQ3LDMxOT
+MzNjUyNSw1MzY0Njk4MDcsMTg1MTE4MjkzLDEzNjY0MTMzNDgs
+MTc0NzQwMDM4NCwxNzEwMTMxNTAzLDE3MTEyOTA3OSwyNDY0ND
+A5MzEsMjQ2NDQwOTMxLDg2ODc2NzA3MywtMTkyNzEwMDY1MCwt
+ODc4NTE2NzAwLDIwMzU5NzA2NjUsLTM0ODAzMjU4OSwtMTI1OT
+E3MDQ2OSwxNzE0OTAxMTA3LC0xNjg4NTg2ODQ1LC0xMTE5MDQ3
+MTU2XX0=
 -->
