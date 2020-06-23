@@ -553,7 +553,8 @@ numpy.linalg.solve
 
 - 強大的力扣心得[https://github.com/azl397985856/leetcode](https://github.com/azl397985856/leetcode)
 - 某人簡單明瞭的部落格，答案是java[https://leetcode.jp/problems.php](https://leetcode.jp/problems.php)
-- 花花醬，部分有視頻講解，代碼是c++ or  Python [https://zxi.mytechroad.com/blog/](https://zxi.mytechroad.com/blog/)
+- [花花醬playlist](https://www.youtube.com/user/xxfflower/playlists)
+- 花花醬網站，部分有視頻講解，代碼是c++ or  Python [https://zxi.mytechroad.com/blog/](https://zxi.mytechroad.com/blog/)
 ## 心得
 
 刷題考出很多東西
@@ -1109,11 +1110,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTEyMjA3NCwtOTM0MDY5MDk0LDk2Mz
-YzMzc0OCwtODIzODc0NTAzLC0zNzIxNTM2MTksLTEzOTc2MTgx
-NDcsMzE5MzM2NTI1LDUzNjQ2OTgwNywxODUxMTgyOTMsMTM2Nj
-QxMzM0OCwxNzQ3NDAwMzg0LDE3MTAxMzE1MDMsMTcxMTI5MDc5
-LDI0NjQ0MDkzMSwyNDY0NDA5MzEsODY4NzY3MDczLC0xOTI3MT
-AwNjUwLC04Nzg1MTY3MDAsMjAzNTk3MDY2NSwtMzQ4MDMyNTg5
+eyJoaXN0b3J5IjpbLTY2MjYzNzQ5MywtOTM5MTIyMDc0LC05Mz
+QwNjkwOTQsOTYzNjMzNzQ4LC04MjM4NzQ1MDMsLTM3MjE1MzYx
+OSwtMTM5NzYxODE0NywzMTkzMzY1MjUsNTM2NDY5ODA3LDE4NT
+ExODI5MywxMzY2NDEzMzQ4LDE3NDc0MDAzODQsMTcxMDEzMTUw
+MywxNzExMjkwNzksMjQ2NDQwOTMxLDI0NjQ0MDkzMSw4Njg3Nj
+cwNzMsLTE5MjcxMDA2NTAsLTg3ODUxNjcwMCwyMDM1OTcwNjY1
 XX0=
 -->
