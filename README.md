@@ -116,6 +116,7 @@ last update on 18 Jun. 2020:
 [https://www.overleaf.com/project](https://www.overleaf.com/project)
 
 # Cover Letter
+glassdoor教學如何撰寫Cover Letter[https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/](https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/)
 我的背景：
 - IT student, 希望投入cloud computing軟體開發
 我的優勢：
@@ -1110,11 +1111,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjYzNzQ5MywtOTM5MTIyMDc0LC05Mz
-QwNjkwOTQsOTYzNjMzNzQ4LC04MjM4NzQ1MDMsLTM3MjE1MzYx
-OSwtMTM5NzYxODE0NywzMTkzMzY1MjUsNTM2NDY5ODA3LDE4NT
-ExODI5MywxMzY2NDEzMzQ4LDE3NDc0MDAzODQsMTcxMDEzMTUw
-MywxNzExMjkwNzksMjQ2NDQwOTMxLDI0NjQ0MDkzMSw4Njg3Nj
-cwNzMsLTE5MjcxMDA2NTAsLTg3ODUxNjcwMCwyMDM1OTcwNjY1
-XX0=
+eyJoaXN0b3J5IjpbOTA5MjE4Mjg2LC02NjI2Mzc0OTMsLTkzOT
+EyMjA3NCwtOTM0MDY5MDk0LDk2MzYzMzc0OCwtODIzODc0NTAz
+LC0zNzIxNTM2MTksLTEzOTc2MTgxNDcsMzE5MzM2NTI1LDUzNj
+Q2OTgwNywxODUxMTgyOTMsMTM2NjQxMzM0OCwxNzQ3NDAwMzg0
+LDE3MTAxMzE1MDMsMTcxMTI5MDc5LDI0NjQ0MDkzMSwyNDY0ND
+A5MzEsODY4NzY3MDczLC0xOTI3MTAwNjUwLC04Nzg1MTY3MDBd
+fQ==
 -->
