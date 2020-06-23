@@ -547,6 +547,7 @@ numpy.linalg.solve
 # 刷題找工作
 
 ## [高頻一百連結](https://leetcode.com/problemset/top-interview-questions/)
+[https://github.com/kuangyu0801/LeetcodeDailyCheckIn/tree/master/Leetcode](https://github.com/kuangyu0801/LeetcodeDailyCheckIn/tree/master/Leetcode)
 
 ### 解答網站
 
@@ -1104,11 +1105,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzNjMzNzQ4LC04MjM4NzQ1MDMsLTM3Mj
-E1MzYxOSwtMTM5NzYxODE0NywzMTkzMzY1MjUsNTM2NDY5ODA3
-LDE4NTExODI5MywxMzY2NDEzMzQ4LDE3NDc0MDAzODQsMTcxMD
-EzMTUwMywxNzExMjkwNzksMjQ2NDQwOTMxLDI0NjQ0MDkzMSw4
-Njg3NjcwNzMsLTE5MjcxMDA2NTAsLTg3ODUxNjcwMCwyMDM1OT
-cwNjY1LC0zNDgwMzI1ODksLTEyNTkxNzA0NjksMTcxNDkwMTEw
-N119
+eyJoaXN0b3J5IjpbLTE2NzA3ODU4MTksOTYzNjMzNzQ4LC04Mj
+M4NzQ1MDMsLTM3MjE1MzYxOSwtMTM5NzYxODE0NywzMTkzMzY1
+MjUsNTM2NDY5ODA3LDE4NTExODI5MywxMzY2NDEzMzQ4LDE3ND
+c0MDAzODQsMTcxMDEzMTUwMywxNzExMjkwNzksMjQ2NDQwOTMx
+LDI0NjQ0MDkzMSw4Njg3NjcwNzMsLTE5MjcxMDA2NTAsLTg3OD
+UxNjcwMCwyMDM1OTcwNjY1LC0zNDgwMzI1ODksLTEyNTkxNzA0
+NjldfQ==
 -->
