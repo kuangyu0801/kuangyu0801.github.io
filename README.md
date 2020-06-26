@@ -139,7 +139,7 @@ last update on 18 Jun. 2020:
 |5|[IT PRAKTIKUM/ WERKSTUDENT IM BEREICH GOOGLE CLOUD (M/W/D)](https://cloudwuerdig.com/karriere/praktikum-google-cloud/)|Cloudwürdig[https://cloudwuerdig.com/](https://cloudwuerdig.com/)|Verständnis über agile Software-Projekte, Grundlegendes Wissen im Bereich Datenbanken, Datenmodellierung und SQL von Vorteil|可學習google cloud, database, agile, jobsmess出現過|
 |6|[JAVA DEVELOPER](https://omm-solutions.de/wp-content/uploads/2019/06/2017-10-25_OMM_Stellenausschreibung_Java-Developer-Working-Student-Internship_Gross_DRUCK.pdf)|[omm-solutions](https://omm-solutions.de/home/)|java, agile development|接觸data base, |
 |--|--|--|--|--|
-|--|--|--|--|--|
+
 
 # 履歷 
 [https://www.overleaf.com/project](https://www.overleaf.com/project)
@@ -1140,7 +1140,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ2ODA0MDksLTQ2NzQ3MjI0NCwyMD
+eyJoaXN0b3J5IjpbLTEwMTExMTc3NTMsLTQ2NzQ3MjI0NCwyMD
 c3MTQ5NDA3LC0zMjE0OTE3NDksNjIxMDQ0OTc0LDEzOTk2MTkz
 NTQsNDYyOTIzNzM5LDExODM1NjgyMjEsMjA2MzA3NTQ2MywxMj
 gyMjY2OTcyLDkwOTIxODI4NiwtNjYyNjM3NDkzLC05MzkxMjIw
