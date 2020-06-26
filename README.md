@@ -133,9 +133,6 @@ last update on 18 Jun. 2020:
 |No| Position | Company | Requirement | Attraction|
 |---|---|---|---|---|---|
 | 1 |Student (m/f/d) Software Development|[TeamViewer Global](https://de.indeed.com/cmp/Teamviewer?campaignid=mobvjcmp&from=mobviewjob&tk=1eb46cdb4ot1a800&fromjk=1421022b7d679653)| Good Linux and Windows experience, have good knowledge of C++|---|
-
-|No| Position | Company | Requirement | Attraction|
-|---|---|---|---|---|---|
 | 2 | Cloud & DevOps Entwickler & Berater Werkstudent-/in / Praktikant-/in (M/W/D) | [Cloud Excels GmbH](https://www.stepstone.de/cmp/de/Cloud-Excels-GmbH-237534/jobs.html) | You study computer science, software engineering, business informatics or similar, You are fit in at least one modern object-oriented programming language | 有機會學到database, AWS, CD/CI,Scrum |
 | 3 | Werkstudent (w/m/d) Softwareentwicklung Java|[adesso SE](https://www.linkedin.com/company/adesso-se/life/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3Bfv0aiYe3RcqiEYb5DZxI3Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-company_link)|Kenntnisse einiger Open Source Produkte und Frameworks (z.B. Tomcat, Hibernate, Spring), Erstes Entwicklungs-Know-How ist wünschenswert, Sehr gute Deutschkenntnisse | 大公司要求不多，但要好的德語|
 | 4 | Working Student - Software Engineering Golang |[thismo messenger](https://www.linkedin.com/company/thismo-com/life/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3BnhOXH082TM6jH4d2UBqcDw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-company_link)| Strong coding skills of Golang and preferrably Python, Experience with modern datastores like MongoDB and Redis.| 感覺我很有機會, 不用英文 |
@@ -1143,11 +1140,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyODc4Mzg2LC00Njc0NzIyNDQsMjA3Nz
-E0OTQwNywtMzIxNDkxNzQ5LDYyMTA0NDk3NCwxMzk5NjE5MzU0
-LDQ2MjkyMzczOSwxMTgzNTY4MjIxLDIwNjMwNzU0NjMsMTI4Mj
-I2Njk3Miw5MDkyMTgyODYsLTY2MjYzNzQ5MywtOTM5MTIyMDc0
-LC05MzQwNjkwOTQsOTYzNjMzNzQ4LC04MjM4NzQ1MDMsLTM3Mj
-E1MzYxOSwtMTM5NzYxODE0NywzMTkzMzY1MjUsNTM2NDY5ODA3
-XX0=
+eyJoaXN0b3J5IjpbLTEwMTExMTc3NTMsMzEyODc4Mzg2LC00Nj
+c0NzIyNDQsMjA3NzE0OTQwNywtMzIxNDkxNzQ5LDYyMTA0NDk3
+NCwxMzk5NjE5MzU0LDQ2MjkyMzczOSwxMTgzNTY4MjIxLDIwNj
+MwNzU0NjMsMTI4MjI2Njk3Miw5MDkyMTgyODYsLTY2MjYzNzQ5
+MywtOTM5MTIyMDc0LC05MzQwNjkwOTQsOTYzNjMzNzQ4LC04Mj
+M4NzQ1MDMsLTM3MjE1MzYxOSwtMTM5NzYxODE0NywzMTkzMzY1
+MjVdfQ==
 -->
