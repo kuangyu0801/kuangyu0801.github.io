@@ -48,17 +48,17 @@ Mac 鍵符號
  - [ ] 
 
 # TO-LEARN
-- []  LaTex on Mac + Git version control
-- []  Cloud Computing:  Uni Stuttgart
-- []  Database
-- []  Computer Vision: Uni Stuttgart
-- []  計網概
-- [] Software Engineering: Uni Stuttgart
-- [] [Software Development Process (Udacity)](https://classroom.udacity.com/courses/ud805)
+- [ ]  LaTex on Mac + Git version control
+- [ ]  Cloud Computing:  Uni Stuttgart
+- [ ]  Database
+- [ ]  Computer Vision: Uni Stuttgart
+- [ ]  計網概
+- [ ] Software Engineering: Uni Stuttgart
+- [ ] [Software Development Process (Udacity)](https://classroom.udacity.com/courses/ud805)
 
 ## Joanna List [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
 - [ ] Introduction to Databases
-- [ ] - [ ] Web Application
+- [ ] Web Application
 - [ ] [Introduction to Databases from IBM (Coursera](https://coursera.org/share/ad494950743493c0a516ab51ce986cb6)
 - [ ] [Database Systems Concepts & Design (Udacity)]([https://classroom.udacity.com/courses/ud150](https://classroom.udacity.com/courses/ud150))
 - [ ] [Using Databases with Python (Coursera)](https://coursera.org/share/e415f2e24068608093964fdd330f9bd0)
@@ -1124,11 +1124,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjk3NDExNiwxMTgzNTY4MjIxLDIwNj
-MwNzU0NjMsMTI4MjI2Njk3Miw5MDkyMTgyODYsLTY2MjYzNzQ5
-MywtOTM5MTIyMDc0LC05MzQwNjkwOTQsOTYzNjMzNzQ4LC04Mj
-M4NzQ1MDMsLTM3MjE1MzYxOSwtMTM5NzYxODE0NywzMTkzMzY1
-MjUsNTM2NDY5ODA3LDE4NTExODI5MywxMzY2NDEzMzQ4LDE3ND
-c0MDAzODQsMTcxMDEzMTUwMywxNzExMjkwNzksMjQ2NDQwOTMx
-XX0=
+eyJoaXN0b3J5IjpbNDYyOTIzNzM5LDExODM1NjgyMjEsMjA2Mz
+A3NTQ2MywxMjgyMjY2OTcyLDkwOTIxODI4NiwtNjYyNjM3NDkz
+LC05MzkxMjIwNzQsLTkzNDA2OTA5NCw5NjM2MzM3NDgsLTgyMz
+g3NDUwMywtMzcyMTUzNjE5LC0xMzk3NjE4MTQ3LDMxOTMzNjUy
+NSw1MzY0Njk4MDcsMTg1MTE4MjkzLDEzNjY0MTMzNDgsMTc0Nz
+QwMDM4NCwxNzEwMTMxNTAzLDE3MTEyOTA3OSwyNDY0NDA5MzFd
+fQ==
 -->
