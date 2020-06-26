@@ -56,7 +56,7 @@ Mac 鍵符號
 - [] Software Engineering: Uni Stuttgart
 
 ## Joanna List [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
-- [] Introduction to Databases
+- [] [Introduction to Databases from IBM](https://coursera.org/share/ad494950743493c0a516ab51ce986cb6)
 - [] Using Databases with Python (Coursera)
 - [] Using Python to Access Web Data (Coursera)
 - [] Web Application
@@ -1120,11 +1120,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzU2ODIyMSwyMDYzMDc1NDYzLDEyOD
-IyNjY5NzIsOTA5MjE4Mjg2LC02NjI2Mzc0OTMsLTkzOTEyMjA3
-NCwtOTM0MDY5MDk0LDk2MzYzMzc0OCwtODIzODc0NTAzLC0zNz
-IxNTM2MTksLTEzOTc2MTgxNDcsMzE5MzM2NTI1LDUzNjQ2OTgw
-NywxODUxMTgyOTMsMTM2NjQxMzM0OCwxNzQ3NDAwMzg0LDE3MT
-AxMzE1MDMsMTcxMTI5MDc5LDI0NjQ0MDkzMSwyNDY0NDA5MzFd
-fQ==
+eyJoaXN0b3J5IjpbLTExMzE5NTE2MTMsMTE4MzU2ODIyMSwyMD
+YzMDc1NDYzLDEyODIyNjY5NzIsOTA5MjE4Mjg2LC02NjI2Mzc0
+OTMsLTkzOTEyMjA3NCwtOTM0MDY5MDk0LDk2MzYzMzc0OCwtOD
+IzODc0NTAzLC0zNzIxNTM2MTksLTEzOTc2MTgxNDcsMzE5MzM2
+NTI1LDUzNjQ2OTgwNywxODUxMTgyOTMsMTM2NjQxMzM0OCwxNz
+Q3NDAwMzg0LDE3MTAxMzE1MDMsMTcxMTI5MDc5LDI0NjQ0MDkz
+MV19
 -->
