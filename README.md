@@ -20,8 +20,7 @@
   * [紀錄](#紀錄)
   * [Problems](#problems)
   * [Frequent-Used Library](#frequent-used-library)
-    + [Arrays](#arrays)
-    + [Random](#random)
+    + [Arrays](#arrays), [Random](#random), [### Sorting](###sorting)
 - [Java](#java)
   * [Java知識總整理大補包](#java知識總整理大補包)
   * [IntelliJ](#intellij)
@@ -1140,11 +1139,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzE0OTQwNywtMzIxNDkxNzQ5LDYyMT
-A0NDk3NCwxMzk5NjE5MzU0LDQ2MjkyMzczOSwxMTgzNTY4MjIx
-LDIwNjMwNzU0NjMsMTI4MjI2Njk3Miw5MDkyMTgyODYsLTY2Mj
-YzNzQ5MywtOTM5MTIyMDc0LC05MzQwNjkwOTQsOTYzNjMzNzQ4
-LC04MjM4NzQ1MDMsLTM3MjE1MzYxOSwtMTM5NzYxODE0NywzMT
-kzMzY1MjUsNTM2NDY5ODA3LDE4NTExODI5MywxMzY2NDEzMzQ4
-XX0=
+eyJoaXN0b3J5IjpbNTYwODIwMTc1LDIwNzcxNDk0MDcsLTMyMT
+Q5MTc0OSw2MjEwNDQ5NzQsMTM5OTYxOTM1NCw0NjI5MjM3Mzks
+MTE4MzU2ODIyMSwyMDYzMDc1NDYzLDEyODIyNjY5NzIsOTA5Mj
+E4Mjg2LC02NjI2Mzc0OTMsLTkzOTEyMjA3NCwtOTM0MDY5MDk0
+LDk2MzYzMzc0OCwtODIzODc0NTAzLC0zNzIxNTM2MTksLTEzOT
+c2MTgxNDcsMzE5MzM2NTI1LDUzNjQ2OTgwNywxODUxMTgyOTNd
+fQ==
 -->
