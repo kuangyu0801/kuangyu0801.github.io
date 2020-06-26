@@ -145,7 +145,7 @@ last update on 18 Jun. 2020:
 [https://www.overleaf.com/project](https://www.overleaf.com/project)
 
 # Cover Letter
-glassdoor教學如何撰寫Cover Letter[https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/](https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/)
+glassdoor教學如何撰寫Cover Letter: [https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/](https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/)
 ## 我的背景：
 - IT student, 希望投入cloud computing軟體開發
 ## 我的優勢：
@@ -1140,7 +1140,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE5Nzc1OTksLTQ2NzQ3MjI0NCwyMD
+eyJoaXN0b3J5IjpbLTE4MDQ2ODA0MDksLTQ2NzQ3MjI0NCwyMD
 c3MTQ5NDA3LC0zMjE0OTE3NDksNjIxMDQ0OTc0LDEzOTk2MTkz
 NTQsNDYyOTIzNzM5LDExODM1NjgyMjEsMjA2MzA3NTQ2MywxMj
 gyMjY2OTcyLDkwOTIxODI4NiwtNjYyNjM3NDkzLC05MzkxMjIw
