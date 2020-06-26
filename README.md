@@ -6,6 +6,8 @@
 - [TO-LEARN](#to-learn)
 - [Joanna List](#joanna-list) 
 - [Mind Set](#mind-set)
+- [Key Word](#key-word)
+- [TO-CONSIDER](#to-consider)
 - [軟體工程師自學](#軟體工程師自學)
 - [Prepare for Interview](#prepare-for-interview)
 	* [Amazon Wants This](#amazon-wants-this)
@@ -70,8 +72,8 @@ Janna LinkedIn: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com
 - [ ] [Using Databases with Python (Coursera)](https://coursera.org/share/e415f2e24068608093964fdd330f9bd0)
 - [ ] [Using Python to Access Web Data (Coursera)](https://coursera.org/share/1188b2397ed5cbf6fd690c03ab87aa32)
 
-# TO CONSIDER
--[] [AWS Fundamentals: Going Cloud-Native from AWS Fundamentals Specialization(Coursera)](https://coursera.org/share/7965486607405adf9331f5b2bd7253c9)
+# TO-CONSIDER
+-[ ] [AWS Fundamentals: Going Cloud-Native from AWS Fundamentals Specialization(Coursera)](https://coursera.org/share/7965486607405adf9331f5b2bd7253c9)
 
 4.6
 
@@ -1138,11 +1140,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxMDQ0OTc0LDEzOTk2MTkzNTQsNDYyOT
-IzNzM5LDExODM1NjgyMjEsMjA2MzA3NTQ2MywxMjgyMjY2OTcy
-LDkwOTIxODI4NiwtNjYyNjM3NDkzLC05MzkxMjIwNzQsLTkzND
-A2OTA5NCw5NjM2MzM3NDgsLTgyMzg3NDUwMywtMzcyMTUzNjE5
-LC0xMzk3NjE4MTQ3LDMxOTMzNjUyNSw1MzY0Njk4MDcsMTg1MT
-E4MjkzLDEzNjY0MTMzNDgsMTc0NzQwMDM4NCwxNzEwMTMxNTAz
-XX0=
+eyJoaXN0b3J5IjpbLTE5NTk1NDQ3NDQsNjIxMDQ0OTc0LDEzOT
+k2MTkzNTQsNDYyOTIzNzM5LDExODM1NjgyMjEsMjA2MzA3NTQ2
+MywxMjgyMjY2OTcyLDkwOTIxODI4NiwtNjYyNjM3NDkzLC05Mz
+kxMjIwNzQsLTkzNDA2OTA5NCw5NjM2MzM3NDgsLTgyMzg3NDUw
+MywtMzcyMTUzNjE5LC0xMzk3NjE4MTQ3LDMxOTMzNjUyNSw1Mz
+Y0Njk4MDcsMTg1MTE4MjkzLDEzNjY0MTMzNDgsMTc0NzQwMDM4
+NF19
 -->
