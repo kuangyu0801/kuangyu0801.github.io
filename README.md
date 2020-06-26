@@ -14,6 +14,8 @@
 	* [Amazon Wants This](#amazon-wants-this)
 	* [FACEBOOK Wants This](#facebook-wants-this)
 - [軟體工程師自學](#軟體工程師自學)
+	 * [Programming Book](#programming-book)
+	 * [Programming Course](#programming-course)
 - [刷題找工作](#刷題找工作)
   * [高頻一百連結](#高頻一百連結)
   * [紀錄](#紀錄)
@@ -1142,11 +1144,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTQ5MTc0OSw2MjEwNDQ5NzQsMTM5OT
-YxOTM1NCw0NjI5MjM3MzksMTE4MzU2ODIyMSwyMDYzMDc1NDYz
-LDEyODIyNjY5NzIsOTA5MjE4Mjg2LC02NjI2Mzc0OTMsLTkzOT
-EyMjA3NCwtOTM0MDY5MDk0LDk2MzYzMzc0OCwtODIzODc0NTAz
-LC0zNzIxNTM2MTksLTEzOTc2MTgxNDcsMzE5MzM2NTI1LDUzNj
-Q2OTgwNywxODUxMTgyOTMsMTM2NjQxMzM0OCwxNzQ3NDAwMzg0
+eyJoaXN0b3J5IjpbLTI4NzcxMzI5MSwtMzIxNDkxNzQ5LDYyMT
+A0NDk3NCwxMzk5NjE5MzU0LDQ2MjkyMzczOSwxMTgzNTY4MjIx
+LDIwNjMwNzU0NjMsMTI4MjI2Njk3Miw5MDkyMTgyODYsLTY2Mj
+YzNzQ5MywtOTM5MTIyMDc0LC05MzQwNjkwOTQsOTYzNjMzNzQ4
+LC04MjM4NzQ1MDMsLTM3MjE1MzYxOSwtMTM5NzYxODE0NywzMT
+kzMzY1MjUsNTM2NDY5ODA3LDE4NTExODI5MywxMzY2NDEzMzQ4
 XX0=
 -->
