@@ -52,7 +52,10 @@ Mac 鍵符號
 - []  Database
 - []  Computer Vision: Uni Stuttgart
 Joanna List:
-- []
+- [] Introduction to Databases
+- []  Using Databases with Python (Coursera)
+- []  Using Python to Access Web Data (Coursera)
+- Web Application
 
 # Mind Set
 目前schedule:
@@ -1113,11 +1116,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzMzA5MjI0LDkwOTIxODI4NiwtNjYyNj
-M3NDkzLC05MzkxMjIwNzQsLTkzNDA2OTA5NCw5NjM2MzM3NDgs
-LTgyMzg3NDUwMywtMzcyMTUzNjE5LC0xMzk3NjE4MTQ3LDMxOT
-MzNjUyNSw1MzY0Njk4MDcsMTg1MTE4MjkzLDEzNjY0MTMzNDgs
-MTc0NzQwMDM4NCwxNzEwMTMxNTAzLDE3MTEyOTA3OSwyNDY0ND
-A5MzEsMjQ2NDQwOTMxLDg2ODc2NzA3MywtMTkyNzEwMDY1MF19
-
+eyJoaXN0b3J5IjpbLTE2NjMxMjM0Nyw5MDkyMTgyODYsLTY2Mj
+YzNzQ5MywtOTM5MTIyMDc0LC05MzQwNjkwOTQsOTYzNjMzNzQ4
+LC04MjM4NzQ1MDMsLTM3MjE1MzYxOSwtMTM5NzYxODE0NywzMT
+kzMzY1MjUsNTM2NDY5ODA3LDE4NTExODI5MywxMzY2NDEzMzQ4
+LDE3NDc0MDAzODQsMTcxMDEzMTUwMywxNzExMjkwNzksMjQ2ND
+QwOTMxLDI0NjQ0MDkzMSw4Njg3NjcwNzMsLTE5MjcxMDA2NTBd
+fQ==
 -->
