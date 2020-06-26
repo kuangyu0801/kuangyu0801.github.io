@@ -130,7 +130,8 @@ Stage-3: November Amazon in Dublin, and Singapore
 
 last update on 18 Jun. 2020:
 
-
+|no|position|company|requirement|attraction|
+|--|--|--|--|--|--|
 | No | Position | Company | Requirement | Attraction |
 |--|--|--|--|--|--|
 | No | Position | Company | Requirement | Attraction |
@@ -1149,11 +1150,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDY2NDcyMzYsMzEyODc4Mzg2LC00Nj
-c0NzIyNDQsMjA3NzE0OTQwNywtMzIxNDkxNzQ5LDYyMTA0NDk3
-NCwxMzk5NjE5MzU0LDQ2MjkyMzczOSwxMTgzNTY4MjIxLDIwNj
-MwNzU0NjMsMTI4MjI2Njk3Miw5MDkyMTgyODYsLTY2MjYzNzQ5
-MywtOTM5MTIyMDc0LC05MzQwNjkwOTQsOTYzNjMzNzQ4LC04Mj
-M4NzQ1MDMsLTM3MjE1MzYxOSwtMTM5NzYxODE0NywzMTkzMzY1
-MjVdfQ==
+eyJoaXN0b3J5IjpbMTk4ODE3MzE3MywzMTI4NzgzODYsLTQ2Nz
+Q3MjI0NCwyMDc3MTQ5NDA3LC0zMjE0OTE3NDksNjIxMDQ0OTc0
+LDEzOTk2MTkzNTQsNDYyOTIzNzM5LDExODM1NjgyMjEsMjA2Mz
+A3NTQ2MywxMjgyMjY2OTcyLDkwOTIxODI4NiwtNjYyNjM3NDkz
+LC05MzkxMjIwNzQsLTkzNDA2OTA5NCw5NjM2MzM3NDgsLTgyMz
+g3NDUwMywtMzcyMTUzNjE5LC0xMzk3NjE4MTQ3LDMxOTMzNjUy
+NV19
 -->
