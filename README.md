@@ -14,6 +14,7 @@
 - [Programming Book](#programming-book)
 - [Programming Course](#programming-course)
 	* [Data Structure and Algorithm](#data-structure-and-algorithm)
+		* ### BST
 	* [The Missing Semester of Your CS Education](#the-missing-semester-of-your-cs-education)
 - [刷題找工作](#刷題找工作)
   * [高頻一百連結](#高頻一百連結)
@@ -1139,7 +1140,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjYyMzU0MCwyMDc3MTQ5NDA3LC0zMj
+eyJoaXN0b3J5IjpbMTc4ODEyMjMxNiwyMDc3MTQ5NDA3LC0zMj
 E0OTE3NDksNjIxMDQ0OTc0LDEzOTk2MTkzNTQsNDYyOTIzNzM5
 LDExODM1NjgyMjEsMjA2MzA3NTQ2MywxMjgyMjY2OTcyLDkwOT
 IxODI4NiwtNjYyNjM3NDkzLC05MzkxMjIwNzQsLTkzNDA2OTA5
