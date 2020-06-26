@@ -3,6 +3,9 @@
 
 
 - [TODO](#todo)
+- [TO-LEARN](#to-learn)
+- []
+- []
 - [軟體工程師自學](#軟體工程師自學)
 - [Prepare for Interview](#prepare-for-interview)
 	* [Amazon Wants This](#amazon-wants-this)
@@ -67,7 +70,13 @@ Mac 鍵符號
 - [ ] [Using Python to Access Web Data (Coursera)](https://coursera.org/share/1188b2397ed5cbf6fd690c03ab87aa32)
 
 # TO CONSIDER
--[] AWS Fundamentals: Going Cloud-Native(Coursera)
+-[] [AWS Fundamentals: Going Cloud-Native from AWS Fundamentals Specialization(Coursera)](https://coursera.org/share/7965486607405adf9331f5b2bd7253c9)
+
+4.6
+
+stars
+
+9,214 ratings
 
 # Mind Set
 目前schedule:
@@ -1128,11 +1137,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTYxOTM1NCw0NjI5MjM3MzksMTE4Mz
-U2ODIyMSwyMDYzMDc1NDYzLDEyODIyNjY5NzIsOTA5MjE4Mjg2
-LC02NjI2Mzc0OTMsLTkzOTEyMjA3NCwtOTM0MDY5MDk0LDk2Mz
-YzMzc0OCwtODIzODc0NTAzLC0zNzIxNTM2MTksLTEzOTc2MTgx
-NDcsMzE5MzM2NTI1LDUzNjQ2OTgwNywxODUxMTgyOTMsMTM2Nj
-QxMzM0OCwxNzQ3NDAwMzg0LDE3MTAxMzE1MDMsMTcxMTI5MDc5
-XX0=
+eyJoaXN0b3J5IjpbMTM3NDk3MDczNSwxMzk5NjE5MzU0LDQ2Mj
+kyMzczOSwxMTgzNTY4MjIxLDIwNjMwNzU0NjMsMTI4MjI2Njk3
+Miw5MDkyMTgyODYsLTY2MjYzNzQ5MywtOTM5MTIyMDc0LC05Mz
+QwNjkwOTQsOTYzNjMzNzQ4LC04MjM4NzQ1MDMsLTM3MjE1MzYx
+OSwtMTM5NzYxODE0NywzMTkzMzY1MjUsNTM2NDY5ODA3LDE4NT
+ExODI5MywxMzY2NDEzMzQ4LDE3NDc0MDAzODQsMTcxMDEzMTUw
+M119
 -->
