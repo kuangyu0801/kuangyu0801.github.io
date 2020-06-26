@@ -61,7 +61,8 @@ Mac 鍵符號
 - [ ] Software Engineering: Uni Stuttgart
 - [ ] [Software Development Process (Udacity)](https://classroom.udacity.com/courses/ud805)
 
-# Joanna List [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
+# Joanna List 
+Janna LinkedIn: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
 - [ ] Introduction to Databases
 - [ ] Web Application
 - [ ] [Introduction to Databases from IBM (Coursera](https://coursera.org/share/ad494950743493c0a516ab51ce986cb6)
@@ -1137,11 +1138,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODkwMDg5MCwxMzk5NjE5MzU0LDQ2Mj
-kyMzczOSwxMTgzNTY4MjIxLDIwNjMwNzU0NjMsMTI4MjI2Njk3
-Miw5MDkyMTgyODYsLTY2MjYzNzQ5MywtOTM5MTIyMDc0LC05Mz
-QwNjkwOTQsOTYzNjMzNzQ4LC04MjM4NzQ1MDMsLTM3MjE1MzYx
-OSwtMTM5NzYxODE0NywzMTkzMzY1MjUsNTM2NDY5ODA3LDE4NT
-ExODI5MywxMzY2NDEzMzQ4LDE3NDc0MDAzODQsMTcxMDEzMTUw
-M119
+eyJoaXN0b3J5IjpbNjIxMDQ0OTc0LDEzOTk2MTkzNTQsNDYyOT
+IzNzM5LDExODM1NjgyMjEsMjA2MzA3NTQ2MywxMjgyMjY2OTcy
+LDkwOTIxODI4NiwtNjYyNjM3NDkzLC05MzkxMjIwNzQsLTkzND
+A2OTA5NCw5NjM2MzM3NDgsLTgyMzg3NDUwMywtMzcyMTUzNjE5
+LC0xMzk3NjE4MTQ3LDMxOTMzNjUyNSw1MzY0Njk4MDcsMTg1MT
+E4MjkzLDEzNjY0MTMzNDgsMTc0NzQwMDM4NCwxNzEwMTMxNTAz
+XX0=
 -->
