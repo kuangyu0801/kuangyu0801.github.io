@@ -16,16 +16,15 @@
 - [軟體工程師自學](#軟體工程師自學)
 - [Programming Book](#programming-book)
 - [Programming Course](#programming-course)
-		+ [Data Structure and Algorithm](#data-structure-and-algorithm)
-		+ [The Missing Semester of Your CS Education](#the-missing-semester-of-your-cs-education)
+	* [Data Structure and Algorithm](#data-structure-and-algorithm)
+	* [The Missing Semester of Your CS Education](#the-missing-semester-of-your-cs-education)
 - [刷題找工作](#刷題找工作)
   * [高頻一百連結](#高頻一百連結)
   * [紀錄](#紀錄)
   * [Problems](#problems)
   * [Frequent-Used Library](#frequent-used-library)
-    + [Array](#array)
+    + [Arrays](#arrays)
     + [Random](#random)
-
 - [Java](#java)
   * [Java知識總整理大補包](#java知識總整理大補包)
   * [IntelliJ](#intellij)
@@ -1144,7 +1143,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTEwMjczMSwtMzIxNDkxNzQ5LDYyMT
+eyJoaXN0b3J5IjpbMjEwNTUxNDA4OSwtMzIxNDkxNzQ5LDYyMT
 A0NDk3NCwxMzk5NjE5MzU0LDQ2MjkyMzczOSwxMTgzNTY4MjIx
 LDIwNjMwNzU0NjMsMTI4MjI2Njk3Miw5MDkyMTgyODYsLTY2Mj
 YzNzQ5MywtOTM5MTIyMDc0LC05MzQwNjkwOTQsOTYzNjMzNzQ4
