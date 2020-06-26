@@ -47,6 +47,8 @@ Mac 鍵符號
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
  - [ ] 
 
+
+
 # TO-LEARN
 - [ ]  LaTex on Mac + Git version control
 - [ ]  Cloud Computing:  Uni Stuttgart
@@ -64,6 +66,8 @@ Mac 鍵符號
 - [ ] [Using Databases with Python (Coursera)](https://coursera.org/share/e415f2e24068608093964fdd330f9bd0)
 - [ ] [Using Python to Access Web Data (Coursera)](https://coursera.org/share/1188b2397ed5cbf6fd690c03ab87aa32)
 
+# TO CONSIDER
+-[] AWS Fundamentals: Going Cloud-Native(Coursera)
 
 # Mind Set
 目前schedule:
@@ -1124,11 +1128,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyOTIzNzM5LDExODM1NjgyMjEsMjA2Mz
-A3NTQ2MywxMjgyMjY2OTcyLDkwOTIxODI4NiwtNjYyNjM3NDkz
-LC05MzkxMjIwNzQsLTkzNDA2OTA5NCw5NjM2MzM3NDgsLTgyMz
-g3NDUwMywtMzcyMTUzNjE5LC0xMzk3NjE4MTQ3LDMxOTMzNjUy
-NSw1MzY0Njk4MDcsMTg1MTE4MjkzLDEzNjY0MTMzNDgsMTc0Nz
-QwMDM4NCwxNzEwMTMxNTAzLDE3MTEyOTA3OSwyNDY0NDA5MzFd
-fQ==
+eyJoaXN0b3J5IjpbMTM5OTYxOTM1NCw0NjI5MjM3MzksMTE4Mz
+U2ODIyMSwyMDYzMDc1NDYzLDEyODIyNjY5NzIsOTA5MjE4Mjg2
+LC02NjI2Mzc0OTMsLTkzOTEyMjA3NCwtOTM0MDY5MDk0LDk2Mz
+YzMzc0OCwtODIzODc0NTAzLC0zNzIxNTM2MTksLTEzOTc2MTgx
+NDcsMzE5MzM2NTI1LDUzNjQ2OTgwNywxODUxMTgyOTMsMTM2Nj
+QxMzM0OCwxNzQ3NDAwMzg0LDE3MTAxMzE1MDMsMTcxMTI5MDc5
+XX0=
 -->
