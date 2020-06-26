@@ -137,11 +137,11 @@ last update on 18 Jun. 2020:
 | 2 | Cloud & DevOps Entwickler & Berater Werkstudent-/in / Praktikant-/in (M/W/D) | [Cloud Excels GmbH](https://www.stepstone.de/cmp/de/Cloud-Excels-GmbH-237534/jobs.html) | You study computer science, software engineering, business informatics or similar, You are fit in at least one modern object-oriented programming language | 有機會學到database, AWS, CD/CI,Scrum |
 |--|--|--|--|--|
 | 3 | Werkstudent (w/m/d) Softwareentwicklung Java|[adesso SE](https://www.linkedin.com/company/adesso-se/life/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3Bfv0aiYe3RcqiEYb5DZxI3Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-company_link)|Kenntnisse einiger Open Source Produkte und Frameworks (z.B. Tomcat, Hibernate, Spring), Erstes Entwicklungs-Know-How ist wünschenswert, Sehr gute Deutschkenntnisse | 大公司要求不多，但要好的德語|
-
+|--|--|--|--|--|
 | 4 | Working Student - Software Engineering Golang |[thismo messenger](https://www.linkedin.com/company/thismo-com/life/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3BnhOXH082TM6jH4d2UBqcDw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-company_link)| Strong coding skills of Golang and preferrably Python, Experience with modern datastores like MongoDB and Redis.| 感覺我很有機會, 不用英文 |
-
+|--|--|--|--|--|
 |5|[IT PRAKTIKUM/ WERKSTUDENT IM BEREICH GOOGLE CLOUD (M/W/D)](https://cloudwuerdig.com/karriere/praktikum-google-cloud/)|Cloudwürdig[https://cloudwuerdig.com/](https://cloudwuerdig.com/)|Verständnis über agile Software-Projekte, Grundlegendes Wissen im Bereich Datenbanken, Datenmodellierung und SQL von Vorteil|可學習google cloud, database, agile, jobsmess出現過|
-
+|--|--|--|--|--|
 |6|[JAVA DEVELOPER](https://omm-solutions.de/wp-content/uploads/2019/06/2017-10-25_OMM_Stellenausschreibung_Java-Developer-Working-Student-Internship_Gross_DRUCK.pdf)|[omm-solutions](https://omm-solutions.de/home/)|java, agile development|接觸data base, |
 |--|--|--|--|--|
 
@@ -1145,11 +1145,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NjgzMjksMzEyODc4Mzg2LC00Njc0Nz
-IyNDQsMjA3NzE0OTQwNywtMzIxNDkxNzQ5LDYyMTA0NDk3NCwx
-Mzk5NjE5MzU0LDQ2MjkyMzczOSwxMTgzNTY4MjIxLDIwNjMwNz
-U0NjMsMTI4MjI2Njk3Miw5MDkyMTgyODYsLTY2MjYzNzQ5Mywt
-OTM5MTIyMDc0LC05MzQwNjkwOTQsOTYzNjMzNzQ4LC04MjM4Nz
-Q1MDMsLTM3MjE1MzYxOSwtMTM5NzYxODE0NywzMTkzMzY1MjVd
-fQ==
+eyJoaXN0b3J5IjpbMzQ2NDc4NjY1LDMxMjg3ODM4NiwtNDY3ND
+cyMjQ0LDIwNzcxNDk0MDcsLTMyMTQ5MTc0OSw2MjEwNDQ5NzQs
+MTM5OTYxOTM1NCw0NjI5MjM3MzksMTE4MzU2ODIyMSwyMDYzMD
+c1NDYzLDEyODIyNjY5NzIsOTA5MjE4Mjg2LC02NjI2Mzc0OTMs
+LTkzOTEyMjA3NCwtOTM0MDY5MDk0LDk2MzYzMzc0OCwtODIzOD
+c0NTAzLC0zNzIxNTM2MTksLTEzOTc2MTgxNDcsMzE5MzM2NTI1
+XX0=
 -->
