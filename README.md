@@ -57,8 +57,9 @@ Mac 鍵符號
 
 ## Joanna List [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
 - [] [Introduction to Databases from IBM](https://coursera.org/share/ad494950743493c0a516ab51ce986cb6)
+- [] [Database Systems Concepts & Design]()
 - [] [Using Databases with Python (Coursera)](https://coursera.org/share/e415f2e24068608093964fdd330f9bd0)
-- [] [Using Python to Access Web Data (Coursera)]()
+- [] [Using Python to Access Web Data (Coursera)](https://coursera.org/share/1188b2397ed5cbf6fd690c03ab87aa32)
 - [] Web Application
 
 # Mind Set
@@ -1120,7 +1121,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTAxNTczMywxMTgzNTY4MjIxLDIwNj
+eyJoaXN0b3J5IjpbLTI2NDIwMTMzOSwxMTgzNTY4MjIxLDIwNj
 MwNzU0NjMsMTI4MjI2Njk3Miw5MDkyMTgyODYsLTY2MjYzNzQ5
 MywtOTM5MTIyMDc0LC05MzQwNjkwOTQsOTYzNjMzNzQ4LC04Mj
 M4NzQ1MDMsLTM3MjE1MzYxOSwtMTM5NzYxODE0NywzMTkzMzY1
