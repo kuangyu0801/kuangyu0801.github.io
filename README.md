@@ -57,7 +57,7 @@ Mac 鍵符號
 
 ## Joanna List [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
 - [] [Introduction to Databases from IBM](https://coursera.org/share/ad494950743493c0a516ab51ce986cb6)
-- [] [Database Systems Concepts & Design]()
+- [] [Database Systems Concepts & Design]([https://classroom.udacity.com/courses/ud150](https://classroom.udacity.com/courses/ud150))
 - [] [Using Databases with Python (Coursera)](https://coursera.org/share/e415f2e24068608093964fdd330f9bd0)
 - [] [Using Python to Access Web Data (Coursera)](https://coursera.org/share/1188b2397ed5cbf6fd690c03ab87aa32)
 - [] Web Application
@@ -1121,11 +1121,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDIwMTMzOSwxMTgzNTY4MjIxLDIwNj
-MwNzU0NjMsMTI4MjI2Njk3Miw5MDkyMTgyODYsLTY2MjYzNzQ5
-MywtOTM5MTIyMDc0LC05MzQwNjkwOTQsOTYzNjMzNzQ4LC04Mj
-M4NzQ1MDMsLTM3MjE1MzYxOSwtMTM5NzYxODE0NywzMTkzMzY1
-MjUsNTM2NDY5ODA3LDE4NTExODI5MywxMzY2NDEzMzQ4LDE3ND
-c0MDAzODQsMTcxMDEzMTUwMywxNzExMjkwNzksMjQ2NDQwOTMx
-XX0=
+eyJoaXN0b3J5IjpbLTE4NjU4MzgyOTIsMTE4MzU2ODIyMSwyMD
+YzMDc1NDYzLDEyODIyNjY5NzIsOTA5MjE4Mjg2LC02NjI2Mzc0
+OTMsLTkzOTEyMjA3NCwtOTM0MDY5MDk0LDk2MzYzMzc0OCwtOD
+IzODc0NTAzLC0zNzIxNTM2MTksLTEzOTc2MTgxNDcsMzE5MzM2
+NTI1LDUzNjQ2OTgwNywxODUxMTgyOTMsMTM2NjQxMzM0OCwxNz
+Q3NDAwMzg0LDE3MTAxMzE1MDMsMTcxMTI5MDc5LDI0NjQ0MDkz
+MV19
 -->
