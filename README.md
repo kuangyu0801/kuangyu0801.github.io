@@ -45,12 +45,15 @@ Mac 鍵符號
  - [ ]  692題[https://www.youtube.com/watch?v=POERw4yDVBw](https://www.youtube.com/watch?v=POERw4yDVBw)
  - [x] comparable interface review
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
+ - [ ] 
 
 # TO-LEARN
 - []  LaTex on Mac + Git version control
 - []  Cloud Computing:  Uni Stuttgart
 - []  Database
 - []  Computer Vision: Uni Stuttgart
+- []  計網概
+- [] Software Engineering: Uni Stuttgart
 Joanna List: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
 - [] Introduction to Databases
 - [] Using Databases with Python (Coursera)
@@ -1116,11 +1119,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjI2Njk3Miw5MDkyMTgyODYsLTY2Mj
-YzNzQ5MywtOTM5MTIyMDc0LC05MzQwNjkwOTQsOTYzNjMzNzQ4
-LC04MjM4NzQ1MDMsLTM3MjE1MzYxOSwtMTM5NzYxODE0NywzMT
-kzMzY1MjUsNTM2NDY5ODA3LDE4NTExODI5MywxMzY2NDEzMzQ4
-LDE3NDc0MDAzODQsMTcxMDEzMTUwMywxNzExMjkwNzksMjQ2ND
-QwOTMxLDI0NjQ0MDkzMSw4Njg3NjcwNzMsLTE5MjcxMDA2NTBd
-fQ==
+eyJoaXN0b3J5IjpbMjA2MzA3NTQ2MywxMjgyMjY2OTcyLDkwOT
+IxODI4NiwtNjYyNjM3NDkzLC05MzkxMjIwNzQsLTkzNDA2OTA5
+NCw5NjM2MzM3NDgsLTgyMzg3NDUwMywtMzcyMTUzNjE5LC0xMz
+k3NjE4MTQ3LDMxOTMzNjUyNSw1MzY0Njk4MDcsMTg1MTE4Mjkz
+LDEzNjY0MTMzNDgsMTc0NzQwMDM4NCwxNzEwMTMxNTAzLDE3MT
+EyOTA3OSwyNDY0NDA5MzEsMjQ2NDQwOTMxLDg2ODc2NzA3M119
+
 -->
