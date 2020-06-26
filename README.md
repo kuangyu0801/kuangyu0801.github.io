@@ -2,16 +2,16 @@
 
 
 
+- [Mind Set](#mind-set)
+- [Key Word](#key-word)
 - [TODO](#todo)
 - [TO-LEARN](#to-learn)
 - [Joanna List](#joanna-list) 
-- [Mind Set](#mind-set)
-- [Key Word](#key-word)
 - [TO-CONSIDER](#to-consider)
-- [軟體工程師自學](#軟體工程師自學)
 - [Prepare for Interview](#prepare-for-interview)
 	* [Amazon Wants This](#amazon-wants-this)
 	* [FACEBOOK Wants This](#facebook-wants-this)
+- [軟體工程師自學](#軟體工程師自學)
 - [刷題找工作](#刷題找工作)
   * [高頻一百連結](#高頻一百連結)
   * [紀錄](#紀錄)
@@ -1140,11 +1140,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk1NDQ3NDQsNjIxMDQ0OTc0LDEzOT
-k2MTkzNTQsNDYyOTIzNzM5LDExODM1NjgyMjEsMjA2MzA3NTQ2
-MywxMjgyMjY2OTcyLDkwOTIxODI4NiwtNjYyNjM3NDkzLC05Mz
-kxMjIwNzQsLTkzNDA2OTA5NCw5NjM2MzM3NDgsLTgyMzg3NDUw
-MywtMzcyMTUzNjE5LC0xMzk3NjE4MTQ3LDMxOTMzNjUyNSw1Mz
-Y0Njk4MDcsMTg1MTE4MjkzLDEzNjY0MTMzNDgsMTc0NzQwMDM4
-NF19
+eyJoaXN0b3J5IjpbMTg2NzQzMTc1Miw2MjEwNDQ5NzQsMTM5OT
+YxOTM1NCw0NjI5MjM3MzksMTE4MzU2ODIyMSwyMDYzMDc1NDYz
+LDEyODIyNjY5NzIsOTA5MjE4Mjg2LC02NjI2Mzc0OTMsLTkzOT
+EyMjA3NCwtOTM0MDY5MDk0LDk2MzYzMzc0OCwtODIzODc0NTAz
+LC0zNzIxNTM2MTksLTEzOTc2MTgxNDcsMzE5MzM2NTI1LDUzNj
+Q2OTgwNywxODUxMTgyOTMsMTM2NjQxMzM0OCwxNzQ3NDAwMzg0
+XX0=
 -->
