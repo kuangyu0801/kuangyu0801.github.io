@@ -14,7 +14,7 @@
 - [Programming Book](#programming-book)
 - [Programming Course](#programming-course)
 	* [Data Structure and Algorithm](#data-structure-and-algorithm)
-		+ [BST](###bst), [Sorting](##sorting)
+		+ [BST](#bst), [Sorting](#sorting), [Total Order](#total-order), [Shuffling](#shuffling), 
 	* [The Missing Semester of Your CS Education](#the-missing-semester-of-your-cs-education)
 - [刷題找工作](#刷題找工作)
   * [高頻一百連結](#高頻一百連結)
@@ -1140,11 +1140,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA4NzQ1ODIsMjA3NzE0OTQwNywtMz
-IxNDkxNzQ5LDYyMTA0NDk3NCwxMzk5NjE5MzU0LDQ2MjkyMzcz
-OSwxMTgzNTY4MjIxLDIwNjMwNzU0NjMsMTI4MjI2Njk3Miw5MD
-kyMTgyODYsLTY2MjYzNzQ5MywtOTM5MTIyMDc0LC05MzQwNjkw
-OTQsOTYzNjMzNzQ4LC04MjM4NzQ1MDMsLTM3MjE1MzYxOSwtMT
-M5NzYxODE0NywzMTkzMzY1MjUsNTM2NDY5ODA3LDE4NTExODI5
-M119
+eyJoaXN0b3J5IjpbLTQ2NzQ3MjI0NCwyMDc3MTQ5NDA3LC0zMj
+E0OTE3NDksNjIxMDQ0OTc0LDEzOTk2MTkzNTQsNDYyOTIzNzM5
+LDExODM1NjgyMjEsMjA2MzA3NTQ2MywxMjgyMjY2OTcyLDkwOT
+IxODI4NiwtNjYyNjM3NDkzLC05MzkxMjIwNzQsLTkzNDA2OTA5
+NCw5NjM2MzM3NDgsLTgyMzg3NDUwMywtMzcyMTUzNjE5LC0xMz
+k3NjE4MTQ3LDMxOTMzNjUyNSw1MzY0Njk4MDcsMTg1MTE4Mjkz
+XX0=
 -->
