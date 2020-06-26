@@ -8,6 +8,8 @@
 - [TO-LEARN](#to-learn)
 - [Joanna List](#joanna-list) 
 - [TO-CONSIDER](#to-consider)
+- [Cover Letter](#cover-letter)
+- [履歷](#履歷)
 - [Prepare for Interview](#prepare-for-interview)
 	* [Amazon Wants This](#amazon-wants-this)
 	* [FACEBOOK Wants This](#facebook-wants-this)
@@ -1140,7 +1142,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzQzMTc1Miw2MjEwNDQ5NzQsMTM5OT
+eyJoaXN0b3J5IjpbLTMyMTQ5MTc0OSw2MjEwNDQ5NzQsMTM5OT
 YxOTM1NCw0NjI5MjM3MzksMTE4MzU2ODIyMSwyMDYzMDc1NDYz
 LDEyODIyNjY5NzIsOTA5MjE4Mjg2LC02NjI2Mzc0OTMsLTkzOT
 EyMjA3NCwtOTM0MDY5MDk0LDk2MzYzMzc0OCwtODIzODc0NTAz
