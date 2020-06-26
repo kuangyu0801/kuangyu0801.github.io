@@ -54,7 +54,8 @@ Mac 鍵符號
 - []  Computer Vision: Uni Stuttgart
 - []  計網概
 - [] Software Engineering: Uni Stuttgart
-Joanna List: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
+
+## Joanna List [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
 - [] Introduction to Databases
 - [] Using Databases with Python (Coursera)
 - [] Using Python to Access Web Data (Coursera)
@@ -1119,11 +1120,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzA3NTQ2MywxMjgyMjY2OTcyLDkwOT
-IxODI4NiwtNjYyNjM3NDkzLC05MzkxMjIwNzQsLTkzNDA2OTA5
-NCw5NjM2MzM3NDgsLTgyMzg3NDUwMywtMzcyMTUzNjE5LC0xMz
-k3NjE4MTQ3LDMxOTMzNjUyNSw1MzY0Njk4MDcsMTg1MTE4Mjkz
-LDEzNjY0MTMzNDgsMTc0NzQwMDM4NCwxNzEwMTMxNTAzLDE3MT
-EyOTA3OSwyNDY0NDA5MzEsMjQ2NDQwOTMxLDg2ODc2NzA3M119
-
+eyJoaXN0b3J5IjpbMTE4MzU2ODIyMSwyMDYzMDc1NDYzLDEyOD
+IyNjY5NzIsOTA5MjE4Mjg2LC02NjI2Mzc0OTMsLTkzOTEyMjA3
+NCwtOTM0MDY5MDk0LDk2MzYzMzc0OCwtODIzODc0NTAzLC0zNz
+IxNTM2MTksLTEzOTc2MTgxNDcsMzE5MzM2NTI1LDUzNjQ2OTgw
+NywxODUxMTgyOTMsMTM2NjQxMzM0OCwxNzQ3NDAwMzg0LDE3MT
+AxMzE1MDMsMTcxMTI5MDc5LDI0NjQ0MDkzMSwyNDY0NDA5MzFd
+fQ==
 -->
