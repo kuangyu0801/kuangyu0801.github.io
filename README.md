@@ -146,9 +146,9 @@ last update on 18 Jun. 2020:
 
 # Cover Letter
 glassdoor教學如何撰寫Cover Letter[https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/](https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/)
-我的背景：
+## 我的背景：
 - IT student, 希望投入cloud computing軟體開發
-我的優勢：
+## 我的優勢：
 - 一流的軟體能力
 - 在全世界第二大晶片公司三年半的工作經驗
 - 開發世界最快的5g modem software
@@ -1140,11 +1140,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDMyMTUwNSwtNDY3NDcyMjQ0LDIwNz
-cxNDk0MDcsLTMyMTQ5MTc0OSw2MjEwNDQ5NzQsMTM5OTYxOTM1
-NCw0NjI5MjM3MzksMTE4MzU2ODIyMSwyMDYzMDc1NDYzLDEyOD
-IyNjY5NzIsOTA5MjE4Mjg2LC02NjI2Mzc0OTMsLTkzOTEyMjA3
-NCwtOTM0MDY5MDk0LDk2MzYzMzc0OCwtODIzODc0NTAzLC0zNz
-IxNTM2MTksLTEzOTc2MTgxNDcsMzE5MzM2NTI1LDUzNjQ2OTgw
-N119
+eyJoaXN0b3J5IjpbLTE2OTE5Nzc1OTksLTQ2NzQ3MjI0NCwyMD
+c3MTQ5NDA3LC0zMjE0OTE3NDksNjIxMDQ0OTc0LDEzOTk2MTkz
+NTQsNDYyOTIzNzM5LDExODM1NjgyMjEsMjA2MzA3NTQ2MywxMj
+gyMjY2OTcyLDkwOTIxODI4NiwtNjYyNjM3NDkzLC05MzkxMjIw
+NzQsLTkzNDA2OTA5NCw5NjM2MzM3NDgsLTgyMzg3NDUwMywtMz
+cyMTUzNjE5LC0xMzk3NjE4MTQ3LDMxOTMzNjUyNSw1MzY0Njk4
+MDddfQ==
 -->
