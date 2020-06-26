@@ -48,9 +48,11 @@ Mac 鍵符號
 
 # TO-LEARN
 - []  LaTex on Mac + Git version control
-- []  Cloud Computing
+- []  Cloud Computing:  Uni Stuttgart
 - []  Database
-- []  Computer Vision
+- []  Computer Vision: Uni Stuttgart
+Joanna List:
+- []
 
 # Mind Set
 目前schedule:
@@ -1111,11 +1113,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5MjE4Mjg2LC02NjI2Mzc0OTMsLTkzOT
-EyMjA3NCwtOTM0MDY5MDk0LDk2MzYzMzc0OCwtODIzODc0NTAz
-LC0zNzIxNTM2MTksLTEzOTc2MTgxNDcsMzE5MzM2NTI1LDUzNj
-Q2OTgwNywxODUxMTgyOTMsMTM2NjQxMzM0OCwxNzQ3NDAwMzg0
-LDE3MTAxMzE1MDMsMTcxMTI5MDc5LDI0NjQ0MDkzMSwyNDY0ND
-A5MzEsODY4NzY3MDczLC0xOTI3MTAwNjUwLC04Nzg1MTY3MDBd
-fQ==
+eyJoaXN0b3J5IjpbNjQzMzA5MjI0LDkwOTIxODI4NiwtNjYyNj
+M3NDkzLC05MzkxMjIwNzQsLTkzNDA2OTA5NCw5NjM2MzM3NDgs
+LTgyMzg3NDUwMywtMzcyMTUzNjE5LC0xMzk3NjE4MTQ3LDMxOT
+MzNjUyNSw1MzY0Njk4MDcsMTg1MTE4MjkzLDEzNjY0MTMzNDgs
+MTc0NzQwMDM4NCwxNzEwMTMxNTAzLDE3MTEyOTA3OSwyNDY0ND
+A5MzEsMjQ2NDQwOTMxLDg2ODc2NzA3MywtMTkyNzEwMDY1MF19
+
 -->
