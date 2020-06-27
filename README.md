@@ -89,7 +89,7 @@ stars
 
 |Summer Freizeit 2020| WS20/21 | Winter Freizeit 2021 | SS21 | WS21/22|Feb 2022|
 |---|---|---|---|---|---|
-|暑期實習/學生工|WS20完成刷題三百+面試實習|SS21休學六個月實習|準備亞馬面試|完成碩論|全職|
+|暑期實習/學生工|WS20完成刷題三百+面試實習|SS21休學六個月實習|準備亞馬面試|完成碩論(找到老師是有跟公司合作的)|全職|
 
 
 ```mermaid
@@ -1164,11 +1164,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzQzOTE4NywxMTA4Mzg1NzIyLDQ3Nz
-U1Nzc0NiwyMDU4MTkyMTY1LC0xNDUxMjU2ODI1LC05MTk0MTAy
-MDUsMzEyODc4Mzg2LC00Njc0NzIyNDQsMjA3NzE0OTQwNywtMz
-IxNDkxNzQ5LDYyMTA0NDk3NCwxMzk5NjE5MzU0LDQ2MjkyMzcz
-OSwxMTgzNTY4MjIxLDIwNjMwNzU0NjMsMTI4MjI2Njk3Miw5MD
-kyMTgyODYsLTY2MjYzNzQ5MywtOTM5MTIyMDc0LC05MzQwNjkw
-OTRdfQ==
+eyJoaXN0b3J5IjpbMTkwNTkwODYyMSwxODQ3NDM5MTg3LDExMD
+gzODU3MjIsNDc3NTU3NzQ2LDIwNTgxOTIxNjUsLTE0NTEyNTY4
+MjUsLTkxOTQxMDIwNSwzMTI4NzgzODYsLTQ2NzQ3MjI0NCwyMD
+c3MTQ5NDA3LC0zMjE0OTE3NDksNjIxMDQ0OTc0LDEzOTk2MTkz
+NTQsNDYyOTIzNzM5LDExODM1NjgyMjEsMjA2MzA3NTQ2MywxMj
+gyMjY2OTcyLDkwOTIxODI4NiwtNjYyNjM3NDkzLC05MzkxMjIw
+NzRdfQ==
 -->
