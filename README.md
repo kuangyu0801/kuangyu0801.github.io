@@ -152,6 +152,7 @@ last update on 18 Jun. 2020:
 
 # Cover Letter
 glassdoor教學如何撰寫Cover Letter: [https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/](https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/)
+哈佛教學如何撰寫cover letter[https://hls.harvard.edu/content/uploads/2008/06/allcoverlettersweb2011.pdf](https://hls.harvard.edu/content/uploads/2008/06/allcoverlettersweb2011.pdf)
 ## 我的背景：
 - IT student, 希望投入cloud computing軟體開發
 ## 我的優勢：
@@ -1146,11 +1147,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTEyNTY4MjUsLTkxOTQxMDIwNSwzMT
-I4NzgzODYsLTQ2NzQ3MjI0NCwyMDc3MTQ5NDA3LC0zMjE0OTE3
-NDksNjIxMDQ0OTc0LDEzOTk2MTkzNTQsNDYyOTIzNzM5LDExOD
-M1NjgyMjEsMjA2MzA3NTQ2MywxMjgyMjY2OTcyLDkwOTIxODI4
-NiwtNjYyNjM3NDkzLC05MzkxMjIwNzQsLTkzNDA2OTA5NCw5Nj
-M2MzM3NDgsLTgyMzg3NDUwMywtMzcyMTUzNjE5LC0xMzk3NjE4
-MTQ3XX0=
+eyJoaXN0b3J5IjpbMjA1ODE5MjE2NSwtMTQ1MTI1NjgyNSwtOT
+E5NDEwMjA1LDMxMjg3ODM4NiwtNDY3NDcyMjQ0LDIwNzcxNDk0
+MDcsLTMyMTQ5MTc0OSw2MjEwNDQ5NzQsMTM5OTYxOTM1NCw0Nj
+I5MjM3MzksMTE4MzU2ODIyMSwyMDYzMDc1NDYzLDEyODIyNjY5
+NzIsOTA5MjE4Mjg2LC02NjI2Mzc0OTMsLTkzOTEyMjA3NCwtOT
+M0MDY5MDk0LDk2MzYzMzc0OCwtODIzODc0NTAzLC0zNzIxNTM2
+MTldfQ==
 -->
