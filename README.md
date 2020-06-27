@@ -18,6 +18,7 @@
 	* [The Missing Semester of Your CS Education](#the-missing-semester-of-your-cs-education)
 - [刷題找工作](#刷題找工作)
   * [高頻一百連結](#高頻一百連結)
+  * [我的刷題](#
   * [紀錄](#紀錄)
   * [Problems](#problems)
   * [Frequent-Used Library](#frequent-used-library)
@@ -582,7 +583,7 @@ numpy.linalg.solve
 # 刷題找工作
 
 ## [高頻一百連結](https://leetcode.com/problemset/top-interview-questions/)
-[我的刷題](https://github.com/kuangyu0801/LeetcodeDailyCheckIn/tree/master/Leetcode)
+## [我的刷題](https://github.com/kuangyu0801/LeetcodeDailyCheckIn/tree/master/Leetcode)
 
 ### 解答網站
 
@@ -1145,11 +1146,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTQxMDIwNSwzMTI4NzgzODYsLTQ2Nz
-Q3MjI0NCwyMDc3MTQ5NDA3LC0zMjE0OTE3NDksNjIxMDQ0OTc0
-LDEzOTk2MTkzNTQsNDYyOTIzNzM5LDExODM1NjgyMjEsMjA2Mz
-A3NTQ2MywxMjgyMjY2OTcyLDkwOTIxODI4NiwtNjYyNjM3NDkz
-LC05MzkxMjIwNzQsLTkzNDA2OTA5NCw5NjM2MzM3NDgsLTgyMz
-g3NDUwMywtMzcyMTUzNjE5LC0xMzk3NjE4MTQ3LDMxOTMzNjUy
-NV19
+eyJoaXN0b3J5IjpbMTk4MDk1NjAxMiwtOTE5NDEwMjA1LDMxMj
+g3ODM4NiwtNDY3NDcyMjQ0LDIwNzcxNDk0MDcsLTMyMTQ5MTc0
+OSw2MjEwNDQ5NzQsMTM5OTYxOTM1NCw0NjI5MjM3MzksMTE4Mz
+U2ODIyMSwyMDYzMDc1NDYzLDEyODIyNjY5NzIsOTA5MjE4Mjg2
+LC02NjI2Mzc0OTMsLTkzOTEyMjA3NCwtOTM0MDY5MDk0LDk2Mz
+YzMzc0OCwtODIzODc0NTAzLC0zNzIxNTM2MTksLTEzOTc2MTgx
+NDddfQ==
 -->
