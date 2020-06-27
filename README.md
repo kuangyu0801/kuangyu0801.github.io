@@ -525,6 +525,20 @@ dev 是基於 master-v1拉出來，並且新增兩個feacture in v2, v3. 同時m
  v11 (+ bugfix) | v4 (+ feat_a + feat_b + bugfix)| dev "rebase onto master-v11"(這時dev已經涵蓋master所有改動）
  v12 (+ feat_a + feat_b + bugfix) | v5 (same as master v12)| merge dev into master, master包含所有feature
  
+
+## NoSQL  
+[What is NoSQL?](https://www.youtube.com/watch?v=BgQFJ_UNIgw)  
+NoSQL: semi-structured database: can store first then categrorize later  
+SQL is a structured database: data need to fit into the predifined structure in order to be stored  
+  
+# How to create your own git feature branch?  
+- 建立local branch go to menu bar click "VCS" -> "Git" -> "Branches" -> "create branch"  
+- 建立remote branch: push 之後就會自動建立 remote branch  
+- 如何merge changes?  "VCS" -> "Git" -> "Merge Changes" 詳情參考  
+[JetBrain文章](https://www.jetbrains.com/help/idea/apply-changes-from-one-branch-to-another.html)  
+[Youtube教學How and when do I merge or rebase?](https://youtu.be/Nftif2ynvdA)
+
+
 # GitHub
 - [Coursera: Introduction to Git and GitHub by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
 - [Git Official Documentation](https://git-scm.com/book/en/v2): 講得很完整！
@@ -1150,11 +1164,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODM4NTcyMiw0Nzc1NTc3NDYsMjA1OD
-E5MjE2NSwtMTQ1MTI1NjgyNSwtOTE5NDEwMjA1LDMxMjg3ODM4
-NiwtNDY3NDcyMjQ0LDIwNzcxNDk0MDcsLTMyMTQ5MTc0OSw2Mj
-EwNDQ5NzQsMTM5OTYxOTM1NCw0NjI5MjM3MzksMTE4MzU2ODIy
-MSwyMDYzMDc1NDYzLDEyODIyNjY5NzIsOTA5MjE4Mjg2LC02Nj
-I2Mzc0OTMsLTkzOTEyMjA3NCwtOTM0MDY5MDk0LDk2MzYzMzc0
-OF19
+eyJoaXN0b3J5IjpbMTg0NzQzOTE4NywxMTA4Mzg1NzIyLDQ3Nz
+U1Nzc0NiwyMDU4MTkyMTY1LC0xNDUxMjU2ODI1LC05MTk0MTAy
+MDUsMzEyODc4Mzg2LC00Njc0NzIyNDQsMjA3NzE0OTQwNywtMz
+IxNDkxNzQ5LDYyMTA0NDk3NCwxMzk5NjE5MzU0LDQ2MjkyMzcz
+OSwxMTgzNTY4MjIxLDIwNjMwNzU0NjMsMTI4MjI2Njk3Miw5MD
+kyMTgyODYsLTY2MjYzNzQ5MywtOTM5MTIyMDc0LC05MzQwNjkw
+OTRdfQ==
 -->
