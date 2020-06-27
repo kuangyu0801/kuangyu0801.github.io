@@ -63,6 +63,7 @@ Mac 鍵符號
 - [ ]  計網概
 - [ ] Software Engineering: Uni Stuttgart
 - [ ] [Software Development Process (Udacity)](https://classroom.udacity.com/courses/ud805)
+- [ ] Agile Software Development (Coursera)[https://www.coursera.org/learn/agile-software-development/home/welcome](https://www.coursera.org/learn/agile-software-development/home/welcome)
 
 # Joanna List 
 Janna LinkedIn: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
@@ -1147,11 +1148,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODE5MjE2NSwtMTQ1MTI1NjgyNSwtOT
-E5NDEwMjA1LDMxMjg3ODM4NiwtNDY3NDcyMjQ0LDIwNzcxNDk0
-MDcsLTMyMTQ5MTc0OSw2MjEwNDQ5NzQsMTM5OTYxOTM1NCw0Nj
-I5MjM3MzksMTE4MzU2ODIyMSwyMDYzMDc1NDYzLDEyODIyNjY5
-NzIsOTA5MjE4Mjg2LC02NjI2Mzc0OTMsLTkzOTEyMjA3NCwtOT
-M0MDY5MDk0LDk2MzYzMzc0OCwtODIzODc0NTAzLC0zNzIxNTM2
-MTldfQ==
+eyJoaXN0b3J5IjpbNDc3NTU3NzQ2LDIwNTgxOTIxNjUsLTE0NT
+EyNTY4MjUsLTkxOTQxMDIwNSwzMTI4NzgzODYsLTQ2NzQ3MjI0
+NCwyMDc3MTQ5NDA3LC0zMjE0OTE3NDksNjIxMDQ0OTc0LDEzOT
+k2MTkzNTQsNDYyOTIzNzM5LDExODM1NjgyMjEsMjA2MzA3NTQ2
+MywxMjgyMjY2OTcyLDkwOTIxODI4NiwtNjYyNjM3NDkzLC05Mz
+kxMjIwNzQsLTkzNDA2OTA5NCw5NjM2MzM3NDgsLTgyMzg3NDUw
+M119
 -->
