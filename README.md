@@ -41,7 +41,8 @@ Mac 鍵符號
 - Caps Lock 鍵 ⇪
 
 # TODO
- - [ ] cover letter and cv
+ - [ ] cover letter 
+ - [ ] 履歷更新(排版, 字體, 加 summary)
  - [ ] Java IO 看黑馬
  - [ ] Java concurrency 看黑馬
  - [ ] Java Casting.... more detail on overloading and overriding
@@ -149,8 +150,9 @@ last update on 18 Jun. 2020:
 
 
 # 履歷 
-[https://www.overleaf.com/project](https://www.overleaf.com/project)
-
+我的履歷[https://www.overleaf.com/project](https://www.overleaf.com/project)
+軟體工程履歷範本
+[https://www.visualcv.com/resume-samples/software-engineer/](https://www.visualcv.com/resume-samples/software-engineer/)
 # Cover Letter
 glassdoor教學如何撰寫Cover Letter: [https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/](https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/)
 哈佛教學如何撰寫cover letter[https://hls.harvard.edu/content/uploads/2008/06/allcoverlettersweb2011.pdf](https://hls.harvard.edu/content/uploads/2008/06/allcoverlettersweb2011.pdf)
@@ -1148,11 +1150,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3NTU3NzQ2LDIwNTgxOTIxNjUsLTE0NT
-EyNTY4MjUsLTkxOTQxMDIwNSwzMTI4NzgzODYsLTQ2NzQ3MjI0
-NCwyMDc3MTQ5NDA3LC0zMjE0OTE3NDksNjIxMDQ0OTc0LDEzOT
-k2MTkzNTQsNDYyOTIzNzM5LDExODM1NjgyMjEsMjA2MzA3NTQ2
-MywxMjgyMjY2OTcyLDkwOTIxODI4NiwtNjYyNjM3NDkzLC05Mz
-kxMjIwNzQsLTkzNDA2OTA5NCw5NjM2MzM3NDgsLTgyMzg3NDUw
-M119
+eyJoaXN0b3J5IjpbMTEwODM4NTcyMiw0Nzc1NTc3NDYsMjA1OD
+E5MjE2NSwtMTQ1MTI1NjgyNSwtOTE5NDEwMjA1LDMxMjg3ODM4
+NiwtNDY3NDcyMjQ0LDIwNzcxNDk0MDcsLTMyMTQ5MTc0OSw2Mj
+EwNDQ5NzQsMTM5OTYxOTM1NCw0NjI5MjM3MzksMTE4MzU2ODIy
+MSwyMDYzMDc1NDYzLDEyODIyNjY5NzIsOTA5MjE4Mjg2LC02Nj
+I2Mzc0OTMsLTkzOTEyMjA3NCwtOTM0MDY5MDk0LDk2MzYzMzc0
+OF19
 -->
