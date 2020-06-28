@@ -224,6 +224,7 @@ Minimum Qualifications
 
 # [Programming Book](https://drive.google.com/drive/folders/1_afYce_KHKfEtYlaGUonWOQSmTcjy3f1?usp=sharing)
 
+- [《Python深度學習》]
 - [《疯狂Java讲义第4版》](https://drive.google.com/file/d/1Q0qyitxsjvgoZaayHz4TO8oHuLHMaE9g/view?usp=sharing)
 - [《疯狂Android讲义第3版》](https://drive.google.com/file/d/1Ky2T2K3zByyDQLnCvKzO76sD42LpTcoi/view?usp=sharing)
 - [《程序员的自我修养—链接、装载与库》](https://drive.google.com/file/d/1ydLFZ7QUl_iEOIOsdfkq-MiQM6Yfnss4/view?usp=sharing)：經典程式書
@@ -1165,11 +1166,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzEwMTkxNiwxOTA1OTA4NjIxLDE4ND
-c0MzkxODcsMTEwODM4NTcyMiw0Nzc1NTc3NDYsMjA1ODE5MjE2
-NSwtMTQ1MTI1NjgyNSwtOTE5NDEwMjA1LDMxMjg3ODM4NiwtND
-Y3NDcyMjQ0LDIwNzcxNDk0MDcsLTMyMTQ5MTc0OSw2MjEwNDQ5
-NzQsMTM5OTYxOTM1NCw0NjI5MjM3MzksMTE4MzU2ODIyMSwyMD
-YzMDc1NDYzLDEyODIyNjY5NzIsOTA5MjE4Mjg2LC02NjI2Mzc0
-OTNdfQ==
+eyJoaXN0b3J5IjpbLTQ1NTU5Mzg3NywxNzQ3MTAxOTE2LDE5MD
+U5MDg2MjEsMTg0NzQzOTE4NywxMTA4Mzg1NzIyLDQ3NzU1Nzc0
+NiwyMDU4MTkyMTY1LC0xNDUxMjU2ODI1LC05MTk0MTAyMDUsMz
+EyODc4Mzg2LC00Njc0NzIyNDQsMjA3NzE0OTQwNywtMzIxNDkx
+NzQ5LDYyMTA0NDk3NCwxMzk5NjE5MzU0LDQ2MjkyMzczOSwxMT
+gzNTY4MjIxLDIwNjMwNzU0NjMsMTI4MjI2Njk3Miw5MDkyMTgy
+ODZdfQ==
 -->
