@@ -246,6 +246,8 @@ Minimum Qualifications
 - [《黑馬Java》](https://drive.google.com/drive/folders/1k8OlKUAjlgz8Je7V-EjjaQCYOmjYmALy?usp=sharing): Java語法講得非常詳細！遇到語法的問題先回來複習整個觀念，不要去stack overflow找
 - [《黑馬Git》](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
 - [《黑馬Android》]
+- [《黑馬Python+人工智能 基础班（懂中文就能学）》](https://www.bilibili.com/video/BV1Dt4y1C7Y1/?p=57)
+- [《019python3.7从入门到入门（零基础）》](https://www.bilibili.com/video/BV1M741177ph/)
 
 
 ## Data Structure and Algorithm
@@ -1167,11 +1169,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTYyMzE1OSwtNDU1NTkzODc3LDE3ND
-cxMDE5MTYsMTkwNTkwODYyMSwxODQ3NDM5MTg3LDExMDgzODU3
-MjIsNDc3NTU3NzQ2LDIwNTgxOTIxNjUsLTE0NTEyNTY4MjUsLT
-kxOTQxMDIwNSwzMTI4NzgzODYsLTQ2NzQ3MjI0NCwyMDc3MTQ5
-NDA3LC0zMjE0OTE3NDksNjIxMDQ0OTc0LDEzOTk2MTkzNTQsND
-YyOTIzNzM5LDExODM1NjgyMjEsMjA2MzA3NTQ2MywxMjgyMjY2
-OTcyXX0=
+eyJoaXN0b3J5IjpbLTE5NDEyMDA3NDQsMTQ0NTYyMzE1OSwtND
+U1NTkzODc3LDE3NDcxMDE5MTYsMTkwNTkwODYyMSwxODQ3NDM5
+MTg3LDExMDgzODU3MjIsNDc3NTU3NzQ2LDIwNTgxOTIxNjUsLT
+E0NTEyNTY4MjUsLTkxOTQxMDIwNSwzMTI4NzgzODYsLTQ2NzQ3
+MjI0NCwyMDc3MTQ5NDA3LC0zMjE0OTE3NDksNjIxMDQ0OTc0LD
+EzOTk2MTkzNTQsNDYyOTIzNzM5LDExODM1NjgyMjEsMjA2MzA3
+NTQ2M119
 -->
