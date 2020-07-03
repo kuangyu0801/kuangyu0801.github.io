@@ -247,6 +247,7 @@ Minimum Qualifications
 - [《黑馬Git》](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
 - [《黑馬Android》]
 - [《黑馬Python+人工智能 基础班（懂中文就能学）》](https://www.bilibili.com/video/BV1Dt4y1C7Y1/?p=57)
+本视频共有六部分： 00ubuntu安装教程+01linux基础视频+02python基础+03面向对象+04 项目实战视频+05 vi视频 本套教程15天 学前环境搭建 1-3 天内容为Linux基础命令 4-13 天内容为Python基础教程 14-15 天内容为 飞机大战项目演练
 - [《019python3.7从入门到入门（零基础）》](https://www.bilibili.com/video/BV1M741177ph/)
 
 
@@ -1169,11 +1170,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDEyMDA3NDQsMTQ0NTYyMzE1OSwtND
-U1NTkzODc3LDE3NDcxMDE5MTYsMTkwNTkwODYyMSwxODQ3NDM5
-MTg3LDExMDgzODU3MjIsNDc3NTU3NzQ2LDIwNTgxOTIxNjUsLT
-E0NTEyNTY4MjUsLTkxOTQxMDIwNSwzMTI4NzgzODYsLTQ2NzQ3
-MjI0NCwyMDc3MTQ5NDA3LC0zMjE0OTE3NDksNjIxMDQ0OTc0LD
-EzOTk2MTkzNTQsNDYyOTIzNzM5LDExODM1NjgyMjEsMjA2MzA3
-NTQ2M119
+eyJoaXN0b3J5IjpbMTc1NjM3MzAsLTE5NDEyMDA3NDQsMTQ0NT
+YyMzE1OSwtNDU1NTkzODc3LDE3NDcxMDE5MTYsMTkwNTkwODYy
+MSwxODQ3NDM5MTg3LDExMDgzODU3MjIsNDc3NTU3NzQ2LDIwNT
+gxOTIxNjUsLTE0NTEyNTY4MjUsLTkxOTQxMDIwNSwzMTI4Nzgz
+ODYsLTQ2NzQ3MjI0NCwyMDc3MTQ5NDA3LC0zMjE0OTE3NDksNj
+IxMDQ0OTc0LDEzOTk2MTkzNTQsNDYyOTIzNzM5LDExODM1Njgy
+MjFdfQ==
 -->
