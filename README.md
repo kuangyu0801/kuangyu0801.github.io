@@ -156,7 +156,8 @@ last update on 18 Jun. 2020:
 [https://www.visualcv.com/resume-samples/software-engineer/](https://www.visualcv.com/resume-samples/software-engineer/)
 # Cover Letter
 glassdoor教學如何撰寫Cover Letter: [https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/](https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/)
-哈佛教學如何撰寫cover letter[https://hls.harvard.edu/content/uploads/2008/06/allcoverlettersweb2011.pdf](https://hls.harvard.edu/content/uploads/2008/06/allcoverlettersweb2011.pdf)
+
+哈佛cover letter範例[https://hls.harvard.edu/content/uploads/2008/06/allcoverlettersweb2011.pdf](https://hls.harvard.edu/content/uploads/2008/06/allcoverlettersweb2011.pdf)
 ## 我的背景：
 - IT student, 希望投入cloud computing軟體開發
 ## 我的優勢：
@@ -1166,11 +1167,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTU5Mzg3NywxNzQ3MTAxOTE2LDE5MD
-U5MDg2MjEsMTg0NzQzOTE4NywxMTA4Mzg1NzIyLDQ3NzU1Nzc0
-NiwyMDU4MTkyMTY1LC0xNDUxMjU2ODI1LC05MTk0MTAyMDUsMz
-EyODc4Mzg2LC00Njc0NzIyNDQsMjA3NzE0OTQwNywtMzIxNDkx
-NzQ5LDYyMTA0NDk3NCwxMzk5NjE5MzU0LDQ2MjkyMzczOSwxMT
-gzNTY4MjIxLDIwNjMwNzU0NjMsMTI4MjI2Njk3Miw5MDkyMTgy
-ODZdfQ==
+eyJoaXN0b3J5IjpbMTQ0NTYyMzE1OSwtNDU1NTkzODc3LDE3ND
+cxMDE5MTYsMTkwNTkwODYyMSwxODQ3NDM5MTg3LDExMDgzODU3
+MjIsNDc3NTU3NzQ2LDIwNTgxOTIxNjUsLTE0NTEyNTY4MjUsLT
+kxOTQxMDIwNSwzMTI4NzgzODYsLTQ2NzQ3MjI0NCwyMDc3MTQ5
+NDA3LC0zMjE0OTE3NDksNjIxMDQ0OTc0LDEzOTk2MTkzNTQsND
+YyOTIzNzM5LDExODM1NjgyMjEsMjA2MzA3NTQ2MywxMjgyMjY2
+OTcyXX0=
 -->
