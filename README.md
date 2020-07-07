@@ -150,7 +150,11 @@ last update on 18 Jun. 2020:
 |--|--|--|--|--|
 
 
+# HR教你如何準備coding interview
+
+
 # 履歷 
+谷歌教你如何寫CV: [https://learndigital.withgoogle.com/digitalgarage/course/start-a-cv](https://learndigital.withgoogle.com/digitalgarage/course/start-a-cv)
 我的履歷[https://www.overleaf.com/project](https://www.overleaf.com/project)
 軟體工程履歷範本
 [https://www.visualcv.com/resume-samples/software-engineer/](https://www.visualcv.com/resume-samples/software-engineer/)
@@ -1170,11 +1174,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjM3MzAsLTE5NDEyMDA3NDQsMTQ0NT
-YyMzE1OSwtNDU1NTkzODc3LDE3NDcxMDE5MTYsMTkwNTkwODYy
-MSwxODQ3NDM5MTg3LDExMDgzODU3MjIsNDc3NTU3NzQ2LDIwNT
-gxOTIxNjUsLTE0NTEyNTY4MjUsLTkxOTQxMDIwNSwzMTI4Nzgz
-ODYsLTQ2NzQ3MjI0NCwyMDc3MTQ5NDA3LC0zMjE0OTE3NDksNj
-IxMDQ0OTc0LDEzOTk2MTkzNTQsNDYyOTIzNzM5LDExODM1Njgy
-MjFdfQ==
+eyJoaXN0b3J5IjpbMjkzNDg0OTM3LDE3NTYzNzMwLC0xOTQxMj
+AwNzQ0LDE0NDU2MjMxNTksLTQ1NTU5Mzg3NywxNzQ3MTAxOTE2
+LDE5MDU5MDg2MjEsMTg0NzQzOTE4NywxMTA4Mzg1NzIyLDQ3Nz
+U1Nzc0NiwyMDU4MTkyMTY1LC0xNDUxMjU2ODI1LC05MTk0MTAy
+MDUsMzEyODc4Mzg2LC00Njc0NzIyNDQsMjA3NzE0OTQwNywtMz
+IxNDkxNzQ5LDYyMTA0NDk3NCwxMzk5NjE5MzU0LDQ2MjkyMzcz
+OV19
 -->
