@@ -830,6 +830,13 @@ int ran = Math.random();
 Java 如果要用stack的話，建議用Deque而不是Stack
 [https://www.geeksforgeeks.org/deque-interface-java-example/](https://www.geeksforgeeks.org/deque-interface-java-example/)
 
+### ArrayDeque
+```
+// Inserts the specified element at the end of this deque.
+offer(E e)
+
+Array
+```
 
 ### Integer-String Conversion
 如何處理conversion造成的overflow問題？
@@ -1179,11 +1186,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NTQ1MjcxLC03OTk3NTc3NTQsMjkzND
-g0OTM3LDE3NTYzNzMwLC0xOTQxMjAwNzQ0LDE0NDU2MjMxNTks
-LTQ1NTU5Mzg3NywxNzQ3MTAxOTE2LDE5MDU5MDg2MjEsMTg0Nz
-QzOTE4NywxMTA4Mzg1NzIyLDQ3NzU1Nzc0NiwyMDU4MTkyMTY1
-LC0xNDUxMjU2ODI1LC05MTk0MTAyMDUsMzEyODc4Mzg2LC00Nj
-c0NzIyNDQsMjA3NzE0OTQwNywtMzIxNDkxNzQ5LDYyMTA0NDk3
-NF19
+eyJoaXN0b3J5IjpbMTE1OTU2MDQzOCwtNzk5NzU3NzU0LDI5Mz
+Q4NDkzNywxNzU2MzczMCwtMTk0MTIwMDc0NCwxNDQ1NjIzMTU5
+LC00NTU1OTM4NzcsMTc0NzEwMTkxNiwxOTA1OTA4NjIxLDE4ND
+c0MzkxODcsMTEwODM4NTcyMiw0Nzc1NTc3NDYsMjA1ODE5MjE2
+NSwtMTQ1MTI1NjgyNSwtOTE5NDEwMjA1LDMxMjg3ODM4NiwtND
+Y3NDcyMjQ0LDIwNzcxNDk0MDcsLTMyMTQ5MTc0OSw2MjEwNDQ5
+NzRdfQ==
 -->
