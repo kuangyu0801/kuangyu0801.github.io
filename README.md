@@ -830,12 +830,14 @@ int ran = Math.random();
 Java 如果要用stack的話，建議用Deque而不是Stack
 [https://www.geeksforgeeks.org/deque-interface-java-example/](https://www.geeksforgeeks.org/deque-interface-java-example/)
 
-### ArrayDeque
+### [ArrayDeque]
+[https://docs.oracle.com/javase/7/docs/api/java/util/ArrayDeque.html](https://docs.oracle.com/javase/7/docs/api/java/util/ArrayDeque.html)
 ```
 // Inserts the specified element at the end of this deque.
-offer(E e)
+ArrayDeque.offer(E e)
 
-Array
+// Retrieves and removes the head of the queue represented by this deque (in other words, the first element of this deque), or returns null if this deque is empty.
+ArrayDeque.poll()
 ```
 
 ### Integer-String Conversion
@@ -1186,7 +1188,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTU2MDQzOCwtNzk5NzU3NzU0LDI5Mz
+eyJoaXN0b3J5IjpbMjA1MzM5MDAyMywtNzk5NzU3NzU0LDI5Mz
 Q4NDkzNywxNzU2MzczMCwtMTk0MTIwMDc0NCwxNDQ1NjIzMTU5
 LC00NTU1OTM4NzcsMTc0NzEwMTkxNiwxOTA1OTA4NjIxLDE4ND
 c0MzkxODcsMTEwODM4NTcyMiw0Nzc1NTc3NDYsMjA1ODE5MjE2
