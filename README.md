@@ -76,8 +76,10 @@ Janna LinkedIn: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com
 - [ ] [Using Databases with Python (Coursera)](https://coursera.org/share/e415f2e24068608093964fdd330f9bd0)
 - [ ] [Using Python to Access Web Data (Coursera)](https://coursera.org/share/1188b2397ed5cbf6fd690c03ab87aa32)
 
-# 好用
-
+# 好用網站
+- 畫流程圖[https://app.diagrams.net/](https://app.diagrams.net/): 可以直接在上面編輯 latex format
+Enable mathematical typesetting via _Extras_->_Mathematical Typesetting._ The following syntax is supported:
+- overleaf: 線上編輯
 # TO-CONSIDER
 -[ ] [AWS Fundamentals: Going Cloud-Native from AWS Fundamentals Specialization(Coursera)](https://coursera.org/share/7965486607405adf9331f5b2bd7253c9)
 
@@ -1176,7 +1178,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzMzcxNTQxLDI5MzQ4NDkzNywxNzU2Mz
+eyJoaXN0b3J5IjpbNTU2Mzg4NzU2LDI5MzQ4NDkzNywxNzU2Mz
 czMCwtMTk0MTIwMDc0NCwxNDQ1NjIzMTU5LC00NTU1OTM4Nzcs
 MTc0NzEwMTkxNiwxOTA1OTA4NjIxLDE4NDc0MzkxODcsMTEwOD
 M4NTcyMiw0Nzc1NTc3NDYsMjA1ODE5MjE2NSwtMTQ1MTI1Njgy
