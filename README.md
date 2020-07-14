@@ -797,7 +797,7 @@ Character.isSpaceChar(char ch);
 int i = Integer.parseInt(myString);
 ```
 
-### [String]()
+### String
 [Convert float to String](https://www.javatpoint.com/java-float-to-string)
 ```
 int int1 = 10;
@@ -829,6 +829,7 @@ int ran = Math.random();
 ### Deque
 Java 如果要用stack的話，建議用Deque而不是Stack
 [https://www.geeksforgeeks.org/deque-interface-java-example/](https://www.geeksforgeeks.org/deque-interface-java-example/)
+
 
 ### Integer-String Conversion
 如何處理conversion造成的overflow問題？
@@ -1178,11 +1179,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTc1Nzc1NCwyOTM0ODQ5MzcsMTc1Nj
-M3MzAsLTE5NDEyMDA3NDQsMTQ0NTYyMzE1OSwtNDU1NTkzODc3
-LDE3NDcxMDE5MTYsMTkwNTkwODYyMSwxODQ3NDM5MTg3LDExMD
-gzODU3MjIsNDc3NTU3NzQ2LDIwNTgxOTIxNjUsLTE0NTEyNTY4
-MjUsLTkxOTQxMDIwNSwzMTI4NzgzODYsLTQ2NzQ3MjI0NCwyMD
-c3MTQ5NDA3LC0zMjE0OTE3NDksNjIxMDQ0OTc0LDEzOTk2MTkz
-NTRdfQ==
+eyJoaXN0b3J5IjpbMjk4NTQ1MjcxLC03OTk3NTc3NTQsMjkzND
+g0OTM3LDE3NTYzNzMwLC0xOTQxMjAwNzQ0LDE0NDU2MjMxNTks
+LTQ1NTU5Mzg3NywxNzQ3MTAxOTE2LDE5MDU5MDg2MjEsMTg0Nz
+QzOTE4NywxMTA4Mzg1NzIyLDQ3NzU1Nzc0NiwyMDU4MTkyMTY1
+LC0xNDUxMjU2ODI1LC05MTk0MTAyMDUsMzEyODc4Mzg2LC00Nj
+c0NzIyNDQsMjA3NzE0OTQwNywtMzIxNDkxNzQ5LDYyMTA0NDk3
+NF19
 -->
