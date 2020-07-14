@@ -76,6 +76,8 @@ Janna LinkedIn: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com
 - [ ] [Using Databases with Python (Coursera)](https://coursera.org/share/e415f2e24068608093964fdd330f9bd0)
 - [ ] [Using Python to Access Web Data (Coursera)](https://coursera.org/share/1188b2397ed5cbf6fd690c03ab87aa32)
 
+# 好用
+
 # TO-CONSIDER
 -[ ] [AWS Fundamentals: Going Cloud-Native from AWS Fundamentals Specialization(Coursera)](https://coursera.org/share/7965486607405adf9331f5b2bd7253c9)
 
@@ -1174,11 +1176,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzNDg0OTM3LDE3NTYzNzMwLC0xOTQxMj
-AwNzQ0LDE0NDU2MjMxNTksLTQ1NTU5Mzg3NywxNzQ3MTAxOTE2
-LDE5MDU5MDg2MjEsMTg0NzQzOTE4NywxMTA4Mzg1NzIyLDQ3Nz
-U1Nzc0NiwyMDU4MTkyMTY1LC0xNDUxMjU2ODI1LC05MTk0MTAy
-MDUsMzEyODc4Mzg2LC00Njc0NzIyNDQsMjA3NzE0OTQwNywtMz
-IxNDkxNzQ5LDYyMTA0NDk3NCwxMzk5NjE5MzU0LDQ2MjkyMzcz
-OV19
+eyJoaXN0b3J5IjpbNjkzMzcxNTQxLDI5MzQ4NDkzNywxNzU2Mz
+czMCwtMTk0MTIwMDc0NCwxNDQ1NjIzMTU5LC00NTU1OTM4Nzcs
+MTc0NzEwMTkxNiwxOTA1OTA4NjIxLDE4NDc0MzkxODcsMTEwOD
+M4NTcyMiw0Nzc1NTc3NDYsMjA1ODE5MjE2NSwtMTQ1MTI1Njgy
+NSwtOTE5NDEwMjA1LDMxMjg3ODM4NiwtNDY3NDcyMjQ0LDIwNz
+cxNDk0MDcsLTMyMTQ5MTc0OSw2MjEwNDQ5NzQsMTM5OTYxOTM1
+NF19
 -->
