@@ -174,8 +174,35 @@ glassdoor教學如何撰寫Cover Letter: [https://www.glassdoor.com/blog/guide/h
 - 開發世界最快的5g modem software
 - 參與超過千人的大型project、與世界各地同事工作過
 - 與世界級客戶溝通協調解決問題的能力
+## Amazon Intern Requirement
+### Software Development Internship
+**Basic Qualifications  
+  
+**We want to hire the world’s brightest minds, and offer them an environment in which they can learn and help improve the experience for our customers.  
+
+-   You are currently working towards a 2+ years university degree in computer science or a related field.
+-   Excellent written and verbal communication skills in English.
+-   You must have the right to work in the country you are applying for.
+-   Computer Science fundamentals in object-oriented design, data structures, algorithm design, problem solving, and complexity analysis.
+-   Knowledge in two or more programming languages (Ruby on Rails, Java, C#, C++, Python...).
+-   You are results-driven with analytical skills and the ability to innovate and simplify current processes and practices.
+-   You should have strong decision making skills, that use sound reasoning and when required use consultation to achieve consensus.
+-   The personal drive and enthusiasm that makes you stand out from the crowd!  
+    
+
+**Preferred Qualifications  
 
 
+-   Familiar with MySQL, Oracle, PostgreSQL, RedShift
+-   Version Control using Git or Mercurial
+-   At ease with Linux
+-   Experience in testing (Unit, Integration)
+-   Agile development methodologies (SCRUM)
+-   Hardware architecture (Servers, redundancy, backups, performance analysis)
+-   Ability to work successfully in an ambiguous environment, to meet tight deadlines and prioritize workload even when faced with conflicting priorities.
+-   The ability to develop models and tools through the use of high-level modeling languages.
+-   Previous work experience – a summer job, internship or full- time role; if it’s an experience in designing optimization models for inventory, network flows and other characteristics of supply-chain systems (e.g., staff scheduling, vehicle routing, and facility location), accompanied by associated expertise in the use of tools and the latest technology or software development, even better.
+- 
 ## Amazon Wants This
 This requirement is a position from a typical Software Development Position in Amazon Dublin
 
@@ -1188,11 +1215,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MzM5MDAyMywtNzk5NzU3NzU0LDI5Mz
-Q4NDkzNywxNzU2MzczMCwtMTk0MTIwMDc0NCwxNDQ1NjIzMTU5
-LC00NTU1OTM4NzcsMTc0NzEwMTkxNiwxOTA1OTA4NjIxLDE4ND
-c0MzkxODcsMTEwODM4NTcyMiw0Nzc1NTc3NDYsMjA1ODE5MjE2
-NSwtMTQ1MTI1NjgyNSwtOTE5NDEwMjA1LDMxMjg3ODM4NiwtND
-Y3NDcyMjQ0LDIwNzcxNDk0MDcsLTMyMTQ5MTc0OSw2MjEwNDQ5
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTcyNzk5MjQzMiwyMDUzMzkwMDIzLC03OT
+k3NTc3NTQsMjkzNDg0OTM3LDE3NTYzNzMwLC0xOTQxMjAwNzQ0
+LDE0NDU2MjMxNTksLTQ1NTU5Mzg3NywxNzQ3MTAxOTE2LDE5MD
+U5MDg2MjEsMTg0NzQzOTE4NywxMTA4Mzg1NzIyLDQ3NzU1Nzc0
+NiwyMDU4MTkyMTY1LC0xNDUxMjU2ODI1LC05MTk0MTAyMDUsMz
+EyODc4Mzg2LC00Njc0NzIyNDQsMjA3NzE0OTQwNywtMzIxNDkx
+NzQ5XX0=
 -->
