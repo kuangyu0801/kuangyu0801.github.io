@@ -174,11 +174,10 @@ glassdoor教學如何撰寫Cover Letter: [https://www.glassdoor.com/blog/guide/h
 - 開發世界最快的5g modem software
 - 參與超過千人的大型project、與世界各地同事工作過
 - 與世界級客戶溝通協調解決問題的能力
-## Amazon Intern Requirement
-### Software Development Internship
-**Basic Qualifications  
+## Amazon Intern Requirement: Software Development Internship
+### Basic Qualifications  
   
-**We want to hire the world’s brightest minds, and offer them an environment in which they can learn and help improve the experience for our customers.  
+We want to hire the world’s brightest minds, and offer them an environment in which they can learn and help improve the experience for our customers.  
 
 -   You are currently working towards a 2+ years university degree in computer science or a related field.
 -   Excellent written and verbal communication skills in English.
@@ -190,8 +189,7 @@ glassdoor教學如何撰寫Cover Letter: [https://www.glassdoor.com/blog/guide/h
 -   The personal drive and enthusiasm that makes you stand out from the crowd!  
     
 
-**Preferred Qualifications  
-
+### Preferred Qualifications  
 
 -   Familiar with MySQL, Oracle, PostgreSQL, RedShift
 -   Version Control using Git or Mercurial
@@ -1215,7 +1213,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzk5MjQzMiwyMDUzMzkwMDIzLC03OT
+eyJoaXN0b3J5IjpbLTE1ODM2OTMzMywyMDUzMzkwMDIzLC03OT
 k3NTc3NTQsMjkzNDg0OTM3LDE3NTYzNzMwLC0xOTQxMjAwNzQ0
 LDE0NDU2MjMxNTksLTQ1NTU5Mzg3NywxNzQ3MTAxOTE2LDE5MD
 U5MDg2MjEsMTg0NzQzOTE4NywxMTA4Mzg1NzIyLDQ3NzU1Nzc0
