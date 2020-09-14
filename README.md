@@ -605,6 +605,7 @@ Footer:
 ## Reference
 - [Fluent Python](https://drive.google.com/file/d/1AV59fwciY2RwgEN11vs5V9_G_mJhyy6e/view?usp=sharing) 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): 非常實用的入門書，把python data science最重要的numpy, matplotlib都介紹一遍, 基本function就不需要一直去查overstack查的很心累
+- [最详尽使用指南：超快上手Jupyter Notebook](https://zhuanlan.zhihu.com/p/32320214)
 - [w3schools](https://www.w3schools.com/python/default.asp): 網站把所有常用的python syntax都列入，每次忘記直接來查
 
 ##  numpy
@@ -1213,11 +1214,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM2OTMzMywyMDUzMzkwMDIzLC03OT
-k3NTc3NTQsMjkzNDg0OTM3LDE3NTYzNzMwLC0xOTQxMjAwNzQ0
-LDE0NDU2MjMxNTksLTQ1NTU5Mzg3NywxNzQ3MTAxOTE2LDE5MD
-U5MDg2MjEsMTg0NzQzOTE4NywxMTA4Mzg1NzIyLDQ3NzU1Nzc0
-NiwyMDU4MTkyMTY1LC0xNDUxMjU2ODI1LC05MTk0MTAyMDUsMz
-EyODc4Mzg2LC00Njc0NzIyNDQsMjA3NzE0OTQwNywtMzIxNDkx
-NzQ5XX0=
+eyJoaXN0b3J5IjpbMTE2MjgzNjMyMCwtMTU4MzY5MzMzLDIwNT
+MzOTAwMjMsLTc5OTc1Nzc1NCwyOTM0ODQ5MzcsMTc1NjM3MzAs
+LTE5NDEyMDA3NDQsMTQ0NTYyMzE1OSwtNDU1NTkzODc3LDE3ND
+cxMDE5MTYsMTkwNTkwODYyMSwxODQ3NDM5MTg3LDExMDgzODU3
+MjIsNDc3NTU3NzQ2LDIwNTgxOTIxNjUsLTE0NTEyNTY4MjUsLT
+kxOTQxMDIwNSwzMTI4NzgzODYsLTQ2NzQ3MjI0NCwyMDc3MTQ5
+NDA3XX0=
 -->
