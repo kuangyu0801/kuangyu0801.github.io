@@ -96,6 +96,7 @@ stars
 9,214 ratings
 
 # Mind Set
+不要放棄！一般情況，申請三十家只有一家會回覆（還不是offer），所以千萬不要在意，想想人家在英國連奶茶店員工都應徵不上！
 目前schedule:
 
 |Summer Freizeit 2020| WS20/21 | Winter Freizeit 2021 | SS21 | WS21/22|Feb 2022|
@@ -1221,7 +1222,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzE3NDU2Niw4NDU3Nzc0NDUsMTc1NT
+eyJoaXN0b3J5IjpbLTIwNzgxMzE1OCw4NDU3Nzc0NDUsMTc1NT
 c5NDEzMSwxNTgyMDgyOTI0LC0xNjI5MDQwOTg2LDExNjI4MzYz
 MjAsLTE1ODM2OTMzMywyMDUzMzkwMDIzLC03OTk3NTc3NTQsMj
 kzNDg0OTM3LDE3NTYzNzMwLC0xOTQxMjAwNzQ0LDE0NDU2MjMx
