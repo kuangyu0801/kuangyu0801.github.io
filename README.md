@@ -44,7 +44,8 @@ Mac 鍵符號
 # Amazon OA
 - [一畝三分地面试经验](https://www.1point3acres.com/bbs/thread-571102-1-1.html)  亚麻 OA 1 & OA2 & OA3 汇总
 - [Amazon 一般面試大集錦](https://wdxtub.com/interview/14520850399925.html)
-- [Amazon OA大集錦](https://wdxtub.com/interview/14520850399861.html)
+- [Amazon OA大集錦](https://wdxtub.com/interview/14520850399861.html) 
+- [小土刀的面试刷题笔记](https://wdxtub.com/interview/index.html)
 # TODO
  - [ ] cover letter 
  - [ ] 履歷更新(排版, 字體, 加 summary)
@@ -1219,11 +1220,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1Nzc3NDQ1LDE3NTU3OTQxMzEsMTU4Mj
-A4MjkyNCwtMTYyOTA0MDk4NiwxMTYyODM2MzIwLC0xNTgzNjkz
-MzMsMjA1MzM5MDAyMywtNzk5NzU3NzU0LDI5MzQ4NDkzNywxNz
-U2MzczMCwtMTk0MTIwMDc0NCwxNDQ1NjIzMTU5LC00NTU1OTM4
-NzcsMTc0NzEwMTkxNiwxOTA1OTA4NjIxLDE4NDc0MzkxODcsMT
-EwODM4NTcyMiw0Nzc1NTc3NDYsMjA1ODE5MjE2NSwtMTQ1MTI1
-NjgyNV19
+eyJoaXN0b3J5IjpbLTE4OTI1ODY1ODUsODQ1Nzc3NDQ1LDE3NT
+U3OTQxMzEsMTU4MjA4MjkyNCwtMTYyOTA0MDk4NiwxMTYyODM2
+MzIwLC0xNTgzNjkzMzMsMjA1MzM5MDAyMywtNzk5NzU3NzU0LD
+I5MzQ4NDkzNywxNzU2MzczMCwtMTk0MTIwMDc0NCwxNDQ1NjIz
+MTU5LC00NTU1OTM4NzcsMTc0NzEwMTkxNiwxOTA1OTA4NjIxLD
+E4NDc0MzkxODcsMTEwODM4NTcyMiw0Nzc1NTc3NDYsMjA1ODE5
+MjE2NV19
 -->
