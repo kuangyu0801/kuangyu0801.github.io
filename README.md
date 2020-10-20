@@ -46,6 +46,7 @@ Mac 鍵符號
 - [Amazon 一般面試大集錦](https://wdxtub.com/interview/14520850399925.html)
 - [Amazon OA大集錦](https://wdxtub.com/interview/14520850399861.html) 
 - [小土刀的面试刷题笔记](https://wdxtub.com/interview/index.html)
+- [前期準備如何开始找工作](https://wdxtub.com/interview/14520609088903.html)
 # TODO
  - [ ] cover letter 
  - [ ] 履歷更新(排版, 字體, 加 summary)
@@ -1220,11 +1221,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI1ODY1ODUsODQ1Nzc3NDQ1LDE3NT
-U3OTQxMzEsMTU4MjA4MjkyNCwtMTYyOTA0MDk4NiwxMTYyODM2
-MzIwLC0xNTgzNjkzMzMsMjA1MzM5MDAyMywtNzk5NzU3NzU0LD
-I5MzQ4NDkzNywxNzU2MzczMCwtMTk0MTIwMDc0NCwxNDQ1NjIz
-MTU5LC00NTU1OTM4NzcsMTc0NzEwMTkxNiwxOTA1OTA4NjIxLD
-E4NDc0MzkxODcsMTEwODM4NTcyMiw0Nzc1NTc3NDYsMjA1ODE5
-MjE2NV19
+eyJoaXN0b3J5IjpbLTczMzE3NDU2Niw4NDU3Nzc0NDUsMTc1NT
+c5NDEzMSwxNTgyMDgyOTI0LC0xNjI5MDQwOTg2LDExNjI4MzYz
+MjAsLTE1ODM2OTMzMywyMDUzMzkwMDIzLC03OTk3NTc3NTQsMj
+kzNDg0OTM3LDE3NTYzNzMwLC0xOTQxMjAwNzQ0LDE0NDU2MjMx
+NTksLTQ1NTU5Mzg3NywxNzQ3MTAxOTE2LDE5MDU5MDg2MjEsMT
+g0NzQzOTE4NywxMTA4Mzg1NzIyLDQ3NzU1Nzc0NiwyMDU4MTky
+MTY1XX0=
 -->
