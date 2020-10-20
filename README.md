@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 - [高頻一百連結](#高頻一百連結)
+- [Amazon OA](#amazon-oa)
 - [Mind Set](#mind-set)
 - [Key Word](#key-word)
 - [TODO](#todo)
@@ -40,7 +41,8 @@ Mac 鍵符號
 - Option（或 Alt）鍵 ⌥
 - Control（或 Ctrl）鍵 ⌃
 - Caps Lock 鍵 ⇪
-
+# Amazon OA
+- 
 # TODO
  - [ ] cover letter 
  - [ ] 履歷更新(排版, 字體, 加 summary)
@@ -1215,11 +1217,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkwNDA5ODYsMTE2MjgzNjMyMCwtMT
-U4MzY5MzMzLDIwNTMzOTAwMjMsLTc5OTc1Nzc1NCwyOTM0ODQ5
-MzcsMTc1NjM3MzAsLTE5NDEyMDA3NDQsMTQ0NTYyMzE1OSwtND
-U1NTkzODc3LDE3NDcxMDE5MTYsMTkwNTkwODYyMSwxODQ3NDM5
-MTg3LDExMDgzODU3MjIsNDc3NTU3NzQ2LDIwNTgxOTIxNjUsLT
-E0NTEyNTY4MjUsLTkxOTQxMDIwNSwzMTI4NzgzODYsLTQ2NzQ3
-MjI0NF19
+eyJoaXN0b3J5IjpbLTY4OTYwODQ5NiwtMTYyOTA0MDk4NiwxMT
+YyODM2MzIwLC0xNTgzNjkzMzMsMjA1MzM5MDAyMywtNzk5NzU3
+NzU0LDI5MzQ4NDkzNywxNzU2MzczMCwtMTk0MTIwMDc0NCwxND
+Q1NjIzMTU5LC00NTU1OTM4NzcsMTc0NzEwMTkxNiwxOTA1OTA4
+NjIxLDE4NDc0MzkxODcsMTEwODM4NTcyMiw0Nzc1NTc3NDYsMj
+A1ODE5MjE2NSwtMTQ1MTI1NjgyNSwtOTE5NDEwMjA1LDMxMjg3
+ODM4Nl19
 -->
