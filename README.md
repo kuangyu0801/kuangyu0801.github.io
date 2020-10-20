@@ -43,6 +43,7 @@ Mac 鍵符號
 - Caps Lock 鍵 ⇪
 # Amazon OA
 - [[面试经验]](https://www.1point3acres.com/bbs/thread-571102-1-1.html)  亚麻 OA 1 & OA2 & OA3 汇总
+- [OA大集錦](https://wdxtub.com/interview/14520850399925.html)
 # TODO
  - [ ] cover letter 
  - [ ] 履歷更新(排版, 字體, 加 summary)
@@ -1217,11 +1218,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjA4MjkyNCwtMTYyOTA0MDk4NiwxMT
-YyODM2MzIwLC0xNTgzNjkzMzMsMjA1MzM5MDAyMywtNzk5NzU3
-NzU0LDI5MzQ4NDkzNywxNzU2MzczMCwtMTk0MTIwMDc0NCwxND
-Q1NjIzMTU5LC00NTU1OTM4NzcsMTc0NzEwMTkxNiwxOTA1OTA4
-NjIxLDE4NDc0MzkxODcsMTEwODM4NTcyMiw0Nzc1NTc3NDYsMj
-A1ODE5MjE2NSwtMTQ1MTI1NjgyNSwtOTE5NDEwMjA1LDMxMjg3
-ODM4Nl19
+eyJoaXN0b3J5IjpbMTc1NTc5NDEzMSwxNTgyMDgyOTI0LC0xNj
+I5MDQwOTg2LDExNjI4MzYzMjAsLTE1ODM2OTMzMywyMDUzMzkw
+MDIzLC03OTk3NTc3NTQsMjkzNDg0OTM3LDE3NTYzNzMwLC0xOT
+QxMjAwNzQ0LDE0NDU2MjMxNTksLTQ1NTU5Mzg3NywxNzQ3MTAx
+OTE2LDE5MDU5MDg2MjEsMTg0NzQzOTE4NywxMTA4Mzg1NzIyLD
+Q3NzU1Nzc0NiwyMDU4MTkyMTY1LC0xNDUxMjU2ODI1LC05MTk0
+MTAyMDVdfQ==
 -->
