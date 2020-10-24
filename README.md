@@ -86,10 +86,13 @@ amazon的文化是什麼？
 - 勇於分享現在的想法
 
 # 面試DO & DON'T
+## DO
 ## Homework
 - 讀好job description
 ## Nurture Relationship
-
+## DON'T
+1. Unprepared
+2. 
 # CV
 - linkedIn Page and CV always up to date
 - work visa eligibility
@@ -1253,7 +1256,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE0MDE2MTQsMTA2MDU1NzIzMywtMj
+eyJoaXN0b3J5IjpbLTEzODE2NjcxMTQsMTA2MDU1NzIzMywtMj
 A3ODEzMTU4LDg0NTc3NzQ0NSwxNzU1Nzk0MTMxLDE1ODIwODI5
 MjQsLTE2MjkwNDA5ODYsMTE2MjgzNjMyMCwtMTU4MzY5MzMzLD
 IwNTMzOTAwMjMsLTc5OTc1Nzc1NCwyOTM0ODQ5MzcsMTc1NjM3
