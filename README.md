@@ -64,12 +64,12 @@ Mac 鍵符號
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
 amazon的文化是什麼？ 
 
-
 ## 面試問題
 - knowledge check
 - scenarion
 - arch/design
 練習！練習！練習！
+
 ## 行為問題
 - [Amazon leadership principles](https://www.amazon.jobs/en/principles)
 - STAR/SAR for
@@ -87,8 +87,9 @@ amazon的文化是什麼？
 
 # 面試DO & DON'T
 ## Homework
+- 讀好job description
 ## Nurture Relationship
-## 
+
 # CV
 - linkedIn Page and CV always up to date
 - work visa eligibility
@@ -1252,11 +1253,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDU1NzIzMywtMjA3ODEzMTU4LDg0NT
-c3NzQ0NSwxNzU1Nzk0MTMxLDE1ODIwODI5MjQsLTE2MjkwNDA5
-ODYsMTE2MjgzNjMyMCwtMTU4MzY5MzMzLDIwNTMzOTAwMjMsLT
-c5OTc1Nzc1NCwyOTM0ODQ5MzcsMTc1NjM3MzAsLTE5NDEyMDA3
-NDQsMTQ0NTYyMzE1OSwtNDU1NTkzODc3LDE3NDcxMDE5MTYsMT
-kwNTkwODYyMSwxODQ3NDM5MTg3LDExMDgzODU3MjIsNDc3NTU3
-NzQ2XX0=
+eyJoaXN0b3J5IjpbLTIxMzE0MDE2MTQsMTA2MDU1NzIzMywtMj
+A3ODEzMTU4LDg0NTc3NzQ0NSwxNzU1Nzk0MTMxLDE1ODIwODI5
+MjQsLTE2MjkwNDA5ODYsMTE2MjgzNjMyMCwtMTU4MzY5MzMzLD
+IwNTMzOTAwMjMsLTc5OTc1Nzc1NCwyOTM0ODQ5MzcsMTc1NjM3
+MzAsLTE5NDEyMDA3NDQsMTQ0NTYyMzE1OSwtNDU1NTkzODc3LD
+E3NDcxMDE5MTYsMTkwNTkwODYyMSwxODQ3NDM5MTg3LDExMDgz
+ODU3MjJdfQ==
 -->
