@@ -48,6 +48,7 @@ Mac 鍵符號
 - [小土刀的面试刷题笔记](https://wdxtub.com/interview/index.html)
 - [前期準備如何开始找工作](https://wdxtub.com/interview/14520609088903.html)
 # TODO
+
  - [ ] cover letter 
  - [ ] 履歷更新(排版, 字體, 加 summary)
  - [ ] Java IO 看黑馬
@@ -61,7 +62,34 @@ Mac 鍵符號
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
  - [ ] 
 
+# 不要害怕，海投海面試！
+# 公司如何決定錄用
+my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
+amazon的文化是什麼？ 
 
+# 面試問題
+- knowledge check
+- scenarion
+- arch/design
+練習！練習！練習！
+# 行為問題
+- [Amazon leardership principles](https://www.amazon.jobs/en/principles)
+- STAR/SAR for
+- Situation, Task, Action, Result
+- 針對不同面向把“一段”經歷豐富與填滿！
+- 成功的面向、失敗的面向、希望可以改進的部分
+- （4G MIMO, 5G Keysight儀器設定、optimization on 5G)
+
+# Tips
+- Prepare you story
+- Don't be afraid tell a failed experience ( but with resolved outcome)
+- 不知道就說不知道！
+- 問題答不出來，不要緊張，冷靜分析
+- 勇於分享現在的想法
+
+# CV
+- linkedIn Page and CV always up to date
+- work visa eligibility
 
 # TO-LEARN
 - [ ]  LaTex on Mac + Git version control
@@ -1222,11 +1250,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzgxMzE1OCw4NDU3Nzc0NDUsMTc1NT
-c5NDEzMSwxNTgyMDgyOTI0LC0xNjI5MDQwOTg2LDExNjI4MzYz
-MjAsLTE1ODM2OTMzMywyMDUzMzkwMDIzLC03OTk3NTc3NTQsMj
-kzNDg0OTM3LDE3NTYzNzMwLC0xOTQxMjAwNzQ0LDE0NDU2MjMx
-NTksLTQ1NTU5Mzg3NywxNzQ3MTAxOTE2LDE5MDU5MDg2MjEsMT
-g0NzQzOTE4NywxMTA4Mzg1NzIyLDQ3NzU1Nzc0NiwyMDU4MTky
-MTY1XX0=
+eyJoaXN0b3J5IjpbOTQwNjExNDQ1LC0yMDc4MTMxNTgsODQ1Nz
+c3NDQ1LDE3NTU3OTQxMzEsMTU4MjA4MjkyNCwtMTYyOTA0MDk4
+NiwxMTYyODM2MzIwLC0xNTgzNjkzMzMsMjA1MzM5MDAyMywtNz
+k5NzU3NzU0LDI5MzQ4NDkzNywxNzU2MzczMCwtMTk0MTIwMDc0
+NCwxNDQ1NjIzMTU5LC00NTU1OTM4NzcsMTc0NzEwMTkxNiwxOT
+A1OTA4NjIxLDE4NDc0MzkxODcsMTEwODM4NTcyMiw0Nzc1NTc3
+NDZdfQ==
 -->
