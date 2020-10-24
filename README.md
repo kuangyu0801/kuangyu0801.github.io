@@ -57,36 +57,36 @@ Mac 鍵符號
  - [ ]  [Java 關鍵字final static this] (https://www.bilibili.com/video/BV1uJ411k7wy/?p=190)
  - [ ]  Java privacy: private, protected.... review
  - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
- - [ ]  692題[https://www.youtube.com/watch?v=POERw4yDVBw](https://www.youtube.com/watch?v=POERw4yDVBw)
- - [x] comparable interface review
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
- - [ ] 
 
 # 不要害怕，海投海面試！
 # 公司如何決定錄用
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
 amazon的文化是什麼？ 
 
-# 面試問題
+
+## 面試問題
 - knowledge check
 - scenarion
 - arch/design
 練習！練習！練習！
-# 行為問題
-- [Amazon leardership principles](https://www.amazon.jobs/en/principles)
+## 行為問題
+- [Amazon leadership principles](https://www.amazon.jobs/en/principles)
 - STAR/SAR for
 - Situation, Task, Action, Result
 - 針對不同面向把“一段”經歷豐富與填滿！
 - 成功的面向、失敗的面向、希望可以改進的部分
 - （4G MIMO, 5G Keysight儀器設定、optimization on 5G)
 
-# Tips
+## Tips
 - Prepare you story
 - Don't be afraid tell a failed experience ( but with resolved outcome)
 - 不知道就說不知道！
 - 問題答不出來，不要緊張，冷靜分析
 - 勇於分享現在的想法
 
+# 面試DO & DON'T
+# 
 # CV
 - linkedIn Page and CV always up to date
 - work visa eligibility
@@ -1250,11 +1250,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwNjExNDQ1LC0yMDc4MTMxNTgsODQ1Nz
-c3NDQ1LDE3NTU3OTQxMzEsMTU4MjA4MjkyNCwtMTYyOTA0MDk4
-NiwxMTYyODM2MzIwLC0xNTgzNjkzMzMsMjA1MzM5MDAyMywtNz
-k5NzU3NzU0LDI5MzQ4NDkzNywxNzU2MzczMCwtMTk0MTIwMDc0
-NCwxNDQ1NjIzMTU5LC00NTU1OTM4NzcsMTc0NzEwMTkxNiwxOT
-A1OTA4NjIxLDE4NDc0MzkxODcsMTEwODM4NTcyMiw0Nzc1NTc3
-NDZdfQ==
+eyJoaXN0b3J5IjpbLTIxNDQ1MjQ4NTksLTIwNzgxMzE1OCw4ND
+U3Nzc0NDUsMTc1NTc5NDEzMSwxNTgyMDgyOTI0LC0xNjI5MDQw
+OTg2LDExNjI4MzYzMjAsLTE1ODM2OTMzMywyMDUzMzkwMDIzLC
+03OTk3NTc3NTQsMjkzNDg0OTM3LDE3NTYzNzMwLC0xOTQxMjAw
+NzQ0LDE0NDU2MjMxNTksLTQ1NTU5Mzg3NywxNzQ3MTAxOTE2LD
+E5MDU5MDg2MjEsMTg0NzQzOTE4NywxMTA4Mzg1NzIyLDQ3NzU1
+Nzc0Nl19
 -->
