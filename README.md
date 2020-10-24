@@ -100,7 +100,7 @@ amazon的文化是什麼？
 # 我的自我問題
 - 熟悉歐洲
 - 教育質量好
-- 
+- 移民就業環境好
 # TO-LEARN
 - [ ]  LaTex on Mac + Git version control
 - [ ]  Cloud Computing:  Uni Stuttgart
@@ -1261,11 +1261,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzYyNjY1MDYsNDE3MDc0MzYyLDEwNj
-A1NTcyMzMsLTIwNzgxMzE1OCw4NDU3Nzc0NDUsMTc1NTc5NDEz
-MSwxNTgyMDgyOTI0LC0xNjI5MDQwOTg2LDExNjI4MzYzMjAsLT
-E1ODM2OTMzMywyMDUzMzkwMDIzLC03OTk3NTc3NTQsMjkzNDg0
-OTM3LDE3NTYzNzMwLC0xOTQxMjAwNzQ0LDE0NDU2MjMxNTksLT
-Q1NTU5Mzg3NywxNzQ3MTAxOTE2LDE5MDU5MDg2MjEsMTg0NzQz
-OTE4N119
+eyJoaXN0b3J5IjpbMTU1NzQ3MjcyOCw0MTcwNzQzNjIsMTA2MD
+U1NzIzMywtMjA3ODEzMTU4LDg0NTc3NzQ0NSwxNzU1Nzk0MTMx
+LDE1ODIwODI5MjQsLTE2MjkwNDA5ODYsMTE2MjgzNjMyMCwtMT
+U4MzY5MzMzLDIwNTMzOTAwMjMsLTc5OTc1Nzc1NCwyOTM0ODQ5
+MzcsMTc1NjM3MzAsLTE5NDEyMDA3NDQsMTQ0NTYyMzE1OSwtND
+U1NTkzODc3LDE3NDcxMDE5MTYsMTkwNTkwODYyMSwxODQ3NDM5
+MTg3XX0=
 -->
