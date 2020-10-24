@@ -97,7 +97,10 @@ amazon的文化是什麼？
 # CV
 - linkedIn Page and CV always up to date
 - work visa eligibility
-
+# 我的自我問題
+- 熟悉歐洲
+- 教育質量好
+- 
 # TO-LEARN
 - [ ]  LaTex on Mac + Git version control
 - [ ]  Cloud Computing:  Uni Stuttgart
@@ -1258,11 +1261,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3MDc0MzYyLDEwNjA1NTcyMzMsLTIwNz
-gxMzE1OCw4NDU3Nzc0NDUsMTc1NTc5NDEzMSwxNTgyMDgyOTI0
-LC0xNjI5MDQwOTg2LDExNjI4MzYzMjAsLTE1ODM2OTMzMywyMD
-UzMzkwMDIzLC03OTk3NTc3NTQsMjkzNDg0OTM3LDE3NTYzNzMw
-LC0xOTQxMjAwNzQ0LDE0NDU2MjMxNTksLTQ1NTU5Mzg3NywxNz
-Q3MTAxOTE2LDE5MDU5MDg2MjEsMTg0NzQzOTE4NywxMTA4Mzg1
-NzIyXX0=
+eyJoaXN0b3J5IjpbLTE1NzYyNjY1MDYsNDE3MDc0MzYyLDEwNj
+A1NTcyMzMsLTIwNzgxMzE1OCw4NDU3Nzc0NDUsMTc1NTc5NDEz
+MSwxNTgyMDgyOTI0LC0xNjI5MDQwOTg2LDExNjI4MzYzMjAsLT
+E1ODM2OTMzMywyMDUzMzkwMDIzLC03OTk3NTc3NTQsMjkzNDg0
+OTM3LDE3NTYzNzMwLC0xOTQxMjAwNzQ0LDE0NDU2MjMxNTksLT
+Q1NTU5Mzg3NywxNzQ3MTAxOTE2LDE5MDU5MDg2MjEsMTg0NzQz
+OTE4N119
 -->
