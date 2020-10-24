@@ -86,7 +86,9 @@ amazon的文化是什麼？
 - 勇於分享現在的想法
 
 # 面試DO & DON'T
-# 
+## Homework
+## Nurture Relationship
+## 
 # CV
 - linkedIn Page and CV always up to date
 - work visa eligibility
@@ -1250,11 +1252,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ1MjQ4NTksLTIwNzgxMzE1OCw4ND
-U3Nzc0NDUsMTc1NTc5NDEzMSwxNTgyMDgyOTI0LC0xNjI5MDQw
-OTg2LDExNjI4MzYzMjAsLTE1ODM2OTMzMywyMDUzMzkwMDIzLC
-03OTk3NTc3NTQsMjkzNDg0OTM3LDE3NTYzNzMwLC0xOTQxMjAw
-NzQ0LDE0NDU2MjMxNTksLTQ1NTU5Mzg3NywxNzQ3MTAxOTE2LD
-E5MDU5MDg2MjEsMTg0NzQzOTE4NywxMTA4Mzg1NzIyLDQ3NzU1
-Nzc0Nl19
+eyJoaXN0b3J5IjpbMTA2MDU1NzIzMywtMjA3ODEzMTU4LDg0NT
+c3NzQ0NSwxNzU1Nzk0MTMxLDE1ODIwODI5MjQsLTE2MjkwNDA5
+ODYsMTE2MjgzNjMyMCwtMTU4MzY5MzMzLDIwNTMzOTAwMjMsLT
+c5OTc1Nzc1NCwyOTM0ODQ5MzcsMTc1NjM3MzAsLTE5NDEyMDA3
+NDQsMTQ0NTYyMzE1OSwtNDU1NTkzODc3LDE3NDcxMDE5MTYsMT
+kwNTkwODYyMSwxODQ3NDM5MTg3LDExMDgzODU3MjIsNDc3NTU3
+NzQ2XX0=
 -->
