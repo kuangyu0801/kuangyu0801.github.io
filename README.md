@@ -92,7 +92,8 @@ amazon的文化是什麼？
 ## Nurture Relationship
 ## DON'T
 1. Unprepared
-2. 
+2. Afraid to clarify
+3. Not Interested
 # CV
 - linkedIn Page and CV always up to date
 - work visa eligibility
@@ -103,6 +104,7 @@ amazon的文化是什麼？
 - [ ]  Database
 - [ ]  Computer Vision: Uni Stuttgart
 - [ ]  計網概
+- [ ] System and Web Security: Uni Stuttgart
 - [ ] Software Engineering: Uni Stuttgart
 - [ ] [Software Development Process (Udacity)](https://classroom.udacity.com/courses/ud805)
 - [ ] Agile Software Development (Coursera)[https://www.coursera.org/learn/agile-software-development/home/welcome](https://www.coursera.org/learn/agile-software-development/home/welcome)
@@ -1256,11 +1258,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODE2NjcxMTQsMTA2MDU1NzIzMywtMj
-A3ODEzMTU4LDg0NTc3NzQ0NSwxNzU1Nzk0MTMxLDE1ODIwODI5
-MjQsLTE2MjkwNDA5ODYsMTE2MjgzNjMyMCwtMTU4MzY5MzMzLD
-IwNTMzOTAwMjMsLTc5OTc1Nzc1NCwyOTM0ODQ5MzcsMTc1NjM3
-MzAsLTE5NDEyMDA3NDQsMTQ0NTYyMzE1OSwtNDU1NTkzODc3LD
-E3NDcxMDE5MTYsMTkwNTkwODYyMSwxODQ3NDM5MTg3LDExMDgz
-ODU3MjJdfQ==
+eyJoaXN0b3J5IjpbNDE3MDc0MzYyLDEwNjA1NTcyMzMsLTIwNz
+gxMzE1OCw4NDU3Nzc0NDUsMTc1NTc5NDEzMSwxNTgyMDgyOTI0
+LC0xNjI5MDQwOTg2LDExNjI4MzYzMjAsLTE1ODM2OTMzMywyMD
+UzMzkwMDIzLC03OTk3NTc3NTQsMjkzNDg0OTM3LDE3NTYzNzMw
+LC0xOTQxMjAwNzQ0LDE0NDU2MjMxNTksLTQ1NTU5Mzg3NywxNz
+Q3MTAxOTE2LDE5MDU5MDg2MjEsMTg0NzQzOTE4NywxMTA4Mzg1
+NzIyXX0=
 -->
