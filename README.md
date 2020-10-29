@@ -75,6 +75,8 @@ Mac 鍵符號
 12. beroNet GmbH, Developer Intern[https://de.indeed.com/viewjob?from=web%2CiaBackPress&jk=24f5be6375ce2653&l=Berlin&q=Software&tk=1elr7but8s7d8800&vjs=3]
 13. Boston Consulting Group, Visiting Software Engineer (internship)
 14. [interact.io](https://de.indeed.com/cmp/Interact.io?campaignid=mobvjcmp&from=mobviewjob&tk=1elr7c83mt538800&fromjk=5d6ef5756fcb8ca7),  Working Students - Backend Developer
+15. creative workline, Android Entwickler (m/w/d)
+16. 
 # 公司如何決定錄用
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
 amazon的文化是什麼？ 
@@ -1276,11 +1278,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0MDIyMzQzLC05MDU0ODUxMDEsMTU1Nz
-Q3MjcyOCw0MTcwNzQzNjIsMTA2MDU1NzIzMywtMjA3ODEzMTU4
-LDg0NTc3NzQ0NSwxNzU1Nzk0MTMxLDE1ODIwODI5MjQsLTE2Mj
-kwNDA5ODYsMTE2MjgzNjMyMCwtMTU4MzY5MzMzLDIwNTMzOTAw
-MjMsLTc5OTc1Nzc1NCwyOTM0ODQ5MzcsMTc1NjM3MzAsLTE5ND
-EyMDA3NDQsMTQ0NTYyMzE1OSwtNDU1NTkzODc3LDE3NDcxMDE5
-MTZdfQ==
+eyJoaXN0b3J5IjpbMTc2OTk1MDUxNCwtOTA1NDg1MTAxLDE1NT
+c0NzI3MjgsNDE3MDc0MzYyLDEwNjA1NTcyMzMsLTIwNzgxMzE1
+OCw4NDU3Nzc0NDUsMTc1NTc5NDEzMSwxNTgyMDgyOTI0LC0xNj
+I5MDQwOTg2LDExNjI4MzYzMjAsLTE1ODM2OTMzMywyMDUzMzkw
+MDIzLC03OTk3NTc3NTQsMjkzNDg0OTM3LDE3NTYzNzMwLC0xOT
+QxMjAwNzQ0LDE0NDU2MjMxNTksLTQ1NTU5Mzg3NywxNzQ3MTAx
+OTE2XX0=
 -->
