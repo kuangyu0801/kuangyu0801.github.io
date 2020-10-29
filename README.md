@@ -66,7 +66,9 @@ Mac 鍵符號
 4.   MBition GmbH,  Internship in Agile Software Testing (all genders)[https://www.stepstone.de/stellenangebote--Internship-in-Agile-Software-Testing-all-genders-Berlin-MBition-GmbH--6170406-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=9_9_25_dynrl_s_0_1_0_0]
 5. [Accenture](https://www.stepstone.de/cmp/de/Accenture-7521/jobs.html), Trainee Software Engineering - Java (all genders)[https://www.stepstone.de/stellenangebote--Trainee-Software-Engineering-Java-all-genders-Dresden-Berlin-Frankfurt-Heidelberg-Duesseldorf-Stuttgart-Hof-Jena-Hamburg-Muenchen-Accenture--6660313-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=10_10_25_dynrl_s_1_2_2_0]
 6. MBition GmbH, Intern Hardware Lab (all genders)[https://www.stepstone.de/stellenangebote--Intern-Hardware-Lab-all-genders-Berlin-MBition-GmbH--6280844-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=13_13_25_dynrl_s_0_0_0_0]
-7. CQuest
+7. CQuest, Software Engineering Intern[https://de.indeed.com/Zeige-Job?cmp=CQuest&t=Software+Engineering+Intern&jk=7b19eedeacd26eda&q=Software&vjs=3]
+8. resonanz energy, Software Engineer Intern (m/w/d)
+9. 
 # 公司如何決定錄用
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
 amazon的文化是什麼？ 
@@ -1268,11 +1270,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY4MTA4NDMsLTkwNTQ4NTEwMSwxNT
-U3NDcyNzI4LDQxNzA3NDM2MiwxMDYwNTU3MjMzLC0yMDc4MTMx
-NTgsODQ1Nzc3NDQ1LDE3NTU3OTQxMzEsMTU4MjA4MjkyNCwtMT
-YyOTA0MDk4NiwxMTYyODM2MzIwLC0xNTgzNjkzMzMsMjA1MzM5
-MDAyMywtNzk5NzU3NzU0LDI5MzQ4NDkzNywxNzU2MzczMCwtMT
-k0MTIwMDc0NCwxNDQ1NjIzMTU5LC00NTU1OTM4NzcsMTc0NzEw
-MTkxNl19
+eyJoaXN0b3J5IjpbMjEyNTMxMDE0MCwtOTA1NDg1MTAxLDE1NT
+c0NzI3MjgsNDE3MDc0MzYyLDEwNjA1NTcyMzMsLTIwNzgxMzE1
+OCw4NDU3Nzc0NDUsMTc1NTc5NDEzMSwxNTgyMDgyOTI0LC0xNj
+I5MDQwOTg2LDExNjI4MzYzMjAsLTE1ODM2OTMzMywyMDUzMzkw
+MDIzLC03OTk3NTc3NTQsMjkzNDg0OTM3LDE3NTYzNzMwLC0xOT
+QxMjAwNzQ0LDE0NDU2MjMxNTksLTQ1NTU5Mzg3NywxNzQ3MTAx
+OTE2XX0=
 -->
