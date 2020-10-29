@@ -69,7 +69,9 @@ Mac 鍵符號
 7. CQuest, Software Engineering Intern[https://de.indeed.com/Zeige-Job?cmp=CQuest&t=Software+Engineering+Intern&jk=7b19eedeacd26eda&q=Software&vjs=3]
 8. resonanz energy, Software Engineer Intern (m/w/d)
 9. Mailbutler GmbH - Berlin, Working Student: Software Tester (m/f/x)
-10. 
+10. KUGU Home GmbH, Werkstudent IOT/Hardware/Embedded Software[https://de.indeed.com/viewjob?jk=86658035f323294b&tk=1elr6tdtut56n800&from=serp&vjs=3] 
+11. 
+
 # 公司如何決定錄用
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
 amazon的文化是什麼？ 
@@ -1271,7 +1273,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI4NzM4MzUsLTkwNTQ4NTEwMSwxNT
+eyJoaXN0b3J5IjpbLTExMTE0MjE2OTMsLTkwNTQ4NTEwMSwxNT
 U3NDcyNzI4LDQxNzA3NDM2MiwxMDYwNTU3MjMzLC0yMDc4MTMx
 NTgsODQ1Nzc3NDQ1LDE3NTU3OTQxMzEsMTU4MjA4MjkyNCwtMT
 YyOTA0MDk4NiwxMTYyODM2MzIwLC0xNTgzNjkzMzMsMjA1MzM5
