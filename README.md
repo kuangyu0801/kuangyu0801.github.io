@@ -60,6 +60,7 @@ Mac 鍵符號
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 
 # 不要害怕，海投海面試！
+關鍵字：Praktikum Informatik
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
 2.   Acrolinx GmbH: Intern or Working Student (m/f/d) Information Security [https://www.stepstone.de/stellenangebote--Intern-or-Working-Student-m-f-d-Information-Security-Berlin-Acrolinx-GmbH--6727445-inline.html?suid=0ac6b1d6-7199-4c0b-bd60-add5170ff546&rltr=16_16_25_dynrl_s_0_0_0_0]
 3.  [adesso SE](https://www.stepstone.de/cmp/de/adesso-SE-7420/jobs.html), Trainee (w/m/d) Softwareentwicklung Java[https://www.stepstone.de/stellenangebote--Trainee-w-m-d-Softwareentwicklung-Java-Dortmund-Aachen-Berlin-Essen-Frankfurt-Main-Hamburg-Hannover-Karlsruhe-Koeln-Muenchen-adesso-SE--6749957-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=8_8_25_dynrl_s_0_1_1_0]
@@ -1275,11 +1276,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDMzODIzMDcsLTkwNTQ4NTEwMSwxNT
-U3NDcyNzI4LDQxNzA3NDM2MiwxMDYwNTU3MjMzLC0yMDc4MTMx
-NTgsODQ1Nzc3NDQ1LDE3NTU3OTQxMzEsMTU4MjA4MjkyNCwtMT
-YyOTA0MDk4NiwxMTYyODM2MzIwLC0xNTgzNjkzMzMsMjA1MzM5
-MDAyMywtNzk5NzU3NzU0LDI5MzQ4NDkzNywxNzU2MzczMCwtMT
-k0MTIwMDc0NCwxNDQ1NjIzMTU5LC00NTU1OTM4NzcsMTc0NzEw
-MTkxNl19
+eyJoaXN0b3J5IjpbMzA0MDIyMzQzLC05MDU0ODUxMDEsMTU1Nz
+Q3MjcyOCw0MTcwNzQzNjIsMTA2MDU1NzIzMywtMjA3ODEzMTU4
+LDg0NTc3NzQ0NSwxNzU1Nzk0MTMxLDE1ODIwODI5MjQsLTE2Mj
+kwNDA5ODYsMTE2MjgzNjMyMCwtMTU4MzY5MzMzLDIwNTMzOTAw
+MjMsLTc5OTc1Nzc1NCwyOTM0ODQ5MzcsMTc1NjM3MzAsLTE5ND
+EyMDA3NDQsMTQ0NTYyMzE1OSwtNDU1NTkzODc3LDE3NDcxMDE5
+MTZdfQ==
 -->
