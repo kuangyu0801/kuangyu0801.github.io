@@ -70,7 +70,7 @@ Mac 鍵符號
 8. resonanz energy, Software Engineer Intern (m/w/d)
 9. Mailbutler GmbH - Berlin, Working Student: Software Tester (m/f/x)
 10. KUGU Home GmbH, Werkstudent IOT/Hardware/Embedded Software[https://de.indeed.com/viewjob?jk=86658035f323294b&tk=1elr6tdtut56n800&from=serp&vjs=3] 
-11.  BLS-Analytik GmbH, IT Software Developer Intern (m/f/d)
+11.  Tentamus, IT Software Developer Intern (m/f/d)[https://www.tentamus.com/career/software-developer-intern-paid/]
 
 # 公司如何決定錄用
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
@@ -1273,7 +1273,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzAzNzc3OCwtOTA1NDg1MTAxLDE1NT
+eyJoaXN0b3J5IjpbLTI5Njg5MTkyMywtOTA1NDg1MTAxLDE1NT
 c0NzI3MjgsNDE3MDc0MzYyLDEwNjA1NTcyMzMsLTIwNzgxMzE1
 OCw4NDU3Nzc0NDUsMTc1NTc5NDEzMSwxNTgyMDgyOTI0LC0xNj
 I5MDQwOTg2LDExNjI4MzYzMjAsLTE1ODM2OTMzMywyMDUzMzkw
