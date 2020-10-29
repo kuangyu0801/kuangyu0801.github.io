@@ -60,7 +60,8 @@ Mac 鍵符號
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 
 # 不要害怕，海投海面試！
-關鍵字：Praktikum Informatik
+關鍵字：Praktikum Informatik,   
+Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
 2.   Acrolinx GmbH: Intern or Working Student (m/f/d) Information Security [https://www.stepstone.de/stellenangebote--Intern-or-Working-Student-m-f-d-Information-Security-Berlin-Acrolinx-GmbH--6727445-inline.html?suid=0ac6b1d6-7199-4c0b-bd60-add5170ff546&rltr=16_16_25_dynrl_s_0_0_0_0]
 3.  [adesso SE](https://www.stepstone.de/cmp/de/adesso-SE-7420/jobs.html), Trainee (w/m/d) Softwareentwicklung Java[https://www.stepstone.de/stellenangebote--Trainee-w-m-d-Softwareentwicklung-Java-Dortmund-Aachen-Berlin-Essen-Frankfurt-Main-Hamburg-Hannover-Karlsruhe-Koeln-Muenchen-adesso-SE--6749957-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=8_8_25_dynrl_s_0_1_1_0]
@@ -76,7 +77,8 @@ Mac 鍵符號
 13. Boston Consulting Group, Visiting Software Engineer (internship)
 14. [interact.io](https://de.indeed.com/cmp/Interact.io?campaignid=mobvjcmp&from=mobviewjob&tk=1elr7c83mt538800&fromjk=5d6ef5756fcb8ca7),  Working Students - Backend Developer
 15. creative workline, Android Entwickler (m/w/d)
-16. KAMAsys GmbH
+16. KAMAsys GmbH, WERKSTUDENT ENTWICKLUNG (M/W/D)
+17.  [Campusjäger GmbH](https://de.indeed.com/cmp/Campusj%C3%A4ger-Gmbh?campaignid=mobvjcmp&from=mobviewjob&tk=1elr81ctot4qs800&fromjk=6d0919e38c8449e8), Software development intern
 
 -
 # 公司如何決定錄用
@@ -1280,11 +1282,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzEwMzE1MiwxNzY5OTUwNTE0LC05MD
-U0ODUxMDEsMTU1NzQ3MjcyOCw0MTcwNzQzNjIsMTA2MDU1NzIz
-MywtMjA3ODEzMTU4LDg0NTc3NzQ0NSwxNzU1Nzk0MTMxLDE1OD
-IwODI5MjQsLTE2MjkwNDA5ODYsMTE2MjgzNjMyMCwtMTU4MzY5
-MzMzLDIwNTMzOTAwMjMsLTc5OTc1Nzc1NCwyOTM0ODQ5MzcsMT
-c1NjM3MzAsLTE5NDEyMDA3NDQsMTQ0NTYyMzE1OSwtNDU1NTkz
-ODc3XX0=
+eyJoaXN0b3J5IjpbLTg2MDI0MTA2LDE3Njk5NTA1MTQsLTkwNT
+Q4NTEwMSwxNTU3NDcyNzI4LDQxNzA3NDM2MiwxMDYwNTU3MjMz
+LC0yMDc4MTMxNTgsODQ1Nzc3NDQ1LDE3NTU3OTQxMzEsMTU4Mj
+A4MjkyNCwtMTYyOTA0MDk4NiwxMTYyODM2MzIwLC0xNTgzNjkz
+MzMsMjA1MzM5MDAyMywtNzk5NzU3NzU0LDI5MzQ4NDkzNywxNz
+U2MzczMCwtMTk0MTIwMDc0NCwxNDQ1NjIzMTU5LC00NTU1OTM4
+NzddfQ==
 -->
