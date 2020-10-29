@@ -61,7 +61,8 @@ Mac 鍵符號
 
 # 不要害怕，海投海面試！
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
-2. 
+2. Intern or Working Student (m/f/d) Information Security
+3. Trainee (w/m/d) Softwareentwicklung Java[
 # 公司如何決定錄用
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
 amazon的文化是什麼？ 
@@ -1263,11 +1264,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU1NjkzOTMsMTU1NzQ3MjcyOCw0MT
-cwNzQzNjIsMTA2MDU1NzIzMywtMjA3ODEzMTU4LDg0NTc3NzQ0
-NSwxNzU1Nzk0MTMxLDE1ODIwODI5MjQsLTE2MjkwNDA5ODYsMT
-E2MjgzNjMyMCwtMTU4MzY5MzMzLDIwNTMzOTAwMjMsLTc5OTc1
-Nzc1NCwyOTM0ODQ5MzcsMTc1NjM3MzAsLTE5NDEyMDA3NDQsMT
-Q0NTYyMzE1OSwtNDU1NTkzODc3LDE3NDcxMDE5MTYsMTkwNTkw
-ODYyMV19
+eyJoaXN0b3J5IjpbLTIxMjY0ODM4MSwxNTU3NDcyNzI4LDQxNz
+A3NDM2MiwxMDYwNTU3MjMzLC0yMDc4MTMxNTgsODQ1Nzc3NDQ1
+LDE3NTU3OTQxMzEsMTU4MjA4MjkyNCwtMTYyOTA0MDk4NiwxMT
+YyODM2MzIwLC0xNTgzNjkzMzMsMjA1MzM5MDAyMywtNzk5NzU3
+NzU0LDI5MzQ4NDkzNywxNzU2MzczMCwtMTk0MTIwMDc0NCwxND
+Q1NjIzMTU5LC00NTU1OTM4NzcsMTc0NzEwMTkxNiwxOTA1OTA4
+NjIxXX0=
 -->
