@@ -63,7 +63,8 @@ Mac 鍵符號
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
 2.   Acrolinx GmbH: Intern or Working Student (m/f/d) Information Security [https://www.stepstone.de/stellenangebote--Intern-or-Working-Student-m-f-d-Information-Security-Berlin-Acrolinx-GmbH--6727445-inline.html?suid=0ac6b1d6-7199-4c0b-bd60-add5170ff546&rltr=16_16_25_dynrl_s_0_0_0_0]
 3.  [adesso SE](https://www.stepstone.de/cmp/de/adesso-SE-7420/jobs.html), Trainee (w/m/d) Softwareentwicklung Java[https://www.stepstone.de/stellenangebote--Trainee-w-m-d-Softwareentwicklung-Java-Dortmund-Aachen-Berlin-Essen-Frankfurt-Main-Hamburg-Hannover-Karlsruhe-Koeln-Muenchen-adesso-SE--6749957-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=8_8_25_dynrl_s_0_1_1_0]
-4.   MBition GmbH, 
+4.   MBition GmbH,  Internship in Agile Software Testing (all genders)[https://www.stepstone.de/stellenangebote--Internship-in-Agile-Software-Testing-all-genders-Berlin-MBition-GmbH--6170406-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=9_9_25_dynrl_s_0_1_0_0]
+5. [Accenture](https://www.stepstone.de/cmp/de/Accenture-7521/jobs.html), Trainee Software Engineering - Java (all genders)[https://www.stepstone.de/stellenangebote--Trainee-Software-Engineering-Java-all-genders-Dresden-Berlin-Frankfurt-Heidelberg-Duesseldorf-Stuttgart-Hof-Jena-Hamburg-Muenchen-Accenture--6660313-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=10_10_25_dynrl_s_1_2_2_0]
 # 公司如何決定錄用
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
 amazon的文化是什麼？ 
@@ -1265,11 +1266,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDI1NDQzOSwxNTU3NDcyNzI4LDQxNz
-A3NDM2MiwxMDYwNTU3MjMzLC0yMDc4MTMxNTgsODQ1Nzc3NDQ1
-LDE3NTU3OTQxMzEsMTU4MjA4MjkyNCwtMTYyOTA0MDk4NiwxMT
-YyODM2MzIwLC0xNTgzNjkzMzMsMjA1MzM5MDAyMywtNzk5NzU3
-NzU0LDI5MzQ4NDkzNywxNzU2MzczMCwtMTk0MTIwMDc0NCwxND
-Q1NjIzMTU5LC00NTU1OTM4NzcsMTc0NzEwMTkxNiwxOTA1OTA4
-NjIxXX0=
+eyJoaXN0b3J5IjpbLTM2MzgyMTkzLDE1NTc0NzI3MjgsNDE3MD
+c0MzYyLDEwNjA1NTcyMzMsLTIwNzgxMzE1OCw4NDU3Nzc0NDUs
+MTc1NTc5NDEzMSwxNTgyMDgyOTI0LC0xNjI5MDQwOTg2LDExNj
+I4MzYzMjAsLTE1ODM2OTMzMywyMDUzMzkwMDIzLC03OTk3NTc3
+NTQsMjkzNDg0OTM3LDE3NTYzNzMwLC0xOTQxMjAwNzQ0LDE0ND
+U2MjMxNTksLTQ1NTU5Mzg3NywxNzQ3MTAxOTE2LDE5MDU5MDg2
+MjFdfQ==
 -->
