@@ -61,8 +61,9 @@ Mac 鍵符號
 
 # 不要害怕，海投海面試！
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
-2. Intern or Working Student (m/f/d) Information Security
-3. Trainee (w/m/d) Softwareentwicklung Java[
+2.   Acrolinx GmbH: Intern or Working Student (m/f/d) Information Security [https://www.stepstone.de/stellenangebote--Intern-or-Working-Student-m-f-d-Information-Security-Berlin-Acrolinx-GmbH--6727445-inline.html?suid=0ac6b1d6-7199-4c0b-bd60-add5170ff546&rltr=16_16_25_dynrl_s_0_0_0_0]
+3.  [adesso SE](https://www.stepstone.de/cmp/de/adesso-SE-7420/jobs.html), Trainee (w/m/d) Softwareentwicklung Java[https://www.stepstone.de/stellenangebote--Trainee-w-m-d-Softwareentwicklung-Java-Dortmund-Aachen-Berlin-Essen-Frankfurt-Main-Hamburg-Hannover-Karlsruhe-Koeln-Muenchen-adesso-SE--6749957-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=8_8_25_dynrl_s_0_1_1_0]
+4.   MBition GmbH, 
 # 公司如何決定錄用
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
 amazon的文化是什麼？ 
@@ -1264,7 +1265,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY0ODM4MSwxNTU3NDcyNzI4LDQxNz
+eyJoaXN0b3J5IjpbMjA0NDI1NDQzOSwxNTU3NDcyNzI4LDQxNz
 A3NDM2MiwxMDYwNTU3MjMzLC0yMDc4MTMxNTgsODQ1Nzc3NDQ1
 LDE3NTU3OTQxMzEsMTU4MjA4MjkyNCwtMTYyOTA0MDk4NiwxMT
 YyODM2MzIwLC0xNTgzNjkzMzMsMjA1MzM5MDAyMywtNzk5NzU3
