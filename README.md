@@ -80,6 +80,7 @@ Software development intern
 15. creative workline, Android Entwickler (m/w/d)
 16. KAMAsys GmbH, WERKSTUDENT ENTWICKLUNG (M/W/D)
 17.  [Campusjäger GmbH](https://de.indeed.com/cmp/Campusj%C3%A4ger-Gmbh?campaignid=mobvjcmp&from=mobviewjob&tk=1elr81ctot4qs800&fromjk=6d0919e38c8449e8), Software development intern
+18. (linkedin) msg, Trainee Software Engineer / Branche Banking (m/w/d),
 
 -
 # 公司如何決定錄用
@@ -1283,11 +1284,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDgxNDMxNSwtODYwMjQxMDYsMTc2OT
-k1MDUxNCwtOTA1NDg1MTAxLDE1NTc0NzI3MjgsNDE3MDc0MzYy
-LDEwNjA1NTcyMzMsLTIwNzgxMzE1OCw4NDU3Nzc0NDUsMTc1NT
-c5NDEzMSwxNTgyMDgyOTI0LC0xNjI5MDQwOTg2LDExNjI4MzYz
-MjAsLTE1ODM2OTMzMywyMDUzMzkwMDIzLC03OTk3NTc3NTQsMj
-kzNDg0OTM3LDE3NTYzNzMwLC0xOTQxMjAwNzQ0LDE0NDU2MjMx
-NTldfQ==
+eyJoaXN0b3J5IjpbODM1NjExNzg3LDEzNDQ4MTQzMTUsLTg2MD
+I0MTA2LDE3Njk5NTA1MTQsLTkwNTQ4NTEwMSwxNTU3NDcyNzI4
+LDQxNzA3NDM2MiwxMDYwNTU3MjMzLC0yMDc4MTMxNTgsODQ1Nz
+c3NDQ1LDE3NTU3OTQxMzEsMTU4MjA4MjkyNCwtMTYyOTA0MDk4
+NiwxMTYyODM2MzIwLC0xNTgzNjkzMzMsMjA1MzM5MDAyMywtNz
+k5NzU3NzU0LDI5MzQ4NDkzNywxNzU2MzczMCwtMTk0MTIwMDc0
+NF19
 -->
