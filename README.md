@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+- [不要害怕，海投海面試！](#不要害怕，海投海面試！)
 - [高頻一百連結](#高頻一百連結)
 - [Amazon OA](#amazon-oa)
 - [Mind Set](#mind-set)
@@ -1282,11 +1283,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDI0MTA2LDE3Njk5NTA1MTQsLTkwNT
-Q4NTEwMSwxNTU3NDcyNzI4LDQxNzA3NDM2MiwxMDYwNTU3MjMz
-LC0yMDc4MTMxNTgsODQ1Nzc3NDQ1LDE3NTU3OTQxMzEsMTU4Mj
-A4MjkyNCwtMTYyOTA0MDk4NiwxMTYyODM2MzIwLC0xNTgzNjkz
-MzMsMjA1MzM5MDAyMywtNzk5NzU3NzU0LDI5MzQ4NDkzNywxNz
-U2MzczMCwtMTk0MTIwMDc0NCwxNDQ1NjIzMTU5LC00NTU1OTM4
-NzddfQ==
+eyJoaXN0b3J5IjpbMTM0NDgxNDMxNSwtODYwMjQxMDYsMTc2OT
+k1MDUxNCwtOTA1NDg1MTAxLDE1NTc0NzI3MjgsNDE3MDc0MzYy
+LDEwNjA1NTcyMzMsLTIwNzgxMzE1OCw4NDU3Nzc0NDUsMTc1NT
+c5NDEzMSwxNTgyMDgyOTI0LC0xNjI5MDQwOTg2LDExNjI4MzYz
+MjAsLTE1ODM2OTMzMywyMDUzMzkwMDIzLC03OTk3NTc3NTQsMj
+kzNDg0OTM3LDE3NTYzNzMwLC0xOTQxMjAwNzQ0LDE0NDU2MjMx
+NTldfQ==
 -->
