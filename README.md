@@ -82,7 +82,7 @@ Software development intern
 17.  [Campusjäger GmbH](https://de.indeed.com/cmp/Campusj%C3%A4ger-Gmbh?campaignid=mobvjcmp&from=mobviewjob&tk=1elr81ctot4qs800&fromjk=6d0919e38c8449e8), Software development intern
 18. (linkedin) msg, Trainee Software Engineer / Branche Banking (m/w/d),
 
--
+19. 
 # 公司如何決定錄用
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
 amazon的文化是什麼？ 
@@ -1284,11 +1284,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5Njc3NTgsLTU1NTMzNDMxMCw4MzU2MT
-E3ODcsMTM0NDgxNDMxNSwtODYwMjQxMDYsMTc2OTk1MDUxNCwt
-OTA1NDg1MTAxLDE1NTc0NzI3MjgsNDE3MDc0MzYyLDEwNjA1NT
-cyMzMsLTIwNzgxMzE1OCw4NDU3Nzc0NDUsMTc1NTc5NDEzMSwx
-NTgyMDgyOTI0LC0xNjI5MDQwOTg2LDExNjI4MzYzMjAsLTE1OD
-M2OTMzMywyMDUzMzkwMDIzLC03OTk3NTc3NTQsMjkzNDg0OTM3
-XX0=
+eyJoaXN0b3J5IjpbMTA2NTg3NTgzNSwtNTU1MzM0MzEwLDgzNT
+YxMTc4NywxMzQ0ODE0MzE1LC04NjAyNDEwNiwxNzY5OTUwNTE0
+LC05MDU0ODUxMDEsMTU1NzQ3MjcyOCw0MTcwNzQzNjIsMTA2MD
+U1NzIzMywtMjA3ODEzMTU4LDg0NTc3NzQ0NSwxNzU1Nzk0MTMx
+LDE1ODIwODI5MjQsLTE2MjkwNDA5ODYsMTE2MjgzNjMyMCwtMT
+U4MzY5MzMzLDIwNTMzOTAwMjMsLTc5OTc1Nzc1NCwyOTM0ODQ5
+MzddfQ==
 -->
