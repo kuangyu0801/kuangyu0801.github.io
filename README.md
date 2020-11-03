@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-- [不要害怕，海投海面試！](#不要害怕，海投海面試！)
+- [不要害怕海投海面](#不要害怕海投海面)
 - [高頻一百連結](#高頻一百連結)
 - [Amazon OA](#amazon-oa)
 - [Mind Set](#mind-set)
@@ -60,7 +60,7 @@ Mac 鍵符號
  - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 
-# 不要害怕，海投海面試！
+# 不要害怕海投海面
 關鍵字：Praktikum Informatik,   
 Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
@@ -1284,11 +1284,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1NjExNzg3LDEzNDQ4MTQzMTUsLTg2MD
-I0MTA2LDE3Njk5NTA1MTQsLTkwNTQ4NTEwMSwxNTU3NDcyNzI4
-LDQxNzA3NDM2MiwxMDYwNTU3MjMzLC0yMDc4MTMxNTgsODQ1Nz
-c3NDQ1LDE3NTU3OTQxMzEsMTU4MjA4MjkyNCwtMTYyOTA0MDk4
-NiwxMTYyODM2MzIwLC0xNTgzNjkzMzMsMjA1MzM5MDAyMywtNz
-k5NzU3NzU0LDI5MzQ4NDkzNywxNzU2MzczMCwtMTk0MTIwMDc0
-NF19
+eyJoaXN0b3J5IjpbLTU1NTMzNDMxMCw4MzU2MTE3ODcsMTM0ND
+gxNDMxNSwtODYwMjQxMDYsMTc2OTk1MDUxNCwtOTA1NDg1MTAx
+LDE1NTc0NzI3MjgsNDE3MDc0MzYyLDEwNjA1NTcyMzMsLTIwNz
+gxMzE1OCw4NDU3Nzc0NDUsMTc1NTc5NDEzMSwxNTgyMDgyOTI0
+LC0xNjI5MDQwOTg2LDExNjI4MzYzMjAsLTE1ODM2OTMzMywyMD
+UzMzkwMDIzLC03OTk3NTc3NTQsMjkzNDg0OTM3LDE3NTYzNzMw
+XX0=
 -->
