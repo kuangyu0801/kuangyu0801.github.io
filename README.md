@@ -82,7 +82,7 @@ Software development intern
 17.  [Campusjäger GmbH](https://de.indeed.com/cmp/Campusj%C3%A4ger-Gmbh?campaignid=mobvjcmp&from=mobviewjob&tk=1elr81ctot4qs800&fromjk=6d0919e38c8449e8), Software development intern
 18. (linkedin) msg, Trainee Software Engineer / Branche Banking (m/w/d),
 
-19. IVU Traffic Technologies, # Studenten (m/w/d) im Cloud-Bereich[https://www.stepstone.de/stellenangebote--Studenten-m-w-d-im-Cloud-Bereich-Berlin-IVU-Traffic-Technologies-AG--6758148-inline.html]
+19. [11.03申請]IVU Traffic Technologies, # Studenten (m/w/d) im Cloud-Bereich[https://www.stepstone.de/stellenangebote--Studenten-m-w-d-im-Cloud-Bereich-Berlin-IVU-Traffic-Technologies-AG--6758148-inline.html]
 # 公司如何決定錄用
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
 amazon的文化是什麼？ 
@@ -1284,11 +1284,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTgwMzAwNCwtNTU1MzM0MzEwLDgzNT
-YxMTc4NywxMzQ0ODE0MzE1LC04NjAyNDEwNiwxNzY5OTUwNTE0
-LC05MDU0ODUxMDEsMTU1NzQ3MjcyOCw0MTcwNzQzNjIsMTA2MD
-U1NzIzMywtMjA3ODEzMTU4LDg0NTc3NzQ0NSwxNzU1Nzk0MTMx
-LDE1ODIwODI5MjQsLTE2MjkwNDA5ODYsMTE2MjgzNjMyMCwtMT
-U4MzY5MzMzLDIwNTMzOTAwMjMsLTc5OTc1Nzc1NCwyOTM0ODQ5
-MzddfQ==
+eyJoaXN0b3J5IjpbLTYxOTUxMzA2NSwxNTMxODAzMDA0LC01NT
+UzMzQzMTAsODM1NjExNzg3LDEzNDQ4MTQzMTUsLTg2MDI0MTA2
+LDE3Njk5NTA1MTQsLTkwNTQ4NTEwMSwxNTU3NDcyNzI4LDQxNz
+A3NDM2MiwxMDYwNTU3MjMzLC0yMDc4MTMxNTgsODQ1Nzc3NDQ1
+LDE3NTU3OTQxMzEsMTU4MjA4MjkyNCwtMTYyOTA0MDk4NiwxMT
+YyODM2MzIwLC0xNTgzNjkzMzMsMjA1MzM5MDAyMywtNzk5NzU3
+NzU0XX0=
 -->
