@@ -64,7 +64,7 @@ Mac 鍵符號
 關鍵字：Praktikum Informatik,   
 Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
-2.   Acrolinx GmbH: Intern or Working Student (m/f/d) Information Security [https://www.stepstone.de/stellenangebote--Intern-or-Working-Student-m-f-d-Information-Security-Berlin-Acrolinx-GmbH--6727445-inline.html?suid=0ac6b1d6-7199-4c0b-bd60-add5170ff546&rltr=16_16_25_dynrl_s_0_0_0_0]
+2.   [11.03申請]Acrolinx GmbH:## Werkstudent IT Operations (m/w/d)[https://jobs.eu.lever.co/acrolinx/5a91fff7-d10c-4114-8a4a-b694270c5b60]
 3.  [adesso SE](https://www.stepstone.de/cmp/de/adesso-SE-7420/jobs.html), Trainee (w/m/d) Softwareentwicklung Java[https://www.stepstone.de/stellenangebote--Trainee-w-m-d-Softwareentwicklung-Java-Dortmund-Aachen-Berlin-Essen-Frankfurt-Main-Hamburg-Hannover-Karlsruhe-Koeln-Muenchen-adesso-SE--6749957-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=8_8_25_dynrl_s_0_1_1_0]
 4.   MBition GmbH,  Internship in Agile Software Testing (all genders)[https://www.stepstone.de/stellenangebote--Internship-in-Agile-Software-Testing-all-genders-Berlin-MBition-GmbH--6170406-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=9_9_25_dynrl_s_0_1_0_0]
 5. [Accenture](https://www.stepstone.de/cmp/de/Accenture-7521/jobs.html), Trainee Software Engineering - Java (all genders)[https://www.stepstone.de/stellenangebote--Trainee-Software-Engineering-Java-all-genders-Dresden-Berlin-Frankfurt-Heidelberg-Duesseldorf-Stuttgart-Hof-Jena-Hamburg-Muenchen-Accenture--6660313-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=10_10_25_dynrl_s_1_2_2_0]
@@ -1284,11 +1284,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTMzNDMxMCw4MzU2MTE3ODcsMTM0ND
-gxNDMxNSwtODYwMjQxMDYsMTc2OTk1MDUxNCwtOTA1NDg1MTAx
-LDE1NTc0NzI3MjgsNDE3MDc0MzYyLDEwNjA1NTcyMzMsLTIwNz
-gxMzE1OCw4NDU3Nzc0NDUsMTc1NTc5NDEzMSwxNTgyMDgyOTI0
-LC0xNjI5MDQwOTg2LDExNjI4MzYzMjAsLTE1ODM2OTMzMywyMD
-UzMzkwMDIzLC03OTk3NTc3NTQsMjkzNDg0OTM3LDE3NTYzNzMw
+eyJoaXN0b3J5IjpbNDc5Njc3NTgsLTU1NTMzNDMxMCw4MzU2MT
+E3ODcsMTM0NDgxNDMxNSwtODYwMjQxMDYsMTc2OTk1MDUxNCwt
+OTA1NDg1MTAxLDE1NTc0NzI3MjgsNDE3MDc0MzYyLDEwNjA1NT
+cyMzMsLTIwNzgxMzE1OCw4NDU3Nzc0NDUsMTc1NTc5NDEzMSwx
+NTgyMDgyOTI0LC0xNjI5MDQwOTg2LDExNjI4MzYzMjAsLTE1OD
+M2OTMzMywyMDUzMzkwMDIzLC03OTk3NTc3NTQsMjkzNDg0OTM3
 XX0=
 -->
