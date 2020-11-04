@@ -87,9 +87,9 @@ Software development intern
 21. ### [gamigo group](https://www.linkedin.com/company/gamigo-ag/life/) Company Location Data Engineering Intern (m/f/d), 
 22. ### [Trade Republic](https://www.linkedin.com/company/trade-republic/life/) # Intern IT Security
 23. [Next Big Thing AG](https://www.linkedin.com/company/next-big-thing-ag/life/), [part-time paid intern as technical support @ ConcR](https://www.linkedin.com/jobs/view/2231802288/?alternateChannel=search&refId=cdf5b961-fa18-4fc6-acea-0e1d45c8c965&trackingId=R8BG%2BqXEDFzTehIBYe2BEg%3D%3D&trk=flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BpFgeiIwCSLiKwSGXz2DtJw%3D%3D)
-24.  ### [sennder](https://www.linkedin.com/company/sennder/life/) ,Automation Intern Linkedin
-25. ### [door2door](https://www.linkedin.com/company/door2door-the-mobility-company/life/) Company Location, # IT System Admin Working Student - f/m/x
-26. 
+24.  ### [sennder](https://www.linkedin.com/company/sennder/life/) ,Automation Intern (Linkedin)
+25. ### [door2door](https://www.linkedin.com/company/door2door-the-mobility-company/life/) Company Location, # IT System Admin Working Student - f/m/x(Linkedin)
+26. ### Tentamus, IT Software Developer Intern (m/f/d) (Linkedin)
 
 # 公司如何決定錄用
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
@@ -1292,7 +1292,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjk5MzExOSwtNjY5MjA0NDE3LC0xND
+eyJoaXN0b3J5IjpbMTU2MDM0MzY2MCwtNjY5MjA0NDE3LC0xND
 Q3MjY5ODkxLC02MTk1MTMwNjUsMTUzMTgwMzAwNCwtNTU1MzM0
 MzEwLDgzNTYxMTc4NywxMzQ0ODE0MzE1LC04NjAyNDEwNiwxNz
 Y5OTUwNTE0LC05MDU0ODUxMDEsMTU1NzQ3MjcyOCw0MTcwNzQz
