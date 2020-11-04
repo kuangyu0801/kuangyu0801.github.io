@@ -84,6 +84,7 @@ Software development intern
 
 19. [11.03申請]IVU Traffic Technologies, # Studenten (m/w/d) im Cloud-Bereich[https://www.stepstone.de/stellenangebote--Studenten-m-w-d-im-Cloud-Bereich-Berlin-IVU-Traffic-Technologies-AG--6758148-inline.html]
 20. Jina AI Company,[ Deep Learning Engineer Intern](https://www.linkedin.com/jobs/view/2273454728/?alternateChannel=search&refId=99d269d1-1c83-49ad-a67e-75349d45fedd&trackingId=KJqXCXJ%2BoxFQUesbuhLJOg%3D%3D&trk=flagship3_search_srp_jobs)
+21. ### [gamigo group](https://www.linkedin.com/company/gamigo-ag/life/) Company Location Data Engineering Intern (m/f/d), 
 
 ## Deep Learning Engineer Intern
 # 公司如何決定錄用
@@ -1287,11 +1288,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcyNjk4OTEsLTYxOTUxMzA2NSwxNT
-MxODAzMDA0LC01NTUzMzQzMTAsODM1NjExNzg3LDEzNDQ4MTQz
-MTUsLTg2MDI0MTA2LDE3Njk5NTA1MTQsLTkwNTQ4NTEwMSwxNT
-U3NDcyNzI4LDQxNzA3NDM2MiwxMDYwNTU3MjMzLC0yMDc4MTMx
-NTgsODQ1Nzc3NDQ1LDE3NTU3OTQxMzEsMTU4MjA4MjkyNCwtMT
-YyOTA0MDk4NiwxMTYyODM2MzIwLC0xNTgzNjkzMzMsMjA1MzM5
-MDAyM119
+eyJoaXN0b3J5IjpbMTY3NzE1NjM3NywtMTQ0NzI2OTg5MSwtNj
+E5NTEzMDY1LDE1MzE4MDMwMDQsLTU1NTMzNDMxMCw4MzU2MTE3
+ODcsMTM0NDgxNDMxNSwtODYwMjQxMDYsMTc2OTk1MDUxNCwtOT
+A1NDg1MTAxLDE1NTc0NzI3MjgsNDE3MDc0MzYyLDEwNjA1NTcy
+MzMsLTIwNzgxMzE1OCw4NDU3Nzc0NDUsMTc1NTc5NDEzMSwxNT
+gyMDgyOTI0LC0xNjI5MDQwOTg2LDExNjI4MzYzMjAsLTE1ODM2
+OTMzM119
 -->
