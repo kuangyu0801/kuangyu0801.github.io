@@ -87,7 +87,8 @@ Software development intern
 21. ### [gamigo group](https://www.linkedin.com/company/gamigo-ag/life/) Company Location Data Engineering Intern (m/f/d), 
 22. ### [Trade Republic](https://www.linkedin.com/company/trade-republic/life/) # Intern IT Security
 23. [Next Big Thing AG](https://www.linkedin.com/company/next-big-thing-ag/life/), [part-time paid intern as technical support @ ConcR](https://www.linkedin.com/jobs/view/2231802288/?alternateChannel=search&refId=cdf5b961-fa18-4fc6-acea-0e1d45c8c965&trackingId=R8BG%2BqXEDFzTehIBYe2BEg%3D%3D&trk=flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BpFgeiIwCSLiKwSGXz2DtJw%3D%3D)
-24. #### Linkedin ### [sennder](https://www.linkedin.com/company/sennder/life/) ,Automation Intern
+24.  ### [sennder](https://www.linkedin.com/company/sennder/life/) ,Automation Intern Linkedin
+25. 
 
 # 公司如何決定錄用
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
@@ -1290,7 +1291,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjg5ODkzMCwtMTQ0NzI2OTg5MSwtNj
+eyJoaXN0b3J5IjpbLTY2OTIwNDQxNywtMTQ0NzI2OTg5MSwtNj
 E5NTEzMDY1LDE1MzE4MDMwMDQsLTU1NTMzNDMxMCw4MzU2MTE3
 ODcsMTM0NDgxNDMxNSwtODYwMjQxMDYsMTc2OTk1MDUxNCwtOT
 A1NDg1MTAxLDE1NTc0NzI3MjgsNDE3MDc0MzYyLDEwNjA1NTcy
