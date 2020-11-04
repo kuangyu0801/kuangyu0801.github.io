@@ -92,6 +92,7 @@ Software development intern
 26. ### Tentamus, IT Software Developer Intern (m/f/d) (Linkedin)
 27. ### Snowflake, # Software Engineer Intern (Linkedin)
 28. Tesla, # Quality Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
+29. 
 
 
 
@@ -1296,11 +1297,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNjc0Mzk3LDEwNzIwMjk0MjAsLTY2OT
-IwNDQxNywtMTQ0NzI2OTg5MSwtNjE5NTEzMDY1LDE1MzE4MDMw
-MDQsLTU1NTMzNDMxMCw4MzU2MTE3ODcsMTM0NDgxNDMxNSwtOD
-YwMjQxMDYsMTc2OTk1MDUxNCwtOTA1NDg1MTAxLDE1NTc0NzI3
-MjgsNDE3MDc0MzYyLDEwNjA1NTcyMzMsLTIwNzgxMzE1OCw4ND
-U3Nzc0NDUsMTc1NTc5NDEzMSwxNTgyMDgyOTI0LC0xNjI5MDQw
-OTg2XX0=
+eyJoaXN0b3J5IjpbLTgxMTM5ODU1MiwxMDcyMDI5NDIwLC02Nj
+kyMDQ0MTcsLTE0NDcyNjk4OTEsLTYxOTUxMzA2NSwxNTMxODAz
+MDA0LC01NTUzMzQzMTAsODM1NjExNzg3LDEzNDQ4MTQzMTUsLT
+g2MDI0MTA2LDE3Njk5NTA1MTQsLTkwNTQ4NTEwMSwxNTU3NDcy
+NzI4LDQxNzA3NDM2MiwxMDYwNTU3MjMzLC0yMDc4MTMxNTgsOD
+Q1Nzc3NDQ1LDE3NTU3OTQxMzEsMTU4MjA4MjkyNCwtMTYyOTA0
+MDk4Nl19
 -->
