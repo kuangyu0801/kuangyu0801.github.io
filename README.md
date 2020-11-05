@@ -92,7 +92,7 @@ Software development intern
 26. ### Tentamus, IT Software Developer Intern (m/f/d) (Linkedin)
 27. ### Snowflake, # Software Engineer Intern (Linkedin)
 28. Tesla, # Quality Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
-29. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System]https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
+29. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System] https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
 
 
 
@@ -1297,11 +1297,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODI5OTAwNCwtODExMzk4NTUyLDEwNz
-IwMjk0MjAsLTY2OTIwNDQxNywtMTQ0NzI2OTg5MSwtNjE5NTEz
-MDY1LDE1MzE4MDMwMDQsLTU1NTMzNDMxMCw4MzU2MTE3ODcsMT
-M0NDgxNDMxNSwtODYwMjQxMDYsMTc2OTk1MDUxNCwtOTA1NDg1
-MTAxLDE1NTc0NzI3MjgsNDE3MDc0MzYyLDEwNjA1NTcyMzMsLT
-IwNzgxMzE1OCw4NDU3Nzc0NDUsMTc1NTc5NDEzMSwxNTgyMDgy
-OTI0XX0=
+eyJoaXN0b3J5IjpbNDE0NDcyODI4LC04MTEzOTg1NTIsMTA3Mj
+AyOTQyMCwtNjY5MjA0NDE3LC0xNDQ3MjY5ODkxLC02MTk1MTMw
+NjUsMTUzMTgwMzAwNCwtNTU1MzM0MzEwLDgzNTYxMTc4NywxMz
+Q0ODE0MzE1LC04NjAyNDEwNiwxNzY5OTUwNTE0LC05MDU0ODUx
+MDEsMTU1NzQ3MjcyOCw0MTcwNzQzNjIsMTA2MDU1NzIzMywtMj
+A3ODEzMTU4LDg0NTc3NzQ0NSwxNzU1Nzk0MTMxLDE1ODIwODI5
+MjRdfQ==
 -->
