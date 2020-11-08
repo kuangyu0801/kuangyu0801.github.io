@@ -73,28 +73,28 @@ Software development intern
 8. resonanz energy, Software Engineer Intern (m/w/d)
 9. Mailbutler GmbH - Berlin, Working Student: Software Tester (m/f/x)
 10. KUGU Home GmbH, Werkstudent IOT/Hardware/Embedded Software[https://de.indeed.com/viewjob?jk=86658035f323294b&tk=1elr6tdtut56n800&from=serp&vjs=3] 
-11.  ppTentamus, IT Software Developer Intern (m/f/d)[https://www.tentamus.com/career/software-developer-intern-paid/]
-12. beroNet GmbH, Developer Intern[https://de.indeed.com/viewjob?from=web%2CiaBackPress&jk=24f5be6375ce2653&l=Berlin&q=Software&tk=1elr7but8s7d8800&vjs=3]
-13. Boston Consulting Group, Visiting Software Engineer (internship)
-14. [interact.io](https://de.indeed.com/cmp/Interact.io?campaignid=mobvjcmp&from=mobviewjob&tk=1elr7c83mt538800&fromjk=5d6ef5756fcb8ca7),  Working Students - Backend Developer
-15. creative workline, Android Entwickler (m/w/d)
-16. KAMAsys GmbH, WERKSTUDENT ENTWICKLUNG (M/W/D)
-17.  [Campusjäger GmbH](https://de.indeed.com/cmp/Campusj%C3%A4ger-Gmbh?campaignid=mobvjcmp&from=mobviewjob&tk=1elr81ctot4qs800&fromjk=6d0919e38c8449e8), Software development intern
-18. (linkedin) msg, Trainee Software Engineer / Branche Banking (m/w/d),
+11.  [11.08申請 via mail, 這是一家實驗室公司, 我興趣不大但姑且試試] Tentamus, IT Software Developer Intern (m/f/d)[https://www.tentamus.com/career/software-developer-intern-paid/]
+13. beroNet GmbH, Developer Intern[https://de.indeed.com/viewjob?from=web%2CiaBackPress&jk=24f5be6375ce2653&l=Berlin&q=Software&tk=1elr7but8s7d8800&vjs=3]
+14. Boston Consulting Group, Visiting Software Engineer (internship)
+15. [interact.io](https://de.indeed.com/cmp/Interact.io?campaignid=mobvjcmp&from=mobviewjob&tk=1elr7c83mt538800&fromjk=5d6ef5756fcb8ca7),  Working Students - Backend Developer
+16. creative workline, Android Entwickler (m/w/d)
+17. KAMAsys GmbH, WERKSTUDENT ENTWICKLUNG (M/W/D)
+18.  [Campusjäger GmbH](https://de.indeed.com/cmp/Campusj%C3%A4ger-Gmbh?campaignid=mobvjcmp&from=mobviewjob&tk=1elr81ctot4qs800&fromjk=6d0919e38c8449e8), Software development intern
+19. (linkedin) msg, Trainee Software Engineer / Branche Banking (m/w/d),
 
-19. [11.03申請]IVU Traffic Technologies, # Studenten (m/w/d) im Cloud-Bereich[https://www.stepstone.de/stellenangebote--Studenten-m-w-d-im-Cloud-Bereich-Berlin-IVU-Traffic-Technologies-AG--6758148-inline.html]
-20. Jina AI Company,[ Deep Learning Engineer Intern](https://www.linkedin.com/jobs/view/2273454728/?alternateChannel=search&refId=99d269d1-1c83-49ad-a67e-75349d45fedd&trackingId=KJqXCXJ%2BoxFQUesbuhLJOg%3D%3D&trk=flagship3_search_srp_jobs)
-21. ### [gamigo group](https://www.linkedin.com/company/gamigo-ag/life/) Company Location Data Engineering Intern (m/f/d), 
-22. ### [Trade Republic](https://www.linkedin.com/company/trade-republic/life/) # Intern IT Security
-23. [Next Big Thing AG](https://www.linkedin.com/company/next-big-thing-ag/life/), [part-time paid intern as technical support @ ConcR](https://www.linkedin.com/jobs/view/2231802288/?alternateChannel=search&refId=cdf5b961-fa18-4fc6-acea-0e1d45c8c965&trackingId=R8BG%2BqXEDFzTehIBYe2BEg%3D%3D&trk=flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BpFgeiIwCSLiKwSGXz2DtJw%3D%3D)
-24.  ### [sennder](https://www.linkedin.com/company/sennder/life/) ,Automation Intern (Linkedin)
-25. ### [door2door](https://www.linkedin.com/company/door2door-the-mobility-company/life/) Company Location, # IT System Admin Working Student - f/m/x(Linkedin)
-26. ### Tentamus, IT Software Developer Intern (m/f/d) (Linkedin)
-27. ### Snowflake, # Software Engineer Intern (Linkedin)
-28. Tesla, # Quality Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
-29. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System] https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
-30. [11.08申請via career portal IBM]### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform, https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform
-31. ###  Name[DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
+20. [11.03申請]IVU Traffic Technologies, # Studenten (m/w/d) im Cloud-Bereich[https://www.stepstone.de/stellenangebote--Studenten-m-w-d-im-Cloud-Bereich-Berlin-IVU-Traffic-Technologies-AG--6758148-inline.html]
+21. Jina AI Company,[ Deep Learning Engineer Intern](https://www.linkedin.com/jobs/view/2273454728/?alternateChannel=search&refId=99d269d1-1c83-49ad-a67e-75349d45fedd&trackingId=KJqXCXJ%2BoxFQUesbuhLJOg%3D%3D&trk=flagship3_search_srp_jobs)
+22. ### [gamigo group](https://www.linkedin.com/company/gamigo-ag/life/) Company Location Data Engineering Intern (m/f/d), 
+23. ### [Trade Republic](https://www.linkedin.com/company/trade-republic/life/) # Intern IT Security
+24. [Next Big Thing AG](https://www.linkedin.com/company/next-big-thing-ag/life/), [part-time paid intern as technical support @ ConcR](https://www.linkedin.com/jobs/view/2231802288/?alternateChannel=search&refId=cdf5b961-fa18-4fc6-acea-0e1d45c8c965&trackingId=R8BG%2BqXEDFzTehIBYe2BEg%3D%3D&trk=flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BpFgeiIwCSLiKwSGXz2DtJw%3D%3D)
+25.  ### [sennder](https://www.linkedin.com/company/sennder/life/) ,Automation Intern (Linkedin)
+26. ### [door2door](https://www.linkedin.com/company/door2door-the-mobility-company/life/) Company Location, # IT System Admin Working Student - f/m/x(Linkedin)
+27. ### Tentamus, IT Software Developer Intern (m/f/d) (Linkedin)
+28. ### Snowflake, # Software Engineer Intern (Linkedin)
+29. Tesla, # Quality Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
+30. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System] https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
+31. [11.08申請via career portal IBM]### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform, https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform
+32. ###  Name[DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
 
 
 
@@ -1299,11 +1299,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQwMDg5MzksLTEwMzY5NzIwMTEsNj
-M5NDMyOTgxLDE3NDM5MjEwODcsNDE0NDcyODI4LC04MTEzOTg1
-NTIsMTA3MjAyOTQyMCwtNjY5MjA0NDE3LC0xNDQ3MjY5ODkxLC
-02MTk1MTMwNjUsMTUzMTgwMzAwNCwtNTU1MzM0MzEwLDgzNTYx
-MTc4NywxMzQ0ODE0MzE1LC04NjAyNDEwNiwxNzY5OTUwNTE0LC
-05MDU0ODUxMDEsMTU1NzQ3MjcyOCw0MTcwNzQzNjIsMTA2MDU1
-NzIzM119
+eyJoaXN0b3J5IjpbLTE5MDc1MDU0OCwtMTAzNjk3MjAxMSw2Mz
+k0MzI5ODEsMTc0MzkyMTA4Nyw0MTQ0NzI4MjgsLTgxMTM5ODU1
+MiwxMDcyMDI5NDIwLC02NjkyMDQ0MTcsLTE0NDcyNjk4OTEsLT
+YxOTUxMzA2NSwxNTMxODAzMDA0LC01NTUzMzQzMTAsODM1NjEx
+Nzg3LDEzNDQ4MTQzMTUsLTg2MDI0MTA2LDE3Njk5NTA1MTQsLT
+kwNTQ4NTEwMSwxNTU3NDcyNzI4LDQxNzA3NDM2MiwxMDYwNTU3
+MjMzXX0=
 -->
