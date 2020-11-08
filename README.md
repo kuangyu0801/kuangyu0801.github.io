@@ -96,10 +96,9 @@ Software development intern
 30. [11.08申請via career portal IBM]### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform, https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform
 31. ###  Name[DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
 32. SAP # SAP HANA Database Group: Intern, Working Student or Thesis-Student (f/m/d) Job
-33. # Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
-
-Apply now
-34. [11.08申請via career portal SAP portal] SAP, Intern (f/m/d): Java Developer for Cloud Applications
+33. SAP # Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
+34. # Working Student (f/m/d): Software Development (Python, Java) Job
+35. [11.08申請via career portal SAP portal] SAP, Intern (f/m/d): Java Developer for Cloud Applications
 
 
 
@@ -1304,11 +1303,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njc4Mzc2NzEsLTE5NTMzMjU1ODYsLT
-k2ODg1NzUwMywtMTkwNzUwNTQ4LC0xMDM2OTcyMDExLDYzOTQz
-Mjk4MSwxNzQzOTIxMDg3LDQxNDQ3MjgyOCwtODExMzk4NTUyLD
-EwNzIwMjk0MjAsLTY2OTIwNDQxNywtMTQ0NzI2OTg5MSwtNjE5
-NTEzMDY1LDE1MzE4MDMwMDQsLTU1NTMzNDMxMCw4MzU2MTE3OD
-csMTM0NDgxNDMxNSwtODYwMjQxMDYsMTc2OTk1MDUxNCwtOTA1
-NDg1MTAxXX0=
+eyJoaXN0b3J5IjpbLTE1MzkyMTEzNCwtMTk1MzMyNTU4NiwtOT
+Y4ODU3NTAzLC0xOTA3NTA1NDgsLTEwMzY5NzIwMTEsNjM5NDMy
+OTgxLDE3NDM5MjEwODcsNDE0NDcyODI4LC04MTEzOTg1NTIsMT
+A3MjAyOTQyMCwtNjY5MjA0NDE3LC0xNDQ3MjY5ODkxLC02MTk1
+MTMwNjUsMTUzMTgwMzAwNCwtNTU1MzM0MzEwLDgzNTYxMTc4Ny
+wxMzQ0ODE0MzE1LC04NjAyNDEwNiwxNzY5OTUwNTE0LC05MDU0
+ODUxMDFdfQ==
 -->
