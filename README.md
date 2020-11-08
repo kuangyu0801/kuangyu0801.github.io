@@ -95,7 +95,8 @@ Software development intern
 29. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System] https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
 30. [11.08申請via career portal IBM]### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform, https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform
 31. ###  Name[DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
-32. SAP 
+32. SAP # SAP HANA Database Group: Intern, Working Student or Thesis-Student (f/m/d) Job
+33. Intern (f/m/d): Java Developer for Cloud Applications
 
 
 
@@ -1300,11 +1301,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTMzMjU1ODYsLTk2ODg1NzUwMywtMT
-kwNzUwNTQ4LC0xMDM2OTcyMDExLDYzOTQzMjk4MSwxNzQzOTIx
-MDg3LDQxNDQ3MjgyOCwtODExMzk4NTUyLDEwNzIwMjk0MjAsLT
-Y2OTIwNDQxNywtMTQ0NzI2OTg5MSwtNjE5NTEzMDY1LDE1MzE4
-MDMwMDQsLTU1NTMzNDMxMCw4MzU2MTE3ODcsMTM0NDgxNDMxNS
-wtODYwMjQxMDYsMTc2OTk1MDUxNCwtOTA1NDg1MTAxLDE1NTc0
-NzI3MjhdfQ==
+eyJoaXN0b3J5IjpbLTI4NjcwMzI1MiwtMTk1MzMyNTU4NiwtOT
+Y4ODU3NTAzLC0xOTA3NTA1NDgsLTEwMzY5NzIwMTEsNjM5NDMy
+OTgxLDE3NDM5MjEwODcsNDE0NDcyODI4LC04MTEzOTg1NTIsMT
+A3MjAyOTQyMCwtNjY5MjA0NDE3LC0xNDQ3MjY5ODkxLC02MTk1
+MTMwNjUsMTUzMTgwMzAwNCwtNTU1MzM0MzEwLDgzNTYxMTc4Ny
+wxMzQ0ODE0MzE1LC04NjAyNDEwNiwxNzY5OTUwNTE0LC05MDU0
+ODUxMDFdfQ==
 -->
