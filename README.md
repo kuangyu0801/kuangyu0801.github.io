@@ -98,7 +98,8 @@ Software development intern
 32. SAP # SAP HANA Database Group: Intern, Working Student or Thesis-Student (f/m/d) Job
 33. SAP # Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
 34. # Working Student (f/m/d): Software Development (Python, Java) Job
-35. [11.08申請via career portal SAP portal] SAP, Intern (f/m/d): Java Developer for Cloud Applications
+35. # Intern (f/m/d): SAP Cloud Programming Model (CAP) - Java Developer (254863)
+36. [11.08申請via career portal SAP portal] SAP, Intern (f/m/d): Java Developer for Cloud Applications
 
 
 
@@ -1303,7 +1304,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzkyMTEzNCwtMTk1MzMyNTU4NiwtOT
+eyJoaXN0b3J5IjpbLTczMTc5MTkxMCwtMTk1MzMyNTU4NiwtOT
 Y4ODU3NTAzLC0xOTA3NTA1NDgsLTEwMzY5NzIwMTEsNjM5NDMy
 OTgxLDE3NDM5MjEwODcsNDE0NDcyODI4LC04MTEzOTg1NTIsMT
 A3MjAyOTQyMCwtNjY5MjA0NDE3LC0xNDQ3MjY5ODkxLC02MTk1
