@@ -93,7 +93,7 @@ Software development intern
 27. ### Snowflake, # Software Engineer Intern (Linkedin)
 28. Tesla, # Quality Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
 29. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System] https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
-30. ### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform, https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform
+30. [11.08申請via career portal IBM]### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform, https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform
 31. ###  Name[DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
 
 
@@ -1299,11 +1299,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5NDMyOTgxLDE3NDM5MjEwODcsNDE0ND
-cyODI4LC04MTEzOTg1NTIsMTA3MjAyOTQyMCwtNjY5MjA0NDE3
-LC0xNDQ3MjY5ODkxLC02MTk1MTMwNjUsMTUzMTgwMzAwNCwtNT
-U1MzM0MzEwLDgzNTYxMTc4NywxMzQ0ODE0MzE1LC04NjAyNDEw
-NiwxNzY5OTUwNTE0LC05MDU0ODUxMDEsMTU1NzQ3MjcyOCw0MT
-cwNzQzNjIsMTA2MDU1NzIzMywtMjA3ODEzMTU4LDg0NTc3NzQ0
-NV19
+eyJoaXN0b3J5IjpbLTEwMzY5NzIwMTEsNjM5NDMyOTgxLDE3ND
+M5MjEwODcsNDE0NDcyODI4LC04MTEzOTg1NTIsMTA3MjAyOTQy
+MCwtNjY5MjA0NDE3LC0xNDQ3MjY5ODkxLC02MTk1MTMwNjUsMT
+UzMTgwMzAwNCwtNTU1MzM0MzEwLDgzNTYxMTc4NywxMzQ0ODE0
+MzE1LC04NjAyNDEwNiwxNzY5OTUwNTE0LC05MDU0ODUxMDEsMT
+U1NzQ3MjcyOCw0MTcwNzQzNjIsMTA2MDU1NzIzMywtMjA3ODEz
+MTU4XX0=
 -->
