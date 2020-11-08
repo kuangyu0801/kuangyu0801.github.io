@@ -73,7 +73,7 @@ Software development intern
 8. resonanz energy, Software Engineer Intern (m/w/d)
 9. Mailbutler GmbH - Berlin, Working Student: Software Tester (m/f/x)
 10. KUGU Home GmbH, Werkstudent IOT/Hardware/Embedded Software[https://de.indeed.com/viewjob?jk=86658035f323294b&tk=1elr6tdtut56n800&from=serp&vjs=3] 
-11.  Tentamus, IT Software Developer Intern (m/f/d)[https://www.tentamus.com/career/software-developer-intern-paid/]
+11.  ppTentamus, IT Software Developer Intern (m/f/d)[https://www.tentamus.com/career/software-developer-intern-paid/]
 12. beroNet GmbH, Developer Intern[https://de.indeed.com/viewjob?from=web%2CiaBackPress&jk=24f5be6375ce2653&l=Berlin&q=Software&tk=1elr7but8s7d8800&vjs=3]
 13. Boston Consulting Group, Visiting Software Engineer (internship)
 14. [interact.io](https://de.indeed.com/cmp/Interact.io?campaignid=mobvjcmp&from=mobviewjob&tk=1elr7c83mt538800&fromjk=5d6ef5756fcb8ca7),  Working Students - Backend Developer
@@ -1299,11 +1299,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY5NzIwMTEsNjM5NDMyOTgxLDE3ND
-M5MjEwODcsNDE0NDcyODI4LC04MTEzOTg1NTIsMTA3MjAyOTQy
-MCwtNjY5MjA0NDE3LC0xNDQ3MjY5ODkxLC02MTk1MTMwNjUsMT
-UzMTgwMzAwNCwtNTU1MzM0MzEwLDgzNTYxMTc4NywxMzQ0ODE0
-MzE1LC04NjAyNDEwNiwxNzY5OTUwNTE0LC05MDU0ODUxMDEsMT
-U1NzQ3MjcyOCw0MTcwNzQzNjIsMTA2MDU1NzIzMywtMjA3ODEz
-MTU4XX0=
+eyJoaXN0b3J5IjpbLTEyNTQwMDg5MzksLTEwMzY5NzIwMTEsNj
+M5NDMyOTgxLDE3NDM5MjEwODcsNDE0NDcyODI4LC04MTEzOTg1
+NTIsMTA3MjAyOTQyMCwtNjY5MjA0NDE3LC0xNDQ3MjY5ODkxLC
+02MTk1MTMwNjUsMTUzMTgwMzAwNCwtNTU1MzM0MzEwLDgzNTYx
+MTc4NywxMzQ0ODE0MzE1LC04NjAyNDEwNiwxNzY5OTUwNTE0LC
+05MDU0ODUxMDEsMTU1NzQ3MjcyOCw0MTcwNzQzNjIsMTA2MDU1
+NzIzM119
 -->
