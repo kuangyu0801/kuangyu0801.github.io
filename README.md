@@ -60,9 +60,8 @@ Mac 鍵符號
  - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 
-# 不要害怕海投海面
-關鍵字：Praktikum Informatik,   
-Software development intern
+# 不要害怕海投海面 [Rejection: Interview: Offer:
+### 關鍵字：Praktikum Informatik,   Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
 2.   [11.03申請]Acrolinx GmbH:## Werkstudent IT Operations (m/w/d)[https://jobs.eu.lever.co/acrolinx/5a91fff7-d10c-4114-8a4a-b694270c5b60]
 3.  [adesso SE](https://www.stepstone.de/cmp/de/adesso-SE-7420/jobs.html), Trainee (w/m/d) Softwareentwicklung Java[https://www.stepstone.de/stellenangebote--Trainee-w-m-d-Softwareentwicklung-Java-Dortmund-Aachen-Berlin-Essen-Frankfurt-Main-Hamburg-Hannover-Karlsruhe-Koeln-Muenchen-adesso-SE--6749957-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=8_8_25_dynrl_s_0_1_1_0]
@@ -99,7 +98,7 @@ Software development intern
 33. SAP # Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
 34. # Working Student (f/m/d): Software Development (Python, Java) Job
 35. [11.08申請via career portal SAP portal]  ### Intern (f/m/d): SAP Cloud Programming Model (CAP) - Java Developer (254863)
-36. [REJ @ 11.09, 11.08申請via career portal SAP portal, ] ~~SAP, Intern (f/m/d): Java Developer for Cloud Applications~~
+36. [REJ @ 11.09, 11.08申請via career portal SAP portal] ~~SAP, Intern (f/m/d): Java Developer for Cloud Applications~~
 ### 可能原因：1. Good database programming and SQL knowledge, 2. Fluent in English and German
 38. Bosch # Bachelorarbeit/ Masterarbeit/ Praktikum IT-Sicherheit und angewandte Kryptographie https://www.bosch.de/en/career/job/REF31546R-bachelorarbeit-masterarbeit-praktikum-it-sicherheit-und-angewandte-kryptographie/
 39. [XING] https://www.diva-e.com/de/karriere/stellenangebot/praktikant-im-bereich-softwareentwicklung-in-berlin/
@@ -1309,11 +1308,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzMyNzM1NiwtMTY0OTgwMTMwMCwtMT
-IwNjI3MDA3MiwyMDY5ODY0OTY2LC03MzE3OTE5MTAsLTE5NTMz
-MjU1ODYsLTk2ODg1NzUwMywtMTkwNzUwNTQ4LC0xMDM2OTcyMD
-ExLDYzOTQzMjk4MSwxNzQzOTIxMDg3LDQxNDQ3MjgyOCwtODEx
-Mzk4NTUyLDEwNzIwMjk0MjAsLTY2OTIwNDQxNywtMTQ0NzI2OT
-g5MSwtNjE5NTEzMDY1LDE1MzE4MDMwMDQsLTU1NTMzNDMxMCw4
-MzU2MTE3ODddfQ==
+eyJoaXN0b3J5IjpbLTU3MDE3NzE2LC0zMDMzMjczNTYsLTE2ND
+k4MDEzMDAsLTEyMDYyNzAwNzIsMjA2OTg2NDk2NiwtNzMxNzkx
+OTEwLC0xOTUzMzI1NTg2LC05Njg4NTc1MDMsLTE5MDc1MDU0OC
+wtMTAzNjk3MjAxMSw2Mzk0MzI5ODEsMTc0MzkyMTA4Nyw0MTQ0
+NzI4MjgsLTgxMTM5ODU1MiwxMDcyMDI5NDIwLC02NjkyMDQ0MT
+csLTE0NDcyNjk4OTEsLTYxOTUxMzA2NSwxNTMxODAzMDA0LC01
+NTUzMzQzMTBdfQ==
 -->
