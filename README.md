@@ -99,8 +99,8 @@ Software development intern
 33. SAP # Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
 34. # Working Student (f/m/d): Software Development (Python, Java) Job
 35. [11.08申請via career portal SAP portal]  ### Intern (f/m/d): SAP Cloud Programming Model (CAP) - Java Developer (254863)
-36. [11.08申請via career portal SAP portal, 11.09收到reject] SAP, Intern (f/m/d): Java Developer for Cloud Applications
-37.
+36. [REJ @ 11.09, 11.08申請via career portal SAP portal, ] SAP, Intern (f/m/d): Java Developer for Cloud Applications
+### 可能原因：1. Good database programming and SQL knowledge, 2. Fluent in English and German
 38. Bosch # Bachelorarbeit/ Masterarbeit/ Praktikum IT-Sicherheit und angewandte Kryptographie https://www.bosch.de/en/career/job/REF31546R-bachelorarbeit-masterarbeit-praktikum-it-sicherheit-und-angewandte-kryptographie/
 39. [XING] https://www.diva-e.com/de/karriere/stellenangebot/praktikant-im-bereich-softwareentwicklung-in-berlin/
 40. [XING] https://www.get-in-it.de/jobsuche/p8539-1d2b9aa1/1d2b9aa1?utm_source=xing&utm_medium=cpc&utm_campaign=launch-premium&tem=landingpage
@@ -1309,7 +1309,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTY4NDMzNSwtMTY0OTgwMTMwMCwtMT
+eyJoaXN0b3J5IjpbMjE0NDAyMTc3MiwtMTY0OTgwMTMwMCwtMT
 IwNjI3MDA3MiwyMDY5ODY0OTY2LC03MzE3OTE5MTAsLTE5NTMz
 MjU1ODYsLTk2ODg1NzUwMywtMTkwNzUwNTQ4LC0xMDM2OTcyMD
 ExLDYzOTQzMjk4MSwxNzQzOTIxMDg3LDQxNDQ3MjgyOCwtODEx
