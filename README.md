@@ -101,6 +101,8 @@ Software development intern
 35. [11.08申請via career portal SAP portal]  ### Intern (f/m/d): SAP Cloud Programming Model (CAP) - Java Developer (254863)
 36. [11.08申請via career portal SAP portal] SAP, Intern (f/m/d): Java Developer for Cloud Applications
 37. Bosch # Bachelorarbeit/ Masterarbeit/ Praktikum IT-Sicherheit und angewandte Kryptographie https://www.bosch.de/en/career/job/REF31546R-bachelorarbeit-masterarbeit-praktikum-it-sicherheit-und-angewandte-kryptographie/
+38. [XING] https://www.diva-e.com/de/karriere/stellenangebot/praktikant-im-bereich-softwareentwicklung-in-berlin/
+39. https://www.get-in-it.de/jobsuche/p8539-1d2b9aa1/1d2b9aa1?utm_source=xing&utm_medium=cpc&utm_campaign=launch-premium&tem=landingpage
 
 
 
@@ -1305,11 +1307,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYyNzAwNzIsMjA2OTg2NDk2NiwtNz
-MxNzkxOTEwLC0xOTUzMzI1NTg2LC05Njg4NTc1MDMsLTE5MDc1
-MDU0OCwtMTAzNjk3MjAxMSw2Mzk0MzI5ODEsMTc0MzkyMTA4Ny
-w0MTQ0NzI4MjgsLTgxMTM5ODU1MiwxMDcyMDI5NDIwLC02Njky
-MDQ0MTcsLTE0NDcyNjk4OTEsLTYxOTUxMzA2NSwxNTMxODAzMD
-A0LC01NTUzMzQzMTAsODM1NjExNzg3LDEzNDQ4MTQzMTUsLTg2
-MDI0MTA2XX0=
+eyJoaXN0b3J5IjpbLTQ4MTk3NTEzMywtMTIwNjI3MDA3MiwyMD
+Y5ODY0OTY2LC03MzE3OTE5MTAsLTE5NTMzMjU1ODYsLTk2ODg1
+NzUwMywtMTkwNzUwNTQ4LC0xMDM2OTcyMDExLDYzOTQzMjk4MS
+wxNzQzOTIxMDg3LDQxNDQ3MjgyOCwtODExMzk4NTUyLDEwNzIw
+Mjk0MjAsLTY2OTIwNDQxNywtMTQ0NzI2OTg5MSwtNjE5NTEzMD
+Y1LDE1MzE4MDMwMDQsLTU1NTMzNDMxMCw4MzU2MTE3ODcsMTM0
+NDgxNDMxNV19
 -->
