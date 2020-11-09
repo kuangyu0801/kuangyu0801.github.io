@@ -99,11 +99,12 @@ Software development intern
 33. SAP # Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
 34. # Working Student (f/m/d): Software Development (Python, Java) Job
 35. [11.08申請via career portal SAP portal]  ### Intern (f/m/d): SAP Cloud Programming Model (CAP) - Java Developer (254863)
-36. [11.08申請via career portal SAP portal] SAP, Intern (f/m/d): Java Developer for Cloud Applications
-37. Bosch # Bachelorarbeit/ Masterarbeit/ Praktikum IT-Sicherheit und angewandte Kryptographie https://www.bosch.de/en/career/job/REF31546R-bachelorarbeit-masterarbeit-praktikum-it-sicherheit-und-angewandte-kryptographie/
-38. [XING] https://www.diva-e.com/de/karriere/stellenangebot/praktikant-im-bereich-softwareentwicklung-in-berlin/
-39. [XING] https://www.get-in-it.de/jobsuche/p8539-1d2b9aa1/1d2b9aa1?utm_source=xing&utm_medium=cpc&utm_campaign=launch-premium&tem=landingpage
-40. [XING] # Reply, # Werkstudent Testautomatisierung im Bereich Mobile App (m/w/d)
+36. [11.08申請via career portal SAP portal, 11.09收到reject] SAP, Intern (f/m/d): Java Developer for Cloud Applications
+37.
+38. Bosch # Bachelorarbeit/ Masterarbeit/ Praktikum IT-Sicherheit und angewandte Kryptographie https://www.bosch.de/en/career/job/REF31546R-bachelorarbeit-masterarbeit-praktikum-it-sicherheit-und-angewandte-kryptographie/
+39. [XING] https://www.diva-e.com/de/karriere/stellenangebot/praktikant-im-bereich-softwareentwicklung-in-berlin/
+40. [XING] https://www.get-in-it.de/jobsuche/p8539-1d2b9aa1/1d2b9aa1?utm_source=xing&utm_medium=cpc&utm_campaign=launch-premium&tem=landingpage
+41. [XING] # Reply, # Werkstudent Testautomatisierung im Bereich Mobile App (m/w/d)
 
 
 
@@ -1308,11 +1309,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk4MDEzMDAsLTEyMDYyNzAwNzIsMj
-A2OTg2NDk2NiwtNzMxNzkxOTEwLC0xOTUzMzI1NTg2LC05Njg4
-NTc1MDMsLTE5MDc1MDU0OCwtMTAzNjk3MjAxMSw2Mzk0MzI5OD
-EsMTc0MzkyMTA4Nyw0MTQ0NzI4MjgsLTgxMTM5ODU1MiwxMDcy
-MDI5NDIwLC02NjkyMDQ0MTcsLTE0NDcyNjk4OTEsLTYxOTUxMz
-A2NSwxNTMxODAzMDA0LC01NTUzMzQzMTAsODM1NjExNzg3LDEz
-NDQ4MTQzMTVdfQ==
+eyJoaXN0b3J5IjpbLTc1NTY4NDMzNSwtMTY0OTgwMTMwMCwtMT
+IwNjI3MDA3MiwyMDY5ODY0OTY2LC03MzE3OTE5MTAsLTE5NTMz
+MjU1ODYsLTk2ODg1NzUwMywtMTkwNzUwNTQ4LC0xMDM2OTcyMD
+ExLDYzOTQzMjk4MSwxNzQzOTIxMDg3LDQxNDQ3MjgyOCwtODEx
+Mzk4NTUyLDEwNzIwMjk0MjAsLTY2OTIwNDQxNywtMTQ0NzI2OT
+g5MSwtNjE5NTEzMDY1LDE1MzE4MDMwMDQsLTU1NTMzNDMxMCw4
+MzU2MTE3ODddfQ==
 -->
