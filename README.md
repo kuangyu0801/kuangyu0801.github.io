@@ -60,7 +60,11 @@ Mac 鍵符號
  - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 
-# 不要害怕海投海面 [Rejection: Interview: Offer:
+# 不要害怕海投海面 
+## 目標：收到10個interview
+Rejection: 1
+Interview: 0
+Offer: 0
 ### 關鍵字：Praktikum Informatik,   Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
 2.   [11.03申請]Acrolinx GmbH:## Werkstudent IT Operations (m/w/d)[https://jobs.eu.lever.co/acrolinx/5a91fff7-d10c-4114-8a4a-b694270c5b60]
@@ -1308,11 +1312,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDE3NzE2LC0zMDMzMjczNTYsLTE2ND
-k4MDEzMDAsLTEyMDYyNzAwNzIsMjA2OTg2NDk2NiwtNzMxNzkx
-OTEwLC0xOTUzMzI1NTg2LC05Njg4NTc1MDMsLTE5MDc1MDU0OC
-wtMTAzNjk3MjAxMSw2Mzk0MzI5ODEsMTc0MzkyMTA4Nyw0MTQ0
-NzI4MjgsLTgxMTM5ODU1MiwxMDcyMDI5NDIwLC02NjkyMDQ0MT
-csLTE0NDcyNjk4OTEsLTYxOTUxMzA2NSwxNTMxODAzMDA0LC01
-NTUzMzQzMTBdfQ==
+eyJoaXN0b3J5IjpbLTE4MTA0MjcxNDgsLTMwMzMyNzM1NiwtMT
+Y0OTgwMTMwMCwtMTIwNjI3MDA3MiwyMDY5ODY0OTY2LC03MzE3
+OTE5MTAsLTE5NTMzMjU1ODYsLTk2ODg1NzUwMywtMTkwNzUwNT
+Q4LC0xMDM2OTcyMDExLDYzOTQzMjk4MSwxNzQzOTIxMDg3LDQx
+NDQ3MjgyOCwtODExMzk4NTUyLDEwNzIwMjk0MjAsLTY2OTIwND
+QxNywtMTQ0NzI2OTg5MSwtNjE5NTEzMDY1LDE1MzE4MDMwMDQs
+LTU1NTMzNDMxMF19
 -->
