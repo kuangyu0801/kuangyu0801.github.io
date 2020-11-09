@@ -62,6 +62,7 @@ Mac 鍵符號
 
 # 不要害怕海投海面 
 ## 目標：收到10個interview
+要有投30家才有一個面試的機會的心理準備
 Rejection: 1
 Interview: 0
 Offer: 0
@@ -1312,11 +1313,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA0MjcxNDgsLTMwMzMyNzM1NiwtMT
-Y0OTgwMTMwMCwtMTIwNjI3MDA3MiwyMDY5ODY0OTY2LC03MzE3
-OTE5MTAsLTE5NTMzMjU1ODYsLTk2ODg1NzUwMywtMTkwNzUwNT
-Q4LC0xMDM2OTcyMDExLDYzOTQzMjk4MSwxNzQzOTIxMDg3LDQx
-NDQ3MjgyOCwtODExMzk4NTUyLDEwNzIwMjk0MjAsLTY2OTIwND
-QxNywtMTQ0NzI2OTg5MSwtNjE5NTEzMDY1LDE1MzE4MDMwMDQs
-LTU1NTMzNDMxMF19
+eyJoaXN0b3J5IjpbMTU1MjczMTAwNywtMTgxMDQyNzE0OCwtMz
+AzMzI3MzU2LC0xNjQ5ODAxMzAwLC0xMjA2MjcwMDcyLDIwNjk4
+NjQ5NjYsLTczMTc5MTkxMCwtMTk1MzMyNTU4NiwtOTY4ODU3NT
+AzLC0xOTA3NTA1NDgsLTEwMzY5NzIwMTEsNjM5NDMyOTgxLDE3
+NDM5MjEwODcsNDE0NDcyODI4LC04MTEzOTg1NTIsMTA3MjAyOT
+QyMCwtNjY5MjA0NDE3LC0xNDQ3MjY5ODkxLC02MTk1MTMwNjUs
+MTUzMTgwMzAwNF19
 -->
