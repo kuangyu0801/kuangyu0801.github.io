@@ -102,7 +102,8 @@ Software development intern
 36. [11.08申請via career portal SAP portal] SAP, Intern (f/m/d): Java Developer for Cloud Applications
 37. Bosch # Bachelorarbeit/ Masterarbeit/ Praktikum IT-Sicherheit und angewandte Kryptographie https://www.bosch.de/en/career/job/REF31546R-bachelorarbeit-masterarbeit-praktikum-it-sicherheit-und-angewandte-kryptographie/
 38. [XING] https://www.diva-e.com/de/karriere/stellenangebot/praktikant-im-bereich-softwareentwicklung-in-berlin/
-39. https://www.get-in-it.de/jobsuche/p8539-1d2b9aa1/1d2b9aa1?utm_source=xing&utm_medium=cpc&utm_campaign=launch-premium&tem=landingpage
+39. [XING] https://www.get-in-it.de/jobsuche/p8539-1d2b9aa1/1d2b9aa1?utm_source=xing&utm_medium=cpc&utm_campaign=launch-premium&tem=landingpage
+40. [XING] # Reply, # Werkstudent Testautomatisierung im Bereich Mobile App (m/w/d)
 
 
 
@@ -1307,11 +1308,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTk3NTEzMywtMTIwNjI3MDA3MiwyMD
-Y5ODY0OTY2LC03MzE3OTE5MTAsLTE5NTMzMjU1ODYsLTk2ODg1
-NzUwMywtMTkwNzUwNTQ4LC0xMDM2OTcyMDExLDYzOTQzMjk4MS
-wxNzQzOTIxMDg3LDQxNDQ3MjgyOCwtODExMzk4NTUyLDEwNzIw
-Mjk0MjAsLTY2OTIwNDQxNywtMTQ0NzI2OTg5MSwtNjE5NTEzMD
-Y1LDE1MzE4MDMwMDQsLTU1NTMzNDMxMCw4MzU2MTE3ODcsMTM0
-NDgxNDMxNV19
+eyJoaXN0b3J5IjpbLTE2NDk4MDEzMDAsLTEyMDYyNzAwNzIsMj
+A2OTg2NDk2NiwtNzMxNzkxOTEwLC0xOTUzMzI1NTg2LC05Njg4
+NTc1MDMsLTE5MDc1MDU0OCwtMTAzNjk3MjAxMSw2Mzk0MzI5OD
+EsMTc0MzkyMTA4Nyw0MTQ0NzI4MjgsLTgxMTM5ODU1MiwxMDcy
+MDI5NDIwLC02NjkyMDQ0MTcsLTE0NDcyNjk4OTEsLTYxOTUxMz
+A2NSwxNTMxODAzMDA0LC01NTUzMzQzMTAsODM1NjExNzg3LDEz
+NDQ4MTQzMTVdfQ==
 -->
