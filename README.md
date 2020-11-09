@@ -69,7 +69,7 @@ Software development intern
 4.   MBition GmbH,  Internship in Agile Software Testing (all genders)[https://www.stepstone.de/stellenangebote--Internship-in-Agile-Software-Testing-all-genders-Berlin-MBition-GmbH--6170406-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=9_9_25_dynrl_s_0_1_0_0]
 5. [Accenture](https://www.stepstone.de/cmp/de/Accenture-7521/jobs.html), Trainee Software Engineering - Java (all genders)[https://www.stepstone.de/stellenangebote--Trainee-Software-Engineering-Java-all-genders-Dresden-Berlin-Frankfurt-Heidelberg-Duesseldorf-Stuttgart-Hof-Jena-Hamburg-Muenchen-Accenture--6660313-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=10_10_25_dynrl_s_1_2_2_0]
 6. ~~MBition GmbH, Intern Hardware Lab (all genders)[https://www.stepstone.de/stellenangebote--Intern-Hardware-Lab-all-genders-Berlin-MBition-GmbH--6280844-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=13_13_25_dynrl_s_0_0_0_0]~~
-7. [11.08申請 via Indeed, 這是一家實驗室公司, 我興趣不大但姑且試試] CQuest, Software Engineering Intern[https://de.indeed.com/Zeige-Job?cmp=CQuest&t=Software+Engineering+Intern&jk=7b19eedeacd26eda&q=Software&vjs=3]
+7. [11.08申請 via Indeed, 這是環保公司, 我興趣不大但姑且試試] CQuest, Software Engineering Intern[https://de.indeed.com/Zeige-Job?cmp=CQuest&t=Software+Engineering+Intern&jk=7b19eedeacd26eda&q=Software&vjs=3]
 8. resonanz energy, Software Engineer Intern (m/w/d)
 9. Mailbutler GmbH - Berlin, Working Student: Software Tester (m/f/x)
 10. KUGU Home GmbH, Werkstudent IOT/Hardware/Embedded Software[https://de.indeed.com/viewjob?jk=86658035f323294b&tk=1elr6tdtut56n800&from=serp&vjs=3] 
@@ -82,7 +82,7 @@ Software development intern
 17.  [Campusjäger GmbH](https://de.indeed.com/cmp/Campusj%C3%A4ger-Gmbh?campaignid=mobvjcmp&from=mobviewjob&tk=1elr81ctot4qs800&fromjk=6d0919e38c8449e8), Software development intern
 18. (linkedin) msg, Trainee Software Engineer / Branche Banking (m/w/d),
 
-19. [11.03申請]IVU Traffic Technologies, # Studenten (m/w/d) im Cloud-Bereich[https://www.stepstone.de/stellenangebote--Studenten-m-w-d-im-Cloud-Bereich-Berlin-IVU-Traffic-Technologies-AG--6758148-inline.html]
+19. [11.03申請] IVU Traffic Technologies, # Studenten (m/w/d) im Cloud-Bereich[https://www.stepstone.de/stellenangebote--Studenten-m-w-d-im-Cloud-Bereich-Berlin-IVU-Traffic-Technologies-AG--6758148-inline.html]
 20. Jina AI Company,[ Deep Learning Engineer Intern](https://www.linkedin.com/jobs/view/2273454728/?alternateChannel=search&refId=99d269d1-1c83-49ad-a67e-75349d45fedd&trackingId=KJqXCXJ%2BoxFQUesbuhLJOg%3D%3D&trk=flagship3_search_srp_jobs)
 21. ### [gamigo group](https://www.linkedin.com/company/gamigo-ag/life/) Company Location Data Engineering Intern (m/f/d), 
 22. ### [Trade Republic](https://www.linkedin.com/company/trade-republic/life/) # Intern IT Security
@@ -99,7 +99,7 @@ Software development intern
 33. SAP # Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
 34. # Working Student (f/m/d): Software Development (Python, Java) Job
 35. [11.08申請via career portal SAP portal]  ### Intern (f/m/d): SAP Cloud Programming Model (CAP) - Java Developer (254863)
-36. [REJ @ 11.09, 11.08申請via career portal SAP portal, ] SAP, Intern (f/m/d): Java Developer for Cloud Applications
+36. [REJ @ 11.09, 11.08申請via career portal SAP portal, ] ~~SAP, Intern (f/m/d): Java Developer for Cloud Applications~~
 ### 可能原因：1. Good database programming and SQL knowledge, 2. Fluent in English and German
 38. Bosch # Bachelorarbeit/ Masterarbeit/ Praktikum IT-Sicherheit und angewandte Kryptographie https://www.bosch.de/en/career/job/REF31546R-bachelorarbeit-masterarbeit-praktikum-it-sicherheit-und-angewandte-kryptographie/
 39. [XING] https://www.diva-e.com/de/karriere/stellenangebot/praktikant-im-bereich-softwareentwicklung-in-berlin/
@@ -1309,7 +1309,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDAyMTc3MiwtMTY0OTgwMTMwMCwtMT
+eyJoaXN0b3J5IjpbLTMwMzMyNzM1NiwtMTY0OTgwMTMwMCwtMT
 IwNjI3MDA3MiwyMDY5ODY0OTY2LC03MzE3OTE5MTAsLTE5NTMz
 MjU1ODYsLTk2ODg1NzUwMywtMTkwNzUwNTQ4LC0xMDM2OTcyMD
 ExLDYzOTQzMjk4MSwxNzQzOTIxMDg3LDQxNDQ3MjgyOCwtODEx
