@@ -64,7 +64,26 @@ Mac 鍵符號
 # CV
 - linkedIn Page and CV always up to date
 - work visa eligibility
-- 
+
+## 1-Introduction
+
+I am a master student in Information Technology at University of Stuttgart in my third semester. I am writing to apply for _**position**_. 
+I learned about your company via 
+**_recruiting website_**. Being ***position*** at your company would allow me to continue my interest in ***cloud computing***. As a highly-motivated student, fast learner and team player, I feel confident that I could contribute substantively to the work of your company while strengthening the skills I’ll need for a career in ***position***.
+
+## 2-Study Description
+
+In my study, I concentrate on *Cloud Computing*, *Distributed System* and *Network Technology*. As an IT student, I have good understanding in data structure and algorithm, solid programming skill in Java. Moreover, I have extensive hands-on experience with Android development and tools such as Git and IntelliJ. Last semester, I developed an Android App using cloud service, the Google Firebase, whose  power and handiness amazed motivated me to focus myself in cloud-related technology. To deepen my knowledge in could computing, I am current taking courses "Cloud Computing" and "Service Computing" in this semester. I am able to pick up new concepts and catch up new project quickly, as I learned to develop Android from scratch within just one month. The ***position*** will give me the opportunity to participate in cloud-related projects in the industry. 
+
+## 3-Work Experience
+
+I grow into a team player from my previous position as firmware developer in MediaTek. I am capable of collaborating and communicating effortlessly with other developers in large project, as I have participated in three 5G/4G smartphone projects, which involves over 100 developers around the world. My task in firmware development required me to work hand-in-hand with HW and SW developers in all stages of product development life cycle: from specification all the way to maintenance. During my service in smartphone industry, I foresee the booming opportunity in digital transforming, which motivates me to shift my career into **cloud computing**.
+
+
+## 4-Conclusion
+
+Enclosed are my resume and transcript highlighting my education and work experience. I thoroughly believe that my background would allow me to make significant contributions to **COMPANY NAME**. I'm looking forward to this great opportunity and hope to interview with you regarding this ***position***. I will call your office in a few weeks to see if you could schedule a time to speak with me. Thank you in advance for your time and consideration.
+
 ## Introduction in 5 Sentences
 
 My name is Kuang-Yu Li from Taiwan. I am currently a master student of Information Technology in my 3rd semester at University of Stuttgart in Germany. I am a highly-motivated student with concentration on Cloud Computing, Distributed System and Network Technology. I am  team player with my extensive work experience as an 5G smartphone firmware developer in MediaTek Inc. in Taiwan.
@@ -1321,11 +1340,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDY3MzMxMiwxNTUyNzMxMDA3LC0xOD
-EwNDI3MTQ4LC0zMDMzMjczNTYsLTE2NDk4MDEzMDAsLTEyMDYy
-NzAwNzIsMjA2OTg2NDk2NiwtNzMxNzkxOTEwLC0xOTUzMzI1NT
-g2LC05Njg4NTc1MDMsLTE5MDc1MDU0OCwtMTAzNjk3MjAxMSw2
-Mzk0MzI5ODEsMTc0MzkyMTA4Nyw0MTQ0NzI4MjgsLTgxMTM5OD
-U1MiwxMDcyMDI5NDIwLC02NjkyMDQ0MTcsLTE0NDcyNjk4OTEs
-LTYxOTUxMzA2NV19
+eyJoaXN0b3J5IjpbMjc5OTMyMzI1LDE1NTI3MzEwMDcsLTE4MT
+A0MjcxNDgsLTMwMzMyNzM1NiwtMTY0OTgwMTMwMCwtMTIwNjI3
+MDA3MiwyMDY5ODY0OTY2LC03MzE3OTE5MTAsLTE5NTMzMjU1OD
+YsLTk2ODg1NzUwMywtMTkwNzUwNTQ4LC0xMDM2OTcyMDExLDYz
+OTQzMjk4MSwxNzQzOTIxMDg3LDQxNDQ3MjgyOCwtODExMzk4NT
+UyLDEwNzIwMjk0MjAsLTY2OTIwNDQxNywtMTQ0NzI2OTg5MSwt
+NjE5NTEzMDY1XX0=
 -->
