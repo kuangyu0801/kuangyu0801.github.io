@@ -141,7 +141,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 40. [XING] https://www.get-in-it.de/jobsuche/p8539-1d2b9aa1/1d2b9aa1?utm_source=xing&utm_medium=cpc&utm_campaign=launch-premium&tem=landingpage
 41. [XING] # Reply, # Werkstudent Testautomatisierung im Bereich Mobile App (m/w/d)
 42. [XING] EXXETA AG, Werkstudent / Praktikant Softwareentwicklung (m/w/d)
-43. # Intern Software Engineering (m/f/d)
+43. MHP Management- und IT-Beratung GmbH, # Intern Software Engineering (m/f/d),https://jobs.porsche.com/index.php?ac=jobad&id=24560
 
 
 ## EXXETA AG
@@ -1348,7 +1348,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzcyMTYyMywtMTg3ODAzNzM3MiwxNj
+eyJoaXN0b3J5IjpbLTczNTc4OTU3OSwtMTg3ODAzNzM3MiwxNj
 gyNTc5NTAwLDg1Njc4Mzc1MiwxMDM4NTAzMzE1LDE1NTI3MzEw
 MDcsLTE4MTA0MjcxNDgsLTMwMzMyNzM1NiwtMTY0OTgwMTMwMC
 wtMTIwNjI3MDA3MiwyMDY5ODY0OTY2LC03MzE3OTE5MTAsLTE5
