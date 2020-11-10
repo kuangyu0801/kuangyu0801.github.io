@@ -129,7 +129,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 28. Tesla, # Quality Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
 29. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System] https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
 30. [11.08申請via career portal IBM]### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform, https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform
-31. ###  Name[DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
+31. ###  Name [DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
 32. SAP # SAP HANA Database Group: Intern, Working Student or Thesis-Student (f/m/d) Job
 33. SAP # Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
 34. # Working Student (f/m/d): Software Development (Python, Java) Job
@@ -1349,11 +1349,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTAxOTQyMCw2NDY4Mjg4NzIsLTczNT
-c4OTU3OSwtMTg3ODAzNzM3MiwxNjgyNTc5NTAwLDg1Njc4Mzc1
-MiwxMDM4NTAzMzE1LDE1NTI3MzEwMDcsLTE4MTA0MjcxNDgsLT
-MwMzMyNzM1NiwtMTY0OTgwMTMwMCwtMTIwNjI3MDA3MiwyMDY5
-ODY0OTY2LC03MzE3OTE5MTAsLTE5NTMzMjU1ODYsLTk2ODg1Nz
-UwMywtMTkwNzUwNTQ4LC0xMDM2OTcyMDExLDYzOTQzMjk4MSwx
-NzQzOTIxMDg3XX0=
+eyJoaXN0b3J5IjpbLTE1NjgwMjM3MDYsLTg5OTAxOTQyMCw2ND
+Y4Mjg4NzIsLTczNTc4OTU3OSwtMTg3ODAzNzM3MiwxNjgyNTc5
+NTAwLDg1Njc4Mzc1MiwxMDM4NTAzMzE1LDE1NTI3MzEwMDcsLT
+E4MTA0MjcxNDgsLTMwMzMyNzM1NiwtMTY0OTgwMTMwMCwtMTIw
+NjI3MDA3MiwyMDY5ODY0OTY2LC03MzE3OTE5MTAsLTE5NTMzMj
+U1ODYsLTk2ODg1NzUwMywtMTkwNzUwNTQ4LC0xMDM2OTcyMDEx
+LDYzOTQzMjk4MV19
 -->
