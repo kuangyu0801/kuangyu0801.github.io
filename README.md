@@ -90,9 +90,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 # 不要害怕海投海面 
 ## 目標：收到10個interview
 要有投30家才有一個面試的機會的心理準備
-Rejection: 2
-Interview: 0
-Offer: 0
+
 
 | Rejection | Interview | Offer|
 |--|--|--|
@@ -1345,11 +1343,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyOTg0MTk0LDE2ODI1Nzk1MDAsODU2Nz
-gzNzUyLDEwMzg1MDMzMTUsMTU1MjczMTAwNywtMTgxMDQyNzE0
-OCwtMzAzMzI3MzU2LC0xNjQ5ODAxMzAwLC0xMjA2MjcwMDcyLD
-IwNjk4NjQ5NjYsLTczMTc5MTkxMCwtMTk1MzMyNTU4NiwtOTY4
-ODU3NTAzLC0xOTA3NTA1NDgsLTEwMzY5NzIwMTEsNjM5NDMyOT
-gxLDE3NDM5MjEwODcsNDE0NDcyODI4LC04MTEzOTg1NTIsMTA3
-MjAyOTQyMF19
+eyJoaXN0b3J5IjpbLTE4NzgwMzczNzIsMTY4MjU3OTUwMCw4NT
+Y3ODM3NTIsMTAzODUwMzMxNSwxNTUyNzMxMDA3LC0xODEwNDI3
+MTQ4LC0zMDMzMjczNTYsLTE2NDk4MDEzMDAsLTEyMDYyNzAwNz
+IsMjA2OTg2NDk2NiwtNzMxNzkxOTEwLC0xOTUzMzI1NTg2LC05
+Njg4NTc1MDMsLTE5MDc1MDU0OCwtMTAzNjk3MjAxMSw2Mzk0Mz
+I5ODEsMTc0MzkyMTA4Nyw0MTQ0NzI4MjgsLTgxMTM5ODU1Miwx
+MDcyMDI5NDIwXX0=
 -->
