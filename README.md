@@ -68,8 +68,7 @@ Mac 鍵符號
 ## 1-Introduction
 
 I am a master student in Information Technology at University of Stuttgart in my third semester. I am writing to apply for _**position**_. 
-I learned about your company via 
-**_recruiting website_**. Being ***position*** at your company would allow me to continue my interest in ***cloud computing***. As a highly-motivated student, fast learner and team player, I feel confident that I could contribute substantively to the work of your company while strengthening the skills I’ll need for a career in ***position***.
+I learned about your company via **_recruiting website_**. Being ***position*** at your company would allow me to continue my interest in ***cloud computing***. As a highly-motivated student, fast learner and team player, I feel confident that I could contribute substantively to the work of your company while strengthening the skills I’ll need for a career in ***position***.
 
 ## 2-Study Description
 
@@ -1340,11 +1339,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5OTMyMzI1LDE1NTI3MzEwMDcsLTE4MT
-A0MjcxNDgsLTMwMzMyNzM1NiwtMTY0OTgwMTMwMCwtMTIwNjI3
-MDA3MiwyMDY5ODY0OTY2LC03MzE3OTE5MTAsLTE5NTMzMjU1OD
-YsLTk2ODg1NzUwMywtMTkwNzUwNTQ4LC0xMDM2OTcyMDExLDYz
-OTQzMjk4MSwxNzQzOTIxMDg3LDQxNDQ3MjgyOCwtODExMzk4NT
-UyLDEwNzIwMjk0MjAsLTY2OTIwNDQxNywtMTQ0NzI2OTg5MSwt
-NjE5NTEzMDY1XX0=
+eyJoaXN0b3J5IjpbMTAzODUwMzMxNSwxNTUyNzMxMDA3LC0xOD
+EwNDI3MTQ4LC0zMDMzMjczNTYsLTE2NDk4MDEzMDAsLTEyMDYy
+NzAwNzIsMjA2OTg2NDk2NiwtNzMxNzkxOTEwLC0xOTUzMzI1NT
+g2LC05Njg4NTc1MDMsLTE5MDc1MDU0OCwtMTAzNjk3MjAxMSw2
+Mzk0MzI5ODEsMTc0MzkyMTA4Nyw0MTQ0NzI4MjgsLTgxMTM5OD
+U1MiwxMDcyMDI5NDIwLC02NjkyMDQ0MTcsLTE0NDcyNjk4OTEs
+LTYxOTUxMzA2NV19
 -->
