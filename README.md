@@ -143,8 +143,8 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 42. [XING] EXXETA AG, Werkstudent / Praktikant Softwareentwicklung (m/w/d)
 43. MHP Management- und IT-Beratung GmbH, # Intern Software Engineering (m/f/d),https://jobs.porsche.com/index.php?ac=jobad&id=24560
 44. https://career5.successfactors.eu/careers
-45. Amazon , Software Development Engineer Graduate - Amazon Redshift Spectrum https://www.amazon.jobs/en/jobs/1312592/software-development-engineer-graduate-amazon-redshift-spectrum
-46. Amazon , Software Development Engineer Graduate – 2021 (Berlin), https://www.amazon.jobs/en/jobs/1271472/software-development-engineer-graduate-2021-berlin?fbclid=IwAR0sd4LydpTNKVNZhxFjwRhhvWt_nuSw3VYUx3q2lHspRhdxV5FXQEpCqx8
+45. ### Amazon , Software Development Engineer Graduate - Amazon Redshift Spectrum https://www.amazon.jobs/en/jobs/1312592/software-development-engineer-graduate-amazon-redshift-spectrum
+46. ### Amazon , Software Development Engineer Graduate – 2021 (Berlin), https://www.amazon.jobs/en/jobs/1271472/software-development-engineer-graduate-2021-berlin?fbclid=IwAR0sd4LydpTNKVNZhxFjwRhhvWt_nuSw3VYUx3q2lHspRhdxV5FXQEpCqx8
 
 
 ## EXXETA AG
@@ -1351,7 +1351,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwODYyOTEsLTE1NjgwMjM3MDYsLTg5OT
+eyJoaXN0b3J5IjpbOTYwMzM0OTcsLTE1NjgwMjM3MDYsLTg5OT
 AxOTQyMCw2NDY4Mjg4NzIsLTczNTc4OTU3OSwtMTg3ODAzNzM3
 MiwxNjgyNTc5NTAwLDg1Njc4Mzc1MiwxMDM4NTAzMzE1LDE1NT
 I3MzEwMDcsLTE4MTA0MjcxNDgsLTMwMzMyNzM1NiwtMTY0OTgw
