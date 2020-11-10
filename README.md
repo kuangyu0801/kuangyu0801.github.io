@@ -143,6 +143,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 42. [XING] EXXETA AG, Werkstudent / Praktikant Softwareentwicklung (m/w/d)
 43. MHP Management- und IT-Beratung GmbH, # Intern Software Engineering (m/f/d),https://jobs.porsche.com/index.php?ac=jobad&id=24560
 44. https://career5.successfactors.eu/careers
+45. Amazon , https://www.amazon.jobs/en/jobs/1312592/software-development-engineer-graduate-amazon-redshift-spectrum
 
 
 ## EXXETA AG
@@ -1349,11 +1350,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjgwMjM3MDYsLTg5OTAxOTQyMCw2ND
-Y4Mjg4NzIsLTczNTc4OTU3OSwtMTg3ODAzNzM3MiwxNjgyNTc5
-NTAwLDg1Njc4Mzc1MiwxMDM4NTAzMzE1LDE1NTI3MzEwMDcsLT
-E4MTA0MjcxNDgsLTMwMzMyNzM1NiwtMTY0OTgwMTMwMCwtMTIw
-NjI3MDA3MiwyMDY5ODY0OTY2LC03MzE3OTE5MTAsLTE5NTMzMj
-U1ODYsLTk2ODg1NzUwMywtMTkwNzUwNTQ4LC0xMDM2OTcyMDEx
-LDYzOTQzMjk4MV19
+eyJoaXN0b3J5IjpbMTUxNzM0NTExNywtMTU2ODAyMzcwNiwtOD
+k5MDE5NDIwLDY0NjgyODg3MiwtNzM1Nzg5NTc5LC0xODc4MDM3
+MzcyLDE2ODI1Nzk1MDAsODU2NzgzNzUyLDEwMzg1MDMzMTUsMT
+U1MjczMTAwNywtMTgxMDQyNzE0OCwtMzAzMzI3MzU2LC0xNjQ5
+ODAxMzAwLC0xMjA2MjcwMDcyLDIwNjk4NjQ5NjYsLTczMTc5MT
+kxMCwtMTk1MzMyNTU4NiwtOTY4ODU3NTAzLC0xOTA3NTA1NDgs
+LTEwMzY5NzIwMTFdfQ==
 -->
