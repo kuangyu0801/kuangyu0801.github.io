@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 - [不要害怕海投海面](#不要害怕海投海面)
+- [5 Sentence Introduction](#-5-sentence-introduction)
 - [高頻一百連結](#高頻一百連結)
 - [Amazon OA](#amazon-oa)
 - [Mind Set](#mind-set)
@@ -60,6 +61,7 @@ Mac 鍵符號
  - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 
+# 5 Sentence Introduction
 # 不要害怕海投海面 
 ## 目標：收到10個interview
 要有投30家才有一個面試的機會的心理準備
@@ -1313,11 +1315,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjczMTAwNywtMTgxMDQyNzE0OCwtMz
-AzMzI3MzU2LC0xNjQ5ODAxMzAwLC0xMjA2MjcwMDcyLDIwNjk4
-NjQ5NjYsLTczMTc5MTkxMCwtMTk1MzMyNTU4NiwtOTY4ODU3NT
-AzLC0xOTA3NTA1NDgsLTEwMzY5NzIwMTEsNjM5NDMyOTgxLDE3
-NDM5MjEwODcsNDE0NDcyODI4LC04MTEzOTg1NTIsMTA3MjAyOT
-QyMCwtNjY5MjA0NDE3LC0xNDQ3MjY5ODkxLC02MTk1MTMwNjUs
-MTUzMTgwMzAwNF19
+eyJoaXN0b3J5IjpbMTE3MzAwOTE1NiwxNTUyNzMxMDA3LC0xOD
+EwNDI3MTQ4LC0zMDMzMjczNTYsLTE2NDk4MDEzMDAsLTEyMDYy
+NzAwNzIsMjA2OTg2NDk2NiwtNzMxNzkxOTEwLC0xOTUzMzI1NT
+g2LC05Njg4NTc1MDMsLTE5MDc1MDU0OCwtMTAzNjk3MjAxMSw2
+Mzk0MzI5ODEsMTc0MzkyMTA4Nyw0MTQ0NzI4MjgsLTgxMTM5OD
+U1MiwxMDcyMDI5NDIwLC02NjkyMDQ0MTcsLTE0NDcyNjk4OTEs
+LTYxOTUxMzA2NV19
 -->
