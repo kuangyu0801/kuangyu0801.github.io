@@ -97,7 +97,7 @@ Offer: 0
 | Rejection | Interview | Offer|
 |--|--|--|
 | 2 | 0 |0|
-|Acrolinx,Werkstudent IT Operations<br>|--|--|
+|Acrolinx,Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>|--|--|
 
 ### 關鍵字：Praktikum Informatik,   Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
@@ -1345,7 +1345,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzQzNzE0MSwxNjgyNTc5NTAwLDg1Nj
+eyJoaXN0b3J5IjpbMTY5NTkwOTk5MCwxNjgyNTc5NTAwLDg1Nj
 c4Mzc1MiwxMDM4NTAzMzE1LDE1NTI3MzEwMDcsLTE4MTA0Mjcx
 NDgsLTMwMzMyNzM1NiwtMTY0OTgwMTMwMCwtMTIwNjI3MDA3Mi
 wyMDY5ODY0OTY2LC03MzE3OTE5MTAsLTE5NTMzMjU1ODYsLTk2
