@@ -140,6 +140,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 39. [XING] https://www.diva-e.com/de/karriere/stellenangebot/praktikant-im-bereich-softwareentwicklung-in-berlin/
 40. [XING] https://www.get-in-it.de/jobsuche/p8539-1d2b9aa1/1d2b9aa1?utm_source=xing&utm_medium=cpc&utm_campaign=launch-premium&tem=landingpage
 41. [XING] # Reply, # Werkstudent Testautomatisierung im Bereich Mobile App (m/w/d)
+42. 
 
 
 
@@ -1343,11 +1344,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzgwMzczNzIsMTY4MjU3OTUwMCw4NT
-Y3ODM3NTIsMTAzODUwMzMxNSwxNTUyNzMxMDA3LC0xODEwNDI3
-MTQ4LC0zMDMzMjczNTYsLTE2NDk4MDEzMDAsLTEyMDYyNzAwNz
-IsMjA2OTg2NDk2NiwtNzMxNzkxOTEwLC0xOTUzMzI1NTg2LC05
-Njg4NTc1MDMsLTE5MDc1MDU0OCwtMTAzNjk3MjAxMSw2Mzk0Mz
-I5ODEsMTc0MzkyMTA4Nyw0MTQ0NzI4MjgsLTgxMTM5ODU1Miwx
-MDcyMDI5NDIwXX0=
+eyJoaXN0b3J5IjpbLTE5MDY0Nzk5OTgsLTE4NzgwMzczNzIsMT
+Y4MjU3OTUwMCw4NTY3ODM3NTIsMTAzODUwMzMxNSwxNTUyNzMx
+MDA3LC0xODEwNDI3MTQ4LC0zMDMzMjczNTYsLTE2NDk4MDEzMD
+AsLTEyMDYyNzAwNzIsMjA2OTg2NDk2NiwtNzMxNzkxOTEwLC0x
+OTUzMzI1NTg2LC05Njg4NTc1MDMsLTE5MDc1MDU0OCwtMTAzNj
+k3MjAxMSw2Mzk0MzI5ODEsMTc0MzkyMTA4Nyw0MTQ0NzI4Mjgs
+LTgxMTM5ODU1Ml19
 -->
