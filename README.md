@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 - [不要害怕海投海面](#不要害怕海投海面)
-- [5 Sentence Introduction](#-5-sentence-introduction)
+- [5 Sentence Introduction](#introduction-in-5-sentence)
 - [高頻一百連結](#高頻一百連結)
 - [Amazon OA](#amazon-oa)
 - [Mind Set](#mind-set)
@@ -62,6 +62,7 @@ Mac 鍵符號
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 
 # 5 Sentence Introduction
+f
 # 不要害怕海投海面 
 ## 目標：收到10個interview
 要有投30家才有一個面試的機會的心理準備
@@ -1315,7 +1316,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzAwOTE1NiwxNTUyNzMxMDA3LC0xOD
+eyJoaXN0b3J5IjpbLTk3MjYxNzM0NSwxNTUyNzMxMDA3LC0xOD
 EwNDI3MTQ4LC0zMDMzMjczNTYsLTE2NDk4MDEzMDAsLTEyMDYy
 NzAwNzIsMjA2OTg2NDk2NiwtNzMxNzkxOTEwLC0xOTUzMzI1NT
 g2LC05Njg4NTc1MDMsLTE5MDc1MDU0OCwtMTAzNjk3MjAxMSw2
