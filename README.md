@@ -94,9 +94,10 @@ Rejection: 2
 Interview: 0
 Offer: 0
 
-| Rejection | Interview |
-|--|--|
-| 2 |  |
+| Rejection | Interview | Offer|
+|--|--|--|
+| 2 | 0 |0|
+|--|--|--|
 
 ### 關鍵字：Praktikum Informatik,   Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
@@ -1344,7 +1345,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjM2ODMyNiw4NTY3ODM3NTIsMTAzOD
+eyJoaXN0b3J5IjpbMTY4MjU3OTUwMCw4NTY3ODM3NTIsMTAzOD
 UwMzMxNSwxNTUyNzMxMDA3LC0xODEwNDI3MTQ4LC0zMDMzMjcz
 NTYsLTE2NDk4MDEzMDAsLTEyMDYyNzAwNzIsMjA2OTg2NDk2Ni
 wtNzMxNzkxOTEwLC0xOTUzMzI1NTg2LC05Njg4NTc1MDMsLTE5
