@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 - [不要害怕海投海面](#不要害怕海投海面)
 - [CV](#cv)
-	* [Introduction in 5 Sentences](##introduction-in-5-sentences)
+	* [Introduction in 5 Sentences](#introduction-in-5-sentences)
 - [高頻一百連結](#高頻一百連結)
 - [Amazon OA](#amazon-oa)
 - [Mind Set](#mind-set)
@@ -1339,11 +1339,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODUwMzMxNSwxNTUyNzMxMDA3LC0xOD
-EwNDI3MTQ4LC0zMDMzMjczNTYsLTE2NDk4MDEzMDAsLTEyMDYy
-NzAwNzIsMjA2OTg2NDk2NiwtNzMxNzkxOTEwLC0xOTUzMzI1NT
-g2LC05Njg4NTc1MDMsLTE5MDc1MDU0OCwtMTAzNjk3MjAxMSw2
-Mzk0MzI5ODEsMTc0MzkyMTA4Nyw0MTQ0NzI4MjgsLTgxMTM5OD
-U1MiwxMDcyMDI5NDIwLC02NjkyMDQ0MTcsLTE0NDcyNjk4OTEs
-LTYxOTUxMzA2NV19
+eyJoaXN0b3J5IjpbODU2NzgzNzUyLDEwMzg1MDMzMTUsMTU1Mj
+czMTAwNywtMTgxMDQyNzE0OCwtMzAzMzI3MzU2LC0xNjQ5ODAx
+MzAwLC0xMjA2MjcwMDcyLDIwNjk4NjQ5NjYsLTczMTc5MTkxMC
+wtMTk1MzMyNTU4NiwtOTY4ODU3NTAzLC0xOTA3NTA1NDgsLTEw
+MzY5NzIwMTEsNjM5NDMyOTgxLDE3NDM5MjEwODcsNDE0NDcyOD
+I4LC04MTEzOTg1NTIsMTA3MjAyOTQyMCwtNjY5MjA0NDE3LC0x
+NDQ3MjY5ODkxXX0=
 -->
