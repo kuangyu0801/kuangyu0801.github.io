@@ -98,7 +98,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 | Rejection | Interview | Offer|
 |--|--|--|
 | 2 | 0 |0|
-|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>|--|--|
+|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>IVU Traffic Technologies|--|--|
 
 ### 關鍵字：Praktikum Informatik,   Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
@@ -120,7 +120,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 17.  [Campusjäger GmbH](https://de.indeed.com/cmp/Campusj%C3%A4ger-Gmbh?campaignid=mobvjcmp&from=mobviewjob&tk=1elr81ctot4qs800&fromjk=6d0919e38c8449e8), Software development intern
 18. (linkedin) msg, Trainee Software Engineer / Branche Banking (m/w/d),
 
-19. [11.03申請] IVU Traffic Technologies, # Studenten (m/w/d) im Cloud-Bereich[https://www.stepstone.de/stellenangebote--Studenten-m-w-d-im-Cloud-Bereich-Berlin-IVU-Traffic-Technologies-AG--6758148-inline.html]
+19. ~~[11.03申請, 11.11拒絕（] IVU Traffic Technologies, # Studenten (m/w/d) im Cloud-Bereich[https://www.stepstone.de/stellenangebote--Studenten-m-w-d-im-Cloud-Bereich-Berlin-IVU-Traffic-Technologies-AG--6758148-inline.html]~~
 20. Jina AI Company,[ Deep Learning Engineer Intern](https://www.linkedin.com/jobs/view/2273454728/?alternateChannel=search&refId=99d269d1-1c83-49ad-a67e-75349d45fedd&trackingId=KJqXCXJ%2BoxFQUesbuhLJOg%3D%3D&trk=flagship3_search_srp_jobs)
 21. ### [gamigo group](https://www.linkedin.com/company/gamigo-ag/life/) Company Location Data Engineering Intern (m/f/d), 
 22. ### [Trade Republic](https://www.linkedin.com/company/trade-republic/life/) # Intern IT Security
@@ -1354,11 +1354,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTQ1MzI4MywtMTgyMzEzNjM4NSw5Nj
-AzMzQ5NywtMTU2ODAyMzcwNiwtODk5MDE5NDIwLDY0NjgyODg3
-MiwtNzM1Nzg5NTc5LC0xODc4MDM3MzcyLDE2ODI1Nzk1MDAsOD
-U2NzgzNzUyLDEwMzg1MDMzMTUsMTU1MjczMTAwNywtMTgxMDQy
-NzE0OCwtMzAzMzI3MzU2LC0xNjQ5ODAxMzAwLC0xMjA2MjcwMD
-cyLDIwNjk4NjQ5NjYsLTczMTc5MTkxMCwtMTk1MzMyNTU4Niwt
-OTY4ODU3NTAzXX0=
+eyJoaXN0b3J5IjpbOTgxMTk3MjA3LC03Mzk0NTMyODMsLTE4Mj
+MxMzYzODUsOTYwMzM0OTcsLTE1NjgwMjM3MDYsLTg5OTAxOTQy
+MCw2NDY4Mjg4NzIsLTczNTc4OTU3OSwtMTg3ODAzNzM3MiwxNj
+gyNTc5NTAwLDg1Njc4Mzc1MiwxMDM4NTAzMzE1LDE1NTI3MzEw
+MDcsLTE4MTA0MjcxNDgsLTMwMzMyNzM1NiwtMTY0OTgwMTMwMC
+wtMTIwNjI3MDA3MiwyMDY5ODY0OTY2LC03MzE3OTE5MTAsLTE5
+NTMzMjU1ODZdfQ==
 -->
