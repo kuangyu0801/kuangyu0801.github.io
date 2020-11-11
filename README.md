@@ -97,8 +97,8 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 
 | Rejection | Interview | Offer|
 |--|--|--|
-| 2 | 0 |0|
-|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>IVU Traffic Technologies|--|--|
+| 3 | 0 |0|
+|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>IVU Traffic, Studenten im Cloud-Bereich |--|--|
 
 ### 關鍵字：Praktikum Informatik,   Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
@@ -120,24 +120,24 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 17.  [Campusjäger GmbH](https://de.indeed.com/cmp/Campusj%C3%A4ger-Gmbh?campaignid=mobvjcmp&from=mobviewjob&tk=1elr81ctot4qs800&fromjk=6d0919e38c8449e8), Software development intern
 18. (linkedin) msg, Trainee Software Engineer / Branche Banking (m/w/d),
 
-19. ~~[11.03申請, 11.11拒絕（] IVU Traffic Technologies, # Studenten (m/w/d) im Cloud-Bereich[https://www.stepstone.de/stellenangebote--Studenten-m-w-d-im-Cloud-Bereich-Berlin-IVU-Traffic-Technologies-AG--6758148-inline.html]~~
-20. Jina AI Company,[ Deep Learning Engineer Intern](https://www.linkedin.com/jobs/view/2273454728/?alternateChannel=search&refId=99d269d1-1c83-49ad-a67e-75349d45fedd&trackingId=KJqXCXJ%2BoxFQUesbuhLJOg%3D%3D&trk=flagship3_search_srp_jobs)
-21. ### [gamigo group](https://www.linkedin.com/company/gamigo-ag/life/) Company Location Data Engineering Intern (m/f/d), 
-22. ### [Trade Republic](https://www.linkedin.com/company/trade-republic/life/) # Intern IT Security
-23. [Next Big Thing AG](https://www.linkedin.com/company/next-big-thing-ag/life/), [part-time paid intern as technical support @ ConcR](https://www.linkedin.com/jobs/view/2231802288/?alternateChannel=search&refId=cdf5b961-fa18-4fc6-acea-0e1d45c8c965&trackingId=R8BG%2BqXEDFzTehIBYe2BEg%3D%3D&trk=flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BpFgeiIwCSLiKwSGXz2DtJw%3D%3D)
-24.  ### [sennder](https://www.linkedin.com/company/sennder/life/) ,Automation Intern (Linkedin)
-25. ### [door2door](https://www.linkedin.com/company/door2door-the-mobility-company/life/) Company Location, # IT System Admin Working Student - f/m/x(Linkedin)
-26. ### Tentamus, IT Software Developer Intern (m/f/d) (Linkedin)
-27. ### Snowflake, # Software Engineer Intern (Linkedin)
-28. Tesla, # Quality Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
-29. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System] https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
-30. [11.08申請via career portal IBM]### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform, https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform
-31. ###  Name [DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
-32. SAP # SAP HANA Database Group: Intern, Working Student or Thesis-Student (f/m/d) Job
-33. SAP # Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
-34. # Working Student (f/m/d): Software Development (Python, Java) Job
-35. [11.08申請via career portal SAP portal]  ### Intern (f/m/d): SAP Cloud Programming Model (CAP) - Java Developer (254863)
-36. [REJ @ 11.09, 11.08申請via career portal SAP portal] ~~SAP, Intern (f/m/d): Java Developer for Cloud Applications~~
+19. ~~[11.03申請, 11.11拒絕(語言)] IVU Traffic Technologies, # Studenten (m/w/d) im Cloud-Bereich[https://www.stepstone.de/stellenangebote--Studenten-m-w-d-im-Cloud-Bereich-Berlin-IVU-Traffic-Technologies-AG--6758148-inline.html]~~
+21. Jina AI Company,[ Deep Learning Engineer Intern](https://www.linkedin.com/jobs/view/2273454728/?alternateChannel=search&refId=99d269d1-1c83-49ad-a67e-75349d45fedd&trackingId=KJqXCXJ%2BoxFQUesbuhLJOg%3D%3D&trk=flagship3_search_srp_jobs)
+22. ### [gamigo group](https://www.linkedin.com/company/gamigo-ag/life/) Company Location Data Engineering Intern (m/f/d), 
+23. ### [Trade Republic](https://www.linkedin.com/company/trade-republic/life/) # Intern IT Security
+24. [Next Big Thing AG](https://www.linkedin.com/company/next-big-thing-ag/life/), [part-time paid intern as technical support @ ConcR](https://www.linkedin.com/jobs/view/2231802288/?alternateChannel=search&refId=cdf5b961-fa18-4fc6-acea-0e1d45c8c965&trackingId=R8BG%2BqXEDFzTehIBYe2BEg%3D%3D&trk=flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BpFgeiIwCSLiKwSGXz2DtJw%3D%3D)
+25.  ### [sennder](https://www.linkedin.com/company/sennder/life/) ,Automation Intern (Linkedin)
+26. ### [door2door](https://www.linkedin.com/company/door2door-the-mobility-company/life/) Company Location, # IT System Admin Working Student - f/m/x(Linkedin)
+27. ### Tentamus, IT Software Developer Intern (m/f/d) (Linkedin)
+28. ### Snowflake, # Software Engineer Intern (Linkedin)
+29. Tesla, # Quality Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
+30. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System] https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
+31. [11.08申請via career portal IBM]### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform, https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform
+32. ###  Name [DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
+33. SAP # SAP HANA Database Group: Intern, Working Student or Thesis-Student (f/m/d) Job
+34. SAP # Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
+35. # Working Student (f/m/d): Software Development (Python, Java) Job
+36. [11.08申請via career portal SAP portal]  ### Intern (f/m/d): SAP Cloud Programming Model (CAP) - Java Developer (254863)
+37. [REJ @ 11.09, 11.08申請via career portal SAP portal] ~~SAP, Intern (f/m/d): Java Developer for Cloud Applications~~
 ### 可能原因：1. Good database programming and SQL knowledge, 2. Fluent in English and German
 38. Bosch # Bachelorarbeit/ Masterarbeit/ Praktikum IT-Sicherheit und angewandte Kryptographie https://www.bosch.de/en/career/job/REF31546R-bachelorarbeit-masterarbeit-praktikum-it-sicherheit-und-angewandte-kryptographie/
 39. [XING] https://www.diva-e.com/de/karriere/stellenangebot/praktikant-im-bereich-softwareentwicklung-in-berlin/
@@ -1354,11 +1354,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMTk3MjA3LC03Mzk0NTMyODMsLTE4Mj
-MxMzYzODUsOTYwMzM0OTcsLTE1NjgwMjM3MDYsLTg5OTAxOTQy
-MCw2NDY4Mjg4NzIsLTczNTc4OTU3OSwtMTg3ODAzNzM3MiwxNj
-gyNTc5NTAwLDg1Njc4Mzc1MiwxMDM4NTAzMzE1LDE1NTI3MzEw
-MDcsLTE4MTA0MjcxNDgsLTMwMzMyNzM1NiwtMTY0OTgwMTMwMC
-wtMTIwNjI3MDA3MiwyMDY5ODY0OTY2LC03MzE3OTE5MTAsLTE5
-NTMzMjU1ODZdfQ==
+eyJoaXN0b3J5IjpbMTIzODcxOTA2NSwtNzM5NDUzMjgzLC0xOD
+IzMTM2Mzg1LDk2MDMzNDk3LC0xNTY4MDIzNzA2LC04OTkwMTk0
+MjAsNjQ2ODI4ODcyLC03MzU3ODk1NzksLTE4NzgwMzczNzIsMT
+Y4MjU3OTUwMCw4NTY3ODM3NTIsMTAzODUwMzMxNSwxNTUyNzMx
+MDA3LC0xODEwNDI3MTQ4LC0zMDMzMjczNTYsLTE2NDk4MDEzMD
+AsLTEyMDYyNzAwNzIsMjA2OTg2NDk2NiwtNzMxNzkxOTEwLC0x
+OTUzMzI1NTg2XX0=
 -->
