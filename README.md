@@ -64,7 +64,9 @@ Mac 鍵符號
 # CV
 - linkedIn Page and CV always up to date
 - work visa eligibility
+- https://resumegenius.com/blog/resume-help/latex-resume-template
 
+# Cover Letter
 ## 1-Introduction
 
 I am a master student in Information Technology at University of Stuttgart in my third semester. I am writing to apply for _**position**_. 
@@ -1351,11 +1353,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwMzM0OTcsLTE1NjgwMjM3MDYsLTg5OT
-AxOTQyMCw2NDY4Mjg4NzIsLTczNTc4OTU3OSwtMTg3ODAzNzM3
-MiwxNjgyNTc5NTAwLDg1Njc4Mzc1MiwxMDM4NTAzMzE1LDE1NT
-I3MzEwMDcsLTE4MTA0MjcxNDgsLTMwMzMyNzM1NiwtMTY0OTgw
-MTMwMCwtMTIwNjI3MDA3MiwyMDY5ODY0OTY2LC03MzE3OTE5MT
-AsLTE5NTMzMjU1ODYsLTk2ODg1NzUwMywtMTkwNzUwNTQ4LC0x
-MDM2OTcyMDExXX0=
+eyJoaXN0b3J5IjpbLTE4MjMxMzYzODUsOTYwMzM0OTcsLTE1Nj
+gwMjM3MDYsLTg5OTAxOTQyMCw2NDY4Mjg4NzIsLTczNTc4OTU3
+OSwtMTg3ODAzNzM3MiwxNjgyNTc5NTAwLDg1Njc4Mzc1MiwxMD
+M4NTAzMzE1LDE1NTI3MzEwMDcsLTE4MTA0MjcxNDgsLTMwMzMy
+NzM1NiwtMTY0OTgwMTMwMCwtMTIwNjI3MDA3MiwyMDY5ODY0OT
+Y2LC03MzE3OTE5MTAsLTE5NTMzMjU1ODYsLTk2ODg1NzUwMywt
+MTkwNzUwNTQ4XX0=
 -->
