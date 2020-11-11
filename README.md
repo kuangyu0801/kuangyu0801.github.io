@@ -65,6 +65,7 @@ Mac 鍵符號
 - linkedIn Page and CV always up to date
 - work visa eligibility
 - https://resumegenius.com/blog/resume-help/latex-resume-template
+- 這個版本很好！https://github.com/posquit0/Awesome-CV
 
 # Cover Letter
 ## 1-Introduction
@@ -1353,11 +1354,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjMxMzYzODUsOTYwMzM0OTcsLTE1Nj
-gwMjM3MDYsLTg5OTAxOTQyMCw2NDY4Mjg4NzIsLTczNTc4OTU3
-OSwtMTg3ODAzNzM3MiwxNjgyNTc5NTAwLDg1Njc4Mzc1MiwxMD
-M4NTAzMzE1LDE1NTI3MzEwMDcsLTE4MTA0MjcxNDgsLTMwMzMy
-NzM1NiwtMTY0OTgwMTMwMCwtMTIwNjI3MDA3MiwyMDY5ODY0OT
-Y2LC03MzE3OTE5MTAsLTE5NTMzMjU1ODYsLTk2ODg1NzUwMywt
-MTkwNzUwNTQ4XX0=
+eyJoaXN0b3J5IjpbLTczOTQ1MzI4MywtMTgyMzEzNjM4NSw5Nj
+AzMzQ5NywtMTU2ODAyMzcwNiwtODk5MDE5NDIwLDY0NjgyODg3
+MiwtNzM1Nzg5NTc5LC0xODc4MDM3MzcyLDE2ODI1Nzk1MDAsOD
+U2NzgzNzUyLDEwMzg1MDMzMTUsMTU1MjczMTAwNywtMTgxMDQy
+NzE0OCwtMzAzMzI3MzU2LC0xNjQ5ODAxMzAwLC0xMjA2MjcwMD
+cyLDIwNjk4NjQ5NjYsLTczMTc5MTkxMCwtMTk1MzMyNTU4Niwt
+OTY4ODU3NTAzXX0=
 -->
