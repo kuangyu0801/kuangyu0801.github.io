@@ -97,8 +97,8 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 
 | Rejection | Interview | Offer|
 |--|--|--|
-| 3 | 0 |0|
-|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>IVU Traffic, Studenten im Cloud-Bereich |--|--|
+| 4 | 0 |0|
+|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>IVU Traffic, Studenten im Cloud-Bereich <br> IBM, Internship: Cloud Software Engineer for IBM Cloud Platform |--|--|
 
 ### 關鍵字：Praktikum Informatik,   Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
@@ -1354,11 +1354,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC03Mz
-k0NTMyODMsLTE4MjMxMzYzODUsOTYwMzM0OTcsLTE1NjgwMjM3
-MDYsLTg5OTAxOTQyMCw2NDY4Mjg4NzIsLTczNTc4OTU3OSwtMT
-g3ODAzNzM3MiwxNjgyNTc5NTAwLDg1Njc4Mzc1MiwxMDM4NTAz
-MzE1LDE1NTI3MzEwMDcsLTE4MTA0MjcxNDgsLTMwMzMyNzM1Ni
-wtMTY0OTgwMTMwMCwtMTIwNjI3MDA3MiwyMDY5ODY0OTY2LC03
-MzE3OTE5MTBdfQ==
+eyJoaXN0b3J5IjpbMTQ4MTM0NzczLC04MjA0Mzc4MzgsMTIzOD
+cxOTA2NSwtNzM5NDUzMjgzLC0xODIzMTM2Mzg1LDk2MDMzNDk3
+LC0xNTY4MDIzNzA2LC04OTkwMTk0MjAsNjQ2ODI4ODcyLC03Mz
+U3ODk1NzksLTE4NzgwMzczNzIsMTY4MjU3OTUwMCw4NTY3ODM3
+NTIsMTAzODUwMzMxNSwxNTUyNzMxMDA3LC0xODEwNDI3MTQ4LC
+0zMDMzMjczNTYsLTE2NDk4MDEzMDAsLTEyMDYyNzAwNzIsMjA2
+OTg2NDk2Nl19
 -->
