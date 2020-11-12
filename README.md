@@ -121,17 +121,19 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 18. (linkedin) msg, Trainee Software Engineer / Branche Banking (m/w/d),
 
 19. ~~[11.03申請, 11.11拒絕(語言)] IVU Traffic Technologies, # Studenten (m/w/d) im Cloud-Bereich[https://www.stepstone.de/stellenangebote--Studenten-m-w-d-im-Cloud-Bereich-Berlin-IVU-Traffic-Technologies-AG--6758148-inline.html]~~
-21. Jina AI Company,[ Deep Learning Engineer Intern](https://www.linkedin.com/jobs/view/2273454728/?alternateChannel=search&refId=99d269d1-1c83-49ad-a67e-75349d45fedd&trackingId=KJqXCXJ%2BoxFQUesbuhLJOg%3D%3D&trk=flagship3_search_srp_jobs)
-22. ### [gamigo group](https://www.linkedin.com/company/gamigo-ag/life/) Company Location Data Engineering Intern (m/f/d), 
-23. ### [Trade Republic](https://www.linkedin.com/company/trade-republic/life/) # Intern IT Security
-24. [Next Big Thing AG](https://www.linkedin.com/company/next-big-thing-ag/life/), [part-time paid intern as technical support @ ConcR](https://www.linkedin.com/jobs/view/2231802288/?alternateChannel=search&refId=cdf5b961-fa18-4fc6-acea-0e1d45c8c965&trackingId=R8BG%2BqXEDFzTehIBYe2BEg%3D%3D&trk=flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BpFgeiIwCSLiKwSGXz2DtJw%3D%3D)
-25.  ### [sennder](https://www.linkedin.com/company/sennder/life/) ,Automation Intern (Linkedin)
-26. ### [door2door](https://www.linkedin.com/company/door2door-the-mobility-company/life/) Company Location, # IT System Admin Working Student - f/m/x(Linkedin)
-27. ### Tentamus, IT Software Developer Intern (m/f/d) (Linkedin)
-28. ### Snowflake, # Software Engineer Intern (Linkedin)
-29. Tesla, # Quality Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
-30. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System] https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
-31. [11.08申請via career portal IBM, 11.12拒絕信]~~### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform,~~ 
+20. Jina AI Company,[ Deep Learning Engineer Intern](https://www.linkedin.com/jobs/view/2273454728/?alternateChannel=search&refId=99d269d1-1c83-49ad-a67e-75349d45fedd&trackingId=KJqXCXJ%2BoxFQUesbuhLJOg%3D%3D&trk=flagship3_search_srp_jobs)
+21. ### [gamigo group](https://www.linkedin.com/company/gamigo-ag/life/) Company Location Data Engineering Intern (m/f/d), 
+22. ### [Trade Republic](https://www.linkedin.com/company/trade-republic/life/) # Intern IT Security
+23. [Next Big Thing AG](https://www.linkedin.com/company/next-big-thing-ag/life/), [part-time paid intern as technical support @ ConcR](https://www.linkedin.com/jobs/view/2231802288/?alternateChannel=search&refId=cdf5b961-fa18-4fc6-acea-0e1d45c8c965&trackingId=R8BG%2BqXEDFzTehIBYe2BEg%3D%3D&trk=flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BpFgeiIwCSLiKwSGXz2DtJw%3D%3D)
+24.  ### [sennder](https://www.linkedin.com/company/sennder/life/) ,Automation Intern (Linkedin)
+25. ### [door2door](https://www.linkedin.com/company/door2door-the-mobility-company/life/) Company Location, # IT System Admin Working Student - f/m/x(Linkedin)
+26. ### Tentamus, IT Software Developer Intern (m/f/d) (Linkedin)
+27. ### Snowflake, # Software Engineer Intern (Linkedin)
+28. Tesla, # Quality Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
+29. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System] https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
+30. [11.08申請via career portal IBM, 11.12拒絕信]~~### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform,~~ 
+-   可能拒絕原因：Basic knowledge about databases and scripting languages (such as Node.js, Python)
+-    Experience with Public Cloud providers, such as IBM Cloud, AWS, Azure or Google Cloud （再等一個禮拜）
 32. ###  Name [DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
 33. SAP # SAP HANA Database Group: Intern, Working Student or Thesis-Student (f/m/d) Job
 34. SAP  Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
@@ -1357,11 +1359,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODIxNzAzLDEyMjAyMDM4NzUsLTgyMD
-QzNzgzOCwxMjM4NzE5MDY1LC03Mzk0NTMyODMsLTE4MjMxMzYz
-ODUsOTYwMzM0OTcsLTE1NjgwMjM3MDYsLTg5OTAxOTQyMCw2ND
-Y4Mjg4NzIsLTczNTc4OTU3OSwtMTg3ODAzNzM3MiwxNjgyNTc5
-NTAwLDg1Njc4Mzc1MiwxMDM4NTAzMzE1LDE1NTI3MzEwMDcsLT
-E4MTA0MjcxNDgsLTMwMzMyNzM1NiwtMTY0OTgwMTMwMCwtMTIw
-NjI3MDA3Ml19
+eyJoaXN0b3J5IjpbMTMzMDQxMjk1NywxMjIwMjAzODc1LC04Mj
+A0Mzc4MzgsMTIzODcxOTA2NSwtNzM5NDUzMjgzLC0xODIzMTM2
+Mzg1LDk2MDMzNDk3LC0xNTY4MDIzNzA2LC04OTkwMTk0MjAsNj
+Q2ODI4ODcyLC03MzU3ODk1NzksLTE4NzgwMzczNzIsMTY4MjU3
+OTUwMCw4NTY3ODM3NTIsMTAzODUwMzMxNSwxNTUyNzMxMDA3LC
+0xODEwNDI3MTQ4LC0zMDMzMjczNTYsLTE2NDk4MDEzMDAsLTEy
+MDYyNzAwNzJdfQ==
 -->
