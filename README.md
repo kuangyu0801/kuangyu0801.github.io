@@ -131,7 +131,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 28. ### Snowflake, # Software Engineer Intern (Linkedin)
 29. Tesla, # Quality Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
 30. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System] https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
-31. [11.08申請via career portal IBM]### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform, https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform
+31. [11.08申請via career portal IBM, 11.12拒絕信]~~### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform,~~ 
 32. ###  Name [DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
 33. SAP # SAP HANA Database Group: Intern, Working Student or Thesis-Student (f/m/d) Job
 34. SAP # Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
@@ -148,6 +148,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 44. https://career5.successfactors.eu/careers
 45. ### Amazon , Software Development Engineer Graduate - Amazon Redshift Spectrum https://www.amazon.jobs/en/jobs/1312592/software-development-engineer-graduate-amazon-redshift-spectrum
 46. ### Amazon , Software Development Engineer Graduate – 2021 (Berlin), https://www.amazon.jobs/en/jobs/1271472/software-development-engineer-graduate-2021-berlin?fbclid=IwAR0sd4LydpTNKVNZhxFjwRhhvWt_nuSw3VYUx3q2lHspRhdxV5FXQEpCqx8
+47. [11.12,]SAP, Students (f/m/d) for the SAP Data Hub Development Team
 
 
 ## EXXETA AG
@@ -1354,11 +1355,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTM0NzczLC04MjA0Mzc4MzgsMTIzOD
-cxOTA2NSwtNzM5NDUzMjgzLC0xODIzMTM2Mzg1LDk2MDMzNDk3
-LC0xNTY4MDIzNzA2LC04OTkwMTk0MjAsNjQ2ODI4ODcyLC03Mz
-U3ODk1NzksLTE4NzgwMzczNzIsMTY4MjU3OTUwMCw4NTY3ODM3
-NTIsMTAzODUwMzMxNSwxNTUyNzMxMDA3LC0xODEwNDI3MTQ4LC
-0zMDMzMjczNTYsLTE2NDk4MDEzMDAsLTEyMDYyNzAwNzIsMjA2
-OTg2NDk2Nl19
+eyJoaXN0b3J5IjpbMTA4NjA1OTUwNSwtODIwNDM3ODM4LDEyMz
+g3MTkwNjUsLTczOTQ1MzI4MywtMTgyMzEzNjM4NSw5NjAzMzQ5
+NywtMTU2ODAyMzcwNiwtODk5MDE5NDIwLDY0NjgyODg3MiwtNz
+M1Nzg5NTc5LC0xODc4MDM3MzcyLDE2ODI1Nzk1MDAsODU2Nzgz
+NzUyLDEwMzg1MDMzMTUsMTU1MjczMTAwNywtMTgxMDQyNzE0OC
+wtMzAzMzI3MzU2LC0xNjQ5ODAxMzAwLC0xMjA2MjcwMDcyLDIw
+Njk4NjQ5NjZdfQ==
 -->
