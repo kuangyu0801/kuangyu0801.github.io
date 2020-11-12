@@ -148,7 +148,9 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 44. https://career5.successfactors.eu/careers
 45. ### Amazon , Software Development Engineer Graduate - Amazon Redshift Spectrum https://www.amazon.jobs/en/jobs/1312592/software-development-engineer-graduate-amazon-redshift-spectrum
 46. ### Amazon , Software Development Engineer Graduate – 2021 (Berlin), https://www.amazon.jobs/en/jobs/1271472/software-development-engineer-graduate-2021-berlin?fbclid=IwAR0sd4LydpTNKVNZhxFjwRhhvWt_nuSw3VYUx3q2lHspRhdxV5FXQEpCqx8
-47. [11.12,]SAP, Students (f/m/d) for the SAP Data Hub Development Team
+47. [11.12 via career portal]SAP, Students (f/m/d) for the SAP Data Hub Development Team
+48. Intern / Working Student (f/m/d) at SAP Innovation Center Network
+49. Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers
 
 
 ## EXXETA AG
@@ -1355,7 +1357,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjA1OTUwNSwtODIwNDM3ODM4LDEyMz
+eyJoaXN0b3J5IjpbMTIyMDIwMzg3NSwtODIwNDM3ODM4LDEyMz
 g3MTkwNjUsLTczOTQ1MzI4MywtMTgyMzEzNjM4NSw5NjAzMzQ5
 NywtMTU2ODAyMzcwNiwtODk5MDE5NDIwLDY0NjgyODg3MiwtNz
 M1Nzg5NTc5LC0xODc4MDM3MzcyLDE2ODI1Nzk1MDAsODU2Nzgz
