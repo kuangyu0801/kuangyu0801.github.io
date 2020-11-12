@@ -134,8 +134,8 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 31. [11.08申請via career portal IBM, 11.12拒絕信]~~### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform,~~ 
 32. ###  Name [DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
 33. SAP # SAP HANA Database Group: Intern, Working Student or Thesis-Student (f/m/d) Job
-34. SAP # Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
-35. # Working Student (f/m/d): Software Development (Python, Java) Job
+34. SAP  Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
+35. Working Student (f/m/d): Software Development (Python, Java) Job
 36. [11.08申請via career portal SAP portal]  ### Intern (f/m/d): SAP Cloud Programming Model (CAP) - Java Developer (254863)
 37. [REJ @ 11.09, 11.08申請via career portal SAP portal] ~~SAP, Intern (f/m/d): Java Developer for Cloud Applications~~
 ### 可能原因：1. Good database programming and SQL knowledge, 2. Fluent in English and German
@@ -1357,11 +1357,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDIwMzg3NSwtODIwNDM3ODM4LDEyMz
-g3MTkwNjUsLTczOTQ1MzI4MywtMTgyMzEzNjM4NSw5NjAzMzQ5
-NywtMTU2ODAyMzcwNiwtODk5MDE5NDIwLDY0NjgyODg3MiwtNz
-M1Nzg5NTc5LC0xODc4MDM3MzcyLDE2ODI1Nzk1MDAsODU2Nzgz
-NzUyLDEwMzg1MDMzMTUsMTU1MjczMTAwNywtMTgxMDQyNzE0OC
-wtMzAzMzI3MzU2LC0xNjQ5ODAxMzAwLC0xMjA2MjcwMDcyLDIw
-Njk4NjQ5NjZdfQ==
+eyJoaXN0b3J5IjpbMjA3ODIxNzAzLDEyMjAyMDM4NzUsLTgyMD
+QzNzgzOCwxMjM4NzE5MDY1LC03Mzk0NTMyODMsLTE4MjMxMzYz
+ODUsOTYwMzM0OTcsLTE1NjgwMjM3MDYsLTg5OTAxOTQyMCw2ND
+Y4Mjg4NzIsLTczNTc4OTU3OSwtMTg3ODAzNzM3MiwxNjgyNTc5
+NTAwLDg1Njc4Mzc1MiwxMDM4NTAzMzE1LDE1NTI3MzEwMDcsLT
+E4MTA0MjcxNDgsLTMwMzMyNzM1NiwtMTY0OTgwMTMwMCwtMTIw
+NjI3MDA3Ml19
 -->
