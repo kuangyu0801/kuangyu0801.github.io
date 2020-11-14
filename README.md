@@ -784,8 +784,8 @@ numpy.linalg.solve
 
 # 刷題找工作
 
-- ### [高頻一百連結](https://leetcode.com/problemset/top-interview-questions/)
-- ### [我的刷題紀錄與心得](https://github.com/kuangyu0801/LeetcodeDailyCheckIn/tree/master/Leetcode)
+- ### [力扣高頻一百清單](https://leetcode.com/problemset/top-interview-questions/)
+- ### [我的刷題紀錄](https://github.com/kuangyu0801/LeetcodeDailyCheckIn/tree/master/Leetcode)
 
 ### 解答網站
 
@@ -1126,7 +1126,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTI3NjU1OCwxMzMwNDEyOTU3LDEyMj
+eyJoaXN0b3J5IjpbMjAxMTk0ODA0NSwxMzMwNDEyOTU3LDEyMj
 AyMDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC03Mzk0NTMy
 ODMsLTE4MjMxMzYzODUsOTYwMzM0OTcsLTE1NjgwMjM3MDYsLT
 g5OTAxOTQyMCw2NDY4Mjg4NzIsLTczNTc4OTU3OSwtMTg3ODAz
