@@ -802,7 +802,6 @@ numpy.linalg.solve
 - coding style的嚴謹度
 
 所以，每天一定要抽出時間來刷題，時間不夠挑一題easy來做也能夠維持自己對語法的熟悉
-## 紀錄
 
 ## Frequent-Used Library
 
@@ -1126,11 +1125,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODUwNDk0NTMsMTMzMDQxMjk1NywxMj
-IwMjAzODc1LC04MjA0Mzc4MzgsMTIzODcxOTA2NSwtNzM5NDUz
-MjgzLC0xODIzMTM2Mzg1LDk2MDMzNDk3LC0xNTY4MDIzNzA2LC
-04OTkwMTk0MjAsNjQ2ODI4ODcyLC03MzU3ODk1NzksLTE4Nzgw
-MzczNzIsMTY4MjU3OTUwMCw4NTY3ODM3NTIsMTAzODUwMzMxNS
-wxNTUyNzMxMDA3LC0xODEwNDI3MTQ4LC0zMDMzMjczNTYsLTE2
-NDk4MDEzMDBdfQ==
+eyJoaXN0b3J5IjpbLTk1MjMzMTI3LDEzMzA0MTI5NTcsMTIyMD
+IwMzg3NSwtODIwNDM3ODM4LDEyMzg3MTkwNjUsLTczOTQ1MzI4
+MywtMTgyMzEzNjM4NSw5NjAzMzQ5NywtMTU2ODAyMzcwNiwtOD
+k5MDE5NDIwLDY0NjgyODg3MiwtNzM1Nzg5NTc5LC0xODc4MDM3
+MzcyLDE2ODI1Nzk1MDAsODU2NzgzNzUyLDEwMzg1MDMzMTUsMT
+U1MjczMTAwNywtMTgxMDQyNzE0OCwtMzAzMzI3MzU2LC0xNjQ5
+ODAxMzAwXX0=
 -->
