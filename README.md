@@ -990,8 +990,6 @@ char[] s1 = s.toCharArray();
 ### Math
 ```
 int ran = Math.random();
-
-
 ```
 
 ### LinkedList
@@ -1011,195 +1009,8 @@ ArrayDeque.offer(E e)
 ArrayDeque.poll()
 ```
 
-### Integer-String Conversion
-如何處理conversion造成的overflow問題？
-
-## Problems
-
-### TODO
-- 8. String to Integer (atoi)
-
-### 1. Two Sum
-
-最優解法是用HashMap記錄餘數與index, 很巧妙
-```
-for (int i = 0; i < nums.length;i++) {
-    if (map.containsKey(nums[i])){
-        res[0] = map.get(nums[i]);
-        res[1] = i; break;
-    } else {
-        map.put((target - nums[i]),i);
-    }
-}
-```
-### 2. Add Two Numbers
-corner case: 考慮最高位進位問題
-最優解法
-
-### 7. Reverse Integer
-要如何優雅處理overflow or underflow?
-[https://leetcode.jp/leetcode-7-reverse-integer-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90](https://leetcode.jp/leetcode-7-reverse-integer-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90)
-
-### 8. String to Integer (atoi)
-看似簡單直觀，但有很多corner case, 然後對API也要很熟悉，光在tactical debug就超過一小時...
-最優解法：
 
 
-### 15. 3Sum  (Medium)
-直覺會想要學2Sum但是會有重複排列的問題！
-
-觀念：排序 + 双指针
-清楚思路的解法：[https://leetcode-cn.com/problems/3sum/solution/pai-xu-shuang-zhi-zhen-zhu-xing-jie-shi-python3-by/](https://leetcode-cn.com/problems/3sum/solution/pai-xu-shuang-zhi-zhen-zhu-xing-jie-shi-python3-by/)
-Time complexity O(N^2)
-Space complexity O(1): in place
-### 46. Permutation (Medium)
-[三種解法in java](https://blog.csdn.net/happyaaaaaaaaaaa/article/details/51534048)
-類型：backtrack（回溯法)
-【思路-Java、Python】回溯算法|递归实现[解法說明](http://www.noteanddata.com/leetcode-46-Permutations-java-solution-note.html)
-【思路2-Java】回溯算法|递归实现
-【思路3-Java】非递归实现
-### 56.  Merge Intervals (Medium)
-[https://leetcode.jp/leetcode-56-merge-intervals-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-56-merge-intervals-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
-
-### 124. Binary Tree Maximum Path Sum (Hard)
-[java解答](https://www.geeksforgeeks.org/find-maximum-path-sum-in-a-binary-tree/)
-這題tricky的地方是，helper function要回報只能選一個child，但如果是max sum update就可以考慮both children
-
-```
-class Solution {
-    
-    public int maxPathSum(TreeNode root) {
-
-        MaxValNode maxValNode = new MaxValNode(Integer.MIN_VALUE);
-        pathSumRecursive(root, maxValNode);
-        
-        # don't use return pathSumRecursive(root, maxValNode);
-        # because this means we want root to return its selection!
-        return maxValNode.maxVal;
-    }
-    
-    public class MaxValNode {
-        private int maxVal;
-        
-        public MaxValNode(int val) {
-            this.maxVal = val;
-        }
-    }
-    
-    private int pathSumRecursive(TreeNode node, MaxValNode maxValNode) {
-        if (node == null) {
-            return 0;
-        }
-        
-        int leftMax = Math.max(pathSumRecursive(node.left, maxValNode), 0);
-        int rightMax  = Math.max(pathSumRecursive(node.right, maxValNode), 0);
-        int sum = node.val + leftMax + rightMax;
-        maxValNode.maxVal = Math.max(maxValNode.maxVal , sum);
-        return node.val + Math.max(leftMax, rightMax);
-    }
-}
-```
-
-### 179. Largest Number
-- [https://xinghao-huang-portfolio.herokuapp.com/year/01/08/LeetCode/179.%20Largest%20Number/#youtube-video](https://xinghao-huang-portfolio.herokuapp.com/year/01/08/LeetCode/179.%20Largest%20Number/#youtube-video)
-- [https://leetcode.jp/leetcode-179-largest-number-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-179-largest-number-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
-
-### 204. Count Primes
-[https://leetcode.jp/leetcode-204-count-primes-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-204-count-primes-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
-
-###  242演算法 Valid Anagram  (Medium)
-[https://medium.com/leetcode-%E6%BC%94%E7%AE%97%E6%B3%95%E6%95%99%E5%AD%B8/015-leetcode-242%E6%BC%94%E7%AE%97%E6%B3%95-valid-anagram-%E9%A9%97%E8%AD%89%E6%98%93%E4%BD%8D%E6%A7%8B%E8%A9%9E-9111f3ef8102](https://medium.com/leetcode-%E6%BC%94%E7%AE%97%E6%B3%95%E6%95%99%E5%AD%B8/015-leetcode-242%E6%BC%94%E7%AE%97%E6%B3%95-valid-anagram-%E9%A9%97%E8%AD%89%E6%98%93%E4%BD%8D%E6%A7%8B%E8%A9%9E-9111f3ef8102)
-
-### 334. Increasing Triplet Subsequence (Medium)
-這題是greedy,
-[https://leetcode.jp/leetcode-334-increasing-triplet-subsequence-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-334-increasing-triplet-subsequence-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
-[https://zxi.mytechroad.com/blog/?s=334.+Increasing+Triplet+Subsequence](https://zxi.mytechroad.com/blog/?s=334.+Increasing+Triplet+Subsequence)
-
-[https://www.youtube.com/watch?v=HzeK7g8cD0Y](https://www.youtube.com/watch?v=HzeK7g8cD0Y)
-
-### 341. Flatten Nested List Iterator (Medium)
-#### 解法一：
-直觀的方法就是一次展開所有的nested list然後存到自己的list裡面，之後直接調用list的method
-[https://leetcode.jp/leetcode-341-flatten-nested-list-iterator-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/](https://leetcode.jp/leetcode-341-flatten-nested-list-iterator-%e8%a7%a3%e9%a2%98%e6%80%9d%e8%b7%af%e5%88%86%e6%9e%90/)
-#### 解法二(難）：
-可以用stack解，逐次展開: [http://www.noteanddata.com/leetcode-341-Flatten-Nested-List-Iterator-java-solution-note.html](http://www.noteanddata.com/leetcode-341-Flatten-Nested-List-Iterator-java-solution-note.html)
-
-### 347. Top K Frequent Elements (Medium)
-相關題目：#692
-[https://www.youtube.com/watch?v=lm6pBga98-w](https://www.youtube.com/watch?v=lm6pBga98-w)
-### 371. Sum of Two Integers (Easy)
-這題要用遞迴，熟悉Java bit-wise operation
-```
-a ^ b; // a XOR b
-a & b; // a AND b
-a | b; // a OR b
-a << n; // a right shift with n bit
-~a ; // complement of a
-```
-解法
-[https://www.youtube.com/watch?v=Pi7sMZWIIXE](https://www.youtube.com/watch?v=Pi7sMZWIIXE)
-
-### 380. Insert Delete GetRandom O(1)
-[花花醬解法](https://www.youtube.com/watch?v=y240Qh9H9uk)
-HashMap to store array index + array for index output
-
-### 383 Ransom Note (Easy)
- 
-要快的話就用array lookup, 不要用hashMap
-```
-public class Solution {
-    public boolean canConstruct(String ransomNote, String magazine) {
-        if(ransomNote.length() > magazine.length())
-            return false;
-        int []chars= new int[26];
-        for(int i=0; i< magazine.length(); i++){
-            chars[magazine.charAt(i)- 'a']++;
-        }
-        for(int i=0; i< ransomNote.length(); i++){
-            chars[ransomNote.charAt(i)- 'a']--;
-            if(chars[ransomNote.charAt(i)- 'a'] < 0){
-                return false;
-            }
-        }
-        return true;
-    }
-}
-————————————————
-版权声明：本文为CSDN博主「负雪明烛」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/fuxuemingzhu/java/article/details/54178342
-```
-### 384. Shuffle an Array (Medium)
-[解法參考](https://leetcode.jp/leetcode-384-shuffle-an-array-%E8%A7%A3%E9%A2%98%E6%80%9D%E8%B7%AF%E5%88%86%E6%9E%90/)
-
-### 454. 4Sum II (Medium)
-用hashMap的觀念沒錯，我的方法太搞剛，還考慮把AB為零的先挑出來，再組一次array
-[花花將快速解](https://zxi.mytechroad.com/blog/hashtable/leetcode-454-4sum-ii/)
-```
-    public int fourSumCount(int[] A, int[] B, int[] C, int[] D) {
-        
-        //TODO: how to declare a array of object
-        HashMap<Integer, Integer> mapA, mapB, mapC, mapD, mapABnonZero, mapCDnonZero;
-        mapABnonZero = new HashMap();
-        mapCDnonZero = new HashMap();
-        
-        mapA = constructHashMap(A);
-        mapB = constructHashMap(B);
-        mapC = constructHashMap(C);
-        mapD = constructHashMap(D);
-        
-        int solABCounts = twoSumCount(mapA, mapB, mapABnonZero);
-        int solCDCounts = twoSumCount(mapC, mapD, mapCDnonZero);
-        int solABCDCounts = twoSumCount(mapABnonZero, mapCDnonZero, mapA);
-        int finalSol = solABCounts*solCDCounts + solABCDCounts;
-        
-        return finalSol;
-```
-
-### 476.	Number Complement (Easy)   
-記住Java還是support shift >>
-
-
-### 692
 
 # Android Development
 ## Reference
@@ -1359,11 +1170,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDQxMjk1NywxMjIwMjAzODc1LC04Mj
-A0Mzc4MzgsMTIzODcxOTA2NSwtNzM5NDUzMjgzLC0xODIzMTM2
-Mzg1LDk2MDMzNDk3LC0xNTY4MDIzNzA2LC04OTkwMTk0MjAsNj
-Q2ODI4ODcyLC03MzU3ODk1NzksLTE4NzgwMzczNzIsMTY4MjU3
-OTUwMCw4NTY3ODM3NTIsMTAzODUwMzMxNSwxNTUyNzMxMDA3LC
-0xODEwNDI3MTQ4LC0zMDMzMjczNTYsLTE2NDk4MDEzMDAsLTEy
-MDYyNzAwNzJdfQ==
+eyJoaXN0b3J5IjpbMTA0MzQzNDUyMSwxMzMwNDEyOTU3LDEyMj
+AyMDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC03Mzk0NTMy
+ODMsLTE4MjMxMzYzODUsOTYwMzM0OTcsLTE1NjgwMjM3MDYsLT
+g5OTAxOTQyMCw2NDY4Mjg4NzIsLTczNTc4OTU3OSwtMTg3ODAz
+NzM3MiwxNjgyNTc5NTAwLDg1Njc4Mzc1MiwxMDM4NTAzMzE1LD
+E1NTI3MzEwMDcsLTE4MTA0MjcxNDgsLTMwMzMyNzM1NiwtMTY0
+OTgwMTMwMF19
 -->
