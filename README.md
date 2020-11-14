@@ -793,6 +793,8 @@ numpy.linalg.solve
 - 某人簡單明瞭的部落格，答案是java[https://leetcode.jp/problems.php](https://leetcode.jp/problems.php)
 - [花花醬playlist](https://www.youtube.com/user/xxfflower/playlists)
 - 花花醬網站，部分有視頻講解，代碼是c++ or  Python [https://zxi.mytechroad.com/blog/](https://zxi.mytechroad.com/blog/)
+- 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
+
 ## 心得
 
 刷題考出很多東西
@@ -1124,11 +1126,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzAyNzA0MSwxMzMwNDEyOTU3LDEyMj
-AyMDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC03Mzk0NTMy
-ODMsLTE4MjMxMzYzODUsOTYwMzM0OTcsLTE1NjgwMjM3MDYsLT
-g5OTAxOTQyMCw2NDY4Mjg4NzIsLTczNTc4OTU3OSwtMTg3ODAz
-NzM3MiwxNjgyNTc5NTAwLDg1Njc4Mzc1MiwxMDM4NTAzMzE1LD
-E1NTI3MzEwMDcsLTE4MTA0MjcxNDgsLTMwMzMyNzM1NiwtMTY0
-OTgwMTMwMF19
+eyJoaXN0b3J5IjpbNzk0MjA1NTAxLDEzMzA0MTI5NTcsMTIyMD
+IwMzg3NSwtODIwNDM3ODM4LDEyMzg3MTkwNjUsLTczOTQ1MzI4
+MywtMTgyMzEzNjM4NSw5NjAzMzQ5NywtMTU2ODAyMzcwNiwtOD
+k5MDE5NDIwLDY0NjgyODg3MiwtNzM1Nzg5NTc5LC0xODc4MDM3
+MzcyLDE2ODI1Nzk1MDAsODU2NzgzNzUyLDEwMzg1MDMzMTUsMT
+U1MjczMTAwNywtMTgxMDQyNzE0OCwtMzAzMzI3MzU2LC0xNjQ5
+ODAxMzAwXX0=
 -->
