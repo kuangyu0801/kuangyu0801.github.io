@@ -786,7 +786,7 @@ numpy.linalg.solve
 # 刷題找工作
 
 ## [高頻一百連結](https://leetcode.com/problemset/top-interview-questions/)
-## [我的刷題](https://github.com/kuangyu0801/LeetcodeDailyCheckIn/tree/master/Leetcode)
+## [我的刷題紀錄](https://github.com/kuangyu0801/LeetcodeDailyCheckIn/tree/master/Leetcode)
 
 ### 解答網站
 
@@ -803,50 +803,6 @@ numpy.linalg.solve
 
 所以，每天一定要抽出時間來刷題，時間不夠挑一題easy來做也能夠維持自己對語法的熟悉
 ## 紀錄
-
-Sun|Mon|Tue|Wed|Thu|Fri|Sat  
----|---|---|---|---|---|---
-5.3|5.4|5.5|5.6|5.7|5.8|5.9
-11  |11  |12(+1) |-  |13(+1)  |14(+1)  |-
-5.10|5.11|5.12|5.13|5.14|5.15|5.16
-14  |16(+2)|- |17(+1)|-|-|-
-5.17|5.18|5.19|5.20|5.21|5.22|5.23
--|-|-|18(+1)|-|-|
-5.24|5.25|5.26|5.27|5.28|5.29|5.30
--|19(+1)|-|-|-|20(+1)|-
-5.31|6.1|6.2|6.3|6.4|6.5|6.6
--|22(+2)|23(+1)|24(+1)|25(+1)|-|27(+2)
-6.7|6.8|6.9|6.10|6.11|6.12|6.13
-28(+1)|29(+1)|30(+1)|31(+1)|---|33(+1)|---
-6.14|6.15|6.16|6.17|6.18|6.19|6.20
----|---|34(+1)|---|35(+1)|---|---
-6.21|6.22|6.23|6.24|6.25|6.26|6.27
----|36(+1)|37(+1)|---|---|---|---
----|---|---|---|---|---|---
----|---|---|---|---|---|---
-
-Nr.|1st|2nd|3rd
----|---|---|---
-1| v | - | - 
-2| v | - | - 
-8| v | - | - 
-4| v | - | -
-15| v | - | -
-38| v | - | -
-56| v | - | -
-124| v | - | - 
-179| v | - | - 
-204| v | - | - 
-217| v | - | - 
-242| v | - | - 
-334| v | - | -
-341| v | - | -
-347| v | - | -
-371| v | - | - 
-380| v | - | - 
-383| v | - | - 
-384| v | - | - 
-454| v | - | -
 
 ## Frequent-Used Library
 
@@ -1170,11 +1126,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzQzNDUyMSwxMzMwNDEyOTU3LDEyMj
-AyMDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC03Mzk0NTMy
-ODMsLTE4MjMxMzYzODUsOTYwMzM0OTcsLTE1NjgwMjM3MDYsLT
-g5OTAxOTQyMCw2NDY4Mjg4NzIsLTczNTc4OTU3OSwtMTg3ODAz
-NzM3MiwxNjgyNTc5NTAwLDg1Njc4Mzc1MiwxMDM4NTAzMzE1LD
-E1NTI3MzEwMDcsLTE4MTA0MjcxNDgsLTMwMzMyNzM1NiwtMTY0
-OTgwMTMwMF19
+eyJoaXN0b3J5IjpbLTE3ODUwNDk0NTMsMTMzMDQxMjk1NywxMj
+IwMjAzODc1LC04MjA0Mzc4MzgsMTIzODcxOTA2NSwtNzM5NDUz
+MjgzLC0xODIzMTM2Mzg1LDk2MDMzNDk3LC0xNTY4MDIzNzA2LC
+04OTkwMTk0MjAsNjQ2ODI4ODcyLC03MzU3ODk1NzksLTE4Nzgw
+MzczNzIsMTY4MjU3OTUwMCw4NTY3ODM3NTIsMTAzODUwMzMxNS
+wxNTUyNzMxMDA3LC0xODEwNDI3MTQ4LC0zMDMzMjczNTYsLTE2
+NDk4MDEzMDBdfQ==
 -->
