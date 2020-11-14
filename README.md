@@ -1,9 +1,8 @@
 ## Welcome to GitHub Pages
 - [不要害怕海投海面](#不要害怕海投海面)
-- [Interview Preparation](#Interview Preparation)
-*
-## Technical Question
-## Behavior Question
+- [Interview Preparation](#interview-preparation)
+* [technical-question](#technical-question)
+* [behavior-question](#behavior-question)
 - [CV](#cv)
 	* [Introduction in 5 Sentences](#introduction-in-5-sentences)
 - [高頻一百連結](#高頻一百連結)
@@ -1132,7 +1131,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzY5MzM3MSwxMzMwNDEyOTU3LDEyMj
+eyJoaXN0b3J5IjpbLTI1NDQzMDg3NSwxMzMwNDEyOTU3LDEyMj
 AyMDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC03Mzk0NTMy
 ODMsLTE4MjMxMzYzODUsOTYwMzM0OTcsLTE1NjgwMjM3MDYsLT
 g5OTAxOTQyMCw2NDY4Mjg4NzIsLTczNTc4OTU3OSwtMTg3ODAz
