@@ -240,7 +240,6 @@ Janna LinkedIn: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com
 # 好用網站
 - 畫流程圖[https://app.diagrams.net/](https://app.diagrams.net/): 可以直接在上面編輯數學公式為 latex format
 Enable mathematical typesetting via _Extras_->_Mathematical Typesetting._ The following syntax is supported:
-- overleaf: 線上編輯 latex format
 # TO-CONSIDER
 - [ ]  [AWS Fundamentals: Going Cloud-Native from AWS Fundamentals Specialization(Coursera)](https://coursera.org/share/7965486607405adf9331f5b2bd7253c9)
 # Mind Set
@@ -1139,11 +1138,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDIxOTEwNjEsMTkwNDY3MDMzOCwtMT
-gyNzI1NjYyMSwtMTQ4OTU0NjA4OCw2OTA2NTIyODEsMTA0MTg2
-MTk3MywyMDY1NTgzNTA0LDE2NTM0NTA4OTgsLTQ4MjM5OTAxOS
-wtMjA1MjU1ODE0OCw0MjAwNzAxMywxMzMwNDEyOTU3LDEyMjAy
-MDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC03Mzk0NTMyOD
-MsLTE4MjMxMzYzODUsOTYwMzM0OTcsLTE1NjgwMjM3MDYsLTg5
-OTAxOTQyMF19
+eyJoaXN0b3J5IjpbODE2NTA1ODcwLDE5MDQ2NzAzMzgsLTE4Mj
+cyNTY2MjEsLTE0ODk1NDYwODgsNjkwNjUyMjgxLDEwNDE4NjE5
+NzMsMjA2NTU4MzUwNCwxNjUzNDUwODk4LC00ODIzOTkwMTksLT
+IwNTI1NTgxNDgsNDIwMDcwMTMsMTMzMDQxMjk1NywxMjIwMjAz
+ODc1LC04MjA0Mzc4MzgsMTIzODcxOTA2NSwtNzM5NDUzMjgzLC
+0xODIzMTM2Mzg1LDk2MDMzNDk3LC0xNTY4MDIzNzA2LC04OTkw
+MTk0MjBdfQ==
 -->
