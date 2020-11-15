@@ -161,7 +161,6 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 50. ### Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
 	- Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment
 51. ### Facebook, [2021 Production Engineering - Internship](https://www.facebook.com/careers/jobs/376500203532233/)
-	-   Ability to pick up new software, frameworks and APIs quickly
 	-   Ability to perform 'guerrilla capacity planning' for internet service architectures
 	-   Knowledge of basic large-scale internet service architectures (such as load balancing, LAMP, CDN's), even if you haven't worked on one
 	-   Configuration and maintenance of common applications such as Apache, memcached, Squid, MySQL, NFS, DHCP, NTP, SSH, DNS, and SNMP
@@ -1145,11 +1144,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODU1MjI1NywtMTQ4OTU0NjA4OCw2OT
-A2NTIyODEsMTA0MTg2MTk3MywyMDY1NTgzNTA0LDE2NTM0NTA4
-OTgsLTQ4MjM5OTAxOSwtMjA1MjU1ODE0OCw0MjAwNzAxMywxMz
-MwNDEyOTU3LDEyMjAyMDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5
-MDY1LC03Mzk0NTMyODMsLTE4MjMxMzYzODUsOTYwMzM0OTcsLT
-E1NjgwMjM3MDYsLTg5OTAxOTQyMCw2NDY4Mjg4NzIsLTczNTc4
-OTU3OV19
+eyJoaXN0b3J5IjpbLTE4MjcyNTY2MjEsLTE0ODk1NDYwODgsNj
+kwNjUyMjgxLDEwNDE4NjE5NzMsMjA2NTU4MzUwNCwxNjUzNDUw
+ODk4LC00ODIzOTkwMTksLTIwNTI1NTgxNDgsNDIwMDcwMTMsMT
+MzMDQxMjk1NywxMjIwMjAzODc1LC04MjA0Mzc4MzgsMTIzODcx
+OTA2NSwtNzM5NDUzMjgzLC0xODIzMTM2Mzg1LDk2MDMzNDk3LC
+0xNTY4MDIzNzA2LC04OTkwMTk0MjAsNjQ2ODI4ODcyLC03MzU3
+ODk1NzldfQ==
 -->
