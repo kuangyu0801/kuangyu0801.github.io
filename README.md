@@ -69,6 +69,8 @@ Mac 鍵符號
 
 # Interview Preparation
 ## Technical Question
+- 5G,4G 是屬於哪一層
+- embeded的意思？fw的定義
 ## Behavior Question
 # Cover Letter
 ## 1-Introduction
@@ -1137,11 +1139,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjY4OTQ0MiwxOTA0NjcwMzM4LC0xOD
-I3MjU2NjIxLC0xNDg5NTQ2MDg4LDY5MDY1MjI4MSwxMDQxODYx
-OTczLDIwNjU1ODM1MDQsMTY1MzQ1MDg5OCwtNDgyMzk5MDE5LC
-0yMDUyNTU4MTQ4LDQyMDA3MDEzLDEzMzA0MTI5NTcsMTIyMDIw
-Mzg3NSwtODIwNDM3ODM4LDEyMzg3MTkwNjUsLTczOTQ1MzI4My
-wtMTgyMzEzNjM4NSw5NjAzMzQ5NywtMTU2ODAyMzcwNiwtODk5
-MDE5NDIwXX0=
+eyJoaXN0b3J5IjpbNzg3MTIxMTI3LC01NjY2ODk0NDIsMTkwND
+Y3MDMzOCwtMTgyNzI1NjYyMSwtMTQ4OTU0NjA4OCw2OTA2NTIy
+ODEsMTA0MTg2MTk3MywyMDY1NTgzNTA0LDE2NTM0NTA4OTgsLT
+Q4MjM5OTAxOSwtMjA1MjU1ODE0OCw0MjAwNzAxMywxMzMwNDEy
+OTU3LDEyMjAyMDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC
+03Mzk0NTMyODMsLTE4MjMxMzYzODUsOTYwMzM0OTcsLTE1Njgw
+MjM3MDZdfQ==
 -->
