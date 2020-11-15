@@ -156,6 +156,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 47. ### Intern / Working Student (f/m/d) at SAP Innovation Center Network
 48. ### Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers
 (### Facebook, You can submit up to three job applications every 90 days. Be sure to apply for roles that strongly match your skills and work experience.)
+#### enterprise engineer的其實就是software engineer
 
 49. ### Facebook, [Software Engineer, Intern/Co-op](https://www.facebook.com/careers/jobs/1716969328451048/)
 50. ### Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
@@ -1144,11 +1145,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjcyNTY2MjEsLTE0ODk1NDYwODgsNj
-kwNjUyMjgxLDEwNDE4NjE5NzMsMjA2NTU4MzUwNCwxNjUzNDUw
-ODk4LC00ODIzOTkwMTksLTIwNTI1NTgxNDgsNDIwMDcwMTMsMT
-MzMDQxMjk1NywxMjIwMjAzODc1LC04MjA0Mzc4MzgsMTIzODcx
-OTA2NSwtNzM5NDUzMjgzLC0xODIzMTM2Mzg1LDk2MDMzNDk3LC
-0xNTY4MDIzNzA2LC04OTkwMTk0MjAsNjQ2ODI4ODcyLC03MzU3
-ODk1NzldfQ==
+eyJoaXN0b3J5IjpbMTI5ODM1OTAwNSwtMTgyNzI1NjYyMSwtMT
+Q4OTU0NjA4OCw2OTA2NTIyODEsMTA0MTg2MTk3MywyMDY1NTgz
+NTA0LDE2NTM0NTA4OTgsLTQ4MjM5OTAxOSwtMjA1MjU1ODE0OC
+w0MjAwNzAxMywxMzMwNDEyOTU3LDEyMjAyMDM4NzUsLTgyMDQz
+NzgzOCwxMjM4NzE5MDY1LC03Mzk0NTMyODMsLTE4MjMxMzYzOD
+UsOTYwMzM0OTcsLTE1NjgwMjM3MDYsLTg5OTAxOTQyMCw2NDY4
+Mjg4NzJdfQ==
 -->
