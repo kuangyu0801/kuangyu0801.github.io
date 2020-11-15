@@ -162,8 +162,9 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 51. ### Facebook, [2021 Production Engineering - Internship](https://www.facebook.com/careers/jobs/376500203532233/)
 52. ### Facebook, [Enterprise Engineer, Intern](https://www.facebook.com/careers/jobs/698645737362352/)
 53. ### Facebook, [Hardware Systems Engineer, Intern](https://www.facebook.com/careers/jobs/779264215951406/)
-54. ### (linkedIn) [VMware](https://www.linkedin.com/company/vmware/life/) , Solutions Engineering Intern
-55. 
+54. ### Facebook, [Automation Infrastructure Engineer, Intern]
+55. ### (linkedIn) [VMware](https://www.linkedin.com/company/vmware/life/) , Solutions Engineering Intern
+56. 
 
 
 ## EXXETA AG
@@ -1138,11 +1139,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk1NDYwODgsNjkwNjUyMjgxLDEwND
-E4NjE5NzMsMjA2NTU4MzUwNCwxNjUzNDUwODk4LC00ODIzOTkw
-MTksLTIwNTI1NTgxNDgsNDIwMDcwMTMsMTMzMDQxMjk1NywxMj
-IwMjAzODc1LC04MjA0Mzc4MzgsMTIzODcxOTA2NSwtNzM5NDUz
-MjgzLC0xODIzMTM2Mzg1LDk2MDMzNDk3LC0xNTY4MDIzNzA2LC
-04OTkwMTk0MjAsNjQ2ODI4ODcyLC03MzU3ODk1NzksLTE4Nzgw
-MzczNzJdfQ==
+eyJoaXN0b3J5IjpbLTEyNjU1MjA4NSwtMTQ4OTU0NjA4OCw2OT
+A2NTIyODEsMTA0MTg2MTk3MywyMDY1NTgzNTA0LDE2NTM0NTA4
+OTgsLTQ4MjM5OTAxOSwtMjA1MjU1ODE0OCw0MjAwNzAxMywxMz
+MwNDEyOTU3LDEyMjAyMDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5
+MDY1LC03Mzk0NTMyODMsLTE4MjMxMzYzODUsOTYwMzM0OTcsLT
+E1NjgwMjM3MDYsLTg5OTAxOTQyMCw2NDY4Mjg4NzIsLTczNTc4
+OTU3OV19
 -->
