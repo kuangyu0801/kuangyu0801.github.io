@@ -224,9 +224,10 @@ amazon的文化是什麼？
 - [x]  Cloud Computing:  Uni Stuttgart WS20
 - [x]  計網概
 - [x] Software Engineering: Uni Stuttgart WS20
+- [ ] Agile Software Development (Coursera)[https://www.coursera.org/learn/agile-software-development/home/welcome](https://www.coursera.org/learn/agile-software-development/home/welcome)
 
-- ~~[ ] [Software Development Process (Udacity)](https://classroom.udacity.com/courses/ud805)~~(有修SER)
-
+Obsolete
+~~- [ ] [Software Development Process (Udacity)](https://classroom.udacity.com/courses/ud805)~~(有修SER)
 ~~- [ ]  Computer Vision: Uni Stuttgart~~(不實用，對工作沒幫助）
 # Joanna List 
 Janna LinkedIn: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
@@ -1138,11 +1139,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5OTcwNTIzLDE5MDQ2NzAzMzgsLTE4Mj
-cyNTY2MjEsLTE0ODk1NDYwODgsNjkwNjUyMjgxLDEwNDE4NjE5
-NzMsMjA2NTU4MzUwNCwxNjUzNDUwODk4LC00ODIzOTkwMTksLT
-IwNTI1NTgxNDgsNDIwMDcwMTMsMTMzMDQxMjk1NywxMjIwMjAz
-ODc1LC04MjA0Mzc4MzgsMTIzODcxOTA2NSwtNzM5NDUzMjgzLC
-0xODIzMTM2Mzg1LDk2MDMzNDk3LC0xNTY4MDIzNzA2LC04OTkw
-MTk0MjBdfQ==
+eyJoaXN0b3J5IjpbLTE5NjI1Mzg2NTksMTkwNDY3MDMzOCwtMT
+gyNzI1NjYyMSwtMTQ4OTU0NjA4OCw2OTA2NTIyODEsMTA0MTg2
+MTk3MywyMDY1NTgzNTA0LDE2NTM0NTA4OTgsLTQ4MjM5OTAxOS
+wtMjA1MjU1ODE0OCw0MjAwNzAxMywxMzMwNDEyOTU3LDEyMjAy
+MDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC03Mzk0NTMyOD
+MsLTE4MjMxMzYzODUsOTYwMzM0OTcsLTE1NjgwMjM3MDYsLTg5
+OTAxOTQyMF19
 -->
