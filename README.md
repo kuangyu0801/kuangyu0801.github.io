@@ -204,14 +204,12 @@ amazon的文化是什麼？
 
 # 面試DO & DON'T
 ## DO
-## Homework
-- 讀好job description
-## Nurture Relationship
+1.  Homework: 讀好job description
+2.  Nurture Relationship
 ## DON'T
 1. Unprepared
 2. Afraid to clarify
 3. Not Interested
-
 
 # 我的自我問題
 - 熟悉歐洲
@@ -226,7 +224,7 @@ amazon的文化是什麼？
 - [x] Software Engineering: Uni Stuttgart WS20
 - [ ] Agile Software Development (Coursera)[https://www.coursera.org/learn/agile-software-development/home/welcome](https://www.coursera.org/learn/agile-software-development/home/welcome)
 
-Obsolete
+### Obsolete
 ~~- [ ] [Software Development Process (Udacity)](https://classroom.udacity.com/courses/ud805)~~(有修SER)
 ~~- [ ]  Computer Vision: Uni Stuttgart~~(不實用，對工作沒幫助）
 # Joanna List 
@@ -1139,11 +1137,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI1Mzg2NTksMTkwNDY3MDMzOCwtMT
-gyNzI1NjYyMSwtMTQ4OTU0NjA4OCw2OTA2NTIyODEsMTA0MTg2
-MTk3MywyMDY1NTgzNTA0LDE2NTM0NTA4OTgsLTQ4MjM5OTAxOS
-wtMjA1MjU1ODE0OCw0MjAwNzAxMywxMzMwNDEyOTU3LDEyMjAy
-MDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC03Mzk0NTMyOD
-MsLTE4MjMxMzYzODUsOTYwMzM0OTcsLTE1NjgwMjM3MDYsLTg5
-OTAxOTQyMF19
+eyJoaXN0b3J5IjpbLTU2NjY4OTQ0MiwxOTA0NjcwMzM4LC0xOD
+I3MjU2NjIxLC0xNDg5NTQ2MDg4LDY5MDY1MjI4MSwxMDQxODYx
+OTczLDIwNjU1ODM1MDQsMTY1MzQ1MDg5OCwtNDgyMzk5MDE5LC
+0yMDUyNTU4MTQ4LDQyMDA3MDEzLDEzMzA0MTI5NTcsMTIyMDIw
+Mzg3NSwtODIwNDM3ODM4LDEyMzg3MTkwNjUsLTczOTQ1MzI4My
+wtMTgyMzEzNjM4NSw5NjAzMzQ5NywtMTU2ODAyMzcwNiwtODk5
+MDE5NDIwXX0=
 -->
