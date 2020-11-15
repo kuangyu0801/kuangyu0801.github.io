@@ -160,7 +160,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 50. ### Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
 51. ### Facebook, [2021 Production Engineering - Internship](https://www.facebook.com/careers/jobs/376500203532233/)
 52. ### Facebook, [Enterprise Engineer, Intern](https://www.facebook.com/careers/jobs/698645737362352/)
-53. ### Facebook, [Hardware Systems Engineer, Intern]()
+53. ### Facebook, [Hardware Systems Engineer, Intern](https://www.facebook.com/careers/jobs/779264215951406/)
 
 
 ## EXXETA AG
@@ -1135,7 +1135,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzMyMjI4MiwxNjUzNDUwODk4LC00OD
+eyJoaXN0b3J5IjpbMjA2NTU4MzUwNCwxNjUzNDUwODk4LC00OD
 IzOTkwMTksLTIwNTI1NTgxNDgsNDIwMDcwMTMsMTMzMDQxMjk1
 NywxMjIwMjAzODc1LC04MjA0Mzc4MzgsMTIzODcxOTA2NSwtNz
 M5NDUzMjgzLC0xODIzMTM2Mzg1LDk2MDMzNDk3LC0xNTY4MDIz
