@@ -53,7 +53,6 @@ Mac 鍵符號
 - [前期準備如何开始找工作](https://wdxtub.com/interview/14520609088903.html)
 # TODO
 
- - [ ] cover letter 
  - [ ] 履歷更新(排版, 字體, 加 summary)
  - [ ] Java IO 看黑馬
  - [ ] Java concurrency 看黑馬
@@ -1131,11 +1130,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwMDcwMTMsMTMzMDQxMjk1NywxMjIwMj
-AzODc1LC04MjA0Mzc4MzgsMTIzODcxOTA2NSwtNzM5NDUzMjgz
-LC0xODIzMTM2Mzg1LDk2MDMzNDk3LC0xNTY4MDIzNzA2LC04OT
-kwMTk0MjAsNjQ2ODI4ODcyLC03MzU3ODk1NzksLTE4NzgwMzcz
-NzIsMTY4MjU3OTUwMCw4NTY3ODM3NTIsMTAzODUwMzMxNSwxNT
-UyNzMxMDA3LC0xODEwNDI3MTQ4LC0zMDMzMjczNTYsLTE2NDk4
-MDEzMDBdfQ==
+eyJoaXN0b3J5IjpbNTg5NDYyNDI5LDQyMDA3MDEzLDEzMzA0MT
+I5NTcsMTIyMDIwMzg3NSwtODIwNDM3ODM4LDEyMzg3MTkwNjUs
+LTczOTQ1MzI4MywtMTgyMzEzNjM4NSw5NjAzMzQ5NywtMTU2OD
+AyMzcwNiwtODk5MDE5NDIwLDY0NjgyODg3MiwtNzM1Nzg5NTc5
+LC0xODc4MDM3MzcyLDE2ODI1Nzk1MDAsODU2NzgzNzUyLDEwMz
+g1MDMzMTUsMTU1MjczMTAwNywtMTgxMDQyNzE0OCwtMzAzMzI3
+MzU2XX0=
 -->
