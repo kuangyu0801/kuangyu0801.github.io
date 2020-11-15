@@ -159,17 +159,18 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 
 49. ### Facebook, [Software Engineer, Intern/Co-op](https://www.facebook.com/careers/jobs/1716969328451048/)
 50. ### Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
+	- Must obtain work authorization in the country of employment at the time of hire, and maintain ongoing work authorization during employment
 51. ### Facebook, [2021 Production Engineering - Internship](https://www.facebook.com/careers/jobs/376500203532233/)
 	-   Ability to pick up new software, frameworks and APIs quickly
 	-   Ability to perform 'guerrilla capacity planning' for internet service architectures
 	-   Knowledge of basic large-scale internet service architectures (such as load balancing, LAMP, CDN's), even if you haven't worked on one
 	-   Configuration and maintenance of common applications such as Apache, memcached, Squid, MySQL, NFS, DHCP, NTP, SSH, DNS, and SNMP
--   Must obtain work authorization in country of employment at the time of hire and maintain ongoing work authorization during employment
-53. ### Facebook, [Enterprise Engineer, Intern](https://www.facebook.com/careers/jobs/698645737362352/)
-54. ### Facebook, [Hardware Systems Engineer, Intern](https://www.facebook.com/careers/jobs/779264215951406/)
-55. ### Facebook, [Automation Infrastructure Engineer, Intern](https://www.facebook.com/careers/jobs/1716969328451048/)
-56. ### (linkedIn) [VMware](https://www.linkedin.com/company/vmware/life/) , Solutions Engineering Intern
-57. 
+	-   Must obtain work authorization in country of employment at the time of hire and maintain ongoing work authorization during employment
+52. ### Facebook, [Enterprise Engineer, Intern](https://www.facebook.com/careers/jobs/698645737362352/)
+53. ### Facebook, [Hardware Systems Engineer, Intern](https://www.facebook.com/careers/jobs/779264215951406/)
+54. ### Facebook, [Automation Infrastructure Engineer, Intern](https://www.facebook.com/careers/jobs/1716969328451048/)
+55. ### (linkedIn) [VMware](https://www.linkedin.com/company/vmware/life/) , Solutions Engineering Intern
+56. 
 
 
 ## EXXETA AG
@@ -1144,7 +1145,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODk0MTAyOCwtMTQ4OTU0NjA4OCw2OT
+eyJoaXN0b3J5IjpbLTU2ODU1MjI1NywtMTQ4OTU0NjA4OCw2OT
 A2NTIyODEsMTA0MTg2MTk3MywyMDY1NTgzNTA0LDE2NTM0NTA4
 OTgsLTQ4MjM5OTAxOSwtMjA1MjU1ODE0OCw0MjAwNzAxMywxMz
 MwNDEyOTU3LDEyMjAyMDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5
