@@ -136,7 +136,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 24.  ### [sennder](https://www.linkedin.com/company/sennder/life/) ,Automation Intern (Linkedin)
 25. ### [door2door](https://www.linkedin.com/company/door2door-the-mobility-company/life/) Company Location, # IT System Admin Working Student - f/m/x(Linkedin)
 26. ### Tentamus, IT Software Developer Intern (m/f/d) (Linkedin)
-27. ### Snowflake, # Software Engineer Intern (Linkedin)
+27. ### [11.15via官網] Snowflake, [# Software Engineer Intern (Linkedin)](https://careers.snowflake.com/us/en/job/SNCOUS4778830002EXTERNALENUS)
 28. Tesla, # Quality Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
 29. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System] https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
 30. [11.08申請via career portal IBM, 11.12拒絕信]~~### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform,~~ 
@@ -1142,11 +1142,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU0NTg3NDcsNzg3MTIxMTI3LC01Nj
-Y2ODk0NDIsMTkwNDY3MDMzOCwtMTgyNzI1NjYyMSwtMTQ4OTU0
-NjA4OCw2OTA2NTIyODEsMTA0MTg2MTk3MywyMDY1NTgzNTA0LD
-E2NTM0NTA4OTgsLTQ4MjM5OTAxOSwtMjA1MjU1ODE0OCw0MjAw
-NzAxMywxMzMwNDEyOTU3LDEyMjAyMDM4NzUsLTgyMDQzNzgzOC
-wxMjM4NzE5MDY1LC03Mzk0NTMyODMsLTE4MjMxMzYzODUsOTYw
-MzM0OTddfQ==
+eyJoaXN0b3J5IjpbLTEyMDc4NjM4ODcsLTE5NzU0NTg3NDcsNz
+g3MTIxMTI3LC01NjY2ODk0NDIsMTkwNDY3MDMzOCwtMTgyNzI1
+NjYyMSwtMTQ4OTU0NjA4OCw2OTA2NTIyODEsMTA0MTg2MTk3My
+wyMDY1NTgzNTA0LDE2NTM0NTA4OTgsLTQ4MjM5OTAxOSwtMjA1
+MjU1ODE0OCw0MjAwNzAxMywxMzMwNDEyOTU3LDEyMjAyMDM4Nz
+UsLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC03Mzk0NTMyODMsLTE4
+MjMxMzYzODVdfQ==
 -->
