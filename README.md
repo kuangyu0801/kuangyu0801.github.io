@@ -5,7 +5,6 @@
 	* [behavior-question](#behavior-question)
 - [CV](#cv)
 	* [Introduction in 5 Sentences](#introduction-in-5-sentences)
-- [高頻一百連結](#高頻一百連結)
 - [Overleaf使用](#overleaf使用)
 - [Amazon OA](#amazon-oa)
 - [Mind Set](#mind-set)
@@ -243,14 +242,7 @@ Janna LinkedIn: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com
 Enable mathematical typesetting via _Extras_->_Mathematical Typesetting._ The following syntax is supported:
 - overleaf: 線上編輯 latex format
 # TO-CONSIDER
--[ ] [AWS Fundamentals: Going Cloud-Native from AWS Fundamentals Specialization(Coursera)](https://coursera.org/share/7965486607405adf9331f5b2bd7253c9)
-
-4.6
-
-stars
-
-9,214 ratings
-
+- [ ]  [AWS Fundamentals: Going Cloud-Native from AWS Fundamentals Specialization(Coursera)](https://coursera.org/share/7965486607405adf9331f5b2bd7253c9)
 # Mind Set
 不要放棄！一般情況，申請三十家只有一家會回覆（還不是offer），所以千萬不要在意，想想人家在英國連奶茶店員工都應徵不上！
 目前schedule:
@@ -1147,11 +1139,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0OTA5Mzc3LDE5MDQ2NzAzMzgsLTE4Mj
-cyNTY2MjEsLTE0ODk1NDYwODgsNjkwNjUyMjgxLDEwNDE4NjE5
-NzMsMjA2NTU4MzUwNCwxNjUzNDUwODk4LC00ODIzOTkwMTksLT
-IwNTI1NTgxNDgsNDIwMDcwMTMsMTMzMDQxMjk1NywxMjIwMjAz
-ODc1LC04MjA0Mzc4MzgsMTIzODcxOTA2NSwtNzM5NDUzMjgzLC
-0xODIzMTM2Mzg1LDk2MDMzNDk3LC0xNTY4MDIzNzA2LC04OTkw
-MTk0MjBdfQ==
+eyJoaXN0b3J5IjpbLTExMDIxOTEwNjEsMTkwNDY3MDMzOCwtMT
+gyNzI1NjYyMSwtMTQ4OTU0NjA4OCw2OTA2NTIyODEsMTA0MTg2
+MTk3MywyMDY1NTgzNTA0LDE2NTM0NTA4OTgsLTQ4MjM5OTAxOS
+wtMjA1MjU1ODE0OCw0MjAwNzAxMywxMzMwNDEyOTU3LDEyMjAy
+MDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC03Mzk0NTMyOD
+MsLTE4MjMxMzYzODUsOTYwMzM0OTcsLTE1NjgwMjM3MDYsLTg5
+OTAxOTQyMF19
 -->
