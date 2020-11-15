@@ -219,14 +219,14 @@ amazon的文化是什麼？
 - 移民就業環境好
 # TO-LEARN
 - [ ]  LaTex on Mac + Git version control
+- [ ]  System and Web Security: Uni Stuttgart
 - [ ]  Database
-- [x]  Cloud Computing:  Uni Stuttgart
-
+- [x]  Cloud Computing:  Uni Stuttgart WS20
 - [x]  計網概
-- [ ] System and Web Security: Uni Stuttgart
-- [ ] Software Engineering: Uni Stuttgart
-- [x] [Software Development Process (Udacity)](https://classroom.udacity.com/courses/ud805)
-- [ ] Agile Software Development (Coursera)[https://www.coursera.org/learn/agile-software-development/home/welcome](https://www.coursera.org/learn/agile-software-development/home/welcome)
+- [x] Software Engineering: Uni Stuttgart WS20
+
+- ~~[ ] [Software Development Process (Udacity)](https://classroom.udacity.com/courses/ud805)~~(有修SER)
+
 ~~- [ ]  Computer Vision: Uni Stuttgart~~(不實用，對工作沒幫助）
 # Joanna List 
 Janna LinkedIn: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
@@ -1138,11 +1138,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDcwNzM5NiwxOTA0NjcwMzM4LC0xOD
-I3MjU2NjIxLC0xNDg5NTQ2MDg4LDY5MDY1MjI4MSwxMDQxODYx
-OTczLDIwNjU1ODM1MDQsMTY1MzQ1MDg5OCwtNDgyMzk5MDE5LC
-0yMDUyNTU4MTQ4LDQyMDA3MDEzLDEzMzA0MTI5NTcsMTIyMDIw
-Mzg3NSwtODIwNDM3ODM4LDEyMzg3MTkwNjUsLTczOTQ1MzI4My
-wtMTgyMzEzNjM4NSw5NjAzMzQ5NywtMTU2ODAyMzcwNiwtODk5
-MDE5NDIwXX0=
+eyJoaXN0b3J5IjpbOTA5OTcwNTIzLDE5MDQ2NzAzMzgsLTE4Mj
+cyNTY2MjEsLTE0ODk1NDYwODgsNjkwNjUyMjgxLDEwNDE4NjE5
+NzMsMjA2NTU4MzUwNCwxNjUzNDUwODk4LC00ODIzOTkwMTksLT
+IwNTI1NTgxNDgsNDIwMDcwMTMsMTMzMDQxMjk1NywxMjIwMjAz
+ODc1LC04MjA0Mzc4MzgsMTIzODcxOTA2NSwtNzM5NDUzMjgzLC
+0xODIzMTM2Mzg1LDk2MDMzNDk3LC0xNTY4MDIzNzA2LC04OTkw
+MTk0MjBdfQ==
 -->
