@@ -69,9 +69,11 @@ Mac 鍵符號
 
 # Interview Preparation
 ## Technical Question
+### work experience
 - 5G,4G 是屬於哪一層
 - embeded的意思？fw的定義
-- 
+### project
+- Routing Protocols for Wireless Ad-hoc Network, 有哪幾種routing方式
 ## Behavior Question
 # Cover Letter
 ## 1-Introduction
@@ -1140,11 +1142,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5Nzk2NjIwLDc4NzEyMTEyNywtNTY2Nj
-g5NDQyLDE5MDQ2NzAzMzgsLTE4MjcyNTY2MjEsLTE0ODk1NDYw
-ODgsNjkwNjUyMjgxLDEwNDE4NjE5NzMsMjA2NTU4MzUwNCwxNj
-UzNDUwODk4LC00ODIzOTkwMTksLTIwNTI1NTgxNDgsNDIwMDcw
-MTMsMTMzMDQxMjk1NywxMjIwMjAzODc1LC04MjA0Mzc4MzgsMT
-IzODcxOTA2NSwtNzM5NDUzMjgzLC0xODIzMTM2Mzg1LDk2MDMz
-NDk3XX0=
+eyJoaXN0b3J5IjpbLTE5NzU0NTg3NDcsNzg3MTIxMTI3LC01Nj
+Y2ODk0NDIsMTkwNDY3MDMzOCwtMTgyNzI1NjYyMSwtMTQ4OTU0
+NjA4OCw2OTA2NTIyODEsMTA0MTg2MTk3MywyMDY1NTgzNTA0LD
+E2NTM0NTA4OTgsLTQ4MjM5OTAxOSwtMjA1MjU1ODE0OCw0MjAw
+NzAxMywxMzMwNDEyOTU3LDEyMjAyMDM4NzUsLTgyMDQzNzgzOC
+wxMjM4NzE5MDY1LC03Mzk0NTMyODMsLTE4MjMxMzYzODUsOTYw
+MzM0OTddfQ==
 -->
