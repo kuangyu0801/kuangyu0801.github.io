@@ -137,24 +137,25 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 30. [11.08申請via career portal IBM, 11.12拒絕信]~~### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform,~~ 
 -   可能拒絕原因：Basic knowledge about databases and scripting languages (such as Node.js, Python)
 -    Experience with Public Cloud providers, such as IBM Cloud, AWS, Azure or Google Cloud （再等一個禮拜）
-32. ###  Name [DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
-33. SAP # SAP HANA Database Group: Intern, Working Student or Thesis-Student (f/m/d) Job
-34. SAP  Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
-35. Working Student (f/m/d): Software Development (Python, Java) Job
-36. ### [11.08申請via career portal SAP portal]  Intern (f/m/d): SAP Cloud Programming Model (CAP) - Java Developer (254863)
-37. [REJ @ 11.09, 11.08申請via career portal SAP portal] ~~SAP, Intern (f/m/d): Java Developer for Cloud Applications~~(可能原因：1. Good database programming and SQL knowledge, 2. Fluent in English and German)
-38. Bosch # Bachelorarbeit/ Masterarbeit/ Praktikum IT-Sicherheit und angewandte Kryptographie https://www.bosch.de/en/career/job/REF31546R-bachelorarbeit-masterarbeit-praktikum-it-sicherheit-und-angewandte-kryptographie/
-39. [XING]  DIVA, Praktikant* im Bereich Softwareentwicklung,  https://www.diva-e.com/de/karriere/stellenangebot/praktikant-im-bereich-softwareentwicklung-in-berlin/
-40. [XING] https://www.get-in-it.de/jobsuche/p8539-1d2b9aa1/1d2b9aa1?utm_source=xing&utm_medium=cpc&utm_campaign=launch-premium&tem=landingpage
-41. [XING] # Reply, # Werkstudent Testautomatisierung im Bereich Mobile App (m/w/d)
-42. [XING] EXXETA AG, Werkstudent / Praktikant Softwareentwicklung (m/w/d)
-43. MHP Management- und IT-Beratung GmbH, # Intern Software Engineering (m/f/d),https://jobs.porsche.com/index.php?ac=jobad&id=24560
-44. https://career5.successfactors.eu/careers
-45. ### Amazon , Software Development Engineer Graduate - Amazon Redshift Spectrum https://www.amazon.jobs/en/jobs/1312592/software-development-engineer-graduate-amazon-redshift-spectrum
-46. ### Amazon , Software Development Engineer Graduate – 2021 (Berlin), https://www.amazon.jobs/en/jobs/1271472/software-development-engineer-graduate-2021-berlin?fbclid=IwAR0sd4LydpTNKVNZhxFjwRhhvWt_nuSw3VYUx3q2lHspRhdxV5FXQEpCqx8
-47. ### [11.12 via career portal] SAP, Students (f/m/d) for the SAP Data Hub Development Team
-48. ### Intern / Working Student (f/m/d) at SAP Innovation Center Network
-49. ### Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers
+31. ###  Name [DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
+32. SAP # SAP HANA Database Group: Intern, Working Student or Thesis-Student (f/m/d) Job
+33. SAP  Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
+34. Working Student (f/m/d): Software Development (Python, Java) Job
+35. ### [11.08申請via career portal SAP portal]  Intern (f/m/d): SAP Cloud Programming Model (CAP) - Java Developer (254863)
+36. [REJ @ 11.09, 11.08申請via career portal SAP portal] ~~SAP, Intern (f/m/d): Java Developer for Cloud Applications~~(可能原因：1. Good database programming and SQL knowledge, 2. Fluent in English and German)
+37. Bosch # Bachelorarbeit/ Masterarbeit/ Praktikum IT-Sicherheit und angewandte Kryptographie https://www.bosch.de/en/career/job/REF31546R-bachelorarbeit-masterarbeit-praktikum-it-sicherheit-und-angewandte-kryptographie/
+38. [XING]  DIVA, Praktikant* im Bereich Softwareentwicklung,  https://www.diva-e.com/de/karriere/stellenangebot/praktikant-im-bereich-softwareentwicklung-in-berlin/
+39. [XING] https://www.get-in-it.de/jobsuche/p8539-1d2b9aa1/1d2b9aa1?utm_source=xing&utm_medium=cpc&utm_campaign=launch-premium&tem=landingpage
+40. [XING] # Reply, # Werkstudent Testautomatisierung im Bereich Mobile App (m/w/d)
+41. [XING] EXXETA AG, Werkstudent / Praktikant Softwareentwicklung (m/w/d)
+42. MHP Management- und IT-Beratung GmbH, # Intern Software Engineering (m/f/d),https://jobs.porsche.com/index.php?ac=jobad&id=24560
+43. https://career5.successfactors.eu/careers
+44. ### [11.13 , via 內推] Amazon , Software Development Engineer Graduate - Amazon Redshift Spectrum https://www.amazon.jobs/en/jobs/1312592/software-development-engineer-graduate-amazon-redshift-spectrum
+45. ### [11.13 , via 內推] Amazon , Software Development Engineer Graduate – 2021 (Berlin), https://www.amazon.jobs/en/jobs/1271472/software-development-engineer-graduate-2021-berlin?fbclid=IwAR0sd4LydpTNKVNZhxFjwRhhvWt_nuSw3VYUx3q2lHspRhdxV5FXQEpCqx8
+46. ### [11.12 via career portal] SAP, Students (f/m/d) for the SAP Data Hub Development Team
+47. ### Intern / Working Student (f/m/d) at SAP Innovation Center Network
+48. ### Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers
+49. ### Facebook
 
 
 ## EXXETA AG
@@ -1129,11 +1130,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjEwNDYzNCw0MjAwNzAxMywxMzMwND
-EyOTU3LDEyMjAyMDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5MDY1
-LC03Mzk0NTMyODMsLTE4MjMxMzYzODUsOTYwMzM0OTcsLTE1Nj
-gwMjM3MDYsLTg5OTAxOTQyMCw2NDY4Mjg4NzIsLTczNTc4OTU3
-OSwtMTg3ODAzNzM3MiwxNjgyNTc5NTAwLDg1Njc4Mzc1MiwxMD
-M4NTAzMzE1LDE1NTI3MzEwMDcsLTE4MTA0MjcxNDgsLTMwMzMy
-NzM1Nl19
+eyJoaXN0b3J5IjpbLTg5MDEyMTYzLDQyMDA3MDEzLDEzMzA0MT
+I5NTcsMTIyMDIwMzg3NSwtODIwNDM3ODM4LDEyMzg3MTkwNjUs
+LTczOTQ1MzI4MywtMTgyMzEzNjM4NSw5NjAzMzQ5NywtMTU2OD
+AyMzcwNiwtODk5MDE5NDIwLDY0NjgyODg3MiwtNzM1Nzg5NTc5
+LC0xODc4MDM3MzcyLDE2ODI1Nzk1MDAsODU2NzgzNzUyLDEwMz
+g1MDMzMTUsMTU1MjczMTAwNywtMTgxMDQyNzE0OCwtMzAzMzI3
+MzU2XX0=
 -->
