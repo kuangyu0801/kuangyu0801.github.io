@@ -165,7 +165,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 (### Facebook, You can submit up to three job applications every 90 days. Be sure to apply for roles that strongly match your skills and work experience.)
 #### enterprise engineer的其實就是software engineer
 
-49. ### Facebook, [Software Engineer, Intern/Co-op](https://www.facebook.com/careers/jobs/1716969328451048/)
+49. ### [11.15 , via 內推] Facebook, [Software Engineer, Intern/Co-op](https://www.facebook.com/careers/jobs/1716969328451048/), Dublin, London, 可能有身份的問題
 50. ### Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
 	-  我很符合
 51. ### Facebook, [2021 Production Engineering - Internship](https://www.facebook.com/careers/jobs/376500203532233/)
@@ -1144,7 +1144,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzNDk4MDYxLC0xODQxMTcxODAzLC0xMj
+eyJoaXN0b3J5IjpbLTM0MDQzNTk2LC0xODQxMTcxODAzLC0xMj
 A3ODYzODg3LC0xOTc1NDU4NzQ3LDc4NzEyMTEyNywtNTY2Njg5
 NDQyLDE5MDQ2NzAzMzgsLTE4MjcyNTY2MjEsLTE0ODk1NDYwOD
 gsNjkwNjUyMjgxLDEwNDE4NjE5NzMsMjA2NTU4MzUwNCwxNjUz
