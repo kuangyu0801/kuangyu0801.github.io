@@ -72,6 +72,8 @@ Mac 鍵符號
 ### work experience
 - 5G,4G 是屬於哪一層
 - embeded的意思？fw的定義
+- amazon的文化是什麼？ 
+
 ### project
 - Routing Protocols for Wireless Ad-hoc Network, 有哪幾種routing方式
 ## Behavior Question
@@ -1142,11 +1144,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc4NjM4ODcsLTE5NzU0NTg3NDcsNz
-g3MTIxMTI3LC01NjY2ODk0NDIsMTkwNDY3MDMzOCwtMTgyNzI1
-NjYyMSwtMTQ4OTU0NjA4OCw2OTA2NTIyODEsMTA0MTg2MTk3My
-wyMDY1NTgzNTA0LDE2NTM0NTA4OTgsLTQ4MjM5OTAxOSwtMjA1
-MjU1ODE0OCw0MjAwNzAxMywxMzMwNDEyOTU3LDEyMjAyMDM4Nz
-UsLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC03Mzk0NTMyODMsLTE4
-MjMxMzYzODVdfQ==
+eyJoaXN0b3J5IjpbLTE4NDExNzE4MDMsLTEyMDc4NjM4ODcsLT
+E5NzU0NTg3NDcsNzg3MTIxMTI3LC01NjY2ODk0NDIsMTkwNDY3
+MDMzOCwtMTgyNzI1NjYyMSwtMTQ4OTU0NjA4OCw2OTA2NTIyOD
+EsMTA0MTg2MTk3MywyMDY1NTgzNTA0LDE2NTM0NTA4OTgsLTQ4
+MjM5OTAxOSwtMjA1MjU1ODE0OCw0MjAwNzAxMywxMzMwNDEyOT
+U3LDEyMjAyMDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC03
+Mzk0NTMyODNdfQ==
 -->
