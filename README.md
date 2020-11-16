@@ -117,7 +117,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 4.   MBition GmbH,  Internship in Agile Software Testing (all genders)[https://www.stepstone.de/stellenangebote--Internship-in-Agile-Software-Testing-all-genders-Berlin-MBition-GmbH--6170406-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=9_9_25_dynrl_s_0_1_0_0]
 5. [Accenture](https://www.stepstone.de/cmp/de/Accenture-7521/jobs.html), Trainee Software Engineering - Java (all genders)[https://www.stepstone.de/stellenangebote--Trainee-Software-Engineering-Java-all-genders-Dresden-Berlin-Frankfurt-Heidelberg-Duesseldorf-Stuttgart-Hof-Jena-Hamburg-Muenchen-Accenture--6660313-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=10_10_25_dynrl_s_1_2_2_0]
 6. ~~MBition GmbH, Intern Hardware Lab (all genders)[https://www.stepstone.de/stellenangebote--Intern-Hardware-Lab-all-genders-Berlin-MBition-GmbH--6280844-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=13_13_25_dynrl_s_0_0_0_0]~~
-7. [11.08申請 via Indeed, 這是環保公司, 我興趣不大但姑且試試] CQuest, Software Engineering Intern[https://de.indeed.com/Zeige-Job?cmp=CQuest&t=Software+Engineering+Intern&jk=7b19eedeacd26eda&q=Software&vjs=3]
+7. [11.08申請 via Indeed, 11.11得到回覆] CQuest, Software Engineering Intern[https://de.indeed.com/Zeige-Job?cmp=CQuest&t=Software+Engineering+Intern&jk=7b19eedeacd26eda&q=Software&vjs=3], 這是環保公司, 我興趣不大但姑且試試
 8. resonanz energy, Software Engineer Intern (m/w/d)
 9. Mailbutler GmbH - Berlin, Working Student: Software Tester (m/f/x)
 10. KUGU Home GmbH, Werkstudent IOT/Hardware/Embedded Software[https://de.indeed.com/viewjob?jk=86658035f323294b&tk=1elr6tdtut56n800&from=serp&vjs=3] 
@@ -1144,11 +1144,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDExNzE4MDMsLTEyMDc4NjM4ODcsLT
-E5NzU0NTg3NDcsNzg3MTIxMTI3LC01NjY2ODk0NDIsMTkwNDY3
-MDMzOCwtMTgyNzI1NjYyMSwtMTQ4OTU0NjA4OCw2OTA2NTIyOD
-EsMTA0MTg2MTk3MywyMDY1NTgzNTA0LDE2NTM0NTA4OTgsLTQ4
-MjM5OTAxOSwtMjA1MjU1ODE0OCw0MjAwNzAxMywxMzMwNDEyOT
-U3LDEyMjAyMDM4NzUsLTgyMDQzNzgzOCwxMjM4NzE5MDY1LC03
-Mzk0NTMyODNdfQ==
+eyJoaXN0b3J5IjpbLTIwNjE0ODczNTAsLTE4NDExNzE4MDMsLT
+EyMDc4NjM4ODcsLTE5NzU0NTg3NDcsNzg3MTIxMTI3LC01NjY2
+ODk0NDIsMTkwNDY3MDMzOCwtMTgyNzI1NjYyMSwtMTQ4OTU0Nj
+A4OCw2OTA2NTIyODEsMTA0MTg2MTk3MywyMDY1NTgzNTA0LDE2
+NTM0NTA4OTgsLTQ4MjM5OTAxOSwtMjA1MjU1ODE0OCw0MjAwNz
+AxMywxMzMwNDEyOTU3LDEyMjAyMDM4NzUsLTgyMDQzNzgzOCwx
+MjM4NzE5MDY1XX0=
 -->
