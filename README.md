@@ -163,21 +163,22 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 47. ### Intern / Working Student (f/m/d) at SAP Innovation Center Network
 48. ### Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers
 (### Facebook, You can submit up to three job applications every 90 days. Be sure to apply for roles that strongly match your skills and work experience.)
-#### enterprise engineer的其實就是software engineer
+#### 
 
 49. ### [11.15 , via 內推] Facebook, [Software Engineer, Intern/Co-op](https://www.facebook.com/careers/jobs/1716969328451048/), Dublin, London, 可能有身份的問題
 50. ###  [11.15 , via 內推] Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
 	-  我很符合
 51. ### Facebook, [2021 Production Engineering - Internship](https://www.facebook.com/careers/jobs/376500203532233/)
-	-   Ability to perform 'guerrilla capacity planning' for internet service architectures
-	-   Knowledge of basic large-scale internet service architectures (such as load balancing, LAMP, CDN's), even if you haven't worked on one
-	-   Configuration and maintenance of common applications such as Apache, memcached, Squid, MySQL, NFS, DHCP, NTP, SSH, DNS, and SNMP
+		-   Ability to perform 'guerrilla capacity planning' for internet service architectures
+		-   Knowledge of basic large-scale internet service architectures (such as load balancing, LAMP, CDN's), even if you haven't worked on one
+		-   Configuration and maintenance of common applications such as Apache, memcached, Squid, MySQL, NFS, DHCP, NTP, SSH, DNS, and SNMP
 	
 52. ###  [11.15 , via 內推]  Facebook, [Enterprise Engineer, Intern](https://www.facebook.com/careers/jobs/698645737362352/), 
-53. ### Facebook, [Hardware Systems Engineer, Intern](https://www.facebook.com/careers/jobs/779264215951406/)
-54. ### Facebook, [Automation Infrastructure Engineer, Intern](https://www.facebook.com/careers/jobs/1716969328451048/)
-55. ### (linkedIn) [VMware](https://www.linkedin.com/company/vmware/life/) , Solutions Engineering Intern
-56. 
+		 - enterprise engineer的其實就是software engineer
+54. ### Facebook, [Hardware Systems Engineer, Intern](https://www.facebook.com/careers/jobs/779264215951406/)
+55. ### Facebook, [Automation Infrastructure Engineer, Intern](https://www.facebook.com/careers/jobs/1716969328451048/)
+56. ### (linkedIn) [VMware](https://www.linkedin.com/company/vmware/life/) , Solutions Engineering Intern
+57. 
 
 
 ## EXXETA AG
@@ -1144,11 +1145,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDAxNDg1NCwtMTc5NjkxNjE1LC0xOD
-QxMTcxODAzLC0xMjA3ODYzODg3LC0xOTc1NDU4NzQ3LDc4NzEy
-MTEyNywtNTY2Njg5NDQyLDE5MDQ2NzAzMzgsLTE4MjcyNTY2Mj
-EsLTE0ODk1NDYwODgsNjkwNjUyMjgxLDEwNDE4NjE5NzMsMjA2
-NTU4MzUwNCwxNjUzNDUwODk4LC00ODIzOTkwMTksLTIwNTI1NT
-gxNDgsNDIwMDcwMTMsMTMzMDQxMjk1NywxMjIwMjAzODc1LC04
-MjA0Mzc4MzhdfQ==
+eyJoaXN0b3J5IjpbLTEzNDkzNDE4MDUsLTE3OTY5MTYxNSwtMT
+g0MTE3MTgwMywtMTIwNzg2Mzg4NywtMTk3NTQ1ODc0Nyw3ODcx
+MjExMjcsLTU2NjY4OTQ0MiwxOTA0NjcwMzM4LC0xODI3MjU2Nj
+IxLC0xNDg5NTQ2MDg4LDY5MDY1MjI4MSwxMDQxODYxOTczLDIw
+NjU1ODM1MDQsMTY1MzQ1MDg5OCwtNDgyMzk5MDE5LC0yMDUyNT
+U4MTQ4LDQyMDA3MDEzLDEzMzA0MTI5NTcsMTIyMDIwMzg3NSwt
+ODIwNDM3ODM4XX0=
 -->
