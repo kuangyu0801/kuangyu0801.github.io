@@ -166,7 +166,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 #### enterprise engineer的其實就是software engineer
 
 49. ### [11.15 , via 內推] Facebook, [Software Engineer, Intern/Co-op](https://www.facebook.com/careers/jobs/1716969328451048/), Dublin, London, 可能有身份的問題
-50. ### Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
+50. ###  [11.15 , via 內推] Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
 	-  我很符合
 51. ### Facebook, [2021 Production Engineering - Internship](https://www.facebook.com/careers/jobs/376500203532233/)
 	-   Ability to perform 'guerrilla capacity planning' for internet service architectures
@@ -1144,11 +1144,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDQzNTk2LC0xODQxMTcxODAzLC0xMj
-A3ODYzODg3LC0xOTc1NDU4NzQ3LDc4NzEyMTEyNywtNTY2Njg5
-NDQyLDE5MDQ2NzAzMzgsLTE4MjcyNTY2MjEsLTE0ODk1NDYwOD
-gsNjkwNjUyMjgxLDEwNDE4NjE5NzMsMjA2NTU4MzUwNCwxNjUz
-NDUwODk4LC00ODIzOTkwMTksLTIwNTI1NTgxNDgsNDIwMDcwMT
-MsMTMzMDQxMjk1NywxMjIwMjAzODc1LC04MjA0Mzc4MzgsMTIz
-ODcxOTA2NV19
+eyJoaXN0b3J5IjpbLTE3OTY5MTYxNSwtMTg0MTE3MTgwMywtMT
+IwNzg2Mzg4NywtMTk3NTQ1ODc0Nyw3ODcxMjExMjcsLTU2NjY4
+OTQ0MiwxOTA0NjcwMzM4LC0xODI3MjU2NjIxLC0xNDg5NTQ2MD
+g4LDY5MDY1MjI4MSwxMDQxODYxOTczLDIwNjU1ODM1MDQsMTY1
+MzQ1MDg5OCwtNDgyMzk5MDE5LC0yMDUyNTU4MTQ4LDQyMDA3MD
+EzLDEzMzA0MTI5NTcsMTIyMDIwMzg3NSwtODIwNDM3ODM4LDEy
+Mzg3MTkwNjVdfQ==
 -->
