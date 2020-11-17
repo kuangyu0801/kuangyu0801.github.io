@@ -108,7 +108,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 | Rejection | Interview | Offer|
 |--|--|--|
 | 5 | 0 |0|
-|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>SAP, <br>IVU Traffic, Studenten im Cloud-Bereich <br> IBM, Internship: Cloud Software Engineer for IBM Cloud Platform |--|--|
+|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>SAP, Software to Improve the Productivity of SAP HANA Developers <br>IVU Traffic, Studenten im Cloud-Bereich <br> IBM, Internship: Cloud Software Engineer for IBM Cloud Platform |--|--|
 
 ### 關鍵字：Praktikum Informatik,   Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
@@ -161,7 +161,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 45. ### [11.13 , via 內推] Amazon , Software Development Engineer Graduate – 2021 (Berlin), https://www.amazon.jobs/en/jobs/1271472/software-development-engineer-graduate-2021-berlin?fbclid=IwAR0sd4LydpTNKVNZhxFjwRhhvWt_nuSw3VYUx3q2lHspRhdxV5FXQEpCqx8
 46. ### [11.12 via career portal] SAP, Students (f/m/d) for the SAP Data Hub Development Team
 47. ### Intern / Working Student (f/m/d) at SAP Innovation Center Network
-48. ### Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers
+48. [11.17 rejection] ~~Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers~~
 (### Facebook, You can submit up to three job applications every 90 days. Be sure to apply for roles that strongly match your skills and work experience.)
 #### 
 
@@ -1145,11 +1145,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTQ0NjgsLTExOTk4MTU1NzMsLTE3OT
-Y5MTYxNSwtMTg0MTE3MTgwMywtMTIwNzg2Mzg4NywtMTk3NTQ1
-ODc0Nyw3ODcxMjExMjcsLTU2NjY4OTQ0MiwxOTA0NjcwMzM4LC
-0xODI3MjU2NjIxLC0xNDg5NTQ2MDg4LDY5MDY1MjI4MSwxMDQx
-ODYxOTczLDIwNjU1ODM1MDQsMTY1MzQ1MDg5OCwtNDgyMzk5MD
-E5LC0yMDUyNTU4MTQ4LDQyMDA3MDEzLDEzMzA0MTI5NTcsMTIy
-MDIwMzg3NV19
+eyJoaXN0b3J5IjpbLTE0MjY4MTk1NzMsLTExOTk4MTU1NzMsLT
+E3OTY5MTYxNSwtMTg0MTE3MTgwMywtMTIwNzg2Mzg4NywtMTk3
+NTQ1ODc0Nyw3ODcxMjExMjcsLTU2NjY4OTQ0MiwxOTA0NjcwMz
+M4LC0xODI3MjU2NjIxLC0xNDg5NTQ2MDg4LDY5MDY1MjI4MSwx
+MDQxODYxOTczLDIwNjU1ODM1MDQsMTY1MzQ1MDg5OCwtNDgyMz
+k5MDE5LC0yMDUyNTU4MTQ4LDQyMDA3MDEzLDEzMzA0MTI5NTcs
+MTIyMDIwMzg3NV19
 -->
