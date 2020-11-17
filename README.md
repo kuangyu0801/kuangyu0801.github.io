@@ -162,8 +162,9 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 46. ### [11.12 via career portal] SAP, Students (f/m/d) for the SAP Data Hub Development Team
 47. ### Intern / Working Student (f/m/d) at SAP Innovation Center Network
 48. [11.17 rejection] ~~Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers~~
-	49.
-(### Facebook, You can submit up to three job applications every 90 days. Be sure to apply for roles that strongly match your skills and work experience.)
+	+ Experience with programming demonstrated by existing projects. Experience with Python, SQL
+
+### Facebook, You can submit up to three job applications every 90 days. Be sure to apply for roles that strongly match your skills and work experience
 #### 
 
 49. ### [11.15 , via 內推] Facebook, [Software Engineer, Intern/Co-op](https://www.facebook.com/careers/jobs/1716969328451048/), Dublin, London, 可能有身份的問題
@@ -1146,7 +1147,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTU0NDQzNiwtMTE5OTgxNTU3MywtMT
+eyJoaXN0b3J5IjpbLTc3NTgyNTExMiwtMTE5OTgxNTU3MywtMT
 c5NjkxNjE1LC0xODQxMTcxODAzLC0xMjA3ODYzODg3LC0xOTc1
 NDU4NzQ3LDc4NzEyMTEyNywtNTY2Njg5NDQyLDE5MDQ2NzAzMz
 gsLTE4MjcyNTY2MjEsLTE0ODk1NDYwODgsNjkwNjUyMjgxLDEw
