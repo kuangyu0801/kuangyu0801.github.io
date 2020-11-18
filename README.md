@@ -181,7 +181,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 54. ### Facebook, [Automation Infrastructure Engineer, Intern](https://www.facebook.com/careers/jobs/1716969328451048/)
 55. ### (linkedIn) [VMware](https://www.linkedin.com/company/vmware/life/) , Solutions Engineering Intern
 56. cloudreach(學姊公司）, https://boards.greenhouse.io/cloudreach
-58 TomTom, https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-17842/software-engineering-intern/
+58 [11.18 via官網]TomTom, Software Engineering Intern, https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-17842/software-engineering-intern/
 
 
 ## EXXETA AG
@@ -1148,11 +1148,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MDc1NTA3MywtMTYxMTM3NDU4OSwtNz
-c1ODI1MTEyLC0xMTk5ODE1NTczLC0xNzk2OTE2MTUsLTE4NDEx
-NzE4MDMsLTEyMDc4NjM4ODcsLTE5NzU0NTg3NDcsNzg3MTIxMT
-I3LC01NjY2ODk0NDIsMTkwNDY3MDMzOCwtMTgyNzI1NjYyMSwt
-MTQ4OTU0NjA4OCw2OTA2NTIyODEsMTA0MTg2MTk3MywyMDY1NT
-gzNTA0LDE2NTM0NTA4OTgsLTQ4MjM5OTAxOSwtMjA1MjU1ODE0
-OCw0MjAwNzAxM119
+eyJoaXN0b3J5IjpbLTMwODY1MTI0MiwtNTkwNzU1MDczLC0xNj
+ExMzc0NTg5LC03NzU4MjUxMTIsLTExOTk4MTU1NzMsLTE3OTY5
+MTYxNSwtMTg0MTE3MTgwMywtMTIwNzg2Mzg4NywtMTk3NTQ1OD
+c0Nyw3ODcxMjExMjcsLTU2NjY4OTQ0MiwxOTA0NjcwMzM4LC0x
+ODI3MjU2NjIxLC0xNDg5NTQ2MDg4LDY5MDY1MjI4MSwxMDQxOD
+YxOTczLDIwNjU1ODM1MDQsMTY1MzQ1MDg5OCwtNDgyMzk5MDE5
+LC0yMDUyNTU4MTQ4XX0=
 -->
