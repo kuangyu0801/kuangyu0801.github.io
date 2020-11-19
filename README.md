@@ -108,7 +108,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 | Rejection | Interview | Offer|
 |--|--|--|
 | 5 | 0 |0|
-|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>SAP, Software to Improve the Productivity of SAP HANA Developers <br>IVU Traffic, Studenten im Cloud-Bereich <br> IBM, Internship: Cloud Software Engineer for IBM Cloud Platform |--|--|
+|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>SAP, Software to Improve the Productivity of SAP HANA Developers <br>IVU Traffic, Studenten im Cloud-Bereich <br> IBM, Internship: Cloud Software Engineer for IBM Cloud Platform <br> IBM, Internship: Cloud Software Engineer for IBM Cloud Platform|--|--|
 
 ### 關鍵字：Praktikum Informatik,   Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
@@ -189,8 +189,9 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 60. ### [11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
 61. ### [11.19申請via career portal IBM] IBM,Internship/Praktikum: Cloud Web UI - Cloud Front-End Development
 62. ### [11.19申請via career portal IBM] IBM,Internship/Praktikum:WebUI application development, Linux on Z (m/f/d)
-63. ### [11.19申請via career portal IBM]  Internship: Integrated monitoring system for an enterprise server
-64.  JetBrains, Intern
+63. ~~[11.19申請via career portal IBM,  11.19拒絕]  Internship: Integrated monitoring system for an enterprise server~~
+64. 
+65.  JetBrains, Intern
 
 
 
@@ -1158,11 +1159,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTcwMjgwNCwtMTQ0ODA2NTgyLDM4Nz
-E0ODA1NSwtNzc4ODIyNjksODM0NDI5OTc1LC00OTQ2ODUxMDYs
-LTMwODY1MTI0MiwtNTkwNzU1MDczLC0xNjExMzc0NTg5LC03Nz
-U4MjUxMTIsLTExOTk4MTU1NzMsLTE3OTY5MTYxNSwtMTg0MTE3
-MTgwMywtMTIwNzg2Mzg4NywtMTk3NTQ1ODc0Nyw3ODcxMjExMj
-csLTU2NjY4OTQ0MiwxOTA0NjcwMzM4LC0xODI3MjU2NjIxLC0x
-NDg5NTQ2MDg4XX0=
+eyJoaXN0b3J5IjpbLTE5Njg1NDc1MDMsLTcxMTcwMjgwNCwtMT
+Q0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIyNjksODM0NDI5OTc1
+LC00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNTkwNzU1MDczLC0xNj
+ExMzc0NTg5LC03NzU4MjUxMTIsLTExOTk4MTU1NzMsLTE3OTY5
+MTYxNSwtMTg0MTE3MTgwMywtMTIwNzg2Mzg4NywtMTk3NTQ1OD
+c0Nyw3ODcxMjExMjcsLTU2NjY4OTQ0MiwxOTA0NjcwMzM4LC0x
+ODI3MjU2NjIxXX0=
 -->
