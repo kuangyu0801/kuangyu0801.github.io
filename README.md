@@ -185,8 +185,8 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 58. [11.18 via官網]TomTom, Software Engineering Intern, https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-17842/software-engineering-intern/
 59. ### [11.19申請via career portal IBM] IBM, Internship/Praktikum: Improving an Open-Source gRPC CLI Tool
 60. ## [11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
-61. ## Internship/Praktikum: Cloud Web UI - Cloud Front-End Development
-62. 
+61. ## [11.19申請via career portal IBM] IBM,Internship/Praktikum: Cloud Web UI - Cloud Front-End Development
+62. ## [11.19申請via career portal IBM] IBM,Internship/Praktikum:WebUI application development, Linux on Z (m/f/d)
 
 
 
@@ -1154,7 +1154,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjg5ODkyMSw4MzQ0Mjk5NzUsLTQ5ND
+eyJoaXN0b3J5IjpbLTk4NDY2ODU0OCw4MzQ0Mjk5NzUsLTQ5ND
 Y4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMsLTE2MTEzNzQ1
 ODksLTc3NTgyNTExMiwtMTE5OTgxNTU3MywtMTc5NjkxNjE1LC
 0xODQxMTcxODAzLC0xMjA3ODYzODg3LC0xOTc1NDU4NzQ3LDc4
