@@ -159,9 +159,10 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 43. https://career5.successfactors.eu/careers
 44. ### [11.13 , via 內推] Amazon , Software Development Engineer Graduate - Amazon Redshift Spectrum https://www.amazon.jobs/en/jobs/1312592/software-development-engineer-graduate-amazon-redshift-spectrum
 45. ### [11.13 , via 內推] Amazon , Software Development Engineer Graduate – 2021 (Berlin), https://www.amazon.jobs/en/jobs/1271472/software-development-engineer-graduate-2021-berlin?fbclid=IwAR0sd4LydpTNKVNZhxFjwRhhvWt_nuSw3VYUx3q2lHspRhdxV5FXQEpCqx8
-46. ### [11.12 via career portal] SAP, Students (f/m/d) for the SAP Data Hub Development Team
-47. ### Intern / Working Student (f/m/d) at SAP Innovation Center Network
-48. [11.17 rejection] ~~Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers~~
+46. 
+47. ### [11.12 via career portal] SAP, Students (f/m/d) for the SAP Data Hub Development Team
+48. ### Intern / Working Student (f/m/d) at SAP Innovation Center Network
+49. [11.17 rejection] ~~SAP, Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers~~
 	+ Experience with programming demonstrated by existing projects. Experience with Python, SQL
 
 ### Facebook, You can submit up to three job applications every 90 days. Be sure to apply for roles that strongly match your skills and work experience
@@ -184,10 +185,10 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 57. cloudreach(學姊公司）, https://boards.greenhouse.io/cloudreach
 58. [11.18 via官網]TomTom, Software Engineering Intern, https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-17842/software-engineering-intern/
 59. ### [11.19申請via career portal IBM] IBM, Internship/Praktikum: Improving an Open-Source gRPC CLI Tool
-60. ## [11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
-61. ## [11.19申請via career portal IBM] IBM,Internship/Praktikum: Cloud Web UI - Cloud Front-End Development
-62. ## [11.19申請via career portal IBM] IBM,Internship/Praktikum:WebUI application development, Linux on Z (m/f/d)
-63. ## [11.19申請via career portal IBM]  Internship: Integrated monitoring system for an enterprise server
+60. ### [11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
+61. ### [11.19申請via career portal IBM] IBM,Internship/Praktikum: Cloud Web UI - Cloud Front-End Development
+62. ### [11.19申請via career portal IBM] IBM,Internship/Praktikum:WebUI application development, Linux on Z (m/f/d)
+63. ### [11.19申請via career portal IBM]  Internship: Integrated monitoring system for an enterprise server
 
 
 
@@ -1155,11 +1156,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODgyMjY5LDgzNDQyOTk3NSwtNDk0Nj
-g1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMTYxMTM3NDU4
-OSwtNzc1ODI1MTEyLC0xMTk5ODE1NTczLC0xNzk2OTE2MTUsLT
-E4NDExNzE4MDMsLTEyMDc4NjM4ODcsLTE5NzU0NTg3NDcsNzg3
-MTIxMTI3LC01NjY2ODk0NDIsMTkwNDY3MDMzOCwtMTgyNzI1Nj
-YyMSwtMTQ4OTU0NjA4OCw2OTA2NTIyODEsMTA0MTg2MTk3Mywy
-MDY1NTgzNTA0XX0=
+eyJoaXN0b3J5IjpbLTE5ODMyMTc0NTYsLTc3ODgyMjY5LDgzND
+QyOTk3NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3
+MywtMTYxMTM3NDU4OSwtNzc1ODI1MTEyLC0xMTk5ODE1NTczLC
+0xNzk2OTE2MTUsLTE4NDExNzE4MDMsLTEyMDc4NjM4ODcsLTE5
+NzU0NTg3NDcsNzg3MTIxMTI3LC01NjY2ODk0NDIsMTkwNDY3MD
+MzOCwtMTgyNzI1NjYyMSwtMTQ4OTU0NjA4OCw2OTA2NTIyODEs
+MTA0MTg2MTk3M119
 -->
