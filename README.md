@@ -138,7 +138,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 24.  ### [sennder](https://www.linkedin.com/company/sennder/life/) ,Automation Intern (Linkedin)
 25. ### [door2door](https://www.linkedin.com/company/door2door-the-mobility-company/life/) Company Location, # IT System Admin Working Student - f/m/x(Linkedin)
 26. ### Tentamus, IT Software Developer Intern (m/f/d) (Linkedin)
-27. ### [11.15via官網] Snowflake, [# Software Engineer Intern (Linkedin)](https://careers.snowflake.com/us/en/job/SNCOUS4778830002EXTERNALENUS)
+27.  [11.15via官網] Snowflake, [# Software Engineer Intern (Linkedin)](https://careers.snowflake.com/us/en/job/SNCOUS4778830002EXTERNALENUS)
 28. Tesla, # Quality Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
 29. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System] https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
 30. [11.08申請via career portal IBM, 11.12拒絕信]~~### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform,~~ 
@@ -148,7 +148,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 32. SAP # SAP HANA Database Group: Intern, Working Student or Thesis-Student (f/m/d) Job
 33. SAP  Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
 34. Working Student (f/m/d): Software Development (Python, Java) Job
-35. ### [11.08申請via career portal SAP portal]  Intern (f/m/d): SAP Cloud Programming Model (CAP) - Java Developer (254863)
+35. [11.08申請via career portal SAP portal]  Intern (f/m/d): SAP Cloud Programming Model (CAP) - Java Developer (254863)
 36. [REJ @ 11.09, 11.08申請via career portal SAP portal] ~~SAP, Intern (f/m/d): Java Developer for Cloud Applications~~(可能原因：1. Good database programming and SQL knowledge, 2. Fluent in English and German)
 37. Bosch # Bachelorarbeit/ Masterarbeit/ Praktikum IT-Sicherheit und angewandte Kryptographie https://www.bosch.de/en/career/job/REF31546R-bachelorarbeit-masterarbeit-praktikum-it-sicherheit-und-angewandte-kryptographie/
 38. [XING]  DIVA, Praktikant* im Bereich Softwareentwicklung,  https://www.diva-e.com/de/karriere/stellenangebot/praktikant-im-bereich-softwareentwicklung-in-berlin/
@@ -184,12 +184,13 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 55. ### (linkedIn) [VMware](https://www.linkedin.com/company/vmware/life/) , Solutions Engineering Intern, https://careers.vmware.com/main/jobs/R2010919?lang=en-us&source=LIPJ
 56. ### (linkedIn) [VMware] - IT Colleague Support Engineer, https://careers.vmware.com/main/jobs/R2009777?lang=en-us&source=LIPJ
 57. cloudreach(學姊公司）, https://boards.greenhouse.io/cloudreach
-58. [11.18 via官網]TomTom, Software Engineering Intern, https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-17842/software-engineering-intern/
-59. ### [11.19申請via career portal IBM] IBM, Internship/Praktikum: Improving an Open-Source gRPC CLI Tool
-60. ### [11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
-61. ### [11.19申請via career portal IBM] IBM,Internship/Praktikum: Cloud Web UI - Cloud Front-End Development
-62. ### [11.19申請via career portal IBM] IBM,Internship/Praktikum:WebUI application development, Linux on Z (m/f/d)
-63. ~~[11.19申請via career portal IBM,  11.19拒絕]  Internship: Integrated monitoring system for an enterprise server~~
+58. [11.18 via官網] TomTom, Software Engineering Intern, https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-17842/software-engineering-intern/
+59.  [11.19申請via career portal IBM] IBM, Internship/Praktikum: Improving an Open-Source gRPC CLI Tool
+60. [11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
+61. [11.19申請via career portal IBM] IBM,Internship/Praktikum: Cloud Web UI - Cloud Front-End Development
+62. [11.19申請via career portal IBM] IBM,Internship/Praktikum:WebUI application development, Linux on Z (m/f/d)
+63. ~~[REJ @ 11.19, 11.19申請via career portal IBM,  11.19拒絕]  Internship: Integrated monitoring system for an enterprise server~~
+	- 秒拒絕，我覺得自己背景有符合java, git
 64. ### [11.19申請via career portal IBM] IBM, Internship: Cloud Software Engineer (confidential computing) - Ref:342060BR.
 65. ### [11.19申請via career portal IBM] IBM, Internship/Praktikum:Integration of static-code analysis tools (m/f/d) - Ref:336610BR.
 66.  JetBrains, Intern
@@ -1160,11 +1161,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTg4NTYxNCwtNzExNzAyODA0LC0xND
-Q4MDY1ODIsMzg3MTQ4MDU1LC03Nzg4MjI2OSw4MzQ0Mjk5NzUs
-LTQ5NDY4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMsLTE2MT
-EzNzQ1ODksLTc3NTgyNTExMiwtMTE5OTgxNTU3MywtMTc5Njkx
-NjE1LC0xODQxMTcxODAzLC0xMjA3ODYzODg3LC0xOTc1NDU4Nz
-Q3LDc4NzEyMTEyNywtNTY2Njg5NDQyLDE5MDQ2NzAzMzgsLTE4
-MjcyNTY2MjFdfQ==
+eyJoaXN0b3J5IjpbLTIwMzUyMjA1NDgsLTcxMTcwMjgwNCwtMT
+Q0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIyNjksODM0NDI5OTc1
+LC00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNTkwNzU1MDczLC0xNj
+ExMzc0NTg5LC03NzU4MjUxMTIsLTExOTk4MTU1NzMsLTE3OTY5
+MTYxNSwtMTg0MTE3MTgwMywtMTIwNzg2Mzg4NywtMTk3NTQ1OD
+c0Nyw3ODcxMjExMjcsLTU2NjY4OTQ0MiwxOTA0NjcwMzM4LC0x
+ODI3MjU2NjIxXX0=
 -->
