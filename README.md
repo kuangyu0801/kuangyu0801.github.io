@@ -179,11 +179,12 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 		 - enterprise engineer的其實就是software engineer
 53. ### Facebook, [Hardware Systems Engineer, Intern](https://www.facebook.com/careers/jobs/779264215951406/)
 54. ### Facebook, [Automation Infrastructure Engineer, Intern](https://www.facebook.com/careers/jobs/1716969328451048/)
-55. ### (linkedIn) [VMware](https://www.linkedin.com/company/vmware/life/) , Solutions Engineering Intern
-56. cloudreach(學姊公司）, https://boards.greenhouse.io/cloudreach
-57. [11.18 via官網]TomTom, Software Engineering Intern, https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-17842/software-engineering-intern/
-58. ### [11.19申請via career portal IBM] IBM, Internship/Praktikum: Improving an Open-Source gRPC CLI Tool
-59. ## [11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
+55. ### (linkedIn) [VMware](https://www.linkedin.com/company/vmware/life/) , Solutions Engineering Intern, https://careers.vmware.com/main/jobs/R2010919?lang=en-us&source=LIPJ
+56. 
+57. cloudreach(學姊公司）, https://boards.greenhouse.io/cloudreach
+58. [11.18 via官網]TomTom, Software Engineering Intern, https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-17842/software-engineering-intern/
+59. ### [11.19申請via career portal IBM] IBM, Internship/Praktikum: Improving an Open-Source gRPC CLI Tool
+60. ## [11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
 
 
 
@@ -1151,11 +1152,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ3OTI0OTUsLTQ5NDY4NTEwNiwtMz
-A4NjUxMjQyLC01OTA3NTUwNzMsLTE2MTEzNzQ1ODksLTc3NTgy
-NTExMiwtMTE5OTgxNTU3MywtMTc5NjkxNjE1LC0xODQxMTcxOD
-AzLC0xMjA3ODYzODg3LC0xOTc1NDU4NzQ3LDc4NzEyMTEyNywt
-NTY2Njg5NDQyLDE5MDQ2NzAzMzgsLTE4MjcyNTY2MjEsLTE0OD
-k1NDYwODgsNjkwNjUyMjgxLDEwNDE4NjE5NzMsMjA2NTU4MzUw
-NCwxNjUzNDUwODk4XX0=
+eyJoaXN0b3J5IjpbNzE0MTcxNTEsLTQ5NDY4NTEwNiwtMzA4Nj
+UxMjQyLC01OTA3NTUwNzMsLTE2MTEzNzQ1ODksLTc3NTgyNTEx
+MiwtMTE5OTgxNTU3MywtMTc5NjkxNjE1LC0xODQxMTcxODAzLC
+0xMjA3ODYzODg3LC0xOTc1NDU4NzQ3LDc4NzEyMTEyNywtNTY2
+Njg5NDQyLDE5MDQ2NzAzMzgsLTE4MjcyNTY2MjEsLTE0ODk1ND
+YwODgsNjkwNjUyMjgxLDEwNDE4NjE5NzMsMjA2NTU4MzUwNCwx
+NjUzNDUwODk4XX0=
 -->
