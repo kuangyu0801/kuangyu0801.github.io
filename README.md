@@ -157,33 +157,33 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 41. [XING] EXXETA AG, Werkstudent / Praktikant Softwareentwicklung (m/w/d)
 42. MHP Management- und IT-Beratung GmbH, # Intern Software Engineering (m/f/d),https://jobs.porsche.com/index.php?ac=jobad&id=24560
 43. https://career5.successfactors.eu/careers
-44. ### [11.13 , via 內推] Amazon , Software Development Engineer Graduate - Amazon Redshift Spectrum https://www.amazon.jobs/en/jobs/1312592/software-development-engineer-graduate-amazon-redshift-spectrum
+44.  [11.13 , via 內推] Amazon , Software Development Engineer Graduate - Amazon Redshift Spectrum https://www.amazon.jobs/en/jobs/1312592/software-development-engineer-graduate-amazon-redshift-spectrum
 45. ### [11.13 , via 內推 amazon job portal] Amazon , Software Development Engineer Graduate – 2021 (Berlin), https://www.amazon.jobs/en/jobs/1271472/software-development-engineer-graduate-2021-berlin?fbclid=IwAR0sd4LydpTNKVNZhxFjwRhhvWt_nuSw3VYUx3q2lHspRhdxV5FXQEpCqx8
-46.  ### [11.17 , via 內推 amazon job portal] Software Development Engineer Intern – 2021 (Berlin) https://www.amazon.jobs/de/jobs/1271516/software-development-engineer-intern-2021-berlin, ID 1271516 
- 47.  ### [11.17 , via 內推 amazon job portal] Software Development Engineer Intern - Amazon Redshift Database https://www.amazon.jobs/de/jobs/1312583/software-development-engineer-intern-amazon-redshift-database ID: 1312583
-48. ### [11.12 via career portal] SAP, Students (f/m/d) for the SAP Data Hub Development Team
+46.   [11.17 , via 內推 amazon job portal] Software Development Engineer Intern – 2021 (Berlin) https://www.amazon.jobs/de/jobs/1271516/software-development-engineer-intern-2021-berlin, ID 1271516 
+ 47.   [11.17 , via 內推 amazon job portal] Software Development Engineer Intern - Amazon Redshift Database https://www.amazon.jobs/de/jobs/1312583/software-development-engineer-intern-amazon-redshift-database ID: 1312583
+48.  [11.12 via career portal] SAP, Students (f/m/d) for the SAP Data Hub Development Team
 49. ### Intern / Working Student (f/m/d) at SAP Innovation Center Network
-50. [11.17 rejection] ~~SAP, Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers~~
+50. [REG@11.17] ~~SAP, Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers~~
 	+ Experience with programming demonstrated by existing projects. Experience with Python, SQL
 
 ### Facebook, You can submit up to three job applications every 90 days. Be sure to apply for roles that strongly match your skills and work experience
 #### 
 
-49. ### [11.15 , via 內推] Facebook, [Software Engineer, Intern/Co-op](https://www.facebook.com/careers/jobs/1716969328451048/), Dublin, London, 可能有身份的問題
-50. ###  [11.15 , via 內推] Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
+49.  [11.15 , via 內推] Facebook, [Software Engineer, Intern/Co-op](https://www.facebook.com/careers/jobs/1716969328451048/), Dublin, London, 可能有身份的問題
+50.  [11.15 , via 內推] Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
 		-  我很符合
 51. ### Facebook, [2021 Production Engineering - Internship](https://www.facebook.com/careers/jobs/376500203532233/)
 		-   Ability to perform 'guerrilla capacity planning' for internet service architectures
 		-   Knowledge of basic large-scale internet service architectures (such as load balancing, LAMP, CDN's), even if you haven't worked on one
 		-   Configuration and maintenance of common applications such as Apache, memcached, Squid, MySQL, NFS, DHCP, NTP, SSH, DNS, and SNMP
 	
-52. ###  [11.15 , via 內推]  Facebook, [Enterprise Engineer, Intern](https://www.facebook.com/careers/jobs/698645737362352/), 
+52.   [11.15 , via 內推]  Facebook, [Enterprise Engineer, Intern](https://www.facebook.com/careers/jobs/698645737362352/), 
 		 - enterprise engineer的其實就是software engineer
 53. ### Facebook, [Hardware Systems Engineer, Intern](https://www.facebook.com/careers/jobs/779264215951406/)
 54. ### Facebook, [Automation Infrastructure Engineer, Intern](https://www.facebook.com/careers/jobs/1716969328451048/)
 55. ### (linkedIn) [VMware](https://www.linkedin.com/company/vmware/life/) , Solutions Engineering Intern, https://careers.vmware.com/main/jobs/R2010919?lang=en-us&source=LIPJ
 56. ### (linkedIn) [VMware] - IT Colleague Support Engineer, https://careers.vmware.com/main/jobs/R2009777?lang=en-us&source=LIPJ
-57. cloudreach(學姊公司）, https://boards.greenhouse.io/cloudreach
+57. #### cloudreach(學姊公司）, https://boards.greenhouse.io/cloudreach
 58. [11.18 via官網] TomTom, Software Engineering Intern, https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-17842/software-engineering-intern/
 59.  [11.19申請via career portal IBM] IBM, Internship/Praktikum: Improving an Open-Source gRPC CLI Tool
 60. [11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
@@ -1161,11 +1161,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzUyMjA1NDgsLTcxMTcwMjgwNCwtMT
-Q0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIyNjksODM0NDI5OTc1
-LC00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNTkwNzU1MDczLC0xNj
-ExMzc0NTg5LC03NzU4MjUxMTIsLTExOTk4MTU1NzMsLTE3OTY5
-MTYxNSwtMTg0MTE3MTgwMywtMTIwNzg2Mzg4NywtMTk3NTQ1OD
-c0Nyw3ODcxMjExMjcsLTU2NjY4OTQ0MiwxOTA0NjcwMzM4LC0x
-ODI3MjU2NjIxXX0=
+eyJoaXN0b3J5IjpbMTgyNDA2ODU1OCwtNzExNzAyODA0LC0xND
+Q4MDY1ODIsMzg3MTQ4MDU1LC03Nzg4MjI2OSw4MzQ0Mjk5NzUs
+LTQ5NDY4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMsLTE2MT
+EzNzQ1ODksLTc3NTgyNTExMiwtMTE5OTgxNTU3MywtMTc5Njkx
+NjE1LC0xODQxMTcxODAzLC0xMjA3ODYzODg3LC0xOTc1NDU4Nz
+Q3LDc4NzEyMTEyNywtNTY2Njg5NDQyLDE5MDQ2NzAzMzgsLTE4
+MjcyNTY2MjFdfQ==
 -->
