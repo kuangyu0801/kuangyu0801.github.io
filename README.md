@@ -158,12 +158,9 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 42. MHP Management- und IT-Beratung GmbH, # Intern Software Engineering (m/f/d),https://jobs.porsche.com/index.php?ac=jobad&id=24560
 43. https://career5.successfactors.eu/careers
 44. ### [11.13 , via 內推] Amazon , Software Development Engineer Graduate - Amazon Redshift Spectrum https://www.amazon.jobs/en/jobs/1312592/software-development-engineer-graduate-amazon-redshift-spectrum
-45. ### [11.13 , via 內推] Amazon , Software Development Engineer Graduate – 2021 (Berlin), https://www.amazon.jobs/en/jobs/1271472/software-development-engineer-graduate-2021-berlin?fbclid=IwAR0sd4LydpTNKVNZhxFjwRhhvWt_nuSw3VYUx3q2lHspRhdxV5FXQEpCqx8
-46.  Software Development Engineer Intern – 2021 (Berlin)
-https://www.amazon.jobs/de/jobs/1271516/software-development-engineer-intern-2021-berlin, ID 1271516 
-47. Software Development Engineer Intern - Amazon Redshift Database
-https://www.amazon.jobs/de/jobs/1312583/software-development-engineer-intern-amazon-redshift-database
-ID: 1312583
+45. ### [11.13 , via 內推 amazon job portal] Amazon , Software Development Engineer Graduate – 2021 (Berlin), https://www.amazon.jobs/en/jobs/1271472/software-development-engineer-graduate-2021-berlin?fbclid=IwAR0sd4LydpTNKVNZhxFjwRhhvWt_nuSw3VYUx3q2lHspRhdxV5FXQEpCqx8
+46.  ### [11.17 , via 內推 amazon job portal] Software Development Engineer Intern – 2021 (Berlin) https://www.amazon.jobs/de/jobs/1271516/software-development-engineer-intern-2021-berlin, ID 1271516 
+ 47.  ### [11.17 , via 內推 amazon job portal] Software Development Engineer Intern - Amazon Redshift Database https://www.amazon.jobs/de/jobs/1312583/software-development-engineer-intern-amazon-redshift-database ID: 1312583
 48. ### [11.12 via career portal] SAP, Students (f/m/d) for the SAP Data Hub Development Team
 49. ### Intern / Working Student (f/m/d) at SAP Innovation Center Network
 50. [11.17 rejection] ~~SAP, Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers~~
@@ -1160,11 +1157,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3MTQ4MDU1LC03Nzg4MjI2OSw4MzQ0Mj
-k5NzUsLTQ5NDY4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMs
-LTE2MTEzNzQ1ODksLTc3NTgyNTExMiwtMTE5OTgxNTU3MywtMT
-c5NjkxNjE1LC0xODQxMTcxODAzLC0xMjA3ODYzODg3LC0xOTc1
-NDU4NzQ3LDc4NzEyMTEyNywtNTY2Njg5NDQyLDE5MDQ2NzAzMz
-gsLTE4MjcyNTY2MjEsLTE0ODk1NDYwODgsNjkwNjUyMjgxLDEw
-NDE4NjE5NzNdfQ==
+eyJoaXN0b3J5IjpbLTE0NDgwNjU4MiwzODcxNDgwNTUsLTc3OD
+gyMjY5LDgzNDQyOTk3NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIs
+LTU5MDc1NTA3MywtMTYxMTM3NDU4OSwtNzc1ODI1MTEyLC0xMT
+k5ODE1NTczLC0xNzk2OTE2MTUsLTE4NDExNzE4MDMsLTEyMDc4
+NjM4ODcsLTE5NzU0NTg3NDcsNzg3MTIxMTI3LC01NjY2ODk0ND
+IsMTkwNDY3MDMzOCwtMTgyNzI1NjYyMSwtMTQ4OTU0NjA4OCw2
+OTA2NTIyODFdfQ==
 -->
