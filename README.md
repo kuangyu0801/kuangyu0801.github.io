@@ -107,8 +107,8 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 
 | Rejection | Interview | Offer|
 |--|--|--|
-| 5 | 0 |0|
-|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>SAP, Software to Improve the Productivity of SAP HANA Developers <br>IVU Traffic, Studenten im Cloud-Bereich <br> IBM, Internship: Cloud Software Engineer for IBM Cloud Platform <br> IBM, Internship: Cloud Software Engineer for IBM Cloud Platform|--|--|
+| 6 | 0 |0|
+|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>SAP, Software to Improve the Productivity of SAP HANA Developers <br>IVU Traffic, Studenten im Cloud-Bereich <br> IBM, Internship: Cloud Software Engineer for IBM Cloud Platform <br> IBM, # Internship: Integrated monitoring system for an enterprise server|--|--|
 
 ### 關鍵字：Praktikum Informatik,   Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
@@ -190,8 +190,9 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 61. ### [11.19申請via career portal IBM] IBM,Internship/Praktikum: Cloud Web UI - Cloud Front-End Development
 62. ### [11.19申請via career portal IBM] IBM,Internship/Praktikum:WebUI application development, Linux on Z (m/f/d)
 63. ~~[11.19申請via career portal IBM,  11.19拒絕]  Internship: Integrated monitoring system for an enterprise server~~
-64. 
-65.  JetBrains, Intern
+64. ### [11.19申請via career portal IBM] IBM, Internship: Cloud Software Engineer (confidential computing) - Ref:342060BR.
+65. ### [11.19申請via career portal IBM] IBM, Internship/Praktikum:Integration of static-code analysis tools (m/f/d) - Ref:336610BR.
+66.  JetBrains, Intern
 
 
 
@@ -1159,11 +1160,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg1NDc1MDMsLTcxMTcwMjgwNCwtMT
-Q0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIyNjksODM0NDI5OTc1
-LC00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNTkwNzU1MDczLC0xNj
-ExMzc0NTg5LC03NzU4MjUxMTIsLTExOTk4MTU1NzMsLTE3OTY5
-MTYxNSwtMTg0MTE3MTgwMywtMTIwNzg2Mzg4NywtMTk3NTQ1OD
-c0Nyw3ODcxMjExMjcsLTU2NjY4OTQ0MiwxOTA0NjcwMzM4LC0x
-ODI3MjU2NjIxXX0=
+eyJoaXN0b3J5IjpbMjAxMTg4NTYxNCwtNzExNzAyODA0LC0xND
+Q4MDY1ODIsMzg3MTQ4MDU1LC03Nzg4MjI2OSw4MzQ0Mjk5NzUs
+LTQ5NDY4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMsLTE2MT
+EzNzQ1ODksLTc3NTgyNTExMiwtMTE5OTgxNTU3MywtMTc5Njkx
+NjE1LC0xODQxMTcxODAzLC0xMjA3ODYzODg3LC0xOTc1NDU4Nz
+Q3LDc4NzEyMTEyNywtNTY2Njg5NDQyLDE5MDQ2NzAzMzgsLTE4
+MjcyNTY2MjFdfQ==
 -->
