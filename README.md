@@ -183,6 +183,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 56. cloudreach(學姊公司）, https://boards.greenhouse.io/cloudreach
 57. [11.18 via官網]TomTom, Software Engineering Intern, https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-17842/software-engineering-intern/
 58. ### [11.19申請via career portal IBM] IBM, Internship/Praktikum: Improving an Open-Source gRPC CLI Tool
+59. ## Internship/Praktikum: Integrated Development Environment (m/w/x)
 
 
 
@@ -1150,11 +1151,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDY4NTEwNiwtMzA4NjUxMjQyLC01OT
-A3NTUwNzMsLTE2MTEzNzQ1ODksLTc3NTgyNTExMiwtMTE5OTgx
-NTU3MywtMTc5NjkxNjE1LC0xODQxMTcxODAzLC0xMjA3ODYzOD
-g3LC0xOTc1NDU4NzQ3LDc4NzEyMTEyNywtNTY2Njg5NDQyLDE5
-MDQ2NzAzMzgsLTE4MjcyNTY2MjEsLTE0ODk1NDYwODgsNjkwNj
-UyMjgxLDEwNDE4NjE5NzMsMjA2NTU4MzUwNCwxNjUzNDUwODk4
-LC00ODIzOTkwMTldfQ==
+eyJoaXN0b3J5IjpbLTEzMjUxOTUyNywtNDk0Njg1MTA2LC0zMD
+g2NTEyNDIsLTU5MDc1NTA3MywtMTYxMTM3NDU4OSwtNzc1ODI1
+MTEyLC0xMTk5ODE1NTczLC0xNzk2OTE2MTUsLTE4NDExNzE4MD
+MsLTEyMDc4NjM4ODcsLTE5NzU0NTg3NDcsNzg3MTIxMTI3LC01
+NjY2ODk0NDIsMTkwNDY3MDMzOCwtMTgyNzI1NjYyMSwtMTQ4OT
+U0NjA4OCw2OTA2NTIyODEsMTA0MTg2MTk3MywyMDY1NTgzNTA0
+LDE2NTM0NTA4OThdfQ==
 -->
