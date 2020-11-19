@@ -187,6 +187,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 60. ## [11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
 61. ## [11.19申請via career portal IBM] IBM,Internship/Praktikum: Cloud Web UI - Cloud Front-End Development
 62. ## [11.19申請via career portal IBM] IBM,Internship/Praktikum:WebUI application development, Linux on Z (m/f/d)
+63. ## [11.19申請via career portal IBM]  Internship: Integrated monitoring system for an enterprise server
 
 
 
@@ -1154,11 +1155,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDY2ODU0OCw4MzQ0Mjk5NzUsLTQ5ND
-Y4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMsLTE2MTEzNzQ1
-ODksLTc3NTgyNTExMiwtMTE5OTgxNTU3MywtMTc5NjkxNjE1LC
-0xODQxMTcxODAzLC0xMjA3ODYzODg3LC0xOTc1NDU4NzQ3LDc4
-NzEyMTEyNywtNTY2Njg5NDQyLDE5MDQ2NzAzMzgsLTE4MjcyNT
-Y2MjEsLTE0ODk1NDYwODgsNjkwNjUyMjgxLDEwNDE4NjE5NzMs
-MjA2NTU4MzUwNF19
+eyJoaXN0b3J5IjpbLTc3ODgyMjY5LDgzNDQyOTk3NSwtNDk0Nj
+g1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMTYxMTM3NDU4
+OSwtNzc1ODI1MTEyLC0xMTk5ODE1NTczLC0xNzk2OTE2MTUsLT
+E4NDExNzE4MDMsLTEyMDc4NjM4ODcsLTE5NzU0NTg3NDcsNzg3
+MTIxMTI3LC01NjY2ODk0NDIsMTkwNDY3MDMzOCwtMTgyNzI1Nj
+YyMSwtMTQ4OTU0NjA4OCw2OTA2NTIyODEsMTA0MTg2MTk3Mywy
+MDY1NTgzNTA0XX0=
 -->
