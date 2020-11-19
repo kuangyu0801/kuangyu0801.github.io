@@ -159,10 +159,14 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 43. https://career5.successfactors.eu/careers
 44. ### [11.13 , via 內推] Amazon , Software Development Engineer Graduate - Amazon Redshift Spectrum https://www.amazon.jobs/en/jobs/1312592/software-development-engineer-graduate-amazon-redshift-spectrum
 45. ### [11.13 , via 內推] Amazon , Software Development Engineer Graduate – 2021 (Berlin), https://www.amazon.jobs/en/jobs/1271472/software-development-engineer-graduate-2021-berlin?fbclid=IwAR0sd4LydpTNKVNZhxFjwRhhvWt_nuSw3VYUx3q2lHspRhdxV5FXQEpCqx8
-46. 
-47. ### [11.12 via career portal] SAP, Students (f/m/d) for the SAP Data Hub Development Team
-48. ### Intern / Working Student (f/m/d) at SAP Innovation Center Network
-49. [11.17 rejection] ~~SAP, Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers~~
+46.  Software Development Engineer Intern – 2021 (Berlin)
+https://www.amazon.jobs/de/jobs/1271516/software-development-engineer-intern-2021-berlin, ID 1271516 
+47. Software Development Engineer Intern - Amazon Redshift Database
+https://www.amazon.jobs/de/jobs/1312583/software-development-engineer-intern-amazon-redshift-database
+ID: 1312583
+48. ### [11.12 via career portal] SAP, Students (f/m/d) for the SAP Data Hub Development Team
+49. ### Intern / Working Student (f/m/d) at SAP Innovation Center Network
+50. [11.17 rejection] ~~SAP, Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers~~
 	+ Experience with programming demonstrated by existing projects. Experience with Python, SQL
 
 ### Facebook, You can submit up to three job applications every 90 days. Be sure to apply for roles that strongly match your skills and work experience
@@ -1156,11 +1160,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODMyMTc0NTYsLTc3ODgyMjY5LDgzND
-QyOTk3NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3
-MywtMTYxMTM3NDU4OSwtNzc1ODI1MTEyLC0xMTk5ODE1NTczLC
-0xNzk2OTE2MTUsLTE4NDExNzE4MDMsLTEyMDc4NjM4ODcsLTE5
-NzU0NTg3NDcsNzg3MTIxMTI3LC01NjY2ODk0NDIsMTkwNDY3MD
-MzOCwtMTgyNzI1NjYyMSwtMTQ4OTU0NjA4OCw2OTA2NTIyODEs
-MTA0MTg2MTk3M119
+eyJoaXN0b3J5IjpbMzg3MTQ4MDU1LC03Nzg4MjI2OSw4MzQ0Mj
+k5NzUsLTQ5NDY4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMs
+LTE2MTEzNzQ1ODksLTc3NTgyNTExMiwtMTE5OTgxNTU3MywtMT
+c5NjkxNjE1LC0xODQxMTcxODAzLC0xMjA3ODYzODg3LC0xOTc1
+NDU4NzQ3LDc4NzEyMTEyNywtNTY2Njg5NDQyLDE5MDQ2NzAzMz
+gsLTE4MjcyNTY2MjEsLTE0ODk1NDYwODgsNjkwNjUyMjgxLDEw
+NDE4NjE5NzNdfQ==
 -->
