@@ -197,6 +197,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 64. ### [11.19申請via career portal IBM] IBM, Internship: Cloud Software Engineer (confidential computing) - Ref:342060BR.
 65. ### [11.19申請via career portal IBM] IBM, Internship/Praktikum:Integration of static-code analysis tools (m/f/d) - Ref:336610BR.
 66.  JetBrains, Intern
+67. [11.20 via Thales官網] Thales, Internship/Working Student (f/m/d) in Software Engineering (R0108192).
 
 
 
@@ -1164,11 +1165,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTg5MDYzNywxODI0MDY4NTU4LC03MT
-E3MDI4MDQsLTE0NDgwNjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5
-LDgzNDQyOTk3NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MD
-c1NTA3MywtMTYxMTM3NDU4OSwtNzc1ODI1MTEyLC0xMTk5ODE1
-NTczLC0xNzk2OTE2MTUsLTE4NDExNzE4MDMsLTEyMDc4NjM4OD
-csLTE5NzU0NTg3NDcsNzg3MTIxMTI3LC01NjY2ODk0NDIsMTkw
-NDY3MDMzOF19
+eyJoaXN0b3J5IjpbOTgwOTE5Nzg4LC0xNjE4OTA2MzcsMTgyND
+A2ODU1OCwtNzExNzAyODA0LC0xNDQ4MDY1ODIsMzg3MTQ4MDU1
+LC03Nzg4MjI2OSw4MzQ0Mjk5NzUsLTQ5NDY4NTEwNiwtMzA4Nj
+UxMjQyLC01OTA3NTUwNzMsLTE2MTEzNzQ1ODksLTc3NTgyNTEx
+MiwtMTE5OTgxNTU3MywtMTc5NjkxNjE1LC0xODQxMTcxODAzLC
+0xMjA3ODYzODg3LC0xOTc1NDU4NzQ3LDc4NzEyMTEyNywtNTY2
+Njg5NDQyXX0=
 -->
