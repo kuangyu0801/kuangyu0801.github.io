@@ -111,7 +111,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 | Rejection | Interview | Offer|
 |--|--|--|
 | 6 | 0 |0|
-|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>SAP, Software to Improve the Productivity of SAP HANA Developers <br>IVU Traffic, Studenten im Cloud-Bereich <br> IBM, Internship: Cloud Software Engineer for IBM Cloud Platform <br> IBM, # Internship: Integrated monitoring system for an enterprise server|--|--|
+|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>SAP, Software to Improve the Productivity of SAP HANA Developers <br>IVU Traffic, Studenten im Cloud-Bereich <br> IBM, Internship: Cloud Software Engineer for IBM Cloud Platform <br> IBM, # Internship: Integrated monitoring system for an enterprise server, <br> MVST GmbH, Intern Full Stack Developer (React.js, Node.js) (m/f/d)|--|--|
 
 ### 關鍵字：Praktikum Informatik,   Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
@@ -189,7 +189,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 57. #### cloudreach(學姊公司）, https://boards.greenhouse.io/cloudreach
 58. [11.18 via官網] TomTom, Software Engineering Intern, https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-17842/software-engineering-intern/
 59.  [11.19申請via career portal IBM] IBM, Internship/Praktikum: Improving an Open-Source gRPC CLI Tool
-60. [11.20收到IBM assessment test詢問11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
+60. [11.20收到IBM assessment test詢問, 11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
 61. [11.19申請via career portal IBM] IBM,Internship/Praktikum: Cloud Web UI - Cloud Front-End Development
 62. [11.19申請via career portal IBM] IBM,Internship/Praktikum:WebUI application development, Linux on Z (m/f/d)
 63. ~~[REJ @ 11.19, 11.19申請via career portal IBM,  11.19拒絕]  Internship: Integrated monitoring system for an enterprise server~~
@@ -1164,11 +1164,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU4MTk3NjAsMTgyNDA2ODU1OCwtNz
-ExNzAyODA0LC0xNDQ4MDY1ODIsMzg3MTQ4MDU1LC03Nzg4MjI2
-OSw4MzQ0Mjk5NzUsLTQ5NDY4NTEwNiwtMzA4NjUxMjQyLC01OT
-A3NTUwNzMsLTE2MTEzNzQ1ODksLTc3NTgyNTExMiwtMTE5OTgx
-NTU3MywtMTc5NjkxNjE1LC0xODQxMTcxODAzLC0xMjA3ODYzOD
-g3LC0xOTc1NDU4NzQ3LDc4NzEyMTEyNywtNTY2Njg5NDQyLDE5
-MDQ2NzAzMzhdfQ==
+eyJoaXN0b3J5IjpbMTEyMjAxOTg3OSwxODI0MDY4NTU4LC03MT
+E3MDI4MDQsLTE0NDgwNjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5
+LDgzNDQyOTk3NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MD
+c1NTA3MywtMTYxMTM3NDU4OSwtNzc1ODI1MTEyLC0xMTk5ODE1
+NTczLC0xNzk2OTE2MTUsLTE4NDExNzE4MDMsLTEyMDc4NjM4OD
+csLTE5NzU0NTg3NDcsNzg3MTIxMTI3LC01NjY2ODk0NDIsMTkw
+NDY3MDMzOF19
 -->
