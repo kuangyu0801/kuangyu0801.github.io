@@ -110,8 +110,8 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 
 | Rejection | Interview | Offer|
 |--|--|--|
-| 6 | 0 |0|
-|Acrolinx, Werkstudent IT Operations<br>SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>SAP, Software to Improve the Productivity of SAP HANA Developers <br>IVU Traffic, Studenten im Cloud-Bereich <br> IBM, Internship: Cloud Software Engineer for IBM Cloud Platform <br> IBM, # Internship: Integrated monitoring system for an enterprise server, <br> MVST GmbH, Intern Full Stack Developer (React.js, Node.js) (m/f/d)|--|--|
+| 7 | 0 |0|
+|1. Acrolinx, Werkstudent IT Operations<br>2. SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>3. SAP, Software to Improve the Productivity of SAP HANA Developers <br> 4. IVU Traffic, Studenten im Cloud-Bereich <br> 5. IBM, Internship: Cloud Software Engineer for IBM Cloud Platform <br> 6. IBM,  Internship: Integrated monitoring system for an enterprise server, <br> 7. MVST GmbH, Intern Full Stack Developer (React.js, Node.js) (m/f/d)|--|--|
 
 ### 關鍵字：Praktikum Informatik,   Software development intern
 1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
@@ -1164,7 +1164,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjAxOTg3OSwxODI0MDY4NTU4LC03MT
+eyJoaXN0b3J5IjpbLTE2MTg5MDYzNywxODI0MDY4NTU4LC03MT
 E3MDI4MDQsLTE0NDgwNjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5
 LDgzNDQyOTk3NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MD
 c1NTA3MywtMTYxMTM3NDU4OSwtNzc1ODI1MTEyLC0xMTk5ODE1
