@@ -67,6 +67,9 @@ Mac 鍵符號
 - https://resumegenius.com/blog/resume-help/latex-resume-template
 - 這個版本很好！https://github.com/posquit0/Awesome-CV
 
+# IBM
+https://www.graduatesfirst.com/ibm-assessment-tests
+https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 # Interview Preparation
 ## Technical Question
 ### work experience
@@ -1161,11 +1164,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNDA2ODU1OCwtNzExNzAyODA0LC0xND
-Q4MDY1ODIsMzg3MTQ4MDU1LC03Nzg4MjI2OSw4MzQ0Mjk5NzUs
-LTQ5NDY4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMsLTE2MT
-EzNzQ1ODksLTc3NTgyNTExMiwtMTE5OTgxNTU3MywtMTc5Njkx
-NjE1LC0xODQxMTcxODAzLC0xMjA3ODYzODg3LC0xOTc1NDU4Nz
-Q3LDc4NzEyMTEyNywtNTY2Njg5NDQyLDE5MDQ2NzAzMzgsLTE4
-MjcyNTY2MjFdfQ==
+eyJoaXN0b3J5IjpbNDgzMzA3MzcwLDE4MjQwNjg1NTgsLTcxMT
+cwMjgwNCwtMTQ0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIyNjks
+ODM0NDI5OTc1LC00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNTkwNz
+U1MDczLC0xNjExMzc0NTg5LC03NzU4MjUxMTIsLTExOTk4MTU1
+NzMsLTE3OTY5MTYxNSwtMTg0MTE3MTgwMywtMTIwNzg2Mzg4Ny
+wtMTk3NTQ1ODc0Nyw3ODcxMjExMjcsLTU2NjY4OTQ0MiwxOTA0
+NjcwMzM4XX0=
 -->
