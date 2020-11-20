@@ -173,7 +173,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 #### 
 
 49.  [11.15 , via 內推] Facebook, [Software Engineer, Intern/Co-op](https://www.facebook.com/careers/jobs/1716969328451048/), Dublin, London, 可能有身份的問題
-50.  [11.15 , via 內推] Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
+50.  [11.20 收到followup mail,11.15 , via 內推] Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
 		-  我很符合
 51. ### Facebook, [2021 Production Engineering - Internship](https://www.facebook.com/careers/jobs/376500203532233/)
 		-   Ability to perform 'guerrilla capacity planning' for internet service architectures
@@ -189,7 +189,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 57. #### cloudreach(學姊公司）, https://boards.greenhouse.io/cloudreach
 58. [11.18 via官網] TomTom, Software Engineering Intern, https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-17842/software-engineering-intern/
 59.  [11.19申請via career portal IBM] IBM, Internship/Praktikum: Improving an Open-Source gRPC CLI Tool
-60. [11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
+60. [11.20收到IBM assessment test詢問11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
 61. [11.19申請via career portal IBM] IBM,Internship/Praktikum: Cloud Web UI - Cloud Front-End Development
 62. [11.19申請via career portal IBM] IBM,Internship/Praktikum:WebUI application development, Linux on Z (m/f/d)
 63. ~~[REJ @ 11.19, 11.19申請via career portal IBM,  11.19拒絕]  Internship: Integrated monitoring system for an enterprise server~~
@@ -1164,11 +1164,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzMzA3MzcwLDE4MjQwNjg1NTgsLTcxMT
-cwMjgwNCwtMTQ0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIyNjks
-ODM0NDI5OTc1LC00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNTkwNz
-U1MDczLC0xNjExMzc0NTg5LC03NzU4MjUxMTIsLTExOTk4MTU1
-NzMsLTE3OTY5MTYxNSwtMTg0MTE3MTgwMywtMTIwNzg2Mzg4Ny
-wtMTk3NTQ1ODc0Nyw3ODcxMjExMjcsLTU2NjY4OTQ0MiwxOTA0
-NjcwMzM4XX0=
+eyJoaXN0b3J5IjpbLTE5NzU4MTk3NjAsMTgyNDA2ODU1OCwtNz
+ExNzAyODA0LC0xNDQ4MDY1ODIsMzg3MTQ4MDU1LC03Nzg4MjI2
+OSw4MzQ0Mjk5NzUsLTQ5NDY4NTEwNiwtMzA4NjUxMjQyLC01OT
+A3NTUwNzMsLTE2MTEzNzQ1ODksLTc3NTgyNTExMiwtMTE5OTgx
+NTU3MywtMTc5NjkxNjE1LC0xODQxMTcxODAzLC0xMjA3ODYzOD
+g3LC0xOTc1NDU4NzQ3LDc4NzEyMTEyNywtNTY2Njg5NDQyLDE5
+MDQ2NzAzMzhdfQ==
 -->
