@@ -173,8 +173,8 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 #### 
 
 49.  [11.15 , via 內推] Facebook, [Software Engineer, Intern/Co-op](https://www.facebook.com/careers/jobs/1716969328451048/), Dublin, London, 可能有身份的問題
-50.  [11.20 收到followup mail,11.15 , via 內推] Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
-		-  我很符合
+50.  [11.21 完成OA, 11.20 收到followup mail,11.15 , via 內推] Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
+		-  OA問python, linux與BGP指令, 如果有摸過基本不難, 不過我BGP根本是沒有接觸過, ㄧㄠ
 51. ### Facebook, [2021 Production Engineering - Internship](https://www.facebook.com/careers/jobs/376500203532233/)
 		-   Ability to perform 'guerrilla capacity planning' for internet service architectures
 		-   Knowledge of basic large-scale internet service architectures (such as load balancing, LAMP, CDN's), even if you haven't worked on one
@@ -202,6 +202,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 
 
 ## EXXETA AG
+
 
 
 
@@ -1165,11 +1166,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwOTE5Nzg4LC0xNjE4OTA2MzcsMTgyND
-A2ODU1OCwtNzExNzAyODA0LC0xNDQ4MDY1ODIsMzg3MTQ4MDU1
-LC03Nzg4MjI2OSw4MzQ0Mjk5NzUsLTQ5NDY4NTEwNiwtMzA4Nj
-UxMjQyLC01OTA3NTUwNzMsLTE2MTEzNzQ1ODksLTc3NTgyNTEx
-MiwtMTE5OTgxNTU3MywtMTc5NjkxNjE1LC0xODQxMTcxODAzLC
-0xMjA3ODYzODg3LC0xOTc1NDU4NzQ3LDc4NzEyMTEyNywtNTY2
-Njg5NDQyXX0=
+eyJoaXN0b3J5IjpbLTcyNjAwODYyMSw5ODA5MTk3ODgsLTE2MT
+g5MDYzNywxODI0MDY4NTU4LC03MTE3MDI4MDQsLTE0NDgwNjU4
+MiwzODcxNDgwNTUsLTc3ODgyMjY5LDgzNDQyOTk3NSwtNDk0Nj
+g1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMTYxMTM3NDU4
+OSwtNzc1ODI1MTEyLC0xMTk5ODE1NTczLC0xNzk2OTE2MTUsLT
+E4NDExNzE4MDMsLTEyMDc4NjM4ODcsLTE5NzU0NTg3NDcsNzg3
+MTIxMTI3XX0=
 -->
