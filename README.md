@@ -54,6 +54,10 @@ Mac 鍵符號
 # TODO
 
  - [ ] 履歷更新(排版, 字體, 加 summary)
+	 - [ ]  加入cloud computing project
+	 - [ ] 加入change request handling
+	 - 加入jenkins經驗
+	 - 加入sdn project
  - [ ] Java IO 看黑馬
  - [ ] Java concurrency 看黑馬
  - [ ] Java Casting.... more detail on overloading and overriding
@@ -1166,11 +1170,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzIwMDExMyw5ODA5MTk3ODgsLTE2MT
-g5MDYzNywxODI0MDY4NTU4LC03MTE3MDI4MDQsLTE0NDgwNjU4
-MiwzODcxNDgwNTUsLTc3ODgyMjY5LDgzNDQyOTk3NSwtNDk0Nj
-g1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMTYxMTM3NDU4
-OSwtNzc1ODI1MTEyLC0xMTk5ODE1NTczLC0xNzk2OTE2MTUsLT
-E4NDExNzE4MDMsLTEyMDc4NjM4ODcsLTE5NzU0NTg3NDcsNzg3
-MTIxMTI3XX0=
+eyJoaXN0b3J5IjpbMTg3MzYzODA0NSwyMDgzMjAwMTEzLDk4MD
+kxOTc4OCwtMTYxODkwNjM3LDE4MjQwNjg1NTgsLTcxMTcwMjgw
+NCwtMTQ0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIyNjksODM0ND
+I5OTc1LC00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNTkwNzU1MDcz
+LC0xNjExMzc0NTg5LC03NzU4MjUxMTIsLTExOTk4MTU1NzMsLT
+E3OTY5MTYxNSwtMTg0MTE3MTgwMywtMTIwNzg2Mzg4NywtMTk3
+NTQ1ODc0N119
 -->
