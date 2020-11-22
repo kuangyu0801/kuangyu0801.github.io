@@ -1,20 +1,20 @@
 ## Welcome to GitHub Pages
+- [TODO](#todo)
 - [不要害怕海投海面](#不要害怕海投海面)
+- [TO-LEARN](#to-learn)
 - [Interview Preparation](#interview-preparation)
 	* [technical-question](#technical-question)
 	* [behavior-question](#behavior-question)
 - [CV](#cv)
 	* [Introduction in 5 Sentences](#introduction-in-5-sentences)
+	* - [Cover Letter](#cover-letter)
+	* - [履歷](#履歷)
 - [Overleaf使用](#overleaf使用)
 - [Amazon OA](#amazon-oa)
 - [Mind Set](#mind-set)
 - [Key Word](#key-word)
-- [TODO](#todo)
-- [TO-LEARN](#to-learn)
 - [Joanna List](#joanna-list) 
 - [TO-CONSIDER](#to-consider)
-- [Cover Letter](#cover-letter)
-- [履歷](#履歷)
 - [Prepare for Interview](#prepare-for-interview)
 	* [Amazon Wants This](#amazon-wants-this)
 	* [FACEBOOK Wants This](#facebook-wants-this)
@@ -1175,11 +1175,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxMDExMDAzLDIwODMyMDAxMTMsOTgwOT
-E5Nzg4LC0xNjE4OTA2MzcsMTgyNDA2ODU1OCwtNzExNzAyODA0
-LC0xNDQ4MDY1ODIsMzg3MTQ4MDU1LC03Nzg4MjI2OSw4MzQ0Mj
-k5NzUsLTQ5NDY4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMs
-LTE2MTEzNzQ1ODksLTc3NTgyNTExMiwtMTE5OTgxNTU3MywtMT
-c5NjkxNjE1LC0xODQxMTcxODAzLC0xMjA3ODYzODg3LC0xOTc1
-NDU4NzQ3XX0=
+eyJoaXN0b3J5IjpbMTMxMTY5MDI0MSwyMDgzMjAwMTEzLDk4MD
+kxOTc4OCwtMTYxODkwNjM3LDE4MjQwNjg1NTgsLTcxMTcwMjgw
+NCwtMTQ0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIyNjksODM0ND
+I5OTc1LC00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNTkwNzU1MDcz
+LC0xNjExMzc0NTg5LC03NzU4MjUxMTIsLTExOTk4MTU1NzMsLT
+E3OTY5MTYxNSwtMTg0MTE3MTgwMywtMTIwNzg2Mzg4NywtMTk3
+NTQ1ODc0N119
 -->
