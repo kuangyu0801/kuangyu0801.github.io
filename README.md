@@ -53,16 +53,21 @@ Mac 鍵符號
 - [前期準備如何开始找工作](https://wdxtub.com/interview/14520609088903.html)
 # TODO
 
- - [ ] 履歷更新(排版, 字體, 加 summary)
+ - [ ] 履歷更新(排版)
+	 - [ ] LinkedIn Align with CV
 	 - [ ]  加入cloud computing project
 	 - [ ] 加入change request handling
-	 - 加入jenkins經驗
-	 - 加入sdn project
- - [ ] Java IO 看黑馬
- - [ ] Java concurrency 看黑馬
- - [ ] Java Casting.... more detail on overloading and overriding
- - [ ]  [Java 關鍵字final static this] (https://www.bilibili.com/video/BV1uJ411k7wy/?p=190)
- - [ ]  Java privacy: private, protected.... review
+	 - [ ] 加入jenkins經驗
+	 - [ ] 加入sdn project
+	 - [ ] CV git版本管理
+	 - [ ] local latex environment
+	 - [ ] 
+ - [ ] Java 學習
+	 - [ ] Java IO 看黑馬
+	 - [ ] Java concurrency 看黑馬
+	 - [ ] Java Casting.... more detail on overloading and overriding
+	 - [ ]  [Java 關鍵字final static this] 	(https://www.bilibili.com/video/BV1uJ411k7wy/?p=190)
+	 - [ ]  Java privacy: private, protected.... review
  - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
  - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 # CV
@@ -1170,11 +1175,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzYzODA0NSwyMDgzMjAwMTEzLDk4MD
-kxOTc4OCwtMTYxODkwNjM3LDE4MjQwNjg1NTgsLTcxMTcwMjgw
-NCwtMTQ0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIyNjksODM0ND
-I5OTc1LC00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNTkwNzU1MDcz
-LC0xNjExMzc0NTg5LC03NzU4MjUxMTIsLTExOTk4MTU1NzMsLT
-E3OTY5MTYxNSwtMTg0MTE3MTgwMywtMTIwNzg2Mzg4NywtMTk3
-NTQ1ODc0N119
+eyJoaXN0b3J5IjpbNjUxMDExMDAzLDIwODMyMDAxMTMsOTgwOT
+E5Nzg4LC0xNjE4OTA2MzcsMTgyNDA2ODU1OCwtNzExNzAyODA0
+LC0xNDQ4MDY1ODIsMzg3MTQ4MDU1LC03Nzg4MjI2OSw4MzQ0Mj
+k5NzUsLTQ5NDY4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMs
+LTE2MTEzNzQ1ODksLTc3NTgyNTExMiwtMTE5OTgxNTU3MywtMT
+c5NjkxNjE1LC0xODQxMTcxODAzLC0xMjA3ODYzODg3LC0xOTc1
+NDU4NzQ3XX0=
 -->
