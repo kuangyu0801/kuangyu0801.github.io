@@ -5,19 +5,20 @@
 - [Interview Preparation](#interview-preparation)
 	* [technical-question](#technical-question)
 	* [behavior-question](#behavior-question)
+	* [Prepare for Interview](#prepare-for-interview)
+	* [Amazon Wants This](#amazon-wants-this)
+	* [FACEBOOK Wants This](#facebook-wants-this)
 - [CV](#cv)
 	* [Introduction in 5 Sentences](#introduction-in-5-sentences)
-	* - [Cover Letter](#cover-letter)
-	* - [履歷](#履歷)
+	*  [Cover Letter](#cover-letter)
+	*  [履歷](#履歷)
 - [Overleaf使用](#overleaf使用)
 - [Amazon OA](#amazon-oa)
 - [Mind Set](#mind-set)
 - [Key Word](#key-word)
 - [Joanna List](#joanna-list) 
 - [TO-CONSIDER](#to-consider)
-- [Prepare for Interview](#prepare-for-interview)
-	* [Amazon Wants This](#amazon-wants-this)
-	* [FACEBOOK Wants This](#facebook-wants-this)
+
 - [軟體工程師自學](#軟體工程師自學)
 - [Programming Book](#programming-book)
 - [Programming Course](#programming-course)
@@ -1175,7 +1176,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTY5MDI0MSwyMDgzMjAwMTEzLDk4MD
+eyJoaXN0b3J5IjpbLTY0MzgxODM3MCwyMDgzMjAwMTEzLDk4MD
 kxOTc4OCwtMTYxODkwNjM3LDE4MjQwNjg1NTgsLTcxMTcwMjgw
 NCwtMTQ0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIyNjksODM0ND
 I5OTc1LC00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNTkwNzU1MDcz
