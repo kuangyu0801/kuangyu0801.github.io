@@ -69,7 +69,7 @@ Mac 鍵符號
 	 - [ ]  [Java 關鍵字final static this] 	(https://www.bilibili.com/video/BV1uJ411k7wy/?p=190)
 	 - [ ]  Java privacy: private, protected.... review
  - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
- - [ ] 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
+
 # CV
 - linkedIn Page and CV always up to date
 - work visa eligibility
@@ -1175,11 +1175,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI1ODE5MzYsMjA4MzIwMDExMyw5OD
-A5MTk3ODgsLTE2MTg5MDYzNywxODI0MDY4NTU4LC03MTE3MDI4
-MDQsLTE0NDgwNjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5LDgzND
-QyOTk3NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3
-MywtMTYxMTM3NDU4OSwtNzc1ODI1MTEyLC0xMTk5ODE1NTczLC
-0xNzk2OTE2MTUsLTE4NDExNzE4MDMsLTEyMDc4NjM4ODcsLTE5
-NzU0NTg3NDddfQ==
+eyJoaXN0b3J5IjpbMTEzMDIyNTQ3MCwtMTcxMjU4MTkzNiwyMD
+gzMjAwMTEzLDk4MDkxOTc4OCwtMTYxODkwNjM3LDE4MjQwNjg1
+NTgsLTcxMTcwMjgwNCwtMTQ0ODA2NTgyLDM4NzE0ODA1NSwtNz
+c4ODIyNjksODM0NDI5OTc1LC00OTQ2ODUxMDYsLTMwODY1MTI0
+MiwtNTkwNzU1MDczLC0xNjExMzc0NTg5LC03NzU4MjUxMTIsLT
+ExOTk4MTU1NzMsLTE3OTY5MTYxNSwtMTg0MTE3MTgwMywtMTIw
+Nzg2Mzg4N119
 -->
