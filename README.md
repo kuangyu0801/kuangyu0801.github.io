@@ -18,7 +18,6 @@
 - [Key Word](#key-word)
 - [Joanna List](#joanna-list) 
 - [TO-CONSIDER](#to-consider)
-
 - [軟體工程師自學](#軟體工程師自學)
 - [Programming Book](#programming-book)
 - [Programming Course](#programming-course)
@@ -1176,11 +1175,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzgxODM3MCwyMDgzMjAwMTEzLDk4MD
-kxOTc4OCwtMTYxODkwNjM3LDE4MjQwNjg1NTgsLTcxMTcwMjgw
-NCwtMTQ0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIyNjksODM0ND
-I5OTc1LC00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNTkwNzU1MDcz
-LC0xNjExMzc0NTg5LC03NzU4MjUxMTIsLTExOTk4MTU1NzMsLT
-E3OTY5MTYxNSwtMTg0MTE3MTgwMywtMTIwNzg2Mzg4NywtMTk3
-NTQ1ODc0N119
+eyJoaXN0b3J5IjpbLTE3MTI1ODE5MzYsMjA4MzIwMDExMyw5OD
+A5MTk3ODgsLTE2MTg5MDYzNywxODI0MDY4NTU4LC03MTE3MDI4
+MDQsLTE0NDgwNjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5LDgzND
+QyOTk3NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3
+MywtMTYxMTM3NDU4OSwtNzc1ODI1MTEyLC0xMTk5ODE1NTczLC
+0xNzk2OTE2MTUsLTE4NDExNzE4MDMsLTEyMDc4NjM4ODcsLTE5
+NzU0NTg3NDddfQ==
 -->
