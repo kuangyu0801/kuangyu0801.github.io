@@ -177,14 +177,14 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
  47.   [11.17 , via 內推 amazon job portal] Software Development Engineer Intern - Amazon Redshift Database https://www.amazon.jobs/de/jobs/1312583/software-development-engineer-intern-amazon-redshift-database ID: 1312583
 48.  [11.12 via career portal] SAP, Students (f/m/d) for the SAP Data Hub Development Team
 49. ### Intern / Working Student (f/m/d) at SAP Innovation Center Network
-50. [REG@11.17] ~~SAP, Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers~~
+50. [REJ@11.17] ~~SAP, Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers~~
 	+ Experience with programming demonstrated by existing projects. Experience with Python, SQL
 
 ### Facebook, You can submit up to three job applications every 90 days. Be sure to apply for roles that strongly match your skills and work experience
 #### 
 
 49.  [11.15 , via 內推] Facebook, [Software Engineer, Intern/Co-op](https://www.facebook.com/careers/jobs/1716969328451048/), Dublin, London, 可能有身份的問題
-50.  [11.27 收到感謝信, 11.21 完成OA, 11.20 收到followup mail,11.15 , via 內推] Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
+50.  [REJ@11.27 收到感謝信, 11.21 完成OA, 11.20 收到followup mail,11.15 , via 內推] Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
 		-  OA問python, linux與BGP指令, 如果有摸過基本不難, 不過我BGP根本是沒有接觸過, linux指令跟網路相關的也不太熟習(他問到要怎麼看ip, MAC, port, host有沒有正在接收封包），回答OA只是一部分, 不太想為這些瑣碎的內容來準備...network engineer其實在fb算是support IT...主要是累積面試經驗！
 51. ### Facebook, [2021 Production Engineering - Internship](https://www.facebook.com/careers/jobs/376500203532233/)
 		-   Ability to perform 'guerrilla capacity planning' for internet service architectures
@@ -1177,11 +1177,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4MDkxODYsMTEzMDIyNTQ3MCwtMTcxMj
-U4MTkzNiwyMDgzMjAwMTEzLDk4MDkxOTc4OCwtMTYxODkwNjM3
-LDE4MjQwNjg1NTgsLTcxMTcwMjgwNCwtMTQ0ODA2NTgyLDM4Nz
-E0ODA1NSwtNzc4ODIyNjksODM0NDI5OTc1LC00OTQ2ODUxMDYs
-LTMwODY1MTI0MiwtNTkwNzU1MDczLC0xNjExMzc0NTg5LC03Nz
-U4MjUxMTIsLTExOTk4MTU1NzMsLTE3OTY5MTYxNSwtMTg0MTE3
-MTgwM119
+eyJoaXN0b3J5IjpbMTcyODgxMTkyLDExMzAyMjU0NzAsLTE3MT
+I1ODE5MzYsMjA4MzIwMDExMyw5ODA5MTk3ODgsLTE2MTg5MDYz
+NywxODI0MDY4NTU4LC03MTE3MDI4MDQsLTE0NDgwNjU4MiwzOD
+cxNDgwNTUsLTc3ODgyMjY5LDgzNDQyOTk3NSwtNDk0Njg1MTA2
+LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMTYxMTM3NDU4OSwtNz
+c1ODI1MTEyLC0xMTk5ODE1NTczLC0xNzk2OTE2MTUsLTE4NDEx
+NzE4MDNdfQ==
 -->
