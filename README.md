@@ -833,7 +833,7 @@ numpy.linalg.solve
 ```
 
 # 刷題找工作
-
+## 必看！！！千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 - ### [力扣高頻一百清單](https://leetcode.com/problemset/top-interview-questions/)
 - ### [我的刷題紀錄](https://github.com/kuangyu0801/LeetcodeDailyCheckIn/tree/master/Leetcode)
 
@@ -842,8 +842,8 @@ numpy.linalg.solve
 	- 強大的力扣心得[https://github.com/azl397985856/leetcode](https://github.com/azl397985856/leetcode)
 	- 某人簡單明瞭的部落格，答案是java[https://leetcode.jp/problems.php](https://leetcode.jp/problems.php)
 	- [花花醬playlist](https://www.youtube.com/user/xxfflower/playlists)
-- 花花醬網站，部分有視頻講解，代碼是c++ or  Python [https://zxi.mytechroad.com/blog/](https://zxi.mytechroad.com/blog/)
-- 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
+	- 花花醬網站，部分有視頻講解，代碼是c++ or  Python 	[https://zxi.mytechroad.com/blog/](https://zxi.mytechroad.com/blog/)
+
 
 - ### 心得
 
@@ -1177,11 +1177,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQxNzQxNjEsMTcyODgxMTkyLDExMz
-AyMjU0NzAsLTE3MTI1ODE5MzYsMjA4MzIwMDExMyw5ODA5MTk3
-ODgsLTE2MTg5MDYzNywxODI0MDY4NTU4LC03MTE3MDI4MDQsLT
-E0NDgwNjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5LDgzNDQyOTk3
-NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMT
-YxMTM3NDU4OSwtNzc1ODI1MTEyLC0xMTk5ODE1NTczLC0xNzk2
-OTE2MTVdfQ==
+eyJoaXN0b3J5IjpbNTUzOTAyMzksMTcyODgxMTkyLDExMzAyMj
+U0NzAsLTE3MTI1ODE5MzYsMjA4MzIwMDExMyw5ODA5MTk3ODgs
+LTE2MTg5MDYzNywxODI0MDY4NTU4LC03MTE3MDI4MDQsLTE0ND
+gwNjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5LDgzNDQyOTk3NSwt
+NDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMTYxMT
+M3NDU4OSwtNzc1ODI1MTEyLC0xMTk5ODE1NTczLC0xNzk2OTE2
+MTVdfQ==
 -->
