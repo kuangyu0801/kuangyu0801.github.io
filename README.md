@@ -1005,8 +1005,8 @@ int ran = Math.random();
 Java 如果要用stack的話，建議用Deque而不是Stack
 [https://www.geeksforgeeks.org/deque-interface-java-example/](https://www.geeksforgeeks.org/deque-interface-java-example/)
 
-### [ArrayDeque]
-[https://docs.oracle.com/javase/7/docs/api/java/util/ArrayDeque.html](https://docs.oracle.com/javase/7/docs/api/java/util/ArrayDeque.html)
+### [ArrayDeque](https://docs.oracle.com/javase/7/docs/api/java/util/ArrayDeque.html)
+
 ```
 // Inserts the specified element at the end of this deque.
 ArrayDeque.offer(E e)
@@ -1177,11 +1177,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzOTAyMzksMTcyODgxMTkyLDExMzAyMj
-U0NzAsLTE3MTI1ODE5MzYsMjA4MzIwMDExMyw5ODA5MTk3ODgs
-LTE2MTg5MDYzNywxODI0MDY4NTU4LC03MTE3MDI4MDQsLTE0ND
-gwNjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5LDgzNDQyOTk3NSwt
-NDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMTYxMT
-M3NDU4OSwtNzc1ODI1MTEyLC0xMTk5ODE1NTczLC0xNzk2OTE2
-MTVdfQ==
+eyJoaXN0b3J5IjpbLTExNjU5MTA3ODMsMTcyODgxMTkyLDExMz
+AyMjU0NzAsLTE3MTI1ODE5MzYsMjA4MzIwMDExMyw5ODA5MTk3
+ODgsLTE2MTg5MDYzNywxODI0MDY4NTU4LC03MTE3MDI4MDQsLT
+E0NDgwNjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5LDgzNDQyOTk3
+NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMT
+YxMTM3NDU4OSwtNzc1ODI1MTEyLC0xMTk5ODE1NTczLC0xNzk2
+OTE2MTVdfQ==
 -->
