@@ -697,7 +697,7 @@ public class Java8HoFDemo {
 }
 ```
 ## IntelliJ
-- [Josh’s IntelliJ Editor Settings](https://drive.google.com/drive/folders/1Y5cHl-nNe731EgG4pAk2Dokgbu4ZpV5E?usp=sharing):CS61B Josh自己tune的的color scheme,兩個字：好看！黑背景、高對比、關鍵字一目瞭然，用過就回不去！[original page](https://sp18.datastructur.es/materials/lab/lab2setup/lab2setup)
+- [Josh’s IntelliJ Editor Settings](https://drive.google.com/drive/folders/1Y5cHl-nNe731EgG4pAk2Dokgbu4ZpV5E?usp=sharing): CS61B Josh自己tune的的color scheme,兩個字：好看！黑背景、高對比、關鍵字一目瞭然，用過就回不去！[original page](https://sp18.datastructur.es/materials/lab/lab2setup/lab2setup)
 
 ### 快捷鍵
 Mac 鍵符號
@@ -837,11 +837,11 @@ numpy.linalg.solve
 - ### [力扣高頻一百清單](https://leetcode.com/problemset/top-interview-questions/)
 - ### [我的刷題紀錄](https://github.com/kuangyu0801/LeetcodeDailyCheckIn/tree/master/Leetcode)
 
-### 解答網站
+- ### 解答網站
 
-- 強大的力扣心得[https://github.com/azl397985856/leetcode](https://github.com/azl397985856/leetcode)
-- 某人簡單明瞭的部落格，答案是java[https://leetcode.jp/problems.php](https://leetcode.jp/problems.php)
-- [花花醬playlist](https://www.youtube.com/user/xxfflower/playlists)
+	- 強大的力扣心得[https://github.com/azl397985856/leetcode](https://github.com/azl397985856/leetcode)
+	- 某人簡單明瞭的部落格，答案是java[https://leetcode.jp/problems.php](https://leetcode.jp/problems.php)
+	- [花花醬playlist](https://www.youtube.com/user/xxfflower/playlists)
 - 花花醬網站，部分有視頻講解，代碼是c++ or  Python [https://zxi.mytechroad.com/blog/](https://zxi.mytechroad.com/blog/)
 - 千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 
@@ -1177,11 +1177,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODgxMTkyLDExMzAyMjU0NzAsLTE3MT
-I1ODE5MzYsMjA4MzIwMDExMyw5ODA5MTk3ODgsLTE2MTg5MDYz
-NywxODI0MDY4NTU4LC03MTE3MDI4MDQsLTE0NDgwNjU4MiwzOD
-cxNDgwNTUsLTc3ODgyMjY5LDgzNDQyOTk3NSwtNDk0Njg1MTA2
-LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMTYxMTM3NDU4OSwtNz
-c1ODI1MTEyLC0xMTk5ODE1NTczLC0xNzk2OTE2MTUsLTE4NDEx
-NzE4MDNdfQ==
+eyJoaXN0b3J5IjpbLTE0MTQxNzQxNjEsMTcyODgxMTkyLDExMz
+AyMjU0NzAsLTE3MTI1ODE5MzYsMjA4MzIwMDExMyw5ODA5MTk3
+ODgsLTE2MTg5MDYzNywxODI0MDY4NTU4LC03MTE3MDI4MDQsLT
+E0NDgwNjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5LDgzNDQyOTk3
+NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMT
+YxMTM3NDU4OSwtNzc1ODI1MTEyLC0xMTk5ODE1NTczLC0xNzk2
+OTE2MTVdfQ==
 -->
