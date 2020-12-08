@@ -94,7 +94,8 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 ## Introduction: Talk about something about yourself
 - Background: I came from Taiwan
 - Current Status: I and IT student in my third semester, expected to graduate on 2021 Oct.
-- Work experience: mediatek as firmware engineer for 4G and 5G smartphone
+- Work experience: mediatek (the 4th largest IC design company and 2nd largest smart phone chip) as firmware engineer for 4G and 5G smartphone for almost 4 years
+- https://www.telecomlead.com/telecom-chips/top-ten-ic-design-companies-for-q2-2020-96567
 - Future Goal: software industrie
 - Focus on cloud computing, distributed system and network
 
@@ -1221,11 +1222,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzE4NjE0NSwtMTE2NTkxMDc4MywxNz
-I4ODExOTIsMTEzMDIyNTQ3MCwtMTcxMjU4MTkzNiwyMDgzMjAw
-MTEzLDk4MDkxOTc4OCwtMTYxODkwNjM3LDE4MjQwNjg1NTgsLT
-cxMTcwMjgwNCwtMTQ0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIy
-NjksODM0NDI5OTc1LC00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNT
-kwNzU1MDczLC0xNjExMzc0NTg5LC03NzU4MjUxMTIsLTExOTk4
-MTU1NzNdfQ==
+eyJoaXN0b3J5IjpbLTEwNzMzMTMxMTUsMTg0NzE4NjE0NSwtMT
+E2NTkxMDc4MywxNzI4ODExOTIsMTEzMDIyNTQ3MCwtMTcxMjU4
+MTkzNiwyMDgzMjAwMTEzLDk4MDkxOTc4OCwtMTYxODkwNjM3LD
+E4MjQwNjg1NTgsLTcxMTcwMjgwNCwtMTQ0ODA2NTgyLDM4NzE0
+ODA1NSwtNzc4ODIyNjksODM0NDI5OTc1LC00OTQ2ODUxMDYsLT
+MwODY1MTI0MiwtNTkwNzU1MDczLC0xNjExMzc0NTg5LC03NzU4
+MjUxMTJdfQ==
 -->
