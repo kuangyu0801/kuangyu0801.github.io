@@ -204,9 +204,9 @@ Seeing my code actually work in real-world environment, not just some self-simul
 
 ### MediaTek's first 5G Modem Helio M70 (World’s fastest) development 
 - **Situation**: MediaTek has always been a quick follower but never a leader. In 5G era, company decide to move forward and compete with industry leader Qualcomm
-- **Task**:  Develop 5G FW for Control Channel when spec and architecture is on-going 
+- **Task**:  Develop 5G FW for Control Channel when spec and architecture is on-going, balance between flexibility, performance, and cost
 - **Action**: 
-- 
+	- 
 - **Result**: 
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
@@ -1332,7 +1332,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDE4ODEwOCwtNzA1MjkxMDgyLDEyNz
+eyJoaXN0b3J5IjpbLTE2NjgzOTM4MSwtNzA1MjkxMDgyLDEyNz
 U2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcy
 MDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMj
 I0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0
