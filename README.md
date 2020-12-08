@@ -207,7 +207,9 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - **Task**:  Develop 5G FW for Control Channel when spec and architecture is on-going, balance between flexibility, performance, and cost
 - **Action**: 
 	- listed and summarize the shortcoming of previous generation of design
-	- diss
+	- study the current DSP architecture and give it feedback when found optimization of bugg
+	- discuss and CSD algorithm
+	- keep the latest spec release up-to-date
 - **Result**: 
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
@@ -1333,7 +1335,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyNTI1NjIzLC0xNjY4MzkzODEsLTcwNT
+eyJoaXN0b3J5IjpbNDYxNDE3NTY3LC0xNjY4MzkzODEsLTcwNT
 I5MTA4MiwxMjc1NjU5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4
 NSwtNjYzNjk3MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMD
 Q5OTYwMjUyLDIyNDcwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMz
