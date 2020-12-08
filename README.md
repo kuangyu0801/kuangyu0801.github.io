@@ -101,7 +101,7 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 
 # [Top 10 Question](https://www.monster.com/career-advice/article/Top-10-Interview-Questions-Prep)
 ## **1. What are your weaknesses?**
-
+- 
 
 ## **2. Why should we hire you?**
 - Focus on the employer’s needs 
@@ -109,7 +109,7 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 - Reflect on the job itself: in mediatek, i have worked on large project, version control, build , testing. regression, CR handling, issue report
 - Address cultural fit: I have the working experience also in a big company and know the general workflow and possess good communication skill
 - can cooperate communicate with people from different background, fluent in English
-- plus i learn thing rather fast
+- plus i learn thing rather fast, i think i can contribute the job
 
 ## **3. Why do you want to work here?**
 IBM has always been my top choice. IBM was and is still a technology giant with a diverse and globalized team and probably the only company that is still doing research and development while being a commercial success. 
@@ -1245,11 +1245,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjMyMjQ4MjcsLTQyNDM5NTAxMywtND
-AwNjkwNjI3LC0xMDczMzEzMTE1LDE4NDcxODYxNDUsLTExNjU5
-MTA3ODMsMTcyODgxMTkyLDExMzAyMjU0NzAsLTE3MTI1ODE5Mz
-YsMjA4MzIwMDExMyw5ODA5MTk3ODgsLTE2MTg5MDYzNywxODI0
-MDY4NTU4LC03MTE3MDI4MDQsLTE0NDgwNjU4MiwzODcxNDgwNT
-UsLTc3ODgyMjY5LDgzNDQyOTk3NSwtNDk0Njg1MTA2LC0zMDg2
-NTEyNDJdfQ==
+eyJoaXN0b3J5IjpbNDcwOTIyNDQ1LC00MjQzOTUwMTMsLTQwMD
+Y5MDYyNywtMTA3MzMxMzExNSwxODQ3MTg2MTQ1LC0xMTY1OTEw
+NzgzLDE3Mjg4MTE5MiwxMTMwMjI1NDcwLC0xNzEyNTgxOTM2LD
+IwODMyMDAxMTMsOTgwOTE5Nzg4LC0xNjE4OTA2MzcsMTgyNDA2
+ODU1OCwtNzExNzAyODA0LC0xNDQ4MDY1ODIsMzg3MTQ4MDU1LC
+03Nzg4MjI2OSw4MzQ0Mjk5NzUsLTQ5NDY4NTEwNiwtMzA4NjUx
+MjQyXX0=
 -->
