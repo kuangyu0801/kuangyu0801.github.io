@@ -173,7 +173,7 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - multi-threading (no multi-threading)
 - memory 管理: everything is reference
 - equals理解
-
+### Git
 ### - What was the last project you led, and what was its outcome?
 - My previous,
 - In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
@@ -1276,11 +1276,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzEzMzYzMCwxMDQ5OTYwMjUyLDIyND
-cwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3NDI0
-OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMyNzM1NDUsLT
-EzMzMxOTE1OTYsLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0xMDcz
-MzEzMTE1LDE4NDcxODYxNDUsLTExNjU5MTA3ODMsMTcyODgxMT
-kyLDExMzAyMjU0NzAsLTE3MTI1ODE5MzYsMjA4MzIwMDExMyw5
-ODA5MTk3ODhdfQ==
+eyJoaXN0b3J5IjpbNzI2MDA5NTE5LDEwNDk5NjAyNTIsMjI0Nz
+AzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0MjQ5
+LC0xMTgxMDMyMDY2LDIwNzk1MzU4OTEsMTIyMzI3MzU0NSwtMT
+MzMzE5MTU5NiwtNDI0Mzk1MDEzLC00MDA2OTA2MjcsLTEwNzMz
+MTMxMTUsMTg0NzE4NjE0NSwtMTE2NTkxMDc4MywxNzI4ODExOT
+IsMTEzMDIyNTQ3MCwtMTcxMjU4MTkzNiwyMDgzMjAwMTEzLDk4
+MDkxOTc4OF19
 -->
