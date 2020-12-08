@@ -150,9 +150,10 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - team player, technically wise i have participated in 3 large project across team
 - rigorous programming with  6K code lines, reviewed and maintained 20K code lines in C/C++
 ## **8. What are three positive things your last boss would say about you?**
-- delivery
+- delivery guarantee
 - self-motivating
-- perseverance
+- perseverance, responsibility
+
 ## **9. What salary are you seeking?**
 - 1,500 pro Monat
 - 100,000 pro Jahre
@@ -1297,7 +1298,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzM4MDk1NzAsMTk2NTYzNDg1LC02Nj
+eyJoaXN0b3J5IjpbLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02Nj
 M2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAy
 NTIsMjI0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMT
 I3Mzc0MjQ5LC0xMTgxMDMyMDY2LDIwNzk1MzU4OTEsMTIyMzI3
