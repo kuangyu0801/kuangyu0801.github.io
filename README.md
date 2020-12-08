@@ -201,7 +201,7 @@ Seeing my code actually work in real-world environment, not just some self-simul
 	- discuss coordinate with algorithm team, HW designer, Modem Architect
 	- review the code module by module , scenario by scenario
 	- implement and verify with UT and IT
-	- validate the result with phone call test, and measure cycle
+	- validate the result with phone call test, and measure cycles for improvement
 - Result:  Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding
 	- u-rate is hi
 
@@ -231,9 +231,7 @@ The reason is that, in the beginning, we are only aiming at functionality
 Later, i have taken suggestion from CSD and HW and comeup and better optimization
 
 # Technical interview
-### **Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding**
-### **Give me an example of a time you did something wrong. How did you handle it? **
-### **Tell me about a time where you had to deal with conflict on the job.**
+
 
 # Cover Letter
 ## 1-Introduction
@@ -1323,7 +1321,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTY5NjA5OCwtNzA1MjkxMDgyLDEyNz
+eyJoaXN0b3J5IjpbMTE3OTYwMTMyNCwtNzA1MjkxMDgyLDEyNz
 U2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcy
 MDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMj
 I0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0
