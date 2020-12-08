@@ -214,11 +214,10 @@ Seeing my code actually work in real-world environment, not just some self-simul
 	- implementing and verifying functionality on simulation environment, FPGA, test chip, product with machine
 	- collaborating  with inter-team (SW higher layer, test engineering,  FW, vendor)
 	- study carefully and clarify the ambiguity with other member
-	- solve issue with daily review meeting twice on phone call bubble chart
-	- 
+	- CR handling solve issue with daily review meeting twice on phone call bubble chart
 - **Result**: 
 	- 5G functionality successfully verified with UXM 5G and Radio Communication Test Station MT8000A from Anritsu
-	- now the produ
+	- now the product is adopted with customer OPPO, VIVO, Xiaomi
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
 - **Situation**:
@@ -1343,7 +1342,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA2NDUyMzksLTE2NjgzOTM4MSwtNz
+eyJoaXN0b3J5IjpbLTEzMDgwMDUwODEsLTE2NjgzOTM4MSwtNz
 A1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYz
 NDg1LC02NjM2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5NTE5LD
 EwNDk5NjAyNTIsMjI0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4
