@@ -185,7 +185,8 @@ Seeing my code actually work in real-world environment, not just some self-simul
 	- clarify user scenario with customer and field trial tester
 	- evaluate HW capability
 	- discuss possible solution from algorithm team
-	- reconstruct test environment in internal lab and test
+	- implement patch with limited environment (without simulation environment direct to smartphone in emulation mode)
+	- reconstruct test environment in internal lab and test (work until 2pm)
 	- release patch and analyze the log for bug and improvement
 - Result: 
 	- path release on time and new feature is added
@@ -1312,11 +1313,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1NTE2MTU0LC03MDUyOTEwODIsMTI3NT
-Y1OTc2MiwtMTAwNTQ2OTgxNCwxOTY1NjM0ODUsLTY2MzY5NzIw
-OSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMTA0OTk2MDI1MiwyMj
-Q3MDMzNTAsMTYxNjcxNzEwNywtNDA2MjgzMzUyLDExMjczNzQy
-NDksLTExODEwMzIwNjYsMjA3OTUzNTg5MSwxMjIzMjczNTQ1LC
-0xMzMzMTkxNTk2LC00MjQzOTUwMTMsLTQwMDY5MDYyNywtMTA3
-MzMxMzExNV19
+eyJoaXN0b3J5IjpbLTE0NzMxMTY3MDYsLTcwNTI5MTA4MiwxMj
+c1NjU5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3
+MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLD
+IyNDcwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3
+NDI0OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMyNzM1ND
+UsLTEzMzMxOTE1OTYsLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0x
+MDczMzEzMTE1XX0=
 -->
