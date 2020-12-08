@@ -179,34 +179,34 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ### 講多次就很可信
 
 ### 4G LTE MIMO
-- Situation: Customer(Samsung) wants new feature  4G LTE Massive MIMO to be supported in the existing product
-- Task: implementing patch for new feature (4G LTE Massive MIMO) with limited HW capability
+- **Situation**: Customer(Samsung) wants new feature  4G LTE Massive MIMO to be supported in the existing product
+- **Task**: implementing patch for new feature (4G LTE Massive MIMO) with limited HW capability
 	- the project was so old that simulation platform is no longer maintained
-- Action:
+- **Action**:
 	- clarify user scenario with customer and field trial tester
 	- evaluate HW/FW capability from the given scenario
 	- discuss possible solution from algorithm team
 	- implement patch with limited environment (without simulation environment direct to smartphone in emulation mode, (work until 2pm)
 	- reconstruct test environment in internal lab and test and verify the result
 	- release patch and analyze the log for bug and improvement for several round
-- Result: downlink data rate by 300% (42Mbps) in LTE Massive MIMO feature
+- **Result**: downlink data rate by 300% (42Mbps) in LTE Massive MIMO feature
 	-  release on time and new feature is added
 	- customer is satisfied
 
 ### 5G Module Cycle optimization
-- Situation: After first 5G phone call, the existing code is flexible yet low HW u-rate and high cycle
+- **Situation**: After first 5G phone call, the existing code is flexible yet low HW u-rate and high cycle
 	- 5G Control Channel code is not optimized, low utilization of hardware DSP
 	- We even have several review meeting, my supervisor let me handle this independently
 	- The reason is that, in the beginning, we are only aiming at functionality
-- Task: improving  HW u-rate and reduce cycle
-- Action: 
+- **Task**: improving  HW u-rate and reduce cycle
+- **Action**: 
 	- evaluate the potential  optimization in the current HW/FW architecture
 	- discuss coordinate with CSD algorithm team, HW designer, Modem Architect
 	- review the code module by module , scenario by scenario
 	- implement and verify with UT and IT
 	- validate the result with phone call test, and measure cycles for improvement
 	- independently handle the review process
-- Result:  Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding
+- **Result**:  Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding
 	- u-rate is high
 
 ### Keysight-MediaTek 5G NR Data
@@ -215,19 +215,18 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
 - Currently, we are doing a project on SDN(Software Defined Networking) with openflow 
 
-###  Give me an example of a time that you felt you went above and beyond the call of duty at work. 
-### [What was the last project you led, and what was its outcome?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-what-was-last-project-led-outcome)
-###   Can you describe a time when your work was criticized?
-###   Have you ever been on a team where someone was not pulling their own weight? How did you handle it?
-###   Tell me about a time when you had to give someone difficult feedback. How did you handle it?
-###  What is your greatest failure, and what did you learn from it?
-###  [How do you handle working with people who annoy you?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-working-with-annoying-people)
-###   If I were your supervisor and asked you to do something that you disagreed with, what would you do?
-###   What was the most difficult period in your life, and how did you deal with it?
-###   Give me an example of a time you did something wrong.  [How did you handle it?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-when-did-do-something-wrong-0922)
-###  Tell me about a time where you had to deal with conflict on the job.
-
-### Can you describe a time when your work was criticized? 
+###  1. Give me an example of a time that you felt you went above and beyond the call of duty at work. 
+### 2. [What was the last project you led, and what was its outcome?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-what-was-last-project-led-outcome)
+###   3. Can you describe a time when your work was criticized?
+###  4. Have you ever been on a team where someone was not pulling their own weight? How did you handle it?
+###   5. Tell me about a time when you had to give someone difficult feedback. How did you handle it?
+###  6. What is your greatest failure, and what did you learn from it?
+###  7. [How do you handle working with people who annoy you?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-working-with-annoying-people)
+###   8. If I were your supervisor and asked you to do something that you disagreed with, what would you do?
+###   9. What was the most difficult period in your life, and how did you deal with it?
+###   10. Give me an example of a time you did something wrong.  [How did you handle it?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-when-did-do-something-wrong-0922)
+###  11. Tell me about a time where you had to deal with conflict on the job.
+### 12. Can you describe a time when your work was criticized? 
 
 
 # Technical interview
@@ -1321,11 +1320,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0NDM1NDAsLTcwNTI5MTA4MiwxMjc1Nj
-U5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5
-LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLDIyND
-cwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3NDI0
-OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMyNzM1NDUsLT
-EzMzMxOTE1OTYsLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0xMDcz
-MzEzMTE1XX0=
+eyJoaXN0b3J5IjpbLTM3NzI5OTA1LC03MDUyOTEwODIsMTI3NT
+Y1OTc2MiwtMTAwNTQ2OTgxNCwxOTY1NjM0ODUsLTY2MzY5NzIw
+OSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMTA0OTk2MDI1MiwyMj
+Q3MDMzNTAsMTYxNjcxNzEwNywtNDA2MjgzMzUyLDExMjczNzQy
+NDksLTExODEwMzIwNjYsMjA3OTUzNTg5MSwxMjIzMjczNTQ1LC
+0xMzMzMTkxNTk2LC00MjQzOTUwMTMsLTQwMDY5MDYyNywtMTA3
+MzMxMzExNV19
 -->
