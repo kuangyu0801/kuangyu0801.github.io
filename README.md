@@ -184,6 +184,20 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
 - Currently, we are doing a project on SDN(Software Defined Networking) with openflow 
 ### - Give me an example of a time that you felt you went above and beyond the call of duty at work. 
+
+
+### [What was the last project you led, and what was its outcome?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-what-was-last-project-led-outcome)
+###   Give me an example of a time that you felt you went above and beyond the call of duty at work.
+###   Can you describe a time when your work was criticized?
+###   Have you ever been on a team where someone was not pulling their own weight? How did you handle it?
+###   Tell me about a time when you had to give someone difficult feedback. How did you handle it?
+-   What is your greatest failure, and what did you learn from it?
+-   [How do you handle working with people who annoy you?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-working-with-annoying-people)
+-   If I were your supervisor and asked you to do something that you disagreed with, what would you do?
+-   What was the most difficult period in your life, and how did you deal with it?
+-   Give me an example of a time you did something wrong.  [How did you handle it?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-when-did-do-something-wrong-0922)
+-   Tell me about a time where you had to deal with conflict on the job.
+
 ### Can you describe a time when your work was criticized? 
 5G Control Channel code is not optimized, low utilization of hardware DSP
 We even have several review meeting, my supervisor let me handle this independently
@@ -191,7 +205,7 @@ The reason is that, in the beginning, we are only aiming at functionality
 Later, i have taken suggestion from CSD and HW and comeup and better optimization
 ### **Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding**
 ### **Give me an example of a time you did something wrong. How did you handle it? **
-
+### **Tell me about a time where you had to deal with conflict on the job.**
 
 # Cover Letter
 ## 1-Introduction
@@ -1281,11 +1295,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTYzNDg1LC02NjM2OTcyMDksLTExOD
-A3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMjI0NzAzMzUw
-LDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0MjQ5LC0xMT
-gxMDMyMDY2LDIwNzk1MzU4OTEsMTIyMzI3MzU0NSwtMTMzMzE5
-MTU5NiwtNDI0Mzk1MDEzLC00MDA2OTA2MjcsLTEwNzMzMTMxMT
-UsMTg0NzE4NjE0NSwtMTE2NTkxMDc4MywxNzI4ODExOTIsMTEz
-MDIyNTQ3MF19
+eyJoaXN0b3J5IjpbMTcxOTYxNjAwNiwxOTY1NjM0ODUsLTY2Mz
+Y5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMTA0OTk2MDI1
+MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtNDA2MjgzMzUyLDExMj
+czNzQyNDksLTExODEwMzIwNjYsMjA3OTUzNTg5MSwxMjIzMjcz
+NTQ1LC0xMzMzMTkxNTk2LC00MjQzOTUwMTMsLTQwMDY5MDYyNy
+wtMTA3MzMxMzExNSwxODQ3MTg2MTQ1LC0xMTY1OTEwNzgzLDE3
+Mjg4MTE5Ml19
 -->
