@@ -148,10 +148,11 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - highly-motivated in area of software and cloud, also 
 - fast learner
 - team player, technically wise i have participated in 3 large project across team
-- rig
-# Why do you want to study another master in Germany
-- I like the education 
-# 7. When were you most satisfied in your job?
+- rigorous programming with  6K code lines, reviewed and maintained 20K code lines in C/C++
+
+ 
+## ** Why do you want to study another master in Germany**
+
 
 # [Behavioral interview questions](https://www.monster.com/career-advice/article/100-potential-interview-questions)
 ### - What was the last project you led, and what was its outcome?
@@ -1256,7 +1257,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NzY2Njk4MiwtMTE4MTAzMjA2NiwyMD
+eyJoaXN0b3J5IjpbMTEyNzM3NDI0OSwtMTE4MTAzMjA2NiwyMD
 c5NTM1ODkxLDEyMjMyNzM1NDUsLTEzMzMxOTE1OTYsLTQyNDM5
 NTAxMywtNDAwNjkwNjI3LC0xMDczMzEzMTE1LDE4NDcxODYxND
 UsLTExNjU5MTA3ODMsMTcyODgxMTkyLDExMzAyMjU0NzAsLTE3
