@@ -107,9 +107,10 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 - Focus on the employer’s needs 
 	+ requirement: state-of-the-art software development, very proficient in Java programming, Python or Bash, Git 
 - Reflect on the job itself: in mediatek, i have worked on large project, version control, build , testing. regressiong, CR handling, issue report
-- Address cultural fit: I have the working experience also in a big company and can cooperate communicate with people from diffrent background, fluent in English
+- Address cultural fit: I have the working experience also in a big company and can cooperate communicate with people from different background, fluent in English
 
-# 3. Why do you want to work here?
+## **3. Why do you want to work here?**
+IBM has always been my top choice. IBM was and is still an techo
 
 # 5. Why did you leave (or why are you leaving) your job?
 - I want to shift my career into cloud computing and software development
@@ -1222,11 +1223,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMzMTMxMTUsMTg0NzE4NjE0NSwtMT
-E2NTkxMDc4MywxNzI4ODExOTIsMTEzMDIyNTQ3MCwtMTcxMjU4
-MTkzNiwyMDgzMjAwMTEzLDk4MDkxOTc4OCwtMTYxODkwNjM3LD
-E4MjQwNjg1NTgsLTcxMTcwMjgwNCwtMTQ0ODA2NTgyLDM4NzE0
-ODA1NSwtNzc4ODIyNjksODM0NDI5OTc1LC00OTQ2ODUxMDYsLT
-MwODY1MTI0MiwtNTkwNzU1MDczLC0xNjExMzc0NTg5LC03NzU4
-MjUxMTJdfQ==
+eyJoaXN0b3J5IjpbMTU1MDk4NjYxMCwtMTA3MzMxMzExNSwxOD
+Q3MTg2MTQ1LC0xMTY1OTEwNzgzLDE3Mjg4MTE5MiwxMTMwMjI1
+NDcwLC0xNzEyNTgxOTM2LDIwODMyMDAxMTMsOTgwOTE5Nzg4LC
+0xNjE4OTA2MzcsMTgyNDA2ODU1OCwtNzExNzAyODA0LC0xNDQ4
+MDY1ODIsMzg3MTQ4MDU1LC03Nzg4MjI2OSw4MzQ0Mjk5NzUsLT
+Q5NDY4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMsLTE2MTEz
+NzQ1ODldfQ==
 -->
