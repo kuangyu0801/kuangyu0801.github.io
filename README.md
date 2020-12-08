@@ -177,6 +177,7 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - rebase vs.fetch
 ### - What was the last project you led, and what was its outcome?
 ### 講多次就很可信
+
 ### 4G LTE MIMO
 - Situation: Customer(Samsung) wants new feature  4G LTE Massive MIMO to be supported in the existing product
 - Task: implementing patch for new feature (4G LTE Massive MIMO) with limited HW capability
@@ -188,12 +189,13 @@ Seeing my code actually work in real-world environment, not just some self-simul
 	- implement patch with limited environment (without simulation environment direct to smartphone in emulation mode, (work until 2pm)
 	- reconstruct test environment in internal lab and test
 	- release patch and analyze the log for bug and improvement for several round
-- Result: 
+- Result: downlink data rate by 300% (42Mbps) in LTE Massive MIMO feature
 	-  release on time and new feature is added
+	- customer is satisfied
 
 ### 5G Module Cycle optimization
-- Situation: After first 5G phone call, 
-- Task: 
+- Situation: After first 5G phone call, the existing code is flexible yet low HW u-rate
+- Task: improving 
 - Action: 
 - Result:  Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding
 
@@ -1313,11 +1315,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTM0OTU3NywtNzA1MjkxMDgyLDEyNz
-U2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcy
-MDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMj
-I0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0
-MjQ5LC0xMTgxMDMyMDY2LDIwNzk1MzU4OTEsMTIyMzI3MzU0NS
-wtMTMzMzE5MTU5NiwtNDI0Mzk1MDEzLC00MDA2OTA2MjcsLTEw
-NzMzMTMxMTVdfQ==
+eyJoaXN0b3J5IjpbLTIxMjQwODQyNDIsLTcwNTI5MTA4MiwxMj
+c1NjU5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3
+MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLD
+IyNDcwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3
+NDI0OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMyNzM1ND
+UsLTEzMzMxOTE1OTYsLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0x
+MDczMzEzMTE1XX0=
 -->
