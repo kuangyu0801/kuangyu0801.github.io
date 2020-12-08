@@ -162,12 +162,12 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ## **10. If you were an animal, which one would you want to be?**
  
 ## ** Why do you want to study another master in Germany**
-- i believe in formal education
-
+- i believe in formal education, although there are online courses but fundamental is important 
+## ** Would you continue to work if given return offer
 # [Behavioral interview questions](https://www.monster.com/career-advice/article/100-potential-interview-questions)
 
 ### server當掉
-### 你會想再留下來嗎？
+
 ### 做過最困難的project
 ### Python 
 - multi-threading (no multi-threading)
@@ -176,7 +176,6 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ### Git
 - add vs commit
 - rebase vs.fetch
-### - What was the last project you led, and what was its outcome?
 ### 講多次就很可信
 
 ### 4G LTE MIMO
@@ -1330,7 +1329,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTc5NTQ5NywtNzA1MjkxMDgyLDEyNz
+eyJoaXN0b3J5IjpbMjA0MTYzNTUyNCwtNzA1MjkxMDgyLDEyNz
 U2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcy
 MDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMj
 I0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0
