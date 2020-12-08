@@ -91,13 +91,10 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 - Routing Protocols for Wireless Ad-hoc Network, 有哪幾種routing方式
 
 # [Top 10 Question](https://www.monster.com/career-advice/article/Top-10-Interview-Questions-Prep)
-## Introduction: Talk about something about yourself
-- Background: I came from taiwan
-- Current Status: I and IT student in my third semester
-- Future Goal: software industrie
-- Focus on cloud computing, distributed system and network.
+## **1. What are your weaknesses?**
 
-# Why should we hire you?
+
+## **2. Why should we hire you?**
 - Focus on the employer’s needs 
 	+ requirement: state-of-the-art software development, very proficient in Java programming, Python or Bash, Git 
 - Reflect on the job itself: in mediatek, i have worked on large project, version control, build , testing. regressiong, CR handling, issue report
@@ -1216,11 +1213,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc1MDMyNTYsLTExNjU5MTA3ODMsMT
-cyODgxMTkyLDExMzAyMjU0NzAsLTE3MTI1ODE5MzYsMjA4MzIw
-MDExMyw5ODA5MTk3ODgsLTE2MTg5MDYzNywxODI0MDY4NTU4LC
-03MTE3MDI4MDQsLTE0NDgwNjU4MiwzODcxNDgwNTUsLTc3ODgy
-MjY5LDgzNDQyOTk3NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIsLT
-U5MDc1NTA3MywtMTYxMTM3NDU4OSwtNzc1ODI1MTEyLC0xMTk5
-ODE1NTczXX0=
+eyJoaXN0b3J5IjpbMTcyODI5NjY2NSwtMTE2NTkxMDc4MywxNz
+I4ODExOTIsMTEzMDIyNTQ3MCwtMTcxMjU4MTkzNiwyMDgzMjAw
+MTEzLDk4MDkxOTc4OCwtMTYxODkwNjM3LDE4MjQwNjg1NTgsLT
+cxMTcwMjgwNCwtMTQ0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIy
+NjksODM0NDI5OTc1LC00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNT
+kwNzU1MDczLC0xNjExMzc0NTg5LC03NzU4MjUxMTIsLTExOTk4
+MTU1NzNdfQ==
 -->
