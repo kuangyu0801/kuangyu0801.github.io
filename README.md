@@ -186,8 +186,8 @@ Seeing my code actually work in real-world environment, not just some self-simul
 We even have several review meeting, my supervisor let me handle this independently
 The reason is that, in the beginning, we are only aiming at functionality
 Later, i have taken suggestion from CSD and HW and comeup and better optimization
-Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding
-## Give me an example of a time you did something wrong. How did you handle it? 
+### **Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding**
+### **Give me an example of a time you did something wrong. How did you handle it? **
 
 
 # Cover Letter
@@ -1278,7 +1278,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjE4MTIwOSw3MjYwMDk1MTksMTA0OT
+eyJoaXN0b3J5IjpbMTUyMDA4NTcxMSw3MjYwMDk1MTksMTA0OT
 k2MDI1MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtNDA2MjgzMzUy
 LDExMjczNzQyNDksLTExODEwMzIwNjYsMjA3OTUzNTg5MSwxMj
 IzMjczNTQ1LC0xMzMzMTkxNTk2LC00MjQzOTUwMTMsLTQwMDY5
