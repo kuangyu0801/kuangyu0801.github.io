@@ -90,6 +90,14 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 ### project
 - Routing Protocols for Wireless Ad-hoc Network, 有哪幾種routing方式
 
+
+## Introduction: Talk about something about yourself
+- Background: I came from Taiwan
+- Current Status: I and IT student in my third semester, expected to graduate on 2021 Oct.
+- Work experience: mediatek as firmware engineer for 4G and 5G smartphone
+- Future Goal: software industrie
+- Focus on cloud computing, distributed system and network
+
 # [Top 10 Question](https://www.monster.com/career-advice/article/Top-10-Interview-Questions-Prep)
 ## **1. What are your weaknesses?**
 
@@ -1213,7 +1221,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODI5NjY2NSwtMTE2NTkxMDc4MywxNz
+eyJoaXN0b3J5IjpbMTg0NzE4NjE0NSwtMTE2NTkxMDc4MywxNz
 I4ODExOTIsMTEzMDIyNTQ3MCwtMTcxMjU4MTkzNiwyMDgzMjAw
 MTEzLDk4MDkxOTc4OCwtMTYxODkwNjM3LDE4MjQwNjg1NTgsLT
 cxMTcwMjgwNCwtMTQ0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIy
