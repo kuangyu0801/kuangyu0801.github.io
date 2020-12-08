@@ -106,8 +106,10 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 ## **2. Why should we hire you?**
 - Focus on the employer’s needs 
 	+ requirement: state-of-the-art software development, very proficient in Java programming, Python or Bash, Git 
-- Reflect on the job itself: in mediatek, i have worked on large project, version control, build , testing. regressiong, CR handling, issue report
-- Address cultural fit: I have the working experience also in a big company and can cooperate communicate with people from different background, fluent in English
+- Reflect on the job itself: in mediatek, i have worked on large project, version control, build , testing. regression, CR handling, issue report
+- Address cultural fit: I have the working experience also in a big company and know the general workflow and possess good communication skill
+- can cooperate communicate with people from different background, fluent in English
+- plus i learn thing rather fast
 
 ## **3. Why do you want to work here?**
 IBM has always been my top choice. IBM was and is still a technology giant with a diverse and globalized team and probably the only company that is still doing research and development while being a commercial success. 
@@ -1243,11 +1245,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0xMD
-czMzEzMTE1LDE4NDcxODYxNDUsLTExNjU5MTA3ODMsMTcyODgx
-MTkyLDExMzAyMjU0NzAsLTE3MTI1ODE5MzYsMjA4MzIwMDExMy
-w5ODA5MTk3ODgsLTE2MTg5MDYzNywxODI0MDY4NTU4LC03MTE3
-MDI4MDQsLTE0NDgwNjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5LD
-gzNDQyOTk3NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1
-NTA3M119
+eyJoaXN0b3J5IjpbLTE5NjMyMjQ4MjcsLTQyNDM5NTAxMywtND
+AwNjkwNjI3LC0xMDczMzEzMTE1LDE4NDcxODYxNDUsLTExNjU5
+MTA3ODMsMTcyODgxMTkyLDExMzAyMjU0NzAsLTE3MTI1ODE5Mz
+YsMjA4MzIwMDExMyw5ODA5MTk3ODgsLTE2MTg5MDYzNywxODI0
+MDY4NTU4LC03MTE3MDI4MDQsLTE0NDgwNjU4MiwzODcxNDgwNT
+UsLTc3ODgyMjY5LDgzNDQyOTk3NSwtNDk0Njg1MTA2LC0zMDg2
+NTEyNDJdfQ==
 -->
