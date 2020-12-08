@@ -102,7 +102,7 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 # [Top 10 Question](https://www.monster.com/career-advice/article/Top-10-Interview-Questions-Prep)
 ## **1. What are your weaknesses?**
 - i am too eager to deliver result or accomplishment, so big projects always frustrates me a little in the beginning
-	- later i learn from the idea of agile development, instead of doing all the survey in the front, i break each goals and requirement into small task and start earily and move fast
+	- later i learn from the idea of agile development, instead of doing all the survey in the front, i break each goals and requirement into small task and start early and move fast.
 - i am not really great at saying no to others, in the end, it will only make me work more, so later when i was assigned an role, i will clear out the responsibility and clarify the task so that other won't have false 
 
 ## **2. Why should we hire you?**
@@ -139,6 +139,8 @@ ABC(AI, Big Dat, Cloud)
 - The computing power of hardware is more than enough
 
 ## **6. When were you most satisfied in your job?**
+The time we have our first 5G test chip back!
+## **7. What can you do for us that other candidates can't?**
 
 # Why do you want to study another master in Germany
 - I like the education 
@@ -1247,11 +1249,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODIyNjQ0NCwtNDI0Mzk1MDEzLC00MD
-A2OTA2MjcsLTEwNzMzMTMxMTUsMTg0NzE4NjE0NSwtMTE2NTkx
-MDc4MywxNzI4ODExOTIsMTEzMDIyNTQ3MCwtMTcxMjU4MTkzNi
-wyMDgzMjAwMTEzLDk4MDkxOTc4OCwtMTYxODkwNjM3LDE4MjQw
-Njg1NTgsLTcxMTcwMjgwNCwtMTQ0ODA2NTgyLDM4NzE0ODA1NS
-wtNzc4ODIyNjksODM0NDI5OTc1LC00OTQ2ODUxMDYsLTMwODY1
-MTI0Ml19
+eyJoaXN0b3J5IjpbLTEzMzMxOTE1OTYsLTQyNDM5NTAxMywtND
+AwNjkwNjI3LC0xMDczMzEzMTE1LDE4NDcxODYxNDUsLTExNjU5
+MTA3ODMsMTcyODgxMTkyLDExMzAyMjU0NzAsLTE3MTI1ODE5Mz
+YsMjA4MzIwMDExMyw5ODA5MTk3ODgsLTE2MTg5MDYzNywxODI0
+MDY4NTU4LC03MTE3MDI4MDQsLTE0NDgwNjU4MiwzODcxNDgwNT
+UsLTc3ODgyMjY5LDgzNDQyOTk3NSwtNDk0Njg1MTA2LC0zMDg2
+NTEyNDJdfQ==
 -->
