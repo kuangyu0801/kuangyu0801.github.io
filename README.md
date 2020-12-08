@@ -140,7 +140,7 @@ ABC(AI, Big Dat, Cloud)
 
 ## **6. When were you most satisfied in your job?**
 The time we have our first 5G test chip back and my code is running smoothly. The first 5G attachment and phonecall is made.
-see my code is actually running with the chip and the correct configuration with new 5G test machine. 
+see my code is actually running with the chip and the correct configuration with new 5G test machine: UXM 5G 無線測試平台 from keysight, 
 ## **7. What can you do for us that other candidates can't?**
 
 # Why do you want to study another master in Germany
@@ -1250,11 +1250,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzI3MzU0NSwtMTMzMzE5MTU5NiwtND
-I0Mzk1MDEzLC00MDA2OTA2MjcsLTEwNzMzMTMxMTUsMTg0NzE4
-NjE0NSwtMTE2NTkxMDc4MywxNzI4ODExOTIsMTEzMDIyNTQ3MC
-wtMTcxMjU4MTkzNiwyMDgzMjAwMTEzLDk4MDkxOTc4OCwtMTYx
-ODkwNjM3LDE4MjQwNjg1NTgsLTcxMTcwMjgwNCwtMTQ0ODA2NT
-gyLDM4NzE0ODA1NSwtNzc4ODIyNjksODM0NDI5OTc1LC00OTQ2
-ODUxMDZdfQ==
+eyJoaXN0b3J5IjpbMjA3OTUzNTg5MSwxMjIzMjczNTQ1LC0xMz
+MzMTkxNTk2LC00MjQzOTUwMTMsLTQwMDY5MDYyNywtMTA3MzMx
+MzExNSwxODQ3MTg2MTQ1LC0xMTY1OTEwNzgzLDE3Mjg4MTE5Mi
+wxMTMwMjI1NDcwLC0xNzEyNTgxOTM2LDIwODMyMDAxMTMsOTgw
+OTE5Nzg4LC0xNjE4OTA2MzcsMTgyNDA2ODU1OCwtNzExNzAyOD
+A0LC0xNDQ4MDY1ODIsMzg3MTQ4MDU1LC03Nzg4MjI2OSw4MzQ0
+Mjk5NzVdfQ==
 -->
