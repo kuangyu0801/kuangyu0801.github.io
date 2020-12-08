@@ -120,6 +120,8 @@ My supervisor in was an J. Watson Research Center, Manager, High-Perf. Circuit D
 My goal is to become a software developer for my career. 
 I believe the trend of digitalization will go even further in the future and more and more commercial opportunity.
 ABC(AI, Big Dat, Cloud)
+ 
+ Also i think a so
 
 ## **5. Why did you leave (or why are you leaving) your job?**
 - I want to shift my career into cloud computing and software development 
@@ -129,7 +131,7 @@ ABC(AI, Big Dat, Cloud)
 - people 
 - Also the the IC/hardware industry has reached a saturation of demand, right now it about service not product. 
 - The computing power of hardware is more than enough
-- 
+
 ## **6. When were you most satisfied in your job?**
 
 # Why do you want to study another master in Germany
@@ -1239,7 +1241,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjczODUxMCwtMTA3MzMxMzExNSwxOD
+eyJoaXN0b3J5IjpbLTg4MTMzNDQ1MiwtMTA3MzMxMzExNSwxOD
 Q3MTg2MTQ1LC0xMTY1OTEwNzgzLDE3Mjg4MTE5MiwxMTMwMjI1
 NDcwLC0xNzEyNTgxOTM2LDIwODMyMDAxMTMsOTgwOTE5Nzg4LC
 0xNjE4OTA2MzcsMTgyNDA2ODU1OCwtNzExNzAyODA0LC0xNDQ4
