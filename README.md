@@ -112,12 +112,15 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 ## **3. Why do you want to work here?**
 IBM has always been my top choice. IBM was and is still a technology giant with a diverse and globalized team and probably the only company that is still doing research and development while being a commercial success. 
 From circuit design to AI, i believe working in IBM will be a very crucial stepping stone for my future career.
-Also I could use the internship oppurtunity to get hands on experience on industry level project
+Also I could use the internship opportunity to get hands on experience on industry level project
 Chip, DeepBlue, 
 My supervisor in was an J. Watson Research Center, Manager, High-Perf. Circuit Design
 
 ## **4. What are your goals?**
-My goal is to become a software developer for my career. I believe the trend of digitalization will 
+My goal is to become a software developer for my career. 
+I believe the trend of digitalization will go even further in the future and more and more commercial opportunity.
+ABC(AI, Big Dat, Cloud)
+
 # 5. Why did you leave (or why are you leaving) your job?
 - I want to shift my career into cloud computing and software development
 - The prospect of cloud computing and software development is enormous, right now every services is on the cloud! (SaaS, PaaS, IaaS)
@@ -1229,11 +1232,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE4NzY1MjMsLTEwNzMzMTMxMTUsMT
-g0NzE4NjE0NSwtMTE2NTkxMDc4MywxNzI4ODExOTIsMTEzMDIy
-NTQ3MCwtMTcxMjU4MTkzNiwyMDgzMjAwMTEzLDk4MDkxOTc4OC
-wtMTYxODkwNjM3LDE4MjQwNjg1NTgsLTcxMTcwMjgwNCwtMTQ0
-ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIyNjksODM0NDI5OTc1LC
-00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNTkwNzU1MDczLC0xNjEx
-Mzc0NTg5XX0=
+eyJoaXN0b3J5IjpbMTEyMjkzNjc2MCwtMTA3MzMxMzExNSwxOD
+Q3MTg2MTQ1LC0xMTY1OTEwNzgzLDE3Mjg4MTE5MiwxMTMwMjI1
+NDcwLC0xNzEyNTgxOTM2LDIwODMyMDAxMTMsOTgwOTE5Nzg4LC
+0xNjE4OTA2MzcsMTgyNDA2ODU1OCwtNzExNzAyODA0LC0xNDQ4
+MDY1ODIsMzg3MTQ4MDU1LC03Nzg4MjI2OSw4MzQ0Mjk5NzUsLT
+Q5NDY4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMsLTE2MTEz
+NzQ1ODldfQ==
 -->
