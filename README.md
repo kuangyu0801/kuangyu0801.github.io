@@ -85,10 +85,47 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 - 5G,4G 是屬於哪一層
 - embeded的意思？fw的定義
 - amazon的文化是什麼？ 
-
 ### project
 - Routing Protocols for Wireless Ad-hoc Network, 有哪幾種routing方式
-## Behavior Question
+
+# [Top 10 Question](https://www.monster.com/career-advice/article/Top-10-Interview-Questions-Prep)
+## Introduction: Talk about something about yourself
+- Background: I came from taiwan
+- Current Status: I and IT student in my third semester
+- Future Goal: software industrie
+- Focus on cloud computing, distributed system and network.
+
+# Why should we hire you?
+- Focus on the employer’s needs 
+	+ requirement: state-of-the-art software development, very proficient in Java programming, Python or Bash, Git 
+- Reflect on the job itself: in mediatek, i have worked on large project, version control, build , testing. regressiong, CR handling, issue report
+- Address cultural fit: I have the working experience also in a big company and can cooperate communicate with people from diffrent background, fluent in English
+
+# 3. Why do you want to work here?
+
+# 5. Why did you leave (or why are you leaving) your job?
+- I want to shift my career into cloud computing and software development
+- The prospect of cloud computing and software development is enormous, right now every services is on the cloud! (SaaS, PaaS, IaaS)
+- The gross of telecommunication is limited, if you look at the technology behind 5G which is an optimized version of 4G, with same technology MIMO and OFDM, unlike from 3G to 4G is a huge leap
+# Why do you want to study another master in Germany
+- I like the education 
+# 7. When were you most satisfied in your job?
+
+# [Behavioral interview questions](https://www.monster.com/career-advice/article/100-potential-interview-questions)
+### - What was the last project you led, and what was its outcome?
+- My previous,
+- In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
+- Currently, we are doing a project on SDN(Software Defined Networking) with openflow 
+### - Give me an example of a time that you felt you went above and beyond the call of duty at work. 
+### Can you describe a time when your work was criticized? 
+5G Control Channel code is not optimized, low utilization of hardware DSP
+We even have several review meeting, my supervisor let me handle this independently
+The reason is that, in the beginning, we are only aiming at functionality
+Later, i have taken suggestion from CSD and HW and comeup and better optimization
+Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding
+## Give me an example of a time you did something wrong. How did you handle it? 
+
+
 # Cover Letter
 ## 1-Introduction
 
@@ -1177,11 +1214,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU5MTA3ODMsMTcyODgxMTkyLDExMz
-AyMjU0NzAsLTE3MTI1ODE5MzYsMjA4MzIwMDExMyw5ODA5MTk3
-ODgsLTE2MTg5MDYzNywxODI0MDY4NTU4LC03MTE3MDI4MDQsLT
-E0NDgwNjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5LDgzNDQyOTk3
-NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMT
-YxMTM3NDU4OSwtNzc1ODI1MTEyLC0xMTk5ODE1NTczLC0xNzk2
-OTE2MTVdfQ==
+eyJoaXN0b3J5IjpbLTc1MjIyNTY1MiwtMTE2NTkxMDc4MywxNz
+I4ODExOTIsMTEzMDIyNTQ3MCwtMTcxMjU4MTkzNiwyMDgzMjAw
+MTEzLDk4MDkxOTc4OCwtMTYxODkwNjM3LDE4MjQwNjg1NTgsLT
+cxMTcwMjgwNCwtMTQ0ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIy
+NjksODM0NDI5OTc1LC00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNT
+kwNzU1MDczLC0xNjExMzc0NTg5LC03NzU4MjUxMTIsLTExOTk4
+MTU1NzNdfQ==
 -->
