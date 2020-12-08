@@ -211,11 +211,14 @@ Seeing my code actually work in real-world environment, not just some self-simul
 	- devise  CSD algorithm
 	- keep the latest spec release up-to-date
 	- design and review test case in both UT and IT
-	- implementing and verifying functionality on (simulation environment, FPGA, test chip, product)
-	- collaborating  with inter-team (SW higher layer, test engineering,  FW
+	- implementing and verifying functionality on simulation environment, FPGA, test chip, product with machine
+	- collaborating  with inter-team (SW higher layer, test engineering,  FW, vendor)
+	- study carefully and clarify the ambiguity with other member
+	- solve issue with daily review meeting twice on phone call bubble chart
 	- 
 - **Result**: 
 	- 5G functionality successfully verified with UXM 5G and Radio Communication Test Station MT8000A from Anritsu
+	- now the produ
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
 - **Situation**:
@@ -1340,11 +1343,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM4NzgyMCwtMTY2ODM5MzgxLC03MD
-UyOTEwODIsMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNCwxOTY1NjM0
-ODUsLTY2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMT
-A0OTk2MDI1MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtNDA2Mjgz
-MzUyLDExMjczNzQyNDksLTExODEwMzIwNjYsMjA3OTUzNTg5MS
-wxMjIzMjczNTQ1LC0xMzMzMTkxNTk2LC00MjQzOTUwMTMsLTQw
-MDY5MDYyN119
+eyJoaXN0b3J5IjpbLTIwNzA2NDUyMzksLTE2NjgzOTM4MSwtNz
+A1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYz
+NDg1LC02NjM2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5NTE5LD
+EwNDk5NjAyNTIsMjI0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4
+MzM1MiwxMTI3Mzc0MjQ5LC0xMTgxMDMyMDY2LDIwNzk1MzU4OT
+EsMTIyMzI3MzU0NSwtMTMzMzE5MTU5NiwtNDI0Mzk1MDEzLC00
+MDA2OTA2MjddfQ==
 -->
