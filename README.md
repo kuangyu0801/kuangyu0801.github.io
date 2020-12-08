@@ -176,16 +176,25 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - add vs commit
 - rebase vs.fetch
 ### - What was the last project you led, and what was its outcome?
-- My previous,
-- In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
-- Currently, we are doing a project on SDN(Software Defined Networking) with openflow 
-### 
+
+### 4G LTE MIMO
 - STAR/SAR for
 - Situation: 
 - Task: 
 - Action: 
 - Result: 
-- 
+
+### Cycle optimization
+- STAR/SAR for
+- Situation: 
+- Task: 
+- Action: 
+- Result: 
+
+- My previous,
+- In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
+- Currently, we are doing a project on SDN(Software Defined Networking) with openflow 
+
 ### - Give me an example of a time that you felt you went above and beyond the call of duty at work. 
 ### [What was the last project you led, and what was its outcome?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-what-was-last-project-led-outcome)
 ###   Give me an example of a time that you felt you went above and beyond the call of duty at work.
@@ -1298,11 +1307,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02Nj
-M2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAy
-NTIsMjI0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMT
-I3Mzc0MjQ5LC0xMTgxMDMyMDY2LDIwNzk1MzU4OTEsMTIyMzI3
-MzU0NSwtMTMzMzE5MTU5NiwtNDI0Mzk1MDEzLC00MDA2OTA2Mj
-csLTEwNzMzMTMxMTUsMTg0NzE4NjE0NSwtMTE2NTkxMDc4Mywx
-NzI4ODExOTJdfQ==
+eyJoaXN0b3J5IjpbMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNCwxOT
+Y1NjM0ODUsLTY2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1
+MTksMTA0OTk2MDI1MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtND
+A2MjgzMzUyLDExMjczNzQyNDksLTExODEwMzIwNjYsMjA3OTUz
+NTg5MSwxMjIzMjczNTQ1LC0xMzMzMTkxNTk2LC00MjQzOTUwMT
+MsLTQwMDY5MDYyNywtMTA3MzMxMzExNSwxODQ3MTg2MTQ1LC0x
+MTY1OTEwNzgzXX0=
 -->
