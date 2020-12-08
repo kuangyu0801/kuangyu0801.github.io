@@ -122,7 +122,7 @@ I believe the trend of digitalization will go even further in the future and mor
 ABC(AI, Big Dat, Cloud)
  
  Also i think a software career is longstanding and self-developing, and flexibel,
- i could either work in a big company or start one-man studio 
+ i could either work in a big company or start one-man studio, doing free-lancing jobs
  there are a lot new technology, material, tutorial online courses.
 
 ## **5. Why did you leave (or why are you leaving) your job?**
@@ -1243,11 +1243,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDY5MDYyNywtMTA3MzMxMzExNSwxOD
-Q3MTg2MTQ1LC0xMTY1OTEwNzgzLDE3Mjg4MTE5MiwxMTMwMjI1
-NDcwLC0xNzEyNTgxOTM2LDIwODMyMDAxMTMsOTgwOTE5Nzg4LC
-0xNjE4OTA2MzcsMTgyNDA2ODU1OCwtNzExNzAyODA0LC0xNDQ4
-MDY1ODIsMzg3MTQ4MDU1LC03Nzg4MjI2OSw4MzQ0Mjk5NzUsLT
-Q5NDY4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMsLTE2MTEz
-NzQ1ODldfQ==
+eyJoaXN0b3J5IjpbLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0xMD
+czMzEzMTE1LDE4NDcxODYxNDUsLTExNjU5MTA3ODMsMTcyODgx
+MTkyLDExMzAyMjU0NzAsLTE3MTI1ODE5MzYsMjA4MzIwMDExMy
+w5ODA5MTk3ODgsLTE2MTg5MDYzNywxODI0MDY4NTU4LC03MTE3
+MDI4MDQsLTE0NDgwNjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5LD
+gzNDQyOTk3NSwtNDk0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1
+NTA3M119
 -->
