@@ -101,8 +101,8 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 
 # [Top 10 Question](https://www.monster.com/career-advice/article/Top-10-Interview-Questions-Prep)
 ## **1. What are your weaknesses?**
-- i am too eager to deliver result or accomplishment
-- i am not really great at saying no to others, in the end, it will only make me work more, 
+- i am too eager to deliver result or accomplishment, so big projects always frustrates me a little 
+- i am not really great at saying no to others, in the end, it will only make me work more, so later when i was assigned an role, i will clear out the responsibility and clarify the task so that other won't have false 
 
 ## **2. Why should we hire you?**
 - Focus on the employer’s needs 
@@ -1246,7 +1246,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjcxNTg5LC00MjQzOTUwMTMsLTQwMD
+eyJoaXN0b3J5IjpbOTQ2ODg2MDgwLC00MjQzOTUwMTMsLTQwMD
 Y5MDYyNywtMTA3MzMxMzExNSwxODQ3MTg2MTQ1LC0xMTY1OTEw
 NzgzLDE3Mjg4MTE5MiwxMTMwMjI1NDcwLC0xNzEyNTgxOTM2LD
 IwODMyMDAxMTMsOTgwOTE5Nzg4LC0xNjE4OTA2MzcsMTgyNDA2
