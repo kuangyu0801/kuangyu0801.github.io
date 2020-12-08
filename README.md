@@ -195,14 +195,17 @@ Seeing my code actually work in real-world environment, not just some self-simul
 
 ### 5G Module Cycle optimization
 - Situation: After first 5G phone call, the existing code is flexible yet low HW u-rate and high cycle
+	- 5G Control Channel code is not optimized, low utilization of hardware DSP
+	- We even have several review meeting, my supervisor let me handle this independently
+	- The reason is that, in the beginning, we are only aiming at functionality
 - Task: improving  HW u-rate and reduce cycle
 - Action: 
 	- evaluate the potential  optimization in the current HW/FW architecture
-	- discuss coordinate with algorithm team, HW designer, Modem Architect
+	- discuss coordinate with CSD algorithm team, HW designer, Modem Architect
 	- review the code module by module , scenario by scenario
 	- implement and verify with UT and IT
 	- validate the result with phone call test, and measure cycles for improvement
-	- independ
+	- independently handle the review process
 - Result:  Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding
 	- u-rate is high
 
@@ -225,10 +228,7 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ###  Tell me about a time where you had to deal with conflict on the job.
 
 ### Can you describe a time when your work was criticized? 
-5G Control Channel code is not optimized, low utilization of hardware DSP
-We even have several review meeting, my supervisor let me handle this independently
-The reason is that, in the beginning, we are only aiming at functionality
-Later, i have taken suggestion from CSD and HW and comeup and better optimization
+
 
 # Technical interview
 
@@ -1321,11 +1321,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjgxMzgyOSwtNzA1MjkxMDgyLDEyNz
-U2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcy
-MDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMj
-I0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0
-MjQ5LC0xMTgxMDMyMDY2LDIwNzk1MzU4OTEsMTIyMzI3MzU0NS
-wtMTMzMzE5MTU5NiwtNDI0Mzk1MDEzLC00MDA2OTA2MjcsLTEw
-NzMzMTMxMTVdfQ==
+eyJoaXN0b3J5IjpbOTU0NDM1NDAsLTcwNTI5MTA4MiwxMjc1Nj
+U5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5
+LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLDIyND
+cwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3NDI0
+OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMyNzM1NDUsLT
+EzMzMxOTE1OTYsLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0xMDcz
+MzEzMTE1XX0=
 -->
