@@ -208,8 +208,11 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - **Action**: 
 	- listed and summarize the shortcoming of previous generation of design
 	- study the current DSP architecture and give it feedback when found optimization of bugg
-	- discuss and CSD algorithm
+	- devise  CSD algorithm
 	- keep the latest spec release up-to-date
+	- design and review test case in both UT and IT
+	- implementing 
+	- collaborating  
 - **Result**: 
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
@@ -1335,11 +1338,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxNDE3NTY3LC0xNjY4MzkzODEsLTcwNT
-I5MTA4MiwxMjc1NjU5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4
-NSwtNjYzNjk3MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMD
-Q5OTYwMjUyLDIyNDcwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMz
-NTIsMTEyNzM3NDI0OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLD
-EyMjMyNzM1NDUsLTEzMzMxOTE1OTYsLTQyNDM5NTAxMywtNDAw
-NjkwNjI3XX0=
+eyJoaXN0b3J5IjpbLTg2NDg1NjU2NSwtMTY2ODM5MzgxLC03MD
+UyOTEwODIsMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNCwxOTY1NjM0
+ODUsLTY2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMT
+A0OTk2MDI1MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtNDA2Mjgz
+MzUyLDExMjczNzQyNDksLTExODEwMzIwNjYsMjA3OTUzNTg5MS
+wxMjIzMjczNTQ1LC0xMzMzMTkxNTk2LC00MjQzOTUwMTMsLTQw
+MDY5MDYyN119
 -->
