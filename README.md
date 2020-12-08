@@ -122,12 +122,16 @@ I believe the trend of digitalization will go even further in the future and mor
 ABC(AI, Big Dat, Cloud)
 
 ## **5. Why did you leave (or why are you leaving) your job?**
-- I want to shift my career into cloud computing and software development
+- I want to shift my career into cloud computing and software development 
+- firmware development for me is a turning point, so I made the decision for career shift.
 - The prospect of cloud computing and software development is enormous, right now every services is on the cloud! (SaaS, PaaS, IaaS)
 - The gross of telecommunication is limited, if you look at the technology behind 5G which is an optimized version of 4G, with same technology MIMO and OFDM, unlike from 3G to 4G is a huge leap
 - people 
 - Also the the IC/hardware industry has reached a saturation of demand, right now it about service not product. 
 - The computing power of hardware is more than enough
+- 
+## **6. When were you most satisfied in your job?**
+
 # Why do you want to study another master in Germany
 - I like the education 
 # 7. When were you most satisfied in your job?
@@ -1235,7 +1239,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTUzMDMxNCwtMTA3MzMxMzExNSwxOD
+eyJoaXN0b3J5IjpbLTMyMjczODUxMCwtMTA3MzMxMzExNSwxOD
 Q3MTg2MTQ1LC0xMTY1OTEwNzgzLDE3Mjg4MTE5MiwxMTMwMjI1
 NDcwLC0xNzEyNTgxOTM2LDIwODMyMDAxMTMsOTgwOTE5Nzg4LC
 0xNjE4OTA2MzcsMTgyNDA2ODU1OCwtNzExNzAyODA0LC0xNDQ4
