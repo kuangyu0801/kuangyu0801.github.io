@@ -146,23 +146,23 @@ Radio Communication Test Station MT8000A from Anritsu
 
 Seeing my code actually work in real-world environment, not just some self-simulation environment is really satisfying! All the theory, algorithm, HW/SW implementation works hand-in hand
 ## **7. What can you do for us that other candidates can't?**
-- highly-motivated in area of software and cloud, also 
+- highly-motivated in area of software and cloud
 - fast learner
-- team player, technically wise i have participated in 3 large project across team
+- team player from previous work experience, technically wise i have participated in 3 large project across team
 - rigorous programming with  6K code lines, reviewed and maintained 20K code lines in C/C++
 ## **8. What are three positive things your last boss would say about you?**
 - delivery guarantee
 - self-motivating
-- perseverance, responsibility
+- perseverance
 
 ## **9. What salary are you seeking?**
-- 1,500 pro Monat
-- 100,000 pro Jahre
+- 1,500 pro Monat als intern 
+- 100,000 pro Jahre als FullTime
 
 ## **10. If you were an animal, which one would you want to be?**
  
 ## ** Why do you want to study another master in Germany**
-- i believe in formal 
+- i believe in formal education
 
 # [Behavioral interview questions](https://www.monster.com/career-advice/article/100-potential-interview-questions)
 
@@ -1330,7 +1330,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjA0MTQ2NCwtNzA1MjkxMDgyLDEyNz
+eyJoaXN0b3J5IjpbLTc2OTc5NTQ5NywtNzA1MjkxMDgyLDEyNz
 U2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcy
 MDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMj
 I0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0
