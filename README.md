@@ -154,7 +154,9 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - self-motivating
 -
 ## **9. What salary are you seeking?**
-- 1500 pro Monat
+- 1,500 pro Monat
+- 100,000 pro Jahre
+
 ## **10. If you were an animal, which one would you want to be?**
  
 ## ** Why do you want to study another master in Germany**
@@ -1263,11 +1265,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjcxNzEwNywtNDA2MjgzMzUyLDExMj
-czNzQyNDksLTExODEwMzIwNjYsMjA3OTUzNTg5MSwxMjIzMjcz
-NTQ1LC0xMzMzMTkxNTk2LC00MjQzOTUwMTMsLTQwMDY5MDYyNy
-wtMTA3MzMxMzExNSwxODQ3MTg2MTQ1LC0xMTY1OTEwNzgzLDE3
-Mjg4MTE5MiwxMTMwMjI1NDcwLC0xNzEyNTgxOTM2LDIwODMyMD
-AxMTMsOTgwOTE5Nzg4LC0xNjE4OTA2MzcsMTgyNDA2ODU1OCwt
-NzExNzAyODA0XX0=
+eyJoaXN0b3J5IjpbMjI0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNj
+I4MzM1MiwxMTI3Mzc0MjQ5LC0xMTgxMDMyMDY2LDIwNzk1MzU4
+OTEsMTIyMzI3MzU0NSwtMTMzMzE5MTU5NiwtNDI0Mzk1MDEzLC
+00MDA2OTA2MjcsLTEwNzMzMTMxMTUsMTg0NzE4NjE0NSwtMTE2
+NTkxMDc4MywxNzI4ODExOTIsMTEzMDIyNTQ3MCwtMTcxMjU4MT
+kzNiwyMDgzMjAwMTEzLDk4MDkxOTc4OCwtMTYxODkwNjM3LDE4
+MjQwNjg1NThdfQ==
 -->
