@@ -176,15 +176,14 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - add vs commit
 - rebase vs.fetch
 ### - What was the last project you led, and what was its outcome?
-
+### 講多次就很可信
 ### 4G LTE MIMO
-- STAR/SAR for
 - Situation: 
 - Task: 
 - Action: 
 - Result: 
 
-### Cycle optimization
+### 5G MoCycle optimization
 - STAR/SAR for
 - Situation: 
 - Task: 
@@ -1307,11 +1306,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNCwxOT
-Y1NjM0ODUsLTY2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1
-MTksMTA0OTk2MDI1MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtND
-A2MjgzMzUyLDExMjczNzQyNDksLTExODEwMzIwNjYsMjA3OTUz
-NTg5MSwxMjIzMjczNTQ1LC0xMzMzMTkxNTk2LC00MjQzOTUwMT
-MsLTQwMDY5MDYyNywtMTA3MzMxMzExNSwxODQ3MTg2MTQ1LC0x
-MTY1OTEwNzgzXX0=
+eyJoaXN0b3J5IjpbMTc0ODk2NDg0NywxMjc1NjU5NzYyLC0xMD
+A1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5LC0xMTgwNzM5
+MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLDIyNDcwMzM1MCwxNj
+E2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3NDI0OSwtMTE4MTAz
+MjA2NiwyMDc5NTM1ODkxLDEyMjMyNzM1NDUsLTEzMzMxOTE1OT
+YsLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0xMDczMzEzMTE1LDE4
+NDcxODYxNDVdfQ==
 -->
