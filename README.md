@@ -167,12 +167,6 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ### server當掉
 ### 你會想再留下來嗎？
 ### 做過最困難的project
-- STAR/SAR for
-- Situation: 
-- Task: 
-- Action: 
-- Result: 
-- 
 ### Python 
 - multi-threading (no multi-threading)
 - memory 管理: everything is reference
@@ -184,6 +178,13 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - My previous,
 - In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
 - Currently, we are doing a project on SDN(Software Defined Networking) with openflow 
+### 
+- STAR/SAR for
+- Situation: 
+- Task: 
+- Action: 
+- Result: 
+- 
 ### - Give me an example of a time that you felt you went above and beyond the call of duty at work. 
 ### [What was the last project you led, and what was its outcome?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-what-was-last-project-led-outcome)
 ###   Give me an example of a time that you felt you went above and beyond the call of duty at work.
@@ -202,6 +203,8 @@ Seeing my code actually work in real-world environment, not just some self-simul
 We even have several review meeting, my supervisor let me handle this independently
 The reason is that, in the beginning, we are only aiming at functionality
 Later, i have taken suggestion from CSD and HW and comeup and better optimization
+
+# Technical interview
 ### **Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding**
 ### **Give me an example of a time you did something wrong. How did you handle it? **
 ### **Tell me about a time where you had to deal with conflict on the job.**
@@ -1294,11 +1297,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTI3NDM1MCwxOTY1NjM0ODUsLTY2Mz
-Y5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMTA0OTk2MDI1
-MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtNDA2MjgzMzUyLDExMj
-czNzQyNDksLTExODEwMzIwNjYsMjA3OTUzNTg5MSwxMjIzMjcz
-NTQ1LC0xMzMzMTkxNTk2LC00MjQzOTUwMTMsLTQwMDY5MDYyNy
-wtMTA3MzMxMzExNSwxODQ3MTg2MTQ1LC0xMTY1OTEwNzgzLDE3
-Mjg4MTE5Ml19
+eyJoaXN0b3J5IjpbLTE4MzM4MDk1NzAsMTk2NTYzNDg1LC02Nj
+M2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAy
+NTIsMjI0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMT
+I3Mzc0MjQ5LC0xMTgxMDMyMDY2LDIwNzk1MzU4OTEsMTIyMzI3
+MzU0NSwtMTMzMzE5MTU5NiwtNDI0Mzk1MDEzLC00MDA2OTA2Mj
+csLTEwNzMzMTMxMTUsMTg0NzE4NjE0NSwtMTE2NTkxMDc4Mywx
+NzI4ODExOTJdfQ==
 -->
