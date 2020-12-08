@@ -199,7 +199,7 @@ Seeing my code actually work in real-world environment, not just some self-simul
 	- implement and verify with UT and IT
 	- validate the result with phone call test, and measure cycles for improvement
 	- independently handle the review process
-- **Result**:  Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding
+- **Result**:  Reduced computation cycle by 72% (less than 1K cycles) in 5G control channel decoding
 	- u-rate is high
 
 ### MediaTek's first 5G Modem Helio M70 (World’s fastest) development 
@@ -207,13 +207,14 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - **Task**:  Develop 5G FW for Control Channel when spec and architecture is on-going, balance between flexibility, performance, and cost
 - **Action**: 
 	- listed and summarize the shortcoming of previous generation of design
-	- study the current DSP architecture and give it feedback when found optimization of bugg
+	- study the current DSP architecture and give it feedback when found optimization of bug
 	- devise  CSD algorithm
 	- keep the latest spec release up-to-date
 	- design and review test case in both UT and IT
-	- implementing 
+	- implementing and verifying functionality on (simulation environment, FPGA, test chip, product)
 	- collaborating  
 - **Result**: 
+	- 5G functionality successfully verified
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
 - **Situation**:
@@ -1338,7 +1339,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDg1NjU2NSwtMTY2ODM5MzgxLC03MD
+eyJoaXN0b3J5IjpbMTc1NTg3MTEwNywtMTY2ODM5MzgxLC03MD
 UyOTEwODIsMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNCwxOTY1NjM0
 ODUsLTY2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMT
 A0OTk2MDI1MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtNDA2Mjgz
