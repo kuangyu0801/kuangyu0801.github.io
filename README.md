@@ -183,12 +183,11 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - Action: 
 - Result: 
 
-### 5G MoCycle optimization
-- STAR/SAR for
+### 5G Module Cycle optimization
 - Situation: 
 - Task: 
 - Action: 
-- Result: 
+- Result:  Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding
 
 - My previous,
 - In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
@@ -1306,7 +1305,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODk2NDg0NywxMjc1NjU5NzYyLC0xMD
+eyJoaXN0b3J5IjpbLTcwNTI5MTA4MiwxMjc1NjU5NzYyLC0xMD
 A1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5LC0xMTgwNzM5
 MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLDIyNDcwMzM1MCwxNj
 E2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3NDI0OSwtMTE4MTAz
