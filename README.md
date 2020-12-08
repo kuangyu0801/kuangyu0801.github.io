@@ -170,9 +170,10 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - Action
 - Result
 ### Python 
-- memory 管理
-- 理解
-- 
+- multi-threading
+- memory 管理: everything is reference
+- equals理解
+
 ### - What was the last project you led, and what was its outcome?
 - My previous,
 - In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
@@ -1275,11 +1276,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjQ5NTExNywxMDQ5OTYwMjUyLDIyND
-cwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3NDI0
-OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMyNzM1NDUsLT
-EzMzMxOTE1OTYsLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0xMDcz
-MzEzMTE1LDE4NDcxODYxNDUsLTExNjU5MTA3ODMsMTcyODgxMT
-kyLDExMzAyMjU0NzAsLTE3MTI1ODE5MzYsMjA4MzIwMDExMyw5
-ODA5MTk3ODhdfQ==
+eyJoaXN0b3J5IjpbLTE2NDI1NjY1NzAsMTA0OTk2MDI1MiwyMj
+Q3MDMzNTAsMTYxNjcxNzEwNywtNDA2MjgzMzUyLDExMjczNzQy
+NDksLTExODEwMzIwNjYsMjA3OTUzNTg5MSwxMjIzMjczNTQ1LC
+0xMzMzMTkxNTk2LC00MjQzOTUwMTMsLTQwMDY5MDYyNywtMTA3
+MzMxMzExNSwxODQ3MTg2MTQ1LC0xMTY1OTEwNzgzLDE3Mjg4MT
+E5MiwxMTMwMjI1NDcwLC0xNzEyNTgxOTM2LDIwODMyMDAxMTMs
+OTgwOTE5Nzg4XX0=
 -->
