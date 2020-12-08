@@ -142,6 +142,8 @@ ABC(AI, Big Dat, Cloud)
 The time we have our first 5G test chip back and my code is running smoothly. The first 5G attachment and phonecall is made.
 see my code is actually running with the chip and the correct configuration with new 5G test machine: UXM 5G 無線測試平台 from keysight 
 Radio Communication Test Station MT8000A from Anritsu
+
+Seeing my code actually work in real-world environment, not just some self-simulation environment is really satisfying! All the theory, algorithm, HW/SW implementation 
 ## **7. What can you do for us that other candidates can't?**
 
 # Why do you want to study another master in Germany
@@ -1251,11 +1253,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjA5NDc2NCwyMDc5NTM1ODkxLDEyMj
-MyNzM1NDUsLTEzMzMxOTE1OTYsLTQyNDM5NTAxMywtNDAwNjkw
-NjI3LC0xMDczMzEzMTE1LDE4NDcxODYxNDUsLTExNjU5MTA3OD
-MsMTcyODgxMTkyLDExMzAyMjU0NzAsLTE3MTI1ODE5MzYsMjA4
-MzIwMDExMyw5ODA5MTk3ODgsLTE2MTg5MDYzNywxODI0MDY4NT
-U4LC03MTE3MDI4MDQsLTE0NDgwNjU4MiwzODcxNDgwNTUsLTc3
-ODgyMjY5XX0=
+eyJoaXN0b3J5IjpbLTE4MzM3OTU4OTYsMjA3OTUzNTg5MSwxMj
+IzMjczNTQ1LC0xMzMzMTkxNTk2LC00MjQzOTUwMTMsLTQwMDY5
+MDYyNywtMTA3MzMxMzExNSwxODQ3MTg2MTQ1LC0xMTY1OTEwNz
+gzLDE3Mjg4MTE5MiwxMTMwMjI1NDcwLC0xNzEyNTgxOTM2LDIw
+ODMyMDAxMTMsOTgwOTE5Nzg4LC0xNjE4OTA2MzcsMTgyNDA2OD
+U1OCwtNzExNzAyODA0LC0xNDQ4MDY1ODIsMzg3MTQ4MDU1LC03
+Nzg4MjI2OV19
 -->
