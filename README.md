@@ -139,7 +139,8 @@ ABC(AI, Big Dat, Cloud)
 - The computing power of hardware is more than enough
 
 ## **6. When were you most satisfied in your job?**
-The time we have our first 5G test chip back!
+The time we have our first 5G test chip back and my code is running smoothly. The first 5G attachment and phon
+see my code is actually running with the correct configuration.
 ## **7. What can you do for us that other candidates can't?**
 
 # Why do you want to study another master in Germany
@@ -1249,11 +1250,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMxOTE1OTYsLTQyNDM5NTAxMywtND
-AwNjkwNjI3LC0xMDczMzEzMTE1LDE4NDcxODYxNDUsLTExNjU5
-MTA3ODMsMTcyODgxMTkyLDExMzAyMjU0NzAsLTE3MTI1ODE5Mz
-YsMjA4MzIwMDExMyw5ODA5MTk3ODgsLTE2MTg5MDYzNywxODI0
-MDY4NTU4LC03MTE3MDI4MDQsLTE0NDgwNjU4MiwzODcxNDgwNT
-UsLTc3ODgyMjY5LDgzNDQyOTk3NSwtNDk0Njg1MTA2LC0zMDg2
-NTEyNDJdfQ==
+eyJoaXN0b3J5IjpbMTEzNTYzNTc2NiwtMTMzMzE5MTU5NiwtND
+I0Mzk1MDEzLC00MDA2OTA2MjcsLTEwNzMzMTMxMTUsMTg0NzE4
+NjE0NSwtMTE2NTkxMDc4MywxNzI4ODExOTIsMTEzMDIyNTQ3MC
+wtMTcxMjU4MTkzNiwyMDgzMjAwMTEzLDk4MDkxOTc4OCwtMTYx
+ODkwNjM3LDE4MjQwNjg1NTgsLTcxMTcwMjgwNCwtMTQ0ODA2NT
+gyLDM4NzE0ODA1NSwtNzc4ODIyNjksODM0NDI5OTc1LC00OTQ2
+ODUxMDZdfQ==
 -->
