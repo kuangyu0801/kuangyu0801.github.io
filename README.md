@@ -183,16 +183,16 @@ Seeing my code actually work in real-world environment, not just some self-simul
 	- the project was so old that simulation platform is no longer maintained
 - Action:
 	- clarify user scenario with customer and field trial tester
-	- evaluate HW capability
+	- evaluate HW/FW capability from the given scenario
 	- discuss possible solution from algorithm team
-	- implement patch with limited environment (without simulation environment direct to smartphone in emulation mode)
-	- reconstruct test environment in internal lab and test (work until 2pm)
-	- release patch and analyze the log for bug and improvement
+	- implement patch with limited environment (without simulation environment direct to smartphone in emulation mode, (work until 2pm)
+	- reconstruct test environment in internal lab and test
+	- release patch and analyze the log for bug and improvement for several round
 - Result: 
-	- path release on time and new feature is added
+	-  release on time and new feature is added
 
 ### 5G Module Cycle optimization
-- Situation: 
+- Situation: After first 5G phone call, 
 - Task: 
 - Action: 
 - Result:  Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding
@@ -1313,11 +1313,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzMxMTY3MDYsLTcwNTI5MTA4MiwxMj
-c1NjU5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3
-MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLD
-IyNDcwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3
-NDI0OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMyNzM1ND
-UsLTEzMzMxOTE1OTYsLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0x
-MDczMzEzMTE1XX0=
+eyJoaXN0b3J5IjpbMTI5NTM0OTU3NywtNzA1MjkxMDgyLDEyNz
+U2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcy
+MDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMj
+I0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0
+MjQ5LC0xMTgxMDMyMDY2LDIwNzk1MzU4OTEsMTIyMzI3MzU0NS
+wtMTMzMzE5MTU5NiwtNDI0Mzk1MDEzLC00MDA2OTA2MjcsLTEw
+NzMzMTMxMTVdfQ==
 -->
