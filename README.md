@@ -169,6 +169,8 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - Task
 - Action
 - Result
+### Python 
+- memory 管理
 ### - What was the last project you led, and what was its outcome?
 - My previous,
 - In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
@@ -1271,11 +1273,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTk2MDI1MiwyMjQ3MDMzNTAsMTYxNj
-cxNzEwNywtNDA2MjgzMzUyLDExMjczNzQyNDksLTExODEwMzIw
-NjYsMjA3OTUzNTg5MSwxMjIzMjczNTQ1LC0xMzMzMTkxNTk2LC
-00MjQzOTUwMTMsLTQwMDY5MDYyNywtMTA3MzMxMzExNSwxODQ3
-MTg2MTQ1LC0xMTY1OTEwNzgzLDE3Mjg4MTE5MiwxMTMwMjI1ND
-cwLC0xNzEyNTgxOTM2LDIwODMyMDAxMTMsOTgwOTE5Nzg4LC0x
-NjE4OTA2MzddfQ==
+eyJoaXN0b3J5IjpbMTk4OTM3NDA1NCwxMDQ5OTYwMjUyLDIyND
+cwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3NDI0
+OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMyNzM1NDUsLT
+EzMzMxOTE1OTYsLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0xMDcz
+MzEzMTE1LDE4NDcxODYxNDUsLTExNjU5MTA3ODMsMTcyODgxMT
+kyLDExMzAyMjU0NzAsLTE3MTI1ODE5MzYsMjA4MzIwMDExMyw5
+ODA5MTk3ODhdfQ==
 -->
