@@ -202,18 +202,18 @@ Seeing my code actually work in real-world environment, not just some self-simul
 	- review the code module by module , scenario by scenario
 	- implement and verify with UT and IT
 	- validate the result with phone call test, and measure cycles for improvement
+	- independ
 - Result:  Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding
-	- u-rate is hi
+	- u-rate is high
 
-
+### Keysight-MediaTek 5G NR Data
 
 - My previous,
 - In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
 - Currently, we are doing a project on SDN(Software Defined Networking) with openflow 
 
-### - Give me an example of a time that you felt you went above and beyond the call of duty at work. 
+###  Give me an example of a time that you felt you went above and beyond the call of duty at work. 
 ### [What was the last project you led, and what was its outcome?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-what-was-last-project-led-outcome)
-###   Give me an example of a time that you felt you went above and beyond the call of duty at work.
 ###   Can you describe a time when your work was criticized?
 ###   Have you ever been on a team where someone was not pulling their own weight? How did you handle it?
 ###   Tell me about a time when you had to give someone difficult feedback. How did you handle it?
@@ -1321,7 +1321,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTYwMTMyNCwtNzA1MjkxMDgyLDEyNz
+eyJoaXN0b3J5IjpbMTY1NjgxMzgyOSwtNzA1MjkxMDgyLDEyNz
 U2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcy
 MDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMj
 I0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0
