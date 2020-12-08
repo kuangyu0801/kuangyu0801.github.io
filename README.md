@@ -112,9 +112,12 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 ## **3. Why do you want to work here?**
 IBM has always been my top choice. IBM was and is still a technology giant with a diverse and globalized team and probably the only company that is still doing research and development while being a commercial success. 
 From circuit design to AI, i believe working in IBM will be a very crucial stepping stone for my future career.
-Also I could use the 
+Also I could use the internship oppurtunity to get hands on experience on industry level project
 Chip, DeepBlue, 
 My supervisor in was an J. Watson Research Center, Manager, High-Perf. Circuit Design
+
+## **4. What are your goals?**
+My goal is to become a software developer for my career. 
 # 5. Why did you leave (or why are you leaving) your job?
 - I want to shift my career into cloud computing and software development
 - The prospect of cloud computing and software development is enormous, right now every services is on the cloud! (SaaS, PaaS, IaaS)
@@ -1226,11 +1229,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjIwODI3MjAsLTEwNzMzMTMxMTUsMT
-g0NzE4NjE0NSwtMTE2NTkxMDc4MywxNzI4ODExOTIsMTEzMDIy
-NTQ3MCwtMTcxMjU4MTkzNiwyMDgzMjAwMTEzLDk4MDkxOTc4OC
-wtMTYxODkwNjM3LDE4MjQwNjg1NTgsLTcxMTcwMjgwNCwtMTQ0
-ODA2NTgyLDM4NzE0ODA1NSwtNzc4ODIyNjksODM0NDI5OTc1LC
-00OTQ2ODUxMDYsLTMwODY1MTI0MiwtNTkwNzU1MDczLC0xNjEx
-Mzc0NTg5XX0=
+eyJoaXN0b3J5IjpbNTQyMDk5NTg3LC0xMDczMzEzMTE1LDE4ND
+cxODYxNDUsLTExNjU5MTA3ODMsMTcyODgxMTkyLDExMzAyMjU0
+NzAsLTE3MTI1ODE5MzYsMjA4MzIwMDExMyw5ODA5MTk3ODgsLT
+E2MTg5MDYzNywxODI0MDY4NTU4LC03MTE3MDI4MDQsLTE0NDgw
+NjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5LDgzNDQyOTk3NSwtND
+k0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMTYxMTM3
+NDU4OV19
 -->
