@@ -110,8 +110,8 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 - Address cultural fit: I have the working experience also in a big company and can cooperate communicate with people from different background, fluent in English
 
 ## **3. Why do you want to work here?**
-IBM has always been my top choice. IBM was and is still an technology giant with very strong 
-
+IBM has always been my top choice. IBM was and is still a technology giant with a diverse and globalized team and probab
+J. Watson Research Center, Manager, High-Perf. Circuit Design
 # 5. Why did you leave (or why are you leaving) your job?
 - I want to shift my career into cloud computing and software development
 - The prospect of cloud computing and software development is enormous, right now every services is on the cloud! (SaaS, PaaS, IaaS)
@@ -1223,11 +1223,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMwNTMwNjY5LC0xMDczMzEzMTE1LDE4ND
-cxODYxNDUsLTExNjU5MTA3ODMsMTcyODgxMTkyLDExMzAyMjU0
-NzAsLTE3MTI1ODE5MzYsMjA4MzIwMDExMyw5ODA5MTk3ODgsLT
-E2MTg5MDYzNywxODI0MDY4NTU4LC03MTE3MDI4MDQsLTE0NDgw
-NjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5LDgzNDQyOTk3NSwtND
-k0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMTYxMTM3
-NDU4OV19
+eyJoaXN0b3J5IjpbMTY4MTQ1MTQ0OSwtMTA3MzMxMzExNSwxOD
+Q3MTg2MTQ1LC0xMTY1OTEwNzgzLDE3Mjg4MTE5MiwxMTMwMjI1
+NDcwLC0xNzEyNTgxOTM2LDIwODMyMDAxMTMsOTgwOTE5Nzg4LC
+0xNjE4OTA2MzcsMTgyNDA2ODU1OCwtNzExNzAyODA0LC0xNDQ4
+MDY1ODIsMzg3MTQ4MDU1LC03Nzg4MjI2OSw4MzQ0Mjk5NzUsLT
+Q5NDY4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMsLTE2MTEz
+NzQ1ODldfQ==
 -->
