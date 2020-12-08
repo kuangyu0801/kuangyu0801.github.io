@@ -180,10 +180,12 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ### 4G LTE MIMO
 - Situation: Customer(Samsung) wants new feature  4G LTE Massive MIMO to be supported in the existing product
 - Task: implementing patch for new feature (4G LTE Massive MIMO) with limited HW capability
-	- the product 
+	- the project was so old that simulation platform is no longer maintained
 - Action:
 	- clarify user scenario with customer and tester
-	-  evaluate HW capability and 
+	- evaluate HW capability
+	- discuss possible solution from algorithm team
+	- reconstrucsetup test case in internal 
 - Result: 
 
 ### 5G Module Cycle optimization
@@ -1308,7 +1310,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyNjMxMTU5LC03MDUyOTEwODIsMTI3NT
+eyJoaXN0b3J5IjpbMzg2NDA0ODc4LC03MDUyOTEwODIsMTI3NT
 Y1OTc2MiwtMTAwNTQ2OTgxNCwxOTY1NjM0ODUsLTY2MzY5NzIw
 OSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMTA0OTk2MDI1MiwyMj
 Q3MDMzNTAsMTYxNjcxNzEwNywtNDA2MjgzMzUyLDExMjczNzQy
