@@ -152,7 +152,7 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ## **8. What are three positive things your last boss would say about you?**
 - delivery
 - self-motivating
--
+- perseverance
 ## **9. What salary are you seeking?**
 - 1,500 pro Monat
 - 100,000 pro Jahre
@@ -160,7 +160,7 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ## **10. If you were an animal, which one would you want to be?**
  
 ## ** Why do you want to study another master in Germany**
-
+- i believe in formal 
 
 # [Behavioral interview questions](https://www.monster.com/career-advice/article/100-potential-interview-questions)
 
@@ -168,10 +168,11 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ### 你會想再留下來嗎？
 ### 做過最困難的project
 - STAR/SAR for
-- Situation
-- Task
-- Action
-- Result
+- Situation: 
+- Task: 
+- Action: 
+- Result: 
+- 
 ### Python 
 - multi-threading (no multi-threading)
 - memory 管理: everything is reference
@@ -184,19 +185,17 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
 - Currently, we are doing a project on SDN(Software Defined Networking) with openflow 
 ### - Give me an example of a time that you felt you went above and beyond the call of duty at work. 
-
-
 ### [What was the last project you led, and what was its outcome?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-what-was-last-project-led-outcome)
 ###   Give me an example of a time that you felt you went above and beyond the call of duty at work.
 ###   Can you describe a time when your work was criticized?
 ###   Have you ever been on a team where someone was not pulling their own weight? How did you handle it?
 ###   Tell me about a time when you had to give someone difficult feedback. How did you handle it?
--   What is your greatest failure, and what did you learn from it?
--   [How do you handle working with people who annoy you?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-working-with-annoying-people)
--   If I were your supervisor and asked you to do something that you disagreed with, what would you do?
--   What was the most difficult period in your life, and how did you deal with it?
--   Give me an example of a time you did something wrong.  [How did you handle it?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-when-did-do-something-wrong-0922)
--   Tell me about a time where you had to deal with conflict on the job.
+###  What is your greatest failure, and what did you learn from it?
+###  [How do you handle working with people who annoy you?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-working-with-annoying-people)
+###   If I were your supervisor and asked you to do something that you disagreed with, what would you do?
+###   What was the most difficult period in your life, and how did you deal with it?
+###   Give me an example of a time you did something wrong.  [How did you handle it?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-when-did-do-something-wrong-0922)
+###  Tell me about a time where you had to deal with conflict on the job.
 
 ### Can you describe a time when your work was criticized? 
 5G Control Channel code is not optimized, low utilization of hardware DSP
@@ -1295,7 +1294,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTYxNjAwNiwxOTY1NjM0ODUsLTY2Mz
+eyJoaXN0b3J5IjpbLTc5MTI3NDM1MCwxOTY1NjM0ODUsLTY2Mz
 Y5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMTA0OTk2MDI1
 MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtNDA2MjgzMzUyLDExMj
 czNzQyNDksLTExODEwMzIwNjYsMjA3OTUzNTg5MSwxMjIzMjcz
