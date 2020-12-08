@@ -209,13 +209,13 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - **Result**:  Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding
 	- u-rate is high
 
-### MediaTek's first 5G Modem  Helio M70 (World’s fastest) developmet
+### MediaTek's first 5G Modem  Helio M70 (World’s fastest) development 
 - **Situation**:
 - - **Task**:
 - - **Action**: 
 - - **Result**: 
 
-### Keysight-MediaTek 5G NR Data
+### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
 - **Situation**:
 - - **Task**:
 - - **Action**: 
@@ -1329,11 +1329,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTAzOTkwNTcsLTcwNTI5MTA4MiwxMj
-c1NjU5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3
-MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLD
-IyNDcwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3
-NDI0OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMyNzM1ND
-UsLTEzMzMxOTE1OTYsLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0x
-MDczMzEzMTE1XX0=
+eyJoaXN0b3J5IjpbMTg2MDA1NDgwNiwtNzA1MjkxMDgyLDEyNz
+U2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcy
+MDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMj
+I0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0
+MjQ5LC0xMTgxMDMyMDY2LDIwNzk1MzU4OTEsMTIyMzI3MzU0NS
+wtMTMzMzE5MTU5NiwtNDI0Mzk1MDEzLC00MDA2OTA2MjcsLTEw
+NzMzMTMxMTVdfQ==
 -->
