@@ -101,7 +101,8 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 
 # [Top 10 Question](https://www.monster.com/career-advice/article/Top-10-Interview-Questions-Prep)
 ## **1. What are your weaknesses?**
-- i am too eager to deliver result or accomplishment, so big projects always frustrates me a little 
+- i am too eager to deliver result or accomplishment, so big projects always frustrates me a little in the beginning
+	- later i learn from the idea of agile development, instead of doing all the survey in the front, i break each goals and requirement into small task and start earily and move fast
 - i am not really great at saying no to others, in the end, it will only make me work more, so later when i was assigned an role, i will clear out the responsibility and clarify the task so that other won't have false 
 
 ## **2. Why should we hire you?**
@@ -1246,11 +1247,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2ODg2MDgwLC00MjQzOTUwMTMsLTQwMD
-Y5MDYyNywtMTA3MzMxMzExNSwxODQ3MTg2MTQ1LC0xMTY1OTEw
-NzgzLDE3Mjg4MTE5MiwxMTMwMjI1NDcwLC0xNzEyNTgxOTM2LD
-IwODMyMDAxMTMsOTgwOTE5Nzg4LC0xNjE4OTA2MzcsMTgyNDA2
-ODU1OCwtNzExNzAyODA0LC0xNDQ4MDY1ODIsMzg3MTQ4MDU1LC
-03Nzg4MjI2OSw4MzQ0Mjk5NzUsLTQ5NDY4NTEwNiwtMzA4NjUx
-MjQyXX0=
+eyJoaXN0b3J5IjpbMTA0ODIyNjQ0NCwtNDI0Mzk1MDEzLC00MD
+A2OTA2MjcsLTEwNzMzMTMxMTUsMTg0NzE4NjE0NSwtMTE2NTkx
+MDc4MywxNzI4ODExOTIsMTEzMDIyNTQ3MCwtMTcxMjU4MTkzNi
+wyMDgzMjAwMTEzLDk4MDkxOTc4OCwtMTYxODkwNjM3LDE4MjQw
+Njg1NTgsLTcxMTcwMjgwNCwtMTQ0ODA2NTgyLDM4NzE0ODA1NS
+wtNzc4ODIyNjksODM0NDI5OTc1LC00OTQ2ODUxMDYsLTMwODY1
+MTI0Ml19
 -->
