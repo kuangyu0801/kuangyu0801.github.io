@@ -145,7 +145,10 @@ Radio Communication Test Station MT8000A from Anritsu
 
 Seeing my code actually work in real-world environment, not just some self-simulation environment is really satisfying! All the theory, algorithm, HW/SW implementation works hand-in hand
 ## **7. What can you do for us that other candidates can't?**
-
+- highly-motivated in area of software and cloud, also 
+- fast learner
+- team player, technically wise i have participated in 3 large project across team
+- rig
 # Why do you want to study another master in Germany
 - I like the education 
 # 7. When were you most satisfied in your job?
@@ -1253,11 +1256,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODEwMzIwNjYsMjA3OTUzNTg5MSwxMj
-IzMjczNTQ1LC0xMzMzMTkxNTk2LC00MjQzOTUwMTMsLTQwMDY5
-MDYyNywtMTA3MzMxMzExNSwxODQ3MTg2MTQ1LC0xMTY1OTEwNz
-gzLDE3Mjg4MTE5MiwxMTMwMjI1NDcwLC0xNzEyNTgxOTM2LDIw
-ODMyMDAxMTMsOTgwOTE5Nzg4LC0xNjE4OTA2MzcsMTgyNDA2OD
-U1OCwtNzExNzAyODA0LC0xNDQ4MDY1ODIsMzg3MTQ4MDU1LC03
-Nzg4MjI2OV19
+eyJoaXN0b3J5IjpbMTk1NzY2Njk4MiwtMTE4MTAzMjA2NiwyMD
+c5NTM1ODkxLDEyMjMyNzM1NDUsLTEzMzMxOTE1OTYsLTQyNDM5
+NTAxMywtNDAwNjkwNjI3LC0xMDczMzEzMTE1LDE4NDcxODYxND
+UsLTExNjU5MTA3ODMsMTcyODgxMTkyLDExMzAyMjU0NzAsLTE3
+MTI1ODE5MzYsMjA4MzIwMDExMyw5ODA5MTk3ODgsLTE2MTg5MD
+YzNywxODI0MDY4NTU4LC03MTE3MDI4MDQsLTE0NDgwNjU4Miwz
+ODcxNDgwNTVdfQ==
 -->
