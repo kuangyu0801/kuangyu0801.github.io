@@ -121,10 +121,11 @@ My goal is to become a software developer for my career.
 I believe the trend of digitalization will go even further in the future and more and more commercial opportunity.
 ABC(AI, Big Dat, Cloud)
 
-# 5. Why did you leave (or why are you leaving) your job?
+## **5. Why did you leave (or why are you leaving) your job?**
 - I want to shift my career into cloud computing and software development
 - The prospect of cloud computing and software development is enormous, right now every services is on the cloud! (SaaS, PaaS, IaaS)
 - The gross of telecommunication is limited, if you look at the technology behind 5G which is an optimized version of 4G, with same technology MIMO and OFDM, unlike from 3G to 4G is a huge leap
+- Also the the IC/hardware industry has reached a saturation of demand, right now it about service not product
 # Why do you want to study another master in Germany
 - I like the education 
 # 7. When were you most satisfied in your job?
@@ -1232,11 +1233,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjkzNjc2MCwtMTA3MzMxMzExNSwxOD
-Q3MTg2MTQ1LC0xMTY1OTEwNzgzLDE3Mjg4MTE5MiwxMTMwMjI1
-NDcwLC0xNzEyNTgxOTM2LDIwODMyMDAxMTMsOTgwOTE5Nzg4LC
-0xNjE4OTA2MzcsMTgyNDA2ODU1OCwtNzExNzAyODA0LC0xNDQ4
-MDY1ODIsMzg3MTQ4MDU1LC03Nzg4MjI2OSw4MzQ0Mjk5NzUsLT
-Q5NDY4NTEwNiwtMzA4NjUxMjQyLC01OTA3NTUwNzMsLTE2MTEz
-NzQ1ODldfQ==
+eyJoaXN0b3J5IjpbNjIzNTEzMzE4LC0xMDczMzEzMTE1LDE4ND
+cxODYxNDUsLTExNjU5MTA3ODMsMTcyODgxMTkyLDExMzAyMjU0
+NzAsLTE3MTI1ODE5MzYsMjA4MzIwMDExMyw5ODA5MTk3ODgsLT
+E2MTg5MDYzNywxODI0MDY4NTU4LC03MTE3MDI4MDQsLTE0NDgw
+NjU4MiwzODcxNDgwNTUsLTc3ODgyMjY5LDgzNDQyOTk3NSwtND
+k0Njg1MTA2LC0zMDg2NTEyNDIsLTU5MDc1NTA3MywtMTYxMTM3
+NDU4OV19
 -->
