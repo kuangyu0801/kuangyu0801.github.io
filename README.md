@@ -163,19 +163,12 @@ Seeing my code actually work in real-world environment, not just some self-simul
  
 ## ** Why do you want to study another master in Germany**
 - i believe in formal education, although there are online courses but fundamental is important 
-## ** Would you continue to work if given return offer
+## ** Would you continue to work if given return offer**
+- Ja
 # [Behavioral interview questions](https://www.monster.com/career-advice/article/100-potential-interview-questions)
 
-### server當掉
 
-### 做過最困難的project
-### Python 
-- multi-threading (no multi-threading)
-- memory 管理: everything is reference
-- equals理解
-### Git
-- add vs commit
-- rebase vs.fetch
+
 ### 講多次就很可信
 
 ### 4G LTE MIMO
@@ -211,9 +204,10 @@ Seeing my code actually work in real-world environment, not just some self-simul
 
 ### MediaTek's first 5G Modem Helio M70 (World’s fastest) development 
 - **Situation**: MediaTek has always been a quick follower but never a leader. In 5G era, company decide to move forward and compete with industry leader Qualcomm
-- - **Task**: 
-- - **Action**: 
-- - **Result**: 
+- **Task**:  Develop 5G FW for Control Channel when spec and architecture is on-going 
+- **Action**: 
+- 
+- **Result**: 
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
 - **Situation**:
@@ -239,7 +233,16 @@ Seeing my code actually work in real-world environment, not just some self-simul
 
 
 # Technical interview
+### server當掉
 
+### 做過最困難的project
+### Python 
+- multi-threading (no multi-threading)
+- memory 管理: everything is reference
+- equals理解
+### Git
+- add vs commit
+- rebase vs.fetch
 
 # Cover Letter
 ## 1-Introduction
@@ -1329,7 +1332,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTYzNTUyNCwtNzA1MjkxMDgyLDEyNz
+eyJoaXN0b3J5IjpbLTg4MDE4ODEwOCwtNzA1MjkxMDgyLDEyNz
 U2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcy
 MDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMj
 I0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0
