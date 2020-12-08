@@ -198,7 +198,10 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - Task: improving  HW u-rate and reduce cycle
 - Action: 
 	- evaluate the potential  optimization in the current HW/FW architecture
-	- discuss coordinate with algorithm team, HW designer, Architect
+	- discuss coordinate with algorithm team, HW designer, Modem Architect
+	- review the code module by module , scenario by scenario
+	- implement and verify with UT and IT
+	- validate the result with phone call test, and measure cycle
 - Result:  Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding
 	- u-rate is hi
 
@@ -1320,7 +1323,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzIwMTQ2NCwtNzA1MjkxMDgyLDEyNz
+eyJoaXN0b3J5IjpbLTkxOTY5NjA5OCwtNzA1MjkxMDgyLDEyNz
 U2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcy
 MDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMj
 I0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0
