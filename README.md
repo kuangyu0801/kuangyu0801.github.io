@@ -178,8 +178,8 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ### - What was the last project you led, and what was its outcome?
 ### 講多次就很可信
 ### 4G LTE MIMO
-- Situation: Customer(Samsung) wants new feature  4G LTE MIMO to be supported in the 
-- Task: 4G LTE MIMO
+- Situation: Customer(Samsung) wants new feature  4G LTE Massive MIMO to be supported in the existing product
+- Task: implementing patch for new feature (4G LTE Massive MIMO) with HW that i 
 - Action: 
 - Result: 
 
@@ -1305,11 +1305,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0OTY4NjYsLTcwNTI5MTA4MiwxMjc1Nj
-U5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5
-LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLDIyND
-cwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3NDI0
-OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMyNzM1NDUsLT
-EzMzMxOTE1OTYsLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0xMDcz
-MzEzMTE1XX0=
+eyJoaXN0b3J5IjpbLTU3NTg3MzcxNCwtNzA1MjkxMDgyLDEyNz
+U2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcy
+MDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMj
+I0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0
+MjQ5LC0xMTgxMDMyMDY2LDIwNzk1MzU4OTEsMTIyMzI3MzU0NS
+wtMTMzMzE5MTU5NiwtNDI0Mzk1MDEzLC00MDA2OTA2MjcsLTEw
+NzMzMTMxMTVdfQ==
 -->
