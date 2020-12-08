@@ -164,7 +164,7 @@ Seeing my code actually work in real-world environment, not just some self-simul
 
 # [Behavioral interview questions](https://www.monster.com/career-advice/article/100-potential-interview-questions)
 
-### 
+### server當掉
 ### 你會想再留下來嗎？
 ### 做過最困難的project
 - STAR/SAR for
@@ -1281,11 +1281,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzY5NzIwOSwtMTE4MDczOTIwOCw3Mj
-YwMDk1MTksMTA0OTk2MDI1MiwyMjQ3MDMzNTAsMTYxNjcxNzEw
-NywtNDA2MjgzMzUyLDExMjczNzQyNDksLTExODEwMzIwNjYsMj
-A3OTUzNTg5MSwxMjIzMjczNTQ1LC0xMzMzMTkxNTk2LC00MjQz
-OTUwMTMsLTQwMDY5MDYyNywtMTA3MzMxMzExNSwxODQ3MTg2MT
-Q1LC0xMTY1OTEwNzgzLDE3Mjg4MTE5MiwxMTMwMjI1NDcwLC0x
-NzEyNTgxOTM2XX0=
+eyJoaXN0b3J5IjpbMTk2NTYzNDg1LC02NjM2OTcyMDksLTExOD
+A3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMjI0NzAzMzUw
+LDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0MjQ5LC0xMT
+gxMDMyMDY2LDIwNzk1MzU4OTEsMTIyMzI3MzU0NSwtMTMzMzE5
+MTU5NiwtNDI0Mzk1MDEzLC00MDA2OTA2MjcsLTEwNzMzMTMxMT
+UsMTg0NzE4NjE0NSwtMTE2NTkxMDc4MywxNzI4ODExOTIsMTEz
+MDIyNTQ3MF19
 -->
