@@ -171,6 +171,8 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - Result
 ### Python 
 - memory 管理
+- 理解
+- 
 ### - What was the last project you led, and what was its outcome?
 - My previous,
 - In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
@@ -1273,7 +1275,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTM3NDA1NCwxMDQ5OTYwMjUyLDIyND
+eyJoaXN0b3J5IjpbMTk3NjQ5NTExNywxMDQ5OTYwMjUyLDIyND
 cwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3NDI0
 OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMyNzM1NDUsLT
 EzMzMxOTE1OTYsLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0xMDcz
