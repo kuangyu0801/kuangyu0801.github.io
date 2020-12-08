@@ -209,8 +209,17 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - **Result**:  Reduced computation cycle by 72%(less than 1K cycles) in 5G control channel decoding
 	- u-rate is high
 
-### Keysight-MediaTek 5G NR Data
+### MediaTek's first 5G Modem  Helio M70 (World’s fastest) developmet
+- **Situation**:
+- - **Task**:
+- - **Action**: 
+- - **Result**: 
 
+### Keysight-MediaTek 5G NR Data
+- **Situation**:
+- - **Task**:
+- - **Action**: 
+- - **Result**: 
 - My previous,
 - In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
 - Currently, we are doing a project on SDN(Software Defined Networking) with openflow 
@@ -1320,11 +1329,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzI5OTA1LC03MDUyOTEwODIsMTI3NT
-Y1OTc2MiwtMTAwNTQ2OTgxNCwxOTY1NjM0ODUsLTY2MzY5NzIw
-OSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMTA0OTk2MDI1MiwyMj
-Q3MDMzNTAsMTYxNjcxNzEwNywtNDA2MjgzMzUyLDExMjczNzQy
-NDksLTExODEwMzIwNjYsMjA3OTUzNTg5MSwxMjIzMjczNTQ1LC
-0xMzMzMTkxNTk2LC00MjQzOTUwMTMsLTQwMDY5MDYyNywtMTA3
-MzMxMzExNV19
+eyJoaXN0b3J5IjpbLTEwOTAzOTkwNTcsLTcwNTI5MTA4MiwxMj
+c1NjU5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3
+MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLD
+IyNDcwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3
+NDI0OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMyNzM1ND
+UsLTEzMzMxOTE1OTYsLTQyNDM5NTAxMywtNDAwNjkwNjI3LC0x
+MDczMzEzMTE1XX0=
 -->
