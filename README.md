@@ -224,6 +224,13 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - - **Task**:
 - - **Action**: 
 - - **Result**: 
+
+### Projects from Android
+- **Situation**: 
+- - **Task**:
+- - **Action**: 
+- - **Result**: 
+
 - My previous,
 - In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
 - Currently, we are doing a project on SDN(Software Defined Networking) with openflow 
@@ -1342,11 +1349,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTY3NDQ3LDIwMzE0ODIzODgsLTE2Nj
-gzOTM4MSwtNzA1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4
-MTQsMTk2NTYzNDg1LC02NjM2OTcyMDksLTExODA3MzkyMDgsNz
-I2MDA5NTE5LDEwNDk5NjAyNTIsMjI0NzAzMzUwLDE2MTY3MTcx
-MDcsLTQwNjI4MzM1MiwxMTI3Mzc0MjQ5LC0xMTgxMDMyMDY2LD
-IwNzk1MzU4OTEsMTIyMzI3MzU0NSwtMTMzMzE5MTU5NiwtNDI0
-Mzk1MDEzXX0=
+eyJoaXN0b3J5IjpbLTIyMDY2NDcwNiwyMDMxNDgyMzg4LC0xNj
+Y4MzkzODEsLTcwNTI5MTA4MiwxMjc1NjU5NzYyLC0xMDA1NDY5
+ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5LC0xMTgwNzM5MjA4LD
+cyNjAwOTUxOSwxMDQ5OTYwMjUyLDIyNDcwMzM1MCwxNjE2NzE3
+MTA3LC00MDYyODMzNTIsMTEyNzM3NDI0OSwtMTE4MTAzMjA2Ni
+wyMDc5NTM1ODkxLDEyMjMyNzM1NDUsLTEzMzMxOTE1OTYsLTQy
+NDM5NTAxM119
 -->
