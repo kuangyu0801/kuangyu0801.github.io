@@ -203,7 +203,7 @@ Seeing my code actually work in real-world environment, not just some self-simul
 	- u-rate is high
 
 ### MediaTek's first 5G Modem Helio M70 (World’s fastest) development 
-- **Situation**: MediaTek has always been a quick follower but never a leader. In 5G era, company decide to move forward and compete with industry leader Qualcomm
+- **Situation**: 2018, MediaTek has always been a quick follower but never a leader. In 5G era, company decide to move forward and compete with industry leader Qualcomm
 - **Task**:  Develop 5G FW for Control Channel when spec and architecture is on-going, balance between flexibility, performance, and cost
 - **Action**: 
 	- listed and summarize the shortcoming of previous generation of design
@@ -216,11 +216,11 @@ Seeing my code actually work in real-world environment, not just some self-simul
 	- study carefully and clarify the ambiguity with other member
 	- CR handling solve issue with daily review meeting twice on phone call bubble chart
 - **Result**: 
-	- 5G functionality successfully verified with UXM 5G and Radio Communication Test Station MT8000A from Anritsu
-	- now the product is adopted with customer OPPO, VIVO, Xiaomi
+	- 2019, 5G functionality successfully verified with UXM 5G and Radio Communication Test Station MT8000A from Anritsu
+	- 2020, now the product is adopted with customer OPPO, VIVO, Xiaomi
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
-- **Situation**:
+- **Situation**: 
 - - **Task**:
 - - **Action**: 
 - - **Result**: 
@@ -1342,11 +1342,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDgwMDUwODEsLTE2NjgzOTM4MSwtNz
-A1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYz
-NDg1LC02NjM2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5NTE5LD
-EwNDk5NjAyNTIsMjI0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4
-MzM1MiwxMTI3Mzc0MjQ5LC0xMTgxMDMyMDY2LDIwNzk1MzU4OT
-EsMTIyMzI3MzU0NSwtMTMzMzE5MTU5NiwtNDI0Mzk1MDEzLC00
-MDA2OTA2MjddfQ==
+eyJoaXN0b3J5IjpbMjAzMTQ4MjM4OCwtMTY2ODM5MzgxLC03MD
+UyOTEwODIsMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNCwxOTY1NjM0
+ODUsLTY2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMT
+A0OTk2MDI1MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtNDA2Mjgz
+MzUyLDExMjczNzQyNDksLTExODEwMzIwNjYsMjA3OTUzNTg5MS
+wxMjIzMjczNTQ1LC0xMzMzMTkxNTk2LC00MjQzOTUwMTMsLTQw
+MDY5MDYyN119
 -->
