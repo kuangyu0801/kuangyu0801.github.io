@@ -151,9 +151,9 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - team player from previous work experience, technically wise i have participated in 3 large project across team
 - rigorous programming with  6K code lines, reviewed and maintained 20K code lines in C/C++
 ## **8. What are three positive things your last boss would say about you?**
-- delivery guarantee
+- responsible ( delivery result)
 - self-motivating
-- perseverance
+- teamplayer
 
 ## **9. What salary are you seeking?**
 - 1,500 pro Monat als intern 
@@ -1342,11 +1342,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTQ4MjM4OCwtMTY2ODM5MzgxLC03MD
-UyOTEwODIsMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNCwxOTY1NjM0
-ODUsLTY2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMT
-A0OTk2MDI1MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtNDA2Mjgz
-MzUyLDExMjczNzQyNDksLTExODEwMzIwNjYsMjA3OTUzNTg5MS
-wxMjIzMjczNTQ1LC0xMzMzMTkxNTk2LC00MjQzOTUwMTMsLTQw
-MDY5MDYyN119
+eyJoaXN0b3J5IjpbLTQ2NTY3NDQ3LDIwMzE0ODIzODgsLTE2Nj
+gzOTM4MSwtNzA1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4
+MTQsMTk2NTYzNDg1LC02NjM2OTcyMDksLTExODA3MzkyMDgsNz
+I2MDA5NTE5LDEwNDk5NjAyNTIsMjI0NzAzMzUwLDE2MTY3MTcx
+MDcsLTQwNjI4MzM1MiwxMTI3Mzc0MjQ5LC0xMTgxMDMyMDY2LD
+IwNzk1MzU4OTEsMTIyMzI3MzU0NSwtMTMzMzE5MTU5NiwtNDI0
+Mzk1MDEzXX0=
 -->
