@@ -51,7 +51,16 @@ Mac 鍵符號
 - [Amazon OA大集錦](https://wdxtub.com/interview/14520850399861.html) 
 - [小土刀的面试刷题笔记](https://wdxtub.com/interview/index.html)
 - [前期準備如何开始找工作](https://wdxtub.com/interview/14520609088903.html)
-## 
+## Timeline參考
+8/12 内推  
+10/8 OA1  
+10/12 OA2, OA3  
+10/14 约VO  
+10/18 确认VO  
+10/21 VO  
+10/27 move  
+10/28 offer
+https://www.1point3acres.com/bbs/thread-682861-1-1.html
 # TODO
 
  - [ ] 履歷更新(排版)
@@ -1350,7 +1359,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Nzg2MjcwOCwtMjIwNjY0NzA2LDIwMz
+eyJoaXN0b3J5IjpbLTQ2NzE3MDA5MCwtMjIwNjY0NzA2LDIwMz
 E0ODIzODgsLTE2NjgzOTM4MSwtNzA1MjkxMDgyLDEyNzU2NTk3
 NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcyMDksLT
 ExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMjI0NzAz
