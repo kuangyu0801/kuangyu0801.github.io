@@ -388,7 +388,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 - Behavior Interview (Situation, Task, Action, Result) Why do you choose Amazon?
 - https://wdxtub.com/interview/14520850399861.html
 - https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions
-- Timeline參考ㄅ:
+- Timeline參考1:
   Applied: September 6th, 2019
   Received OA 1: September 20th, 2019
   Completed OA 1: September 23rd, 2019
@@ -396,12 +396,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
   Completed OA 2: September 25th, 2019
   Received OA 3: September 26th, 2019
   Completed OA 3: September 26th, 2019
-- [一畝三分地面试经验](https://www.1point3acres.com/bbs/thread-571102-1-1.html)  亚麻 OA 1 & OA2 & OA3 汇总
-- [Amazon 一般面試大集錦](https://wdxtub.com/interview/14520850399925.html)
-- [Amazon OA大集錦](https://wdxtub.com/interview/14520850399861.html) 
-- [小土刀的面试刷题笔记](https://wdxtub.com/interview/index.html)
-- [前期準備如何开始找工作](https://wdxtub.com/interview/14520609088903.html)
-## Timeline參考
+  - Timeline參考2
 8/12 内推  
 10/8 OA1  
 10/12 OA2, OA3  
@@ -411,6 +406,11 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 10/27 move  
 10/28 offer
 https://www.1point3acres.com/bbs/thread-682861-1-1.html
+- [一畝三分地面试经验](https://www.1point3acres.com/bbs/thread-571102-1-1.html)  亚麻 OA 1 & OA2 & OA3 汇总
+- [Amazon 一般面試大集錦](https://wdxtub.com/interview/14520850399925.html)
+- [Amazon OA大集錦](https://wdxtub.com/interview/14520850399861.html) 
+- [小土刀的面试刷题笔记](https://wdxtub.com/interview/index.html)
+- [前期準備如何开始找工作](https://wdxtub.com/interview/14520609088903.html)
 
 ## Timeline
 - 12/1 收到OA1
@@ -1431,11 +1431,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODY5MjQyOSwtNDY3MTcwMDkwLC0yMj
-A2NjQ3MDYsMjAzMTQ4MjM4OCwtMTY2ODM5MzgxLC03MDUyOTEw
-ODIsMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNCwxOTY1NjM0ODUsLT
-Y2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMTA0OTk2
-MDI1MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtNDA2MjgzMzUyLD
-ExMjczNzQyNDksLTExODEwMzIwNjYsMjA3OTUzNTg5MSwxMjIz
-MjczNTQ1XX0=
+eyJoaXN0b3J5IjpbNTIyMDkxMjUyLC00NjcxNzAwOTAsLTIyMD
+Y2NDcwNiwyMDMxNDgyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4
+MiwxMjc1NjU5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNj
+YzNjk3MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYw
+MjUyLDIyNDcwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMT
+EyNzM3NDI0OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMy
+NzM1NDVdfQ==
 -->
