@@ -427,19 +427,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 - Behavior Interview (Situation, Task, Action, Result) Why do you choose Amazon?
 - https://wdxtub.com/interview/14520850399861.html
 - https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions
-感谢一亩三分地。我准备OA的过程参考了地里的各种面经。我遇到的这两题和下面这位同学是一样的，只是那里面细节不够多，我也没找到其他比较详细的关于这两道新题的解释，所以发了这片面经回馈地里。
-https://www.1point3acres.com/bbs ... t=%D1%C7%C2%E9%2BOA
-
-下面列出来一些传送门，是关于以前的经典社招OA 面经总结，供大家参考，以便减少搜索时间：请注意后两个连接中有 sample code，对我帮助非常大。
-https://www.1point3acres.com/bbs ... 2Boa%2B%C9%E7%D5%D0
-https://www.1point3acres.com/bbs ... 2Boa%2B%C9%E7%D5%D0
-https://www.1point3acres.com/bbs ... ewthread&tid=330227
-
-
-- OA前一定要把字母表先写下来，并且都标上数字，方便快速解题
-  
-  应用题比较简单，正常推理就可以做出来，但是要快，不然时间很紧张，大部分都是有原题
-  
+- 別人time-line:
   Applied: September 6th, 2019
   Received OA 1: September 20th, 2019
   Completed OA 1: September 23rd, 2019
@@ -447,8 +435,7 @@ https://www.1point3acres.com/bbs ... ewthread&tid=330227
   Completed OA 2: September 25th, 2019
   Received OA 3: September 26th, 2019
   Completed OA 3: September 26th, 2019
-
-
+# OA2
 老七題：
 - 1) Two-sum +
 - 2) Subarrays with k distinct elements
@@ -458,7 +445,7 @@ https://www.1point3acres.com/bbs ... ewthread&tid=330227
 - 6) Most Common Word
 - 7) K Closest Points to Origin +
 - 8) Merge Two sorted lists +
-
+LC高頻題
 - 1）Find Pair With Given Sum / Movies on flight
 - 2）[Done] Count substrings with exactly K distinct chars
 - 3）[Done] Max Of Min Altitudes: https://leetcode.com/discuss/interview-question/383669/
@@ -474,9 +461,6 @@ https://www.1point3acres.com/bbs ... ewthread&tid=330227
 - 13) [Done] Earliest Time to complete delivery https://leetcode.com/discuss/interview-question/943711/Amazon-or-OA-2020-or-Earliest-Time-to-Complete-Deliveries
 - 14) [Done] 1268. Search Suggestions System
 - 15) [Done] 1584. Min Cost to Connect All Points
-
-
-https://coinlumiere.wordpress.com/2020/03/16/2020%e5%b9%b4%e5%ba%a6%e8%a8%88%e7%95%ab%ef%bc%9a%e8%80%95%e8%80%98/
 
 ## OA3
 work simulation要重视，还是很有区分度的。
@@ -1450,11 +1434,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTUyMzk5MTcsLTQ2NzE3MDA5MCwtMj
-IwNjY0NzA2LDIwMzE0ODIzODgsLTE2NjgzOTM4MSwtNzA1Mjkx
-MDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC
-02NjM2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5
-NjAyNTIsMjI0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1Mi
-wxMTI3Mzc0MjQ5LC0xMTgxMDMyMDY2LDIwNzk1MzU4OTEsMTIy
-MzI3MzU0NV19
+eyJoaXN0b3J5IjpbMjY0Nzk1MTgyLC00NjcxNzAwOTAsLTIyMD
+Y2NDcwNiwyMDMxNDgyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4
+MiwxMjc1NjU5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNj
+YzNjk3MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYw
+MjUyLDIyNDcwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMT
+EyNzM3NDI0OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMy
+NzM1NDVdfQ==
 -->
