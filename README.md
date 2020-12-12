@@ -397,7 +397,98 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 ## EXXETA AG
 
 
+# Amazon OA
 
+
+## Timeline
+- 12/1 收到OA1
+- 12/5 完成OA1(OA1 ID: 23280703802660), 收到OA2 (典型7題debugging from SHL)
+- 12/9 完成OA2(OA2 ID: 23280704492952) 
+    + Subtree, BookGenre中間有runtime error, 懷疑是getting non-existing value from hashmap, 花了我一個小時debug..., 最後五分鐘寫出來
+    + Similar to https://leetcode.com/discuss/interview-question/373006
+    + 一開始出現symbol error超慌, 才發現是自己要import class
+- 12/12 完成OA3
+    + 真的跟上班很像，有一題是看log
+    + 一題求比較algorithm
+    
+## 操作細節
+- 早上的時候精神最好，先刷一兩題easy開機
+- OA仔細閱讀好說明 （review information carefully)
+- 不要跳過任何頁面
+- 認真看清楚每個題目
+- 確定時間到才submit! 
+- 不要試圖背題目！
+
+## Reference
+- https://youtu.be/595NTKwQbwY
+- [Amazon OA demo Video](https://sp-brand2020.s3-us-west-2.amazonaws.com/Online+Assessment+for+Student+Programs.mp4)
+- [Amazon OA OA Demo](https://www.myamcat.com/start-demo?data=amazon-campus)
+- Leadership Principle [https://www.amazon.jobs/en/principles](https://www.amazon.jobs/en/principles)
+- Behavior Interview (Situation, Task, Action, Result) Why do you choose Amazon?
+- https://wdxtub.com/interview/14520850399861.html
+- https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions
+感谢一亩三分地。我准备OA的过程参考了地里的各种面经。我遇到的这两题和下面这位同学是一样的，只是那里面细节不够多，我也没找到其他比较详细的关于这两道新题的解释，所以发了这片面经回馈地里。
+https://www.1point3acres.com/bbs ... t=%D1%C7%C2%E9%2BOA
+
+下面列出来一些传送门，是关于以前的经典社招OA 面经总结，供大家参考，以便减少搜索时间：请注意后两个连接中有 sample code，对我帮助非常大。
+https://www.1point3acres.com/bbs ... 2Boa%2B%C9%E7%D5%D0
+https://www.1point3acres.com/bbs ... 2Boa%2B%C9%E7%D5%D0
+https://www.1point3acres.com/bbs ... ewthread&tid=330227
+
+
+- OA前一定要把字母表先写下来，并且都标上数字，方便快速解题
+  
+  应用题比较简单，正常推理就可以做出来，但是要快，不然时间很紧张，大部分都是有原题
+  
+  Applied: September 6th, 2019
+  Received OA 1: September 20th, 2019
+  Completed OA 1: September 23rd, 2019
+  Received OA 2: September 25th, 2019
+  Completed OA 2: September 25th, 2019
+  Received OA 3: September 26th, 2019
+  Completed OA 3: September 26th, 2019
+
+
+老七題：
+- 1) Two-sum +
+- 2) Subarrays with k distinct elements
+- 3) Path with Maximum Score:
+- 4) Longest Palindromic String:
+- 5) Substrings of size K with K distinct chars
+- 6) Most Common Word
+- 7) K Closest Points to Origin +
+- 8) Merge Two sorted lists +
+
+- 1）Find Pair With Given Sum / Movies on flight
+- 2）[Done] Count substrings with exactly K distinct chars
+- 3）[Done] Max Of Min Altitudes: https://leetcode.com/discuss/interview-question/383669/
+- 4）[Done] 5. Longest Palindromic Substring
+- 5）[Done] Substrings of size K with K distinct chars
+- 6）[Done] 819. Most Common Word https://leetcode.com/problems/most-common-word/
+- 7）[Done] K Closest Points to Origin
+- 8）[Done] Merge two sorted linked list https://leetcode.com/problems/merge-two-sorted-lists/
+- 9）[Done] 146. LRU Cache https://leetcode.com/problems/lru-cache/
+- 10）[Done] Search a 2D Matrix II https://leetcode.com/problems/search-a-2d-matrix-ii/
+- 11) [Done] 572. Subtree of Another Tree
+- 12) [Done] Divisibility of Strings https://leetcode.com/problems/greatest-common-divisor-of-strings/
+- 13) [Done] Earliest Time to complete delivery https://leetcode.com/discuss/interview-question/943711/Amazon-or-OA-2020-or-Earliest-Time-to-Complete-Deliveries
+- 14) [Done] 1268. Search Suggestions System
+- 15) [Done] 1584. Min Cost to Connect All Points
+
+
+https://coinlumiere.wordpress.com/2020/03/16/2020%e5%b9%b4%e5%ba%a6%e8%a8%88%e7%95%ab%ef%bc%9a%e8%80%95%e8%80%98/
+
+## OA3
+work simulation要重视，还是很有区分度的。
+- https://www.1point3acres.com/bbs/interview/amazon-software-engineer-556705.html
+- https://www.1point3acres.com/bbs/interview/amazon-software-engineer-506684.html (內容超詳細）
+- https://www.1point3acres.com/bbs/interview/amazon-software-engineer-474434.html （只有選項）
+
+指导原则，之前有人总结的，我把第二、三条改了一下：
+
+1）deadline 是最重要的（说三遍），有用户需求的时候requirement更重要。(customer obsession, Deliver Results)
+2）多跟manager/VP/senior/other team/colleague交流，不能自己暗搓搓做。
+3）自己要主动多帮忙。（ownership)
 
 # 公司如何決定錄用
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
@@ -1359,11 +1450,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzE3MDA5MCwtMjIwNjY0NzA2LDIwMz
-E0ODIzODgsLTE2NjgzOTM4MSwtNzA1MjkxMDgyLDEyNzU2NTk3
-NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcyMDksLT
-ExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMjI0NzAz
-MzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1MiwxMTI3Mzc0MjQ5LC
-0xMTgxMDMyMDY2LDIwNzk1MzU4OTEsMTIyMzI3MzU0NSwtMTMz
-MzE5MTU5Nl19
+eyJoaXN0b3J5IjpbLTEzMTUyMzk5MTcsLTQ2NzE3MDA5MCwtMj
+IwNjY0NzA2LDIwMzE0ODIzODgsLTE2NjgzOTM4MSwtNzA1Mjkx
+MDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC
+02NjM2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5
+NjAyNTIsMjI0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4MzM1Mi
+wxMTI3Mzc0MjQ5LC0xMTgxMDMyMDY2LDIwNzk1MzU4OTEsMTIy
+MzI3MzU0NV19
 -->
