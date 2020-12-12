@@ -388,7 +388,7 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 - Behavior Interview (Situation, Task, Action, Result) Why do you choose Amazon?
 - https://wdxtub.com/interview/14520850399861.html
 - https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions
-- Timeline參考1:
+	- Timeline參考1:
   Applied: September 6th, 2019
   Received OA 1: September 20th, 2019
   Completed OA 1: September 23rd, 2019
@@ -412,7 +412,7 @@ https://www.1point3acres.com/bbs/thread-682861-1-1.html
 - [小土刀的面试刷题笔记](https://wdxtub.com/interview/index.html)
 - [前期準備如何开始找工作](https://wdxtub.com/interview/14520609088903.html)
 
-## Timeline
+## My Timeline
 - 12/1 收到OA1
 - 12/5 完成OA1(OA1 ID: 23280703802660), 收到OA2 (典型7題debugging from SHL)
 - 12/9 完成OA2(OA2 ID: 23280704492952) 
@@ -1431,11 +1431,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyMDkxMjUyLC00NjcxNzAwOTAsLTIyMD
-Y2NDcwNiwyMDMxNDgyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4
-MiwxMjc1NjU5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNj
-YzNjk3MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYw
-MjUyLDIyNDcwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMT
-EyNzM3NDI0OSwtMTE4MTAzMjA2NiwyMDc5NTM1ODkxLDEyMjMy
-NzM1NDVdfQ==
+eyJoaXN0b3J5IjpbLTU2NzM3OTQ2MCwtNDY3MTcwMDkwLC0yMj
+A2NjQ3MDYsMjAzMTQ4MjM4OCwtMTY2ODM5MzgxLC03MDUyOTEw
+ODIsMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNCwxOTY1NjM0ODUsLT
+Y2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMTA0OTk2
+MDI1MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtNDA2MjgzMzUyLD
+ExMjczNzQyNDksLTExODEwMzIwNjYsMjA3OTUzNTg5MSwxMjIz
+MjczNTQ1XX0=
 -->
