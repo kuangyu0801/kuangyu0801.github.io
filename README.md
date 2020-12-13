@@ -1010,9 +1010,10 @@ dev 是基於 master-v1拉出來，並且新增兩個feacture in v2, v3. 同時m
  v11 (+ bugfix) | v3 (+ feat_a + feat_b)|  master fix bug (這時master已經進到v11, need to rebase)
  v11 (+ bugfix) | v4 (+ feat_a + feat_b + bugfix)| dev "rebase onto master-v11"(這時dev已經涵蓋master所有改動）
  v12 (+ feat_a + feat_b + bugfix) | v5 (same as master v12)| merge dev into master, master包含所有feature
- 7. reset HEAD
-	 - situation: 想要還原到某個commit的版本 (e
-		 - soft: merge 
+ 7. reset HEAD(進階超好用
+	 - situation: 想要還原到某個commit的版本 (ex. v3, 現在是v6)ㄝ
+		 - soft: rollback local files to v3 with changes from v4, v5, v6 to a single CL
+		 - hard
 
 ## NoSQL  
 [What is NoSQL?](https://www.youtube.com/watch?v=BgQFJ_UNIgw)  
@@ -1433,7 +1434,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU4MjcyMjQsLTU2NzM3OTQ2MCwtND
+eyJoaXN0b3J5IjpbLTE0NDkzMzUzNTEsLTU2NzM3OTQ2MCwtND
 Y3MTcwMDkwLC0yMjA2NjQ3MDYsMjAzMTQ4MjM4OCwtMTY2ODM5
 MzgxLC03MDUyOTEwODIsMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNC
 wxOTY1NjM0ODUsLTY2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYw
