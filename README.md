@@ -32,7 +32,7 @@
 - [Java](#java)
   * [Java知識總整理大補包](#java知識總整理大補包)
   * [IntelliJ](#intellij)
-	+ [Version Control](#version-control)
+	+ [Version Control with Git](#version-control)
 - [Python](#python)
   * [numpy](#sub-heading-1)
 - [Android Development](#android-development)
@@ -972,7 +972,7 @@ Mac 鍵符號
 
 ### I/O
 #### Writing to Files[https://www.youtube.com/watch?v=Bws9aQuAcdg](https://www.youtube.com/watch?v=Bws9aQuAcdg)
-### Version Control
+### Version Control with Git
 
 - [Version control](https://www.jetbrains.com/help/idea/version-control-integration.html)
 - [Check out a project from a remote host (clone)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#clone-repo)
@@ -1431,11 +1431,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzM3OTQ2MCwtNDY3MTcwMDkwLC0yMj
-A2NjQ3MDYsMjAzMTQ4MjM4OCwtMTY2ODM5MzgxLC03MDUyOTEw
-ODIsMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNCwxOTY1NjM0ODUsLT
-Y2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMTA0OTk2
-MDI1MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtNDA2MjgzMzUyLD
-ExMjczNzQyNDksLTExODEwMzIwNjYsMjA3OTUzNTg5MSwxMjIz
-MjczNTQ1XX0=
+eyJoaXN0b3J5IjpbMTM2MzQzMzA3MCwtNTY3Mzc5NDYwLC00Nj
+cxNzAwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4LC0xNjY4Mzkz
+ODEsLTcwNTI5MTA4MiwxMjc1NjU5NzYyLC0xMDA1NDY5ODE0LD
+E5NjU2MzQ4NSwtNjYzNjk3MjA5LC0xMTgwNzM5MjA4LDcyNjAw
+OTUxOSwxMDQ5OTYwMjUyLDIyNDcwMzM1MCwxNjE2NzE3MTA3LC
+00MDYyODMzNTIsMTEyNzM3NDI0OSwtMTE4MTAzMjA2NiwyMDc5
+NTM1ODkxXX0=
 -->
