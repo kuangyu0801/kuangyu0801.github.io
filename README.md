@@ -511,7 +511,7 @@ amazon的文化是什麼？
 # TO-LEARN
 - [ ]  LaTex on Mac + Git version control
 - [ ]  System and Web Security: Uni Stuttgart
-- [ ]  Database
+- [ ]  Database [Introduction to Databases from IBM (Coursera](https://coursera.org/share/ad494950743493c0a516ab51ce986cb6)
 - [x]  Cloud Computing:  Uni Stuttgart WS20
 - [x]  計網概
 - [x] Software Engineering: Uni Stuttgart WS20
@@ -1435,11 +1435,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mz
-c5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4
-LC0xNjY4MzkzODEsLTcwNTI5MTA4MiwxMjc1NjU5NzYyLC0xMD
-A1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5LC0xMTgwNzM5
-MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLDIyNDcwMzM1MCwxNj
-E2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3NDI0OSwtMTE4MTAz
-MjA2Nl19
+eyJoaXN0b3J5IjpbLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2Nz
+Y3MjMwOSwtNTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcw
+NiwyMDMxNDgyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4MiwxMj
+c1NjU5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3
+MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLD
+IyNDcwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3
+NDI0OV19
 -->
