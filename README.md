@@ -57,7 +57,6 @@ Mac 鍵符號
 	 - [ ] 加入sdn project
 	 - [ ] CV git版本管理
 	 - [ ] local latex environment
-	 - [ ] 
  - [ ] Java 學習
 	 - [ ] Java IO 看黑馬
 	 - [ ] Java concurrency 看黑馬
@@ -1436,11 +1435,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NjcyMzA5LC01NjczNzk0NjAsLTQ2Nz
-E3MDA5MCwtMjIwNjY0NzA2LDIwMzE0ODIzODgsLTE2NjgzOTM4
-MSwtNzA1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4MTQsMT
-k2NTYzNDg1LC02NjM2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5
-NTE5LDEwNDk5NjAyNTIsMjI0NzAzMzUwLDE2MTY3MTcxMDcsLT
-QwNjI4MzM1MiwxMTI3Mzc0MjQ5LC0xMTgxMDMyMDY2LDIwNzk1
-MzU4OTFdfQ==
+eyJoaXN0b3J5IjpbNzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mz
+c5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4
+LC0xNjY4MzkzODEsLTcwNTI5MTA4MiwxMjc1NjU5NzYyLC0xMD
+A1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5LC0xMTgwNzM5
+MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLDIyNDcwMzM1MCwxNj
+E2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3NDI0OSwtMTE4MTAz
+MjA2Nl19
 -->
