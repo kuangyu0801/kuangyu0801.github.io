@@ -367,14 +367,14 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 56. ### (linkedIn) [VMware] - IT Colleague Support Engineer, https://careers.vmware.com/main/jobs/R2009777?lang=en-us&source=LIPJ
 57. #### cloudreach(學姊公司）, https://boards.greenhouse.io/cloudreach
 58. [11.18 via官網] TomTom, Software Engineering Intern, https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-17842/software-engineering-intern/
-59.  [11.19申請via career portal IBM] IBM, Internship/Praktikum: Improving an Open-Source gRPC CLI Tool
-60. [11.20收到IBM assessment test詢問, 11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
-61. [11.19申請via career portal IBM] IBM,Internship/Praktikum: Cloud Web UI - Cloud Front-End Development
-62. [11.19申請via career portal IBM] IBM,Internship/Praktikum:WebUI application development, Linux on Z (m/f/d)
+59.  [REJ@DEC,11.19申請via career portal IBM] IBM, Internship/Praktikum: Improving an Open-Source gRPC CLI Tool
+60. [Offered,11.20收到IBM assessment test詢問, 11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
+61. [REJ@DEC,11.19申請via career portal IBM] IBM,Internship/Praktikum: Cloud Web UI - Cloud Front-End Development
+62. [REJ@DEC,11.19申請via career portal IBM] IBM,Internship/Praktikum:WebUI application development, Linux on Z (m/f/d)
 63. ~~[REJ @ 11.19, 11.19申請via career portal IBM,  11.19拒絕]  Internship: Integrated monitoring system for an enterprise server~~
 	- 秒拒絕，我覺得自己背景有符合java, git
-64. ### [11.19申請via career portal IBM] IBM, Internship: Cloud Software Engineer (confidential computing) - Ref:342060BR.
-65. ### [11.19申請via career portal IBM] IBM, Internship/Praktikum:Integration of static-code analysis tools (m/f/d) - Ref:336610BR.
+64.  [REJ@DEC, @11.19申請via career portal IBM] IBM, Internship: Cloud Software Engineer (confidential computing) - Ref:342060BR.
+65. [REJ@DEC, 11.19申請via career portal IBM] IBM, Internship/Praktikum:Integration of static-code analysis tools (m/f/d) - Ref:336610BR.
 66.  JetBrains, Intern
 67. [11.20 via Thales官網] Thales, Internship/Working Student (f/m/d) in Software Engineering (R0108192)
 68. [11.20 via 官網] TERAKI, Berlin # C++ Software Engineer Internship / Working Student
@@ -1437,11 +1437,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTQ1MzcwOCwtMTY3MDI4ODExNyw3MD
-E3NDIxNzAsNjY3NjcyMzA5LC01NjczNzk0NjAsLTQ2NzE3MDA5
-MCwtMjIwNjY0NzA2LDIwMzE0ODIzODgsLTE2NjgzOTM4MSwtNz
-A1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYz
-NDg1LC02NjM2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5NTE5LD
-EwNDk5NjAyNTIsMjI0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4
-MzM1Ml19
+eyJoaXN0b3J5IjpbNDY0Mzg0MzEwLC0xNjcwMjg4MTE3LDcwMT
+c0MjE3MCw2Njc2NzIzMDksLTU2NzM3OTQ2MCwtNDY3MTcwMDkw
+LC0yMjA2NjQ3MDYsMjAzMTQ4MjM4OCwtMTY2ODM5MzgxLC03MD
+UyOTEwODIsMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNCwxOTY1NjM0
+ODUsLTY2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1MTksMT
+A0OTk2MDI1MiwyMjQ3MDMzNTAsMTYxNjcxNzEwNywtNDA2Mjgz
+MzUyXX0=
 -->
