@@ -237,6 +237,7 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ###   5. Tell me about a time when you had to give someone difficult feedback. How did you handle it?
 ###  6. What is your greatest failure, and what did you learn from it?
 ###  7. [How do you handle working with people who annoy you?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-working-with-annoying-people)
+
 ###   8. If I were your supervisor and asked you to do something that you disagreed with, what would you do?
 ###   9. What was the most difficult period in your life, and how did you deal with it?
 ###   10. Give me an example of a time you did something wrong.  [How did you handle it?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-when-did-do-something-wrong-0922)
@@ -375,7 +376,8 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 64. ### [11.19申請via career portal IBM] IBM, Internship: Cloud Software Engineer (confidential computing) - Ref:342060BR.
 65. ### [11.19申請via career portal IBM] IBM, Internship/Praktikum:Integration of static-code analysis tools (m/f/d) - Ref:336610BR.
 66.  JetBrains, Intern
-67. [11.20 via Thales官網] Thales, Internship/Working Student (f/m/d) in Software Engineering (R0108192).
+67. [11.20 via Thales官網] Thales, Internship/Working Student (f/m/d) in Software Engineering (R0108192)
+68. [11.20 via 官網] TERAKI, Berlin # C++ Software Engineer Internship / Working Student
 
 
 # Amazon OA
@@ -1435,11 +1437,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2Nz
-Y3MjMwOSwtNTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcw
-NiwyMDMxNDgyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4MiwxMj
-c1NjU5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3
-MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLD
-IyNDcwMzM1MCwxNjE2NzE3MTA3LC00MDYyODMzNTIsMTEyNzM3
-NDI0OV19
+eyJoaXN0b3J5IjpbLTQ2MTQ1MzcwOCwtMTY3MDI4ODExNyw3MD
+E3NDIxNzAsNjY3NjcyMzA5LC01NjczNzk0NjAsLTQ2NzE3MDA5
+MCwtMjIwNjY0NzA2LDIwMzE0ODIzODgsLTE2NjgzOTM4MSwtNz
+A1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYz
+NDg1LC02NjM2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5NTE5LD
+EwNDk5NjAyNTIsMjI0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4
+MzM1Ml19
 -->
