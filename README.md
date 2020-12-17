@@ -159,7 +159,8 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ## **10. If you were an animal, which one would you want to be?**
  
 ## ** Why do you want to study another master in Germany**
-- the quality of education in german uni is very high 
+- the quality of education in german uni is very high
+- german has the strongest ecomony
 - i believe in formal education, although there are online courses but fundamental is important 
 ## ** Would you continue to work if given return offer**
 - Ja
@@ -1488,7 +1489,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNDEyMTM5NywtMTkwMDMxMjA1LC0xMT
+eyJoaXN0b3J5IjpbLTQyOTkxNTM1NiwtMTkwMDMxMjA1LC0xMT
 EwOTgsLTUwNDg5MzA3OSwtMTY3MDI4ODExNyw3MDE3NDIxNzAs
 NjY3NjcyMzA5LC01NjczNzk0NjAsLTQ2NzE3MDA5MCwtMjIwNj
 Y0NzA2LDIwMzE0ODIzODgsLTE2NjgzOTM4MSwtNzA1MjkxMDgy
