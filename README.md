@@ -172,11 +172,13 @@ Seeing my code actually work in real-world environment, not just some self-simul
 |--|--|
 | Customer Obsession | 4G LTE MIMO |
 | Ownership | |
-|  ## Invent and Simplify| |
-|  | |
-|  | |
-|  | |
-
+| Invent and Simplify| |
+| Are Right, A Lot | |
+| Learn and Be Curious | |
+| Hire and Develop the Best | |
+|## Think Big|--|
+|## Bias for Action|--|
+|## Frugality|--|
 ### 4G LTE MIMO
 - Customer obsession, 
 - **Situation**: Customer(Samsung) wants new feature  4G LTE Massive MIMO to be supported in the existing product
@@ -1450,11 +1452,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTE0MjEzMiwtMTExMDk4LC01MDQ4OT
-MwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwt
-NTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwyMDMxND
-gyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4MiwxMjc1NjU5NzYy
-LC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5LC0xMT
-gwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLDIyNDcwMzM1
-MF19
+eyJoaXN0b3J5IjpbLTE4MDkwNDkxMjYsLTExMTA5OCwtNTA0OD
+kzMDc5LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDks
+LTU2NzM3OTQ2MCwtNDY3MTcwMDkwLC0yMjA2NjQ3MDYsMjAzMT
+Q4MjM4OCwtMTY2ODM5MzgxLC03MDUyOTEwODIsMTI3NTY1OTc2
+MiwtMTAwNTQ2OTgxNCwxOTY1NjM0ODUsLTY2MzY5NzIwOSwtMT
+E4MDczOTIwOCw3MjYwMDk1MTksMTA0OTk2MDI1MiwyMjQ3MDMz
+NTBdfQ==
 -->
