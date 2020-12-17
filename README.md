@@ -159,10 +159,13 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ## **10. If you were an animal, which one would you want to be?**
  
 ## ** Why do you want to study another master in Germany**
+- the quality of education in german uni is very high 
 - i believe in formal education, although there are online courses but fundamental is important 
 ## ** Would you continue to work if given return offer**
 - Ja
 # [Behavioral interview questions](https://www.monster.com/career-advice/article/100-potential-interview-questions)
+
+#
 
 ## My STAR
 
@@ -1457,11 +1460,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDAzMTIwNSwtMTExMDk4LC01MDQ4OT
-MwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwt
-NTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwyMDMxND
-gyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4MiwxMjc1NjU5NzYy
-LC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5LC0xMT
-gwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLDIyNDcwMzM1
-MF19
+eyJoaXN0b3J5IjpbLTEyNjUzNDY5NTksLTE5MDAzMTIwNSwtMT
+ExMDk4LC01MDQ4OTMwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcw
+LDY2NzY3MjMwOSwtNTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMD
+Y2NDcwNiwyMDMxNDgyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4
+MiwxMjc1NjU5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNj
+YzNjk3MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYw
+MjUyXX0=
 -->
