@@ -148,9 +148,9 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - team player from previous work experience, technically wise i have participated in 3 large project across team
 - rigorous programming with  6K code lines, reviewed and maintained 20K code lines in C/C++
 ## **8. What are three positive things your last boss would say about you?**
-- responsible ( delivery result), 4G LTE MIMO. 5G pho
+- responsible ( delivery result),  case in point: 4G LTE MIMO. 5G phonecall
 - self-motivating
-- teamplayer
+- teamplayer, case in point: 4G/5G issue handling and 5G MTK, Keysight joint boot-camp
 
 ## **9. What salary are you seeking?**
 - 1,500 pro Monat als intern 
@@ -169,6 +169,7 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ### 講多次就很可信
 
 ### 4G LTE MIMO
+
 - **Situation**: Customer(Samsung) wants new feature  4G LTE Massive MIMO to be supported in the existing product
 - **Task**: implementing patch for new feature (4G LTE Massive MIMO) with limited HW capability
 	- the project was so old that simulation platform is no longer maintained
@@ -1440,11 +1441,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODc4MTM2MSwtMTExMDk4LC01MDQ4OT
-MwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwt
-NTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwyMDMxND
-gyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4MiwxMjc1NjU5NzYy
-LC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5LC0xMT
-gwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLDIyNDcwMzM1
-MF19
+eyJoaXN0b3J5IjpbNzg3NzIwNjk3LC0xMTEwOTgsLTUwNDg5Mz
+A3OSwtMTY3MDI4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5LC01
+NjczNzk0NjAsLTQ2NzE3MDA5MCwtMjIwNjY0NzA2LDIwMzE0OD
+IzODgsLTE2NjgzOTM4MSwtNzA1MjkxMDgyLDEyNzU2NTk3NjIs
+LTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcyMDksLTExOD
+A3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMjI0NzAzMzUw
+XX0=
 -->
