@@ -171,8 +171,8 @@ Seeing my code actually work in real-world environment, not just some self-simul
 | LP | My STAR |
 |--|--|
 | Customer Obsession | 4G LTE MIMO |
-|  | |
-|  | |
+| Ownership | |
+|  ## Invent and Simplify| |
 |  | |
 |  | |
 |  | |
@@ -1450,11 +1450,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2NTk2MzE5LC0xMTEwOTgsLTUwNDg5Mz
-A3OSwtMTY3MDI4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5LC01
-NjczNzk0NjAsLTQ2NzE3MDA5MCwtMjIwNjY0NzA2LDIwMzE0OD
-IzODgsLTE2NjgzOTM4MSwtNzA1MjkxMDgyLDEyNzU2NTk3NjIs
-LTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcyMDksLTExOD
-A3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMjI0NzAzMzUw
-XX0=
+eyJoaXN0b3J5IjpbMTAzNTE0MjEzMiwtMTExMDk4LC01MDQ4OT
+MwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwt
+NTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwyMDMxND
+gyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4MiwxMjc1NjU5NzYy
+LC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5LC0xMT
+gwNzM5MjA4LDcyNjAwOTUxOSwxMDQ5OTYwMjUyLDIyNDcwMzM1
+MF19
 -->
