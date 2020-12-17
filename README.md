@@ -167,6 +167,15 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ## My STAR
 
 ### 講多次就很可信
+### Leadership  Principles
+| LP | My STAR |
+|--|--|
+| Customer Obsession | 4G LTE MIMO |
+|  | |
+|  | |
+|  | |
+|  | |
+|  | |
 
 ### 4G LTE MIMO
 - Customer obsession, 
@@ -1441,11 +1450,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkzNTA5NzUsLTExMTA5OCwtNTA0OD
-kzMDc5LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDks
-LTU2NzM3OTQ2MCwtNDY3MTcwMDkwLC0yMjA2NjQ3MDYsMjAzMT
-Q4MjM4OCwtMTY2ODM5MzgxLC03MDUyOTEwODIsMTI3NTY1OTc2
-MiwtMTAwNTQ2OTgxNCwxOTY1NjM0ODUsLTY2MzY5NzIwOSwtMT
-E4MDczOTIwOCw3MjYwMDk1MTksMTA0OTk2MDI1MiwyMjQ3MDMz
-NTBdfQ==
+eyJoaXN0b3J5IjpbMzA2NTk2MzE5LC0xMTEwOTgsLTUwNDg5Mz
+A3OSwtMTY3MDI4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5LC01
+NjczNzk0NjAsLTQ2NzE3MDA5MCwtMjIwNjY0NzA2LDIwMzE0OD
+IzODgsLTE2NjgzOTM4MSwtNzA1MjkxMDgyLDEyNzU2NTk3NjIs
+LTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcyMDksLTExOD
+A3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMjI0NzAzMzUw
+XX0=
 -->
