@@ -1,9 +1,10 @@
 ## Welcome to GitHub Pages
-- [My STAR](#my-star)
+
 - [TODO](#todo)
 - [不要害怕海投海面](#不要害怕海投海面)
 - [TO-LEARN](#to-learn)
 - [Interview Preparation](#interview-preparation)
+	 - [My STAR](#my-star)
 	* [technical-question](#technical-question)
 	* [behavior-question](#behavior-question)
 	* [Prepare for Interview](#prepare-for-interview)
@@ -1438,11 +1439,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM3MDgyNTksLTUwNDg5MzA3OSwtMT
-Y3MDI4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5LC01NjczNzk0
-NjAsLTQ2NzE3MDA5MCwtMjIwNjY0NzA2LDIwMzE0ODIzODgsLT
-E2NjgzOTM4MSwtNzA1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0
-Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcyMDksLTExODA3MzkyMD
-gsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMjI0NzAzMzUwLDE2MTY3
-MTcxMDddfQ==
+eyJoaXN0b3J5IjpbLTk0NTQ1NjQxOSwtNTA0ODkzMDc5LC0xNj
+cwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDksLTU2NzM3OTQ2
+MCwtNDY3MTcwMDkwLC0yMjA2NjQ3MDYsMjAzMTQ4MjM4OCwtMT
+Y2ODM5MzgxLC03MDUyOTEwODIsMTI3NTY1OTc2MiwtMTAwNTQ2
+OTgxNCwxOTY1NjM0ODUsLTY2MzY5NzIwOSwtMTE4MDczOTIwOC
+w3MjYwMDk1MTksMTA0OTk2MDI1MiwyMjQ3MDMzNTAsMTYxNjcx
+NzEwN119
 -->
