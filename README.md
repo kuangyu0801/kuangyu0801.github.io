@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+- [My STAR](#my-star)
 - [TODO](#todo)
 - [不要害怕海投海面](#不要害怕海投海面)
 - [TO-LEARN](#to-learn)
@@ -162,7 +163,7 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - Ja
 # [Behavioral interview questions](https://www.monster.com/career-advice/article/100-potential-interview-questions)
 
-
+## My STAR
 
 ### 講多次就很可信
 
@@ -1437,11 +1438,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNDg5MzA3OSwtMTY3MDI4ODExNyw3MD
-E3NDIxNzAsNjY3NjcyMzA5LC01NjczNzk0NjAsLTQ2NzE3MDA5
-MCwtMjIwNjY0NzA2LDIwMzE0ODIzODgsLTE2NjgzOTM4MSwtNz
-A1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYz
-NDg1LC02NjM2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5NTE5LD
-EwNDk5NjAyNTIsMjI0NzAzMzUwLDE2MTY3MTcxMDcsLTQwNjI4
-MzM1Ml19
+eyJoaXN0b3J5IjpbLTE0MDM3MDgyNTksLTUwNDg5MzA3OSwtMT
+Y3MDI4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5LC01NjczNzk0
+NjAsLTQ2NzE3MDA5MCwtMjIwNjY0NzA2LDIwMzE0ODIzODgsLT
+E2NjgzOTM4MSwtNzA1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0
+Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcyMDksLTExODA3MzkyMD
+gsNzI2MDA5NTE5LDEwNDk5NjAyNTIsMjI0NzAzMzUwLDE2MTY3
+MTcxMDddfQ==
 -->
