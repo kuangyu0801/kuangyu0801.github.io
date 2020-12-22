@@ -250,7 +250,7 @@ Behavior Questions
 ### MediaTek's first 5G Modem Helio M70 (World’s fastest) development 
 - **Situation**: 2018, MediaTek has always been a quick follower but never a leader. In 5G era, company decide to move forward and compete with industry leader Qualcomm
 	- External challenge: develop, vendor, operator not aligned
-- **Task**:  Develop 5G FW for Control Channel when spec and architecture is on-going, balance between ***flexibility for on-going spec***, ***performance for customer***, and ***cost for company benefit***
+- **Task**:  Develop 5G FW for Control Channel when spec and architecture is on-going, balance between ***flexibility for on-going spec***, ***performance for customer***,  ***deadline*** and ***cost for company benefit***
 - **Action**: 
 	- cost for company benefit
 		+ analyze and summarize the strength and shortcoming of previous generation DSP architecture from user experience and simulation statistic
@@ -261,8 +261,9 @@ Behavior Questions
 	- design and review test case in both UT and IT
 	- implementing and verifying functionality on simulation environment, FPGA, test chip, product with machine
 	- collaborating  with inter-team (SW higher layer, test engineering,  FW, vendor)
-	- study carefully and clarify the ambiguity with other member
-	- CR handling solve issue with daily review meeting twice on phone call bubble chart
+	- Performance for customer
+		+ CR handling solve issue with daily review meeting twice on phone call bubble chart
+		+ 
 - **Result**: 
 	- 2019, 5G functionality successfully verified with UXM 5G and Radio Communication Test Station MT8000A from Anritsu
 	- 2020, now the product is adopted with customer OPPO, VIVO, Xiaomi
@@ -1490,11 +1491,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTAzNjAxNiwtNDI5OTE1MzU2LC0xOT
-AwMzEyMDUsLTExMTA5OCwtNTA0ODkzMDc5LC0xNjcwMjg4MTE3
-LDcwMTc0MjE3MCw2Njc2NzIzMDksLTU2NzM3OTQ2MCwtNDY3MT
-cwMDkwLC0yMjA2NjQ3MDYsMjAzMTQ4MjM4OCwtMTY2ODM5Mzgx
-LC03MDUyOTEwODIsMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNCwxOT
-Y1NjM0ODUsLTY2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1
-MTldfQ==
+eyJoaXN0b3J5IjpbLTE2MDI2MzA0OTksLTQyOTkxNTM1NiwtMT
+kwMDMxMjA1LC0xMTEwOTgsLTUwNDg5MzA3OSwtMTY3MDI4ODEx
+Nyw3MDE3NDIxNzAsNjY3NjcyMzA5LC01NjczNzk0NjAsLTQ2Nz
+E3MDA5MCwtMjIwNjY0NzA2LDIwMzE0ODIzODgsLTE2NjgzOTM4
+MSwtNzA1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4MTQsMT
+k2NTYzNDg1LC02NjM2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5
+NTE5XX0=
 -->
