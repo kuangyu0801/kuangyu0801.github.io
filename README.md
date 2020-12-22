@@ -199,6 +199,10 @@ Behavior Questions
 
 ### 講多次就很可信
 ### Leadership  Principles
+|LP  |My STAR  |
+|--|--|
+|Customer Obsession  |4G LTE MIMO  |
+
 | LP | My STAR |
 |--|--|
 | Customer Obsession | 4G LTE MIMO |
@@ -1493,11 +1497,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQxMDEwNTMsMTk2NDE3MDg4MCwtND
-I5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5OCwtNTA0ODkzMDc5
-LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDksLTU2Nz
-M3OTQ2MCwtNDY3MTcwMDkwLC0yMjA2NjQ3MDYsMjAzMTQ4MjM4
-OCwtMTY2ODM5MzgxLC03MDUyOTEwODIsMTI3NTY1OTc2MiwtMT
-AwNTQ2OTgxNCwxOTY1NjM0ODUsLTY2MzY5NzIwOSwtMTE4MDcz
-OTIwOF19
+eyJoaXN0b3J5IjpbLTI4MDg5MzQ5OCwxOTY0MTcwODgwLC00Mj
+k5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4LC01MDQ4OTMwNzks
+LTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mz
+c5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4
+LC0xNjY4MzkzODEsLTcwNTI5MTA4MiwxMjc1NjU5NzYyLC0xMD
+A1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5LC0xMTgwNzM5
+MjA4XX0=
 -->
