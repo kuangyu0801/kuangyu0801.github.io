@@ -263,7 +263,8 @@ Behavior Questions
 	- collaborating  with inter-team (SW higher layer, test engineering,  FW, vendor)
 	- Performance for customer
 		+ CR handling solve issue with daily review meeting twice on phone call bubble chart
-		+ 
+		+ Work closely with intra-team, vendor, and operator to resolve issue
+	- tight Deadline
 - **Result**: 
 	- 2019, 5G functionality successfully verified with UXM 5G and Radio Communication Test Station MT8000A from Anritsu
 	- 2020, now the product is adopted with customer OPPO, VIVO, Xiaomi
@@ -1491,11 +1492,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI2MzA0OTksLTQyOTkxNTM1NiwtMT
-kwMDMxMjA1LC0xMTEwOTgsLTUwNDg5MzA3OSwtMTY3MDI4ODEx
-Nyw3MDE3NDIxNzAsNjY3NjcyMzA5LC01NjczNzk0NjAsLTQ2Nz
-E3MDA5MCwtMjIwNjY0NzA2LDIwMzE0ODIzODgsLTE2NjgzOTM4
-MSwtNzA1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4MTQsMT
-k2NTYzNDg1LC02NjM2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5
-NTE5XX0=
+eyJoaXN0b3J5IjpbOTc3NjU1MDM1LC00Mjk5MTUzNTYsLTE5MD
+AzMTIwNSwtMTExMDk4LC01MDQ4OTMwNzksLTE2NzAyODgxMTcs
+NzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mzc5NDYwLC00NjcxNz
+AwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4LC0xNjY4MzkzODEs
+LTcwNTI5MTA4MiwxMjc1NjU5NzYyLC0xMDA1NDY5ODE0LDE5Nj
+U2MzQ4NSwtNjYzNjk3MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUx
+OV19
 -->
