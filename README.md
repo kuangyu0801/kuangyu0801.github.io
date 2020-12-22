@@ -253,8 +253,8 @@ Behavior Questions
 - **Task**:  Develop 5G FW for Control Channel when spec and architecture is on-going, balance between ***flexibility for on-going spec***, ***performance for customer***, and ***cost for company benefit***
 - **Action**: 
 	- listed and summarize the shortcoming of previous generation of design
-	- study the current DSP architecture and give it feedback when found optimization of bug
-	- devise  CSD algorithm
+	- study the current DSP architecture and give it feedback to HW team when found possible optimization optimization of bug
+	- work hand-in-hand with  CSD algorithm team and Spec Review time a
 	- keep the latest spec release up-to-date
 	- design and review test case in both UT and IT
 	- implementing and verifying functionality on simulation environment, FPGA, test chip, product with machine
@@ -1488,11 +1488,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE0MTYxOCwtNDI5OTE1MzU2LC0xOT
-AwMzEyMDUsLTExMTA5OCwtNTA0ODkzMDc5LC0xNjcwMjg4MTE3
-LDcwMTc0MjE3MCw2Njc2NzIzMDksLTU2NzM3OTQ2MCwtNDY3MT
-cwMDkwLC0yMjA2NjQ3MDYsMjAzMTQ4MjM4OCwtMTY2ODM5Mzgx
-LC03MDUyOTEwODIsMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNCwxOT
-Y1NjM0ODUsLTY2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1
-MTldfQ==
+eyJoaXN0b3J5IjpbMjMzMzcyNjgyLC00Mjk5MTUzNTYsLTE5MD
+AzMTIwNSwtMTExMDk4LC01MDQ4OTMwNzksLTE2NzAyODgxMTcs
+NzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mzc5NDYwLC00NjcxNz
+AwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4LC0xNjY4MzkzODEs
+LTcwNTI5MTA4MiwxMjc1NjU5NzYyLC0xMDA1NDY5ODE0LDE5Nj
+U2MzQ4NSwtNjYzNjk3MjA5LC0xMTgwNzM5MjA4LDcyNjAwOTUx
+OV19
 -->
