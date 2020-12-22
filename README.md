@@ -258,13 +258,14 @@ Behavior Questions
 	- flexibility for on-going spec
 		+ work hand-in-hand with  CSD algorithm team  :weekly update meeting, test case design,
 		+ keep myself the latest spec release up-to-date and actively resolve ambiguity with Spec Review team when happened
-	- design and review test case in both UT and IT
 	- implementing and verifying functionality on simulation environment, FPGA, test chip, product with machine
-	- collaborating  with inter-team (SW higher layer, test engineering,  FW, vendor)
+	- collaborating  with inter-team 
 	- Performance for customer
 		+ CR handling solve issue with daily review meeting twice on phone call bubble chart
-		+ Work closely with intra-team, vendor, and operator to resolve issue
-	- tight Deadline
+		+ collaborating closely with intra-team(SW higher layer, test engineering,  FW, vendor), ovendor, and operator to resolve issue
+	- Tight Deadline
+		- 	design and review UT and IT test case on necessity basis
+		- 
 - **Result**: 
 	- 2019, 5G functionality successfully verified with UXM 5G and Radio Communication Test Station MT8000A from Anritsu
 	- 2020, now the product is adopted with customer OPPO, VIVO, Xiaomi
@@ -1492,7 +1493,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3NjU1MDM1LC00Mjk5MTUzNTYsLTE5MD
+eyJoaXN0b3J5IjpbOTU3MjI4NzgxLC00Mjk5MTUzNTYsLTE5MD
 AzMTIwNSwtMTExMDk4LC01MDQ4OTMwNzksLTE2NzAyODgxMTcs
 NzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mzc5NDYwLC00NjcxNz
 AwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4LC0xNjY4MzkzODEs
