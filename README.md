@@ -252,10 +252,10 @@ Behavior Questions
 	- External challenge: develop, vendor, operator not aligned
 - **Task**:  Develop 5G FW for Control Channel when spec and architecture is on-going, balance between ***flexibility for on-going spec***, ***performance for customer***, and ***cost for company benefit***
 - **Action**: 
-	- listed and summarize the shortcoming of previous generation of design
+	- analyze, listed and summarize the shortcoming of previous generation of design
 	- study the current DSP architecture and give it feedback to HW team when found possible optimization optimization of bug
-	- work hand-in-hand with  CSD algorithm team and Spec Review time a
-	- keep the latest spec release up-to-date
+	- work hand-in-hand with  CSD algorithm team and Spec Review team, weekly update meeting
+	- keep myself the latest spec release up-to-date
 	- design and review test case in both UT and IT
 	- implementing and verifying functionality on simulation environment, FPGA, test chip, product with machine
 	- collaborating  with inter-team (SW higher layer, test engineering,  FW, vendor)
@@ -1488,7 +1488,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzMzcyNjgyLC00Mjk5MTUzNTYsLTE5MD
+eyJoaXN0b3J5IjpbNDIyMjQ4OTkyLC00Mjk5MTUzNTYsLTE5MD
 AzMTIwNSwtMTExMDk4LC01MDQ4OTMwNzksLTE2NzAyODgxMTcs
 NzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mzc5NDYwLC00NjcxNz
 AwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4LC0xNjY4MzkzODEs
