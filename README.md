@@ -48,7 +48,6 @@ Mac 鍵符號
 - Control（或 Ctrl）鍵 ⌃
 - Caps Lock 鍵 ⇪
 
-
 # TODO
 
  - [ ] 履歷更新(排版)
@@ -251,7 +250,7 @@ Behavior Questions
 ### MediaTek's first 5G Modem Helio M70 (World’s fastest) development 
 - **Situation**: 2018, MediaTek has always been a quick follower but never a leader. In 5G era, company decide to move forward and compete with industry leader Qualcomm
 	- External challenge: develop, vendor, operator not aligned
-- **Task**:  Develop 5G FW for Control Channel when spec and architecture is on-going, balance between flexibility, performance, and cost
+- **Task**:  Develop 5G FW for Control Channel when spec and architecture is on-going, balance between ***flexibility***, ***performance***, and ***cost***
 - **Action**: 
 	- listed and summarize the shortcoming of previous generation of design
 	- study the current DSP architecture and give it feedback when found optimization of bug
@@ -1489,11 +1488,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTkxNTM1NiwtMTkwMDMxMjA1LC0xMT
-EwOTgsLTUwNDg5MzA3OSwtMTY3MDI4ODExNyw3MDE3NDIxNzAs
-NjY3NjcyMzA5LC01NjczNzk0NjAsLTQ2NzE3MDA5MCwtMjIwNj
-Y0NzA2LDIwMzE0ODIzODgsLTE2NjgzOTM4MSwtNzA1MjkxMDgy
-LDEyNzU2NTk3NjIsLTEwMDU0Njk4MTQsMTk2NTYzNDg1LC02Nj
-M2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5NTE5LDEwNDk5NjAy
-NTJdfQ==
+eyJoaXN0b3J5IjpbLTE5NDk2NjA1NDYsLTQyOTkxNTM1NiwtMT
+kwMDMxMjA1LC0xMTEwOTgsLTUwNDg5MzA3OSwtMTY3MDI4ODEx
+Nyw3MDE3NDIxNzAsNjY3NjcyMzA5LC01NjczNzk0NjAsLTQ2Nz
+E3MDA5MCwtMjIwNjY0NzA2LDIwMzE0ODIzODgsLTE2NjgzOTM4
+MSwtNzA1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4MTQsMT
+k2NTYzNDg1LC02NjM2OTcyMDksLTExODA3MzkyMDgsNzI2MDA5
+NTE5XX0=
 -->
