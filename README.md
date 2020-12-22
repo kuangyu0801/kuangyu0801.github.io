@@ -202,11 +202,11 @@ Behavior Questions
 | LP | My STAR |
 |--|--|
 | Customer Obsession | 4G LTE MIMO |
-| Ownership | |
-| Invent and Simplify| |
-| Are Right, A Lot | |
-| Learn and Be Curious | |
-| Hire and Develop the Best | |
+| Ownership |-- |
+| Invent and Simplify|-- |
+| Are Right, A Lot | --|
+| Learn and Be Curious | --|
+| Hire and Develop the Best | --|
 |## Think Big|--|
 |## Bias for Action|--|
 |## Frugality|--|
@@ -271,7 +271,7 @@ Behavior Questions
 	- 2020, now the product is adopted with customer OPPO, VIVO, Xiaomi
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
-- **Situation**: 
+- **Situation**: Keysight-MediaTek starts their first 5G NR Data Demo Camp in Beijing
 - - **Task**: 
 - - **Action**: 
 - - **Result**: 
@@ -1493,11 +1493,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDE3MDg4MCwtNDI5OTE1MzU2LC0xOT
-AwMzEyMDUsLTExMTA5OCwtNTA0ODkzMDc5LC0xNjcwMjg4MTE3
-LDcwMTc0MjE3MCw2Njc2NzIzMDksLTU2NzM3OTQ2MCwtNDY3MT
-cwMDkwLC0yMjA2NjQ3MDYsMjAzMTQ4MjM4OCwtMTY2ODM5Mzgx
-LC03MDUyOTEwODIsMTI3NTY1OTc2MiwtMTAwNTQ2OTgxNCwxOT
-Y1NjM0ODUsLTY2MzY5NzIwOSwtMTE4MDczOTIwOCw3MjYwMDk1
-MTldfQ==
+eyJoaXN0b3J5IjpbLTE5NzQxMDEwNTMsMTk2NDE3MDg4MCwtND
+I5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5OCwtNTA0ODkzMDc5
+LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDksLTU2Nz
+M3OTQ2MCwtNDY3MTcwMDkwLC0yMjA2NjQ3MDYsMjAzMTQ4MjM4
+OCwtMTY2ODM5MzgxLC03MDUyOTEwODIsMTI3NTY1OTc2MiwtMT
+AwNTQ2OTgxNCwxOTY1NjM0ODUsLTY2MzY5NzIwOSwtMTE4MDcz
+OTIwOF19
 -->
