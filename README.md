@@ -255,8 +255,8 @@ Behavior Questions
 	- analyze, listed and summarize the shortcoming of previous generation of design
 	- study the current DSP architecture (high efficient instruction, memory addressing) and give it feedback to HW design team when found possible optimization or bug
 	- flexibility
-		+ work hand-in-hand with  CSD algorithm team and Spec Review team, weekly update meeting
-		+ keep myself the latest spec release up-to-date and actively 
+		+ work hand-in-hand with  CSD algorithm team  :weekly update meeting, test case design,
+		+ keep myself the latest spec release up-to-date and actively resolve ambiguity with Spec Review team when happened
 	- design and review test case in both UT and IT
 	- implementing and verifying functionality on simulation environment, FPGA, test chip, product with machine
 	- collaborating  with inter-team (SW higher layer, test engineering,  FW, vendor)
@@ -1489,7 +1489,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzMTc0OTA4LC00Mjk5MTUzNTYsLTE5MD
+eyJoaXN0b3J5IjpbMjI5ODkwMDI5LC00Mjk5MTUzNTYsLTE5MD
 AzMTIwNSwtMTExMDk4LC01MDQ4OTMwNzksLTE2NzAyODgxMTcs
 NzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mzc5NDYwLC00NjcxNz
 AwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4LC0xNjY4MzkzODEs
