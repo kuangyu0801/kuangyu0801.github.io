@@ -199,9 +199,10 @@ Behavior Questions
 
 ### 講多次就很可信
 ### Leadership  Principles
-|LP  |My STAR  |
+|LP  |My STAR|
 |--|--|
-|Customer Obsession  |4G LTE MIMO  |
+|Customer Obsession  |4G LTE MIMO|
+
 
 | LP | My STAR |
 |--|--|
@@ -270,6 +271,7 @@ Behavior Questions
 		- 	design and review UT and IT test case on necessity basis
 		- start lean and verification at earliest possible (with overlapping developing plan) 
 		- implementing functionality on simulation environment, FPGA, test chip, product with machine
+		- help RF team with log examing
 - **Result**: 
 	- 2019, 5G functionality successfully verified with UXM 5G and Radio Communication Test Station MT8000A from Anritsu
 	- 2020, now the product is adopted with customer OPPO, VIVO, Xiaomi
@@ -1497,7 +1499,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDg5MzQ5OCwxOTY0MTcwODgwLC00Mj
+eyJoaXN0b3J5IjpbMTg5Mzg5NzQyMiwxOTY0MTcwODgwLC00Mj
 k5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4LC01MDQ4OTMwNzks
 LTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mz
 c5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4
