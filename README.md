@@ -255,7 +255,7 @@ Behavior Questions
 	- cost for company benefit
 		+ analyze and summarize the strength and shortcoming of previous generation DSP architecture from user experience and simulation statistic
 		+ study the current DSP architecture (high efficient instruction, memory addressing) and give it feedback to HW/Compiler/System Service design team when found possible optimization or bug
-		+ consistently polling p 
+		+ consistently polling performance and feedback to algorithm team and HW
 	- flexibility for on-going spec
 		+ work hand-in-hand with  CSD algorithm team  :weekly update meeting, test case design,
 		+ keep myself the latest spec release up-to-date and actively resolve ambiguity with Spec Review team when happened
@@ -272,7 +272,7 @@ Behavior Questions
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
 - **Situation**: 
-- - **Task**:
+- - **Task**: 
 - - **Action**: 
 - - **Result**: 
 
@@ -1493,7 +1493,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzMxMzc2MywtNDI5OTE1MzU2LC0xOT
+eyJoaXN0b3J5IjpbMTk2NDE3MDg4MCwtNDI5OTE1MzU2LC0xOT
 AwMzEyMDUsLTExMTA5OCwtNTA0ODkzMDc5LC0xNjcwMjg4MTE3
 LDcwMTc0MjE3MCw2Njc2NzIzMDksLTU2NzM3OTQ2MCwtNDY3MT
 cwMDkwLC0yMjA2NjQ3MDYsMjAzMTQ4MjM4OCwtMTY2ODM5Mzgx
