@@ -271,7 +271,7 @@ Behavior Questions
 		- 	design and review UT and IT test case on necessity basis
 		- start lean and verification at earliest possible (with overlapping developing plan) 
 		- implementing functionality on simulation environment, FPGA, test chip, product with machine
-		- help RF team with log examing
+		- help RF team with log examining
 - **Result**: 
 	- 2019, 5G functionality successfully verified with UXM 5G and Radio Communication Test Station MT8000A from Anritsu
 	- 2020, now the product is adopted with customer OPPO, VIVO, Xiaomi
@@ -1499,11 +1499,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Mzg5NzQyMiwxOTY0MTcwODgwLC00Mj
-k5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4LC01MDQ4OTMwNzks
-LTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mz
-c5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4
-LC0xNjY4MzkzODEsLTcwNTI5MTA4MiwxMjc1NjU5NzYyLC0xMD
-A1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5LC0xMTgwNzM5
-MjA4XX0=
+eyJoaXN0b3J5IjpbOTczNTI3OTg3LDE5NjQxNzA4ODAsLTQyOT
+kxNTM1NiwtMTkwMDMxMjA1LC0xMTEwOTgsLTUwNDg5MzA3OSwt
+MTY3MDI4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5LC01NjczNz
+k0NjAsLTQ2NzE3MDA5MCwtMjIwNjY0NzA2LDIwMzE0ODIzODgs
+LTE2NjgzOTM4MSwtNzA1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMD
+U0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcyMDksLTExODA3Mzky
+MDhdfQ==
 -->
