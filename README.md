@@ -225,8 +225,8 @@ Behavior Questions
 - Think Big: 5G Module Cycle optimization
 - Bias for Action: 5G Module Cycle optimization, 4G Massive MIMO Feature
 - Frugality: 4G Massive MIMO Feature
-- Earn Trust
-- Dive Deep
+- Earn Trust:
+- Dive Deep:
 - Have Backbone; Disagree and Commit
 - Deliver Results: 4G Massive MIMO Feature
 
@@ -1510,7 +1510,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwMDA5ODU4LDk3MzUyNzk4NywxOTY0MT
+eyJoaXN0b3J5IjpbNDMzNTY4NDY4LDk3MzUyNzk4NywxOTY0MT
 cwODgwLC00Mjk5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4LC01
 MDQ4OTMwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3Mj
 MwOSwtNTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwy
