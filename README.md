@@ -222,9 +222,15 @@ Behavior Questions
 - Are Right, A Lot
 - Learn and Be Curious
 - Hire and Develop the Best
-- 
+- Think Big
+- Bias for Action
+- Frugality
+- Earn Trust
+- Dive Deep
+- Have Backbone; Disagree and Commit
+- Deliver Results
 
-### 4G LTE MIMO
+### 4G Massive MIMO Feature
 - Customer obsession, 
 - **Situation**: Customer(Samsung) wants new feature  4G LTE Massive MIMO to be supported in the existing product
 - of course we could argue with customer 
@@ -1504,11 +1510,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzY4Mzg2MCw5NzM1Mjc5ODcsMTk2ND
-E3MDg4MCwtNDI5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5OCwt
-NTA0ODkzMDc5LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2Nz
-IzMDksLTU2NzM3OTQ2MCwtNDY3MTcwMDkwLC0yMjA2NjQ3MDYs
-MjAzMTQ4MjM4OCwtMTY2ODM5MzgxLC03MDUyOTEwODIsMTI3NT
-Y1OTc2MiwtMTAwNTQ2OTgxNCwxOTY1NjM0ODUsLTY2MzY5NzIw
-OV19
+eyJoaXN0b3J5IjpbNTA1OTQwNjkxLDk3MzUyNzk4NywxOTY0MT
+cwODgwLC00Mjk5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4LC01
+MDQ4OTMwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3Mj
+MwOSwtNTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwy
+MDMxNDgyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4MiwxMjc1Nj
+U5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5
+XX0=
 -->
