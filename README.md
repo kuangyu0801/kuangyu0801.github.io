@@ -212,12 +212,12 @@ Behavior Questions
 | Are Right, A Lot | --|
 | Learn and Be Curious | --|
 | Hire and Develop the Best | --|
-|## Think Big|--|
-|## Bias for Action|--|
-|## Frugality|--|
-|## ## Earn Trust|--|
-|## Dive Deep|--|
-|## Have Backbone; Disagree and Commit|--|
+|Think Big|--|
+|Bias for Action|--|
+|Frugality|--|
+|Earn Trust|--|
+|Dive Deep|--|
+|Have Backbone; Disagree and Commit|--|
 |Deliver Results|--|
 ### 4G LTE MIMO
 - Customer obsession, 
@@ -1499,11 +1499,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczNTI3OTg3LDE5NjQxNzA4ODAsLTQyOT
-kxNTM1NiwtMTkwMDMxMjA1LC0xMTEwOTgsLTUwNDg5MzA3OSwt
-MTY3MDI4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5LC01NjczNz
-k0NjAsLTQ2NzE3MDA5MCwtMjIwNjY0NzA2LDIwMzE0ODIzODgs
-LTE2NjgzOTM4MSwtNzA1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMD
-U0Njk4MTQsMTk2NTYzNDg1LC02NjM2OTcyMDksLTExODA3Mzky
-MDhdfQ==
+eyJoaXN0b3J5IjpbNzE5NTQ4MjA3LDk3MzUyNzk4NywxOTY0MT
+cwODgwLC00Mjk5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4LC01
+MDQ4OTMwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3Mj
+MwOSwtNTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwy
+MDMxNDgyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4MiwxMjc1Nj
+U5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5
+XX0=
 -->
