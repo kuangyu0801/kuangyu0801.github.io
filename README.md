@@ -199,10 +199,6 @@ Behavior Questions
 
 ### 講多次就很可信
 ### Leadership  Principles
-|LP  |My STAR|
-|--|--|
-|Customer Obsession  |4G LTE MIMO|
-
 
 | LP | My STAR |
 |--|--|
@@ -219,6 +215,7 @@ Behavior Questions
 |Dive Deep|--|
 |Have Backbone; Disagree and Commit|--|
 |Deliver Results|--|
+
 ### 4G LTE MIMO
 - Customer obsession, 
 - **Situation**: Customer(Samsung) wants new feature  4G LTE Massive MIMO to be supported in the existing product
@@ -1499,7 +1496,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5NTQ4MjA3LDk3MzUyNzk4NywxOTY0MT
+eyJoaXN0b3J5IjpbMzczNzk5NjQyLDk3MzUyNzk4NywxOTY0MT
 cwODgwLC00Mjk5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4LC01
 MDQ4OTMwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3Mj
 MwOSwtNTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwy
