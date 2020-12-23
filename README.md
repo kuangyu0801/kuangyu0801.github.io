@@ -235,7 +235,9 @@ Behavior Questions
 - **Situation**: Customer(Samsung) wants new feature  4G LTE Massive MIMO to be supported in the existing product
 - of course we could argue with customer 
 - **Task**: implementing patch for new feature (4G LTE Massive MIMO) with limited HW capability
-	- the project was so old that simulation platform is no longer maintained
+	- the project was so old that simulation platform is no longer maintained, also no pattern
+	- only log analysis
+	- target and lab equipment
 - **Action**:
 	- clarify user scenario with customer and field trial tester
 	- evaluate HW/FW capability from the given scenario
@@ -1510,11 +1512,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzNTY4NDY4LDk3MzUyNzk4NywxOTY0MT
-cwODgwLC00Mjk5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4LC01
-MDQ4OTMwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3Mj
-MwOSwtNTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwy
-MDMxNDgyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4MiwxMjc1Nj
-U5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4NSwtNjYzNjk3MjA5
-XX0=
+eyJoaXN0b3J5IjpbLTIxMzcxNDIwNjcsNDMzNTY4NDY4LDk3Mz
+UyNzk4NywxOTY0MTcwODgwLC00Mjk5MTUzNTYsLTE5MDAzMTIw
+NSwtMTExMDk4LC01MDQ4OTMwNzksLTE2NzAyODgxMTcsNzAxNz
+QyMTcwLDY2NzY3MjMwOSwtNTY3Mzc5NDYwLC00NjcxNzAwOTAs
+LTIyMDY2NDcwNiwyMDMxNDgyMzg4LC0xNjY4MzkzODEsLTcwNT
+I5MTA4MiwxMjc1NjU5NzYyLC0xMDA1NDY5ODE0LDE5NjU2MzQ4
+NV19
 -->
