@@ -1033,6 +1033,9 @@ public class Java8HoFDemo {
 	}
 }
 ```
+### I/O
+#### Writing to Files[https://www.youtube.com/watch?v=Bws9aQuAcdg](https://www.youtube.com/watch?v=Bws9aQuAcdg)
+
 ## IntelliJ
 - [Josh’s IntelliJ Editor Settings](https://drive.google.com/drive/folders/1Y5cHl-nNe731EgG4pAk2Dokgbu4ZpV5E?usp=sharing): CS61B Josh自己tune的的color scheme,兩個字：好看！黑背景、高對比、關鍵字一目瞭然，用過就回不去！[original page](https://sp18.datastructur.es/materials/lab/lab2setup/lab2setup)
 
@@ -1052,16 +1055,8 @@ Mac 鍵符號
 |複製整行|⌘ + D|
 |移動整行|⇧⌥+ scroll|
 
-
-
-
-
-# Git & Github
-- 黑馬git教學，有規劃有組織且超級清楚！！！[# 2020黑马Git教程（2小时从入门到精通）](https://www.bilibili.com/video/BV1fK4y1b7XL/?p=18)
-- [課程文件](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
-
 ### Version Control with Git
-
+- [All we need to know about git from Jetbrain](https://www.jetbrains.com/help/idea/using-git-integration.html)
 - [Version control](https://www.jetbrains.com/help/idea/version-control-integration.html)
 - [Check out a project from a remote host (clone)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#clone-repo)
 - [Push your Project to Github directly](https://youtu.be/Zx74laLnFvw)
@@ -1071,7 +1066,10 @@ Mac 鍵符號
 4. VCS | Import into Version Control | Share Project on Github
 - [Exclude files from version control (ignore)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#ignore-files)
 
-### [All we need to know about git](https://www.jetbrains.com/help/idea/using-git-integration.html)
+# Git & Github
+- 黑馬git教學，有規劃有組織且超級清楚！！！[# 2020黑马Git教程（2小时从入门到精通）](https://www.bilibili.com/video/BV1fK4y1b7XL/?p=18)
+- [課程文件](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
+
 1.  [如何在IDE中與github repo協作](https://youtu.be/lyiBnyPPnG4)
 		- FETCH: 把remote commit file抓到local但不改變local <- 不想要被蓋掉選這個！
 		- PULL: FETCH + auto MERGE + auto COMMIT to local <- 無腦拿remote蓋掉全部，如果local有改動就很危險
@@ -1521,11 +1519,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjIzMzU4MCwtOTQ4NDgyMDY4LC0yMT
-M3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMTk2NDE3MDg4
-MCwtNDI5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5OCwtNTA0OD
-kzMDc5LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDks
-LTU2NzM3OTQ2MCwtNDY3MTcwMDkwLC0yMjA2NjQ3MDYsMjAzMT
-Q4MjM4OCwtMTY2ODM5MzgxLC03MDUyOTEwODIsMTI3NTY1OTc2
-Ml19
+eyJoaXN0b3J5IjpbNTE4NDU1ODUwLC05NDg0ODIwNjgsLTIxMz
+cxNDIwNjcsNDMzNTY4NDY4LDk3MzUyNzk4NywxOTY0MTcwODgw
+LC00Mjk5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4LC01MDQ4OT
+MwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwt
+NTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwyMDMxND
+gyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4MiwxMjc1NjU5NzYy
+XX0=
 -->
