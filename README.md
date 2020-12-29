@@ -1069,6 +1069,9 @@ Mac 鍵符號
 # Git & Github
 - 黑馬git教學，有規劃有組織且超級清楚！！！[# 2020黑马Git教程（2小时从入门到精通）](https://www.bilibili.com/video/BV1fK4y1b7XL/?p=18)
 - [課程文件](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
+- [Coursera: Introduction to Git and GitHub by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
+- [Git Official Documentation](https://git-scm.com/book/en/v2): 講得很完整！
+- [Git/Github操作手册](https://zhuanlan.zhihu.com/p/58547172)
 
 1.  [如何在IDE中與github repo協作](https://youtu.be/lyiBnyPPnG4)
 		- FETCH: 把remote commit file抓到local但不改變local <- 不想要被蓋掉選這個！
@@ -1105,18 +1108,12 @@ master |dev| description
 		 - https://www.jetbrains.com/help/idea/undo-changes.html
 		 - https://bigboys-me.medium.com/%E8%AE%93%E4%BD%A0%E7%9A%84%E4%BB%A3%E7%A2%BC%E5%9B%9E%E5%88%B0%E9%81%8E%E5%8E%BB-git-reset-%E8%88%87-git-revert-%E7%9A%84%E7%94%A8%E8%99%95-6ba4b7545690
   
-# How to create your own git feature branch?  
+## How to create your own git feature branch?  
 - 建立local branch go to menu bar click "VCS" -> "Git" -> "Branches" -> "create branch"  
 - 建立remote branch: push 之後就會自動建立 remote branch  
 - 如何merge changes?  "VCS" -> "Git" -> "Merge Changes" 詳情參考  
 [JetBrain文章](https://www.jetbrains.com/help/idea/apply-changes-from-one-branch-to-another.html)  
 [Youtube教學How and when do I merge or rebase?](https://youtu.be/Nftif2ynvdA)
-
-
-# GitHub
-- [Coursera: Introduction to Git and GitHub by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
-- [Git Official Documentation](https://git-scm.com/book/en/v2): 講得很完整！
-- [Git/Github操作手册](https://zhuanlan.zhihu.com/p/58547172)
 
 ## Commit Message要怎麼寫才好
 ```
@@ -1519,7 +1516,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4NDU1ODUwLC05NDg0ODIwNjgsLTIxMz
+eyJoaXN0b3J5IjpbODY2NzE0NDczLC05NDg0ODIwNjgsLTIxMz
 cxNDIwNjcsNDMzNTY4NDY4LDk3MzUyNzk4NywxOTY0MTcwODgw
 LC00Mjk5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4LC01MDQ4OT
 MwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwt
