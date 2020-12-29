@@ -161,9 +161,9 @@ Seeing my code actually work in real-world environment, not just some self-simul
 ## **10. If you were an animal, which one would you want to be?**
  
 ## ** Why do you want to study another master in Germany**
-- the quality of education in german uni is very high
-- german has the strongest ecomony and offer good job oppurtunities: Amzaon, Microsoft, Google all have v
-- i believe in formal education, although there are online courses but fundamental is important 
+- I want to shift my career into software. I had a HW background, but my first job in a smart phone company is FW developer. Then I started to realized that, 
+- german has the strongest ecomony and offer good job oppurtunities: Amzaon, Microsoft, Google all have bases in Euro
+- i believe in formal education, although there are online courses but fundamental is important, the quality of education in german uni is very high
 ## ** Would you continue to work if given return offer**
 - Ja
 # [Behavioral interview questions](https://www.monster.com/career-advice/article/100-potential-interview-questions)
@@ -1519,7 +1519,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg1NDQwMjYsLTk0ODQ4MjA2OCwtMj
+eyJoaXN0b3J5IjpbLTE0Mjg2NjgyNDUsLTk0ODQ4MjA2OCwtMj
 EzNzE0MjA2Nyw0MzM1Njg0NjgsOTczNTI3OTg3LDE5NjQxNzA4
 ODAsLTQyOTkxNTM1NiwtMTkwMDMxMjA1LC0xMTEwOTgsLTUwND
 g5MzA3OSwtMTY3MDI4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5
