@@ -1064,16 +1064,16 @@ Mac 鍵符號
 - [Exclude files from version control (ignore)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#ignore-files)
 
 ### [All we need to know about git](https://www.jetbrains.com/help/idea/using-git-integration.html)
-1. [如何在IDE中與github repo協作](https://youtu.be/lyiBnyPPnG4)
-	- FETCH: 把remote commit file抓到local但不改變local <- 不想要被蓋掉選這個！
-	- PULL: FETCH + auto MERGE + auto COMMIT to local <- 無腦拿remote蓋掉全部，如果local有改動就很危險
-	- UPDATE PROJECTS: FETCH from all remote branches + MERGE + COMMIT to local
+1.  [如何在IDE中與github repo協作](https://youtu.be/lyiBnyPPnG4)
+		- FETCH: 把remote commit file抓到local但不改變local <- 不想要被蓋掉選這個！
+		- PULL: FETCH + auto MERGE + auto COMMIT to local <- 無腦拿remote蓋掉全部，如果local有改動就很危險
+		- UPDATE PROJECTS: FETCH from all remote branches + MERGE + COMMIT to local
 2. 建立Branch
-- 建立local branch go to menu bar click "VCS" -> "Git" -> "Branches" -> "create branch"  
-- 建立remote branch: push 之後就會自動建立 remote branch  
+	- 建立local branch go to menu bar click "VCS" -> "Git" -> "Branches" -> "create branch"  
+	- 建立remote branch: push 之後就會自動建立 remote branch  
 3. 如何merge changes?  "VCS" -> "Git" -> "Merge Changes" 詳情參考  
-- [JetBrain文章](https://www.jetbrains.com/help/idea/apply-changes-from-one-branch-to-another.html)  
-- [Youtube教學How and when do I merge or rebase?](https://youtu.be/Nftif2ynvdA)
+	- [JetBrain文章](https://www.jetbrains.com/help/idea/apply-changes-from-one-branch-to-another.html)  
+	- [Youtube教學How and when do I merge or rebase?](https://youtu.be/Nftif2ynvdA)
 
 4.  如何rebase?  "VCS" -> "Git" -> "rebase"
 [Keeping Feature Branches Up To Date With Rebasing | Git Workflows](https://youtu.be/dqVqMwLzOjU)
@@ -1518,7 +1518,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzMzODIwNSwtOTQ4NDgyMDY4LC0yMT
+eyJoaXN0b3J5IjpbLTk0MTEwMzIyMSwtOTQ4NDgyMDY4LC0yMT
 M3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMTk2NDE3MDg4
 MCwtNDI5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5OCwtNTA0OD
 kzMDc5LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDks
