@@ -307,7 +307,7 @@ Behavior Questions
 - My previous,
 - In school, Routing Protocols for Wireless Ad-hoc Network from the Course of Mobile Computing, 
 - Currently, we are doing a project on SDN(Software Defined Networking) with openflow 
-
+### 0.
 ###  1. Give me an example of a time that you felt you went above and beyond the call of duty at work. 
 ### 2. [What was the last project you led, and what was its outcome?](https://www.monster.com/career-advice/article/how-to-answer-job-interview-question-what-was-last-project-led-outcome)
 ###   3. Can you describe a time when your work was criticized?
@@ -661,8 +661,6 @@ SQL, NoSQL, Graph Database，要能夠說出簡單的架構，上網課就可以
 Stage-1: JuneStuttgart small company -> Large company
 Stage-2: September Berlin or Munich large company
 Stage-3: November Amazon in Dublin, and Singapore
-
-## 實習
 ## 學生工
 
 last update on 18 Jun. 2020:
@@ -1520,11 +1518,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODU5ODgyMjAsLTk0ODQ4MjA2OCwtMj
-EzNzE0MjA2Nyw0MzM1Njg0NjgsOTczNTI3OTg3LDE5NjQxNzA4
-ODAsLTQyOTkxNTM1NiwtMTkwMDMxMjA1LC0xMTEwOTgsLTUwND
-g5MzA3OSwtMTY3MDI4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5
-LC01NjczNzk0NjAsLTQ2NzE3MDA5MCwtMjIwNjY0NzA2LDIwMz
-E0ODIzODgsLTE2NjgzOTM4MSwtNzA1MjkxMDgyLDEyNzU2NTk3
-NjJdfQ==
+eyJoaXN0b3J5IjpbLTk2MTI3MjE5NywtOTQ4NDgyMDY4LC0yMT
+M3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMTk2NDE3MDg4
+MCwtNDI5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5OCwtNTA0OD
+kzMDc5LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDks
+LTU2NzM3OTQ2MCwtNDY3MTcwMDkwLC0yMjA2NjQ3MDYsMjAzMT
+Q4MjM4OCwtMTY2ODM5MzgxLC03MDUyOTEwODIsMTI3NTY1OTc2
+Ml19
 -->
