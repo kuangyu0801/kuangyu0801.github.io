@@ -1055,7 +1055,17 @@ Mac 鍵符號
 |複製整行|⌘ + D|
 |移動整行|⇧⌥+ scroll|
 
-### Version Control with Git
+
+
+
+# Git & Github
+### Reference
+- 黑馬git教學，有規劃有組織且超級清楚！！！[# 2020黑马Git教程（2小时从入门到精通）](https://www.bilibili.com/video/BV1fK4y1b7XL/?p=18)
+- [課程文件](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
+- [Coursera: Introduction to Git and GitHub by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
+- [Git Official Documentation](https://git-scm.com/book/en/v2): 講得很完整！
+- [Git/Github操作手册](https://zhuanlan.zhihu.com/p/58547172)
+### JetBrains IDE Version Control with Git
 - [All we need to know about git from Jetbrain](https://www.jetbrains.com/help/idea/using-git-integration.html)
 - [Version control](https://www.jetbrains.com/help/idea/version-control-integration.html)
 - [Check out a project from a remote host (clone)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#clone-repo)
@@ -1065,14 +1075,6 @@ Mac 鍵符號
 3. Add files to the local repository: 做這一步之後所有檔案的顏色會從紅色變成綠色、從unresolved files改成default changelist
 4. VCS | Import into Version Control | Share Project on Github
 - [Exclude files from version control (ignore)](https://www.jetbrains.com/help/idea/set-up-a-git-repository.html#ignore-files)
-
-# Git & Github
-- 黑馬git教學，有規劃有組織且超級清楚！！！[# 2020黑马Git教程（2小时从入门到精通）](https://www.bilibili.com/video/BV1fK4y1b7XL/?p=18)
-- [課程文件](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
-- [Coursera: Introduction to Git and GitHub by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
-- [Git Official Documentation](https://git-scm.com/book/en/v2): 講得很完整！
-- [Git/Github操作手册](https://zhuanlan.zhihu.com/p/58547172)
-
 1.  [如何在IDE中與github repo協作](https://youtu.be/lyiBnyPPnG4)
 		- FETCH: 把remote commit file抓到local但不改變local <- 不想要被蓋掉選這個！
 		- PULL: FETCH + auto MERGE + auto COMMIT to local <- 無腦拿remote蓋掉全部，如果local有改動就很危險
@@ -1516,7 +1518,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2NzE0NDczLC05NDg0ODIwNjgsLTIxMz
+eyJoaXN0b3J5IjpbNTUxNzMwOTkxLC05NDg0ODIwNjgsLTIxMz
 cxNDIwNjcsNDMzNTY4NDY4LDk3MzUyNzk4NywxOTY0MTcwODgw
 LC00Mjk5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4LC01MDQ4OT
 MwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwt
