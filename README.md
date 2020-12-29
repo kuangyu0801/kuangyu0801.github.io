@@ -65,7 +65,7 @@ Mac 鍵符號
 	 - [ ]  [Java 關鍵字final static this] 	(https://www.bilibili.com/video/BV1uJ411k7wy/?p=190)
 	 - [ ]  Java privacy: private, protected.... review
  - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
- - [ ] Perso
+ - [ ] Personal Website
  - [ ]  中長期，System Design for Senior Software Engineer
 	 - [ ] Database 更深入了解
 
@@ -1081,7 +1081,7 @@ Mac 鍵符號
 6. Rebase vs. Merge
 dev 是基於 master-v1拉出來，並且新增兩個feacture in v2, v3. 同時master又進了一個改動v2.
 
- master |dev| description 
+master |dev| description 
 ---|---|---
  v10 | - | master branch 
  v10 | v1 (same as master v10) |  branch out dev (dev的基板是master-v10)
@@ -1090,6 +1090,8 @@ dev 是基於 master-v1拉出來，並且新增兩個feacture in v2, v3. 同時m
  v11 (+ bugfix) | v3 (+ feat_a + feat_b)|  master fix bug (這時master已經進到v11, need to rebase)
  v11 (+ bugfix) | v4 (+ feat_a + feat_b + bugfix)| dev "rebase onto master-v11"(這時dev已經涵蓋master所有改動）
  v12 (+ feat_a + feat_b + bugfix) | v5 (same as master v12)| merge dev into master, master包含所有feature
+
+
  7. reset HEAD(進階超好用
 	 - situation: 想要還原到某個commit的版本 (ex. v3, 現在是v6), 我在local commit一個超過100mb的檔案, 造成push fail/rejection, 此刻我不能使用revert, 因為revert是把檔案刪掉之後再建一個CL, 之前的commit還是在push queue裡面, 這個時候就要使用reset
 		 - soft: rollback local files to v3 with changes from v4, v5, v6 to a single CL
@@ -1516,7 +1518,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Mjg3MzMyMywtOTQ4NDgyMDY4LC0yMT
+eyJoaXN0b3J5IjpbMTQwMzMzODIwNSwtOTQ4NDgyMDY4LC0yMT
 M3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMTk2NDE3MDg4
 MCwtNDI5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5OCwtNTA0OD
 kzMDc5LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDks
