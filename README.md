@@ -34,7 +34,7 @@
 - [Java](#java)
   * [Java知識總整理大補包](#java知識總整理大補包)
   * [IntelliJ](#intellij)
-- [# Git & Github](#gi-control-with-git)
+- [Git and Github](#git-and-github)
 - [Python](#python)
   * [numpy](#sub-heading-1)
 - [Android Development](#android-development)
@@ -1059,7 +1059,7 @@ Mac 鍵符號
 
 
 
-# Git & Github
+# Git and Github
 ### Reference
 - 黑馬git教學，有規劃有組織且超級清楚！！！[# 2020黑马Git教程（2小时从入门到精通）](https://www.bilibili.com/video/BV1fK4y1b7XL/?p=18)
 - [課程文件](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
@@ -1519,11 +1519,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI1NzAxMTgsLTk0ODQ4MjA2OCwtMj
-EzNzE0MjA2Nyw0MzM1Njg0NjgsOTczNTI3OTg3LDE5NjQxNzA4
-ODAsLTQyOTkxNTM1NiwtMTkwMDMxMjA1LC0xMTEwOTgsLTUwND
-g5MzA3OSwtMTY3MDI4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5
-LC01NjczNzk0NjAsLTQ2NzE3MDA5MCwtMjIwNjY0NzA2LDIwMz
-E0ODIzODgsLTE2NjgzOTM4MSwtNzA1MjkxMDgyLDEyNzU2NTk3
-NjJdfQ==
+eyJoaXN0b3J5IjpbLTE0MDMzMjY2MywtOTQ4NDgyMDY4LC0yMT
+M3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMTk2NDE3MDg4
+MCwtNDI5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5OCwtNTA0OD
+kzMDc5LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDks
+LTU2NzM3OTQ2MCwtNDY3MTcwMDkwLC0yMjA2NjQ3MDYsMjAzMT
+Q4MjM4OCwtMTY2ODM5MzgxLC03MDUyOTEwODIsMTI3NTY1OTc2
+Ml19
 -->
