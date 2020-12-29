@@ -920,11 +920,14 @@ Valid until: Saturday, April 30, 2050
 [https://firebase.google.com/docs/storage/security/start#user](https://firebase.google.com/docs/storage/security/start#user)
 
 
-# JSON
+# Database
+### NoSQL  
+[What is NoSQL?](https://www.youtube.com/watch?v=BgQFJ_UNIgw)  
+NoSQL: semi-structured database: can store first then categrorize later  
+SQL is a structured database: data need to fit into the predifined structure in order to be stored  
 
-# Git & Github
-- 黑馬git教學，有規劃有組織且超級清楚！！！[# 2020黑马Git教程（2小时从入门到精通）](https://www.bilibili.com/video/BV1fK4y1b7XL/?p=18)
-- [課程文件](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
+
+
 
 # 常用問題
 ###  Pull from a remote public project and add it to my own remote repo in IDEA
@@ -1050,8 +1053,13 @@ Mac 鍵符號
 |移動整行|⇧⌥+ scroll|
 
 
-### I/O
-#### Writing to Files[https://www.youtube.com/watch?v=Bws9aQuAcdg](https://www.youtube.com/watch?v=Bws9aQuAcdg)
+
+
+
+# Git & Github
+- 黑馬git教學，有規劃有組織且超級清楚！！！[# 2020黑马Git教程（2小时从入门到精通）](https://www.bilibili.com/video/BV1fK4y1b7XL/?p=18)
+- [課程文件](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
+
 ### Version Control with Git
 
 - [Version control](https://www.jetbrains.com/help/idea/version-control-integration.html)
@@ -1513,7 +1521,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODg0NjE1NCwtOTQ4NDgyMDY4LC0yMT
+eyJoaXN0b3J5IjpbLTIyNjIzMzU4MCwtOTQ4NDgyMDY4LC0yMT
 M3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMTk2NDE3MDg4
 MCwtNDI5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5OCwtNTA0OD
 kzMDc5LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDks
