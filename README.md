@@ -34,7 +34,7 @@
 - [Java](#java)
   * [Java知識總整理大補包](#java知識總整理大補包)
   * [IntelliJ](#intellij)
-	+ [Version Control with Git](#version-control-with-git)
+- [# Git & Github](#gi-control-with-git)
 - [Python](#python)
   * [numpy](#sub-heading-1)
 - [Android Development](#android-development)
@@ -1519,7 +1519,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjgwMzA4NDMsLTk0ODQ4MjA2OCwtMj
+eyJoaXN0b3J5IjpbLTE0NTI1NzAxMTgsLTk0ODQ4MjA2OCwtMj
 EzNzE0MjA2Nyw0MzM1Njg0NjgsOTczNTI3OTg3LDE5NjQxNzA4
 ODAsLTQyOTkxNTM1NiwtMTkwMDMxMjA1LC0xMTEwOTgsLTUwND
 g5MzA3OSwtMTY3MDI4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5
