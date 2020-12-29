@@ -1092,17 +1092,12 @@ master |dev| description
  v12 (+ feat_a + feat_b + bugfix) | v5 (same as master v12)| merge dev into master, master包含所有feature
 
 
- 7. reset HEAD(進階超好用
+ 6. reset HEAD (進階超好用功能, 基本上等於還原)
 	 - situation: 想要還原到某個commit的版本 (ex. v3, 現在是v6), 我在local commit一個超過100mb的檔案, 造成push fail/rejection, 此刻我不能使用revert, 因為revert是把檔案刪掉之後再建一個CL, 之前的commit還是在push queue裡面, 這個時候就要使用reset
 		 - soft: rollback local files to v3 with changes from v4, v5, v6 to a single CL
 		 - hard: 
 		 - https://www.jetbrains.com/help/idea/undo-changes.html
 		 - https://bigboys-me.medium.com/%E8%AE%93%E4%BD%A0%E7%9A%84%E4%BB%A3%E7%A2%BC%E5%9B%9E%E5%88%B0%E9%81%8E%E5%8E%BB-git-reset-%E8%88%87-git-revert-%E7%9A%84%E7%94%A8%E8%99%95-6ba4b7545690
-
-## NoSQL  
-[What is NoSQL?](https://www.youtube.com/watch?v=BgQFJ_UNIgw)  
-NoSQL: semi-structured database: can store first then categrorize later  
-SQL is a structured database: data need to fit into the predifined structure in order to be stored  
   
 # How to create your own git feature branch?  
 - 建立local branch go to menu bar click "VCS" -> "Git" -> "Branches" -> "create branch"  
@@ -1518,7 +1513,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTEwMzIyMSwtOTQ4NDgyMDY4LC0yMT
+eyJoaXN0b3J5IjpbMTUzODg0NjE1NCwtOTQ4NDgyMDY4LC0yMT
 M3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMTk2NDE3MDg4
 MCwtNDI5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5OCwtNTA0OD
 kzMDc5LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDks
