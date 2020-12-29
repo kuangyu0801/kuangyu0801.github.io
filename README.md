@@ -65,6 +65,9 @@ Mac 鍵符號
 	 - [ ]  [Java 關鍵字final static this] 	(https://www.bilibili.com/video/BV1uJ411k7wy/?p=190)
 	 - [ ]  Java privacy: private, protected.... review
  - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
+ - [ ] Perso
+ - [ ]  中長期，System Design for Senior Software Engineer
+	 - [ ] Database 更深入了解
 
 # CV
 - linkedIn Page and CV always up to date
@@ -1513,11 +1516,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODQ4MjA2OCwtMjEzNzE0MjA2Nyw0Mz
-M1Njg0NjgsOTczNTI3OTg3LDE5NjQxNzA4ODAsLTQyOTkxNTM1
-NiwtMTkwMDMxMjA1LC0xMTEwOTgsLTUwNDg5MzA3OSwtMTY3MD
-I4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5LC01NjczNzk0NjAs
-LTQ2NzE3MDA5MCwtMjIwNjY0NzA2LDIwMzE0ODIzODgsLTE2Nj
-gzOTM4MSwtNzA1MjkxMDgyLDEyNzU2NTk3NjIsLTEwMDU0Njk4
-MTRdfQ==
+eyJoaXN0b3J5IjpbLTM3Mjg3MzMyMywtOTQ4NDgyMDY4LC0yMT
+M3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMTk2NDE3MDg4
+MCwtNDI5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5OCwtNTA0OD
+kzMDc5LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDks
+LTU2NzM3OTQ2MCwtNDY3MTcwMDkwLC0yMjA2NjQ3MDYsMjAzMT
+Q4MjM4OCwtMTY2ODM5MzgxLC03MDUyOTEwODIsMTI3NTY1OTc2
+Ml19
 -->
