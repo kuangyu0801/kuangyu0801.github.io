@@ -946,7 +946,7 @@ JetBrain文章[https://www.jetbrains.com/help/idea/apply-changes-from-one-branch
 ## Coding Style and Convention
 - Google Java Style Guide
 [http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
-- Ora
+- Oracle Java Coding Convention [https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html](https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html)
 ## Concurrency
 [Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
@@ -1522,11 +1522,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTkxMDY5OTcsLTMwNjY0NjgwNiwtMT
-QwMzMyNjYzLC05NDg0ODIwNjgsLTIxMzcxNDIwNjcsNDMzNTY4
-NDY4LDk3MzUyNzk4NywxOTY0MTcwODgwLC00Mjk5MTUzNTYsLT
-E5MDAzMTIwNSwtMTExMDk4LC01MDQ4OTMwNzksLTE2NzAyODgx
-MTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mzc5NDYwLC00Nj
-cxNzAwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4LC0xNjY4Mzkz
-ODFdfQ==
+eyJoaXN0b3J5IjpbMTY0NTMzMTY3MSwtMzA2NjQ2ODA2LC0xND
+AzMzI2NjMsLTk0ODQ4MjA2OCwtMjEzNzE0MjA2Nyw0MzM1Njg0
+NjgsOTczNTI3OTg3LDE5NjQxNzA4ODAsLTQyOTkxNTM1NiwtMT
+kwMDMxMjA1LC0xMTEwOTgsLTUwNDg5MzA3OSwtMTY3MDI4ODEx
+Nyw3MDE3NDIxNzAsNjY3NjcyMzA5LC01NjczNzk0NjAsLTQ2Nz
+E3MDA5MCwtMjIwNjY0NzA2LDIwMzE0ODIzODgsLTE2NjgzOTM4
+MV19
 -->
