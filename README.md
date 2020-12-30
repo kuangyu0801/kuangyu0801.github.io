@@ -943,9 +943,10 @@ JetBrain文章[https://www.jetbrains.com/help/idea/apply-changes-from-one-branch
 - 黑馬Java教學，有規劃有組織且超級清楚！！！[# 2019年IDEA版黑马Java就业班-基础+高级](https://www.bilibili.com/video/BV1T7411m7Ta/?p=332)
 - # [2020年新版Java学习路线图（内含大纲+视频+工具+书籍+面试）](http://bbs.itheima.com/thread-386464-1-1.html)
 - [w3schools](https://www.w3schools.com/java/): 網站把所有常用的python syntax都列入，每次忘記直接來查
-- # Google Java Style Guide
+## Coding Style and Convention
+- Google Java Style Guide
 [http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
-
+- Ora
 ## Concurrency
 [Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
@@ -1521,11 +1522,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjY0NjgwNiwtMTQwMzMyNjYzLC05ND
-g0ODIwNjgsLTIxMzcxNDIwNjcsNDMzNTY4NDY4LDk3MzUyNzk4
-NywxOTY0MTcwODgwLC00Mjk5MTUzNTYsLTE5MDAzMTIwNSwtMT
-ExMDk4LC01MDQ4OTMwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcw
-LDY2NzY3MjMwOSwtNTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMD
-Y2NDcwNiwyMDMxNDgyMzg4LC0xNjY4MzkzODEsLTcwNTI5MTA4
-Ml19
+eyJoaXN0b3J5IjpbLTE5OTkxMDY5OTcsLTMwNjY0NjgwNiwtMT
+QwMzMyNjYzLC05NDg0ODIwNjgsLTIxMzcxNDIwNjcsNDMzNTY4
+NDY4LDk3MzUyNzk4NywxOTY0MTcwODgwLC00Mjk5MTUzNTYsLT
+E5MDAzMTIwNSwtMTExMDk4LC01MDQ4OTMwNzksLTE2NzAyODgx
+MTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mzc5NDYwLC00Nj
+cxNzAwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4LC0xNjY4Mzkz
+ODFdfQ==
 -->
