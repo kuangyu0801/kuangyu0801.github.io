@@ -197,6 +197,11 @@ Behavior Questions
 - 遇到新问题且无法搜集相关资料怎么办
 - 讲述一次放弃的经历
 - 问怎么对待ddl
+- 1自己面对的最大的挑战是什么？
+- 2如果你设立一个目标你如何完成它？
+- 3你如何抽丝剥茧的处理问题？
+- 4为什么选择亚麻？
+- 5到目前为止自己取得的最大成就是？这次面试被问到的就是以上这些问题在面试前也有好好准备所以感觉不是很难希望大家都取得自己心仪的offer~
 
 ## My STAR
 
@@ -1522,11 +1527,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTMzMTY3MSwtMzA2NjQ2ODA2LC0xND
-AzMzI2NjMsLTk0ODQ4MjA2OCwtMjEzNzE0MjA2Nyw0MzM1Njg0
-NjgsOTczNTI3OTg3LDE5NjQxNzA4ODAsLTQyOTkxNTM1NiwtMT
-kwMDMxMjA1LC0xMTEwOTgsLTUwNDg5MzA3OSwtMTY3MDI4ODEx
-Nyw3MDE3NDIxNzAsNjY3NjcyMzA5LC01NjczNzk0NjAsLTQ2Nz
-E3MDA5MCwtMjIwNjY0NzA2LDIwMzE0ODIzODgsLTE2NjgzOTM4
-MV19
+eyJoaXN0b3J5IjpbNDIwNjI1MDI4LDE2NDUzMzE2NzEsLTMwNj
+Y0NjgwNiwtMTQwMzMyNjYzLC05NDg0ODIwNjgsLTIxMzcxNDIw
+NjcsNDMzNTY4NDY4LDk3MzUyNzk4NywxOTY0MTcwODgwLC00Mj
+k5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4LC01MDQ4OTMwNzks
+LTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mz
+c5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4
+XX0=
 -->
