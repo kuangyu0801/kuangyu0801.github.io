@@ -53,10 +53,15 @@ Mac 鍵符號
 https://www.1point3acres.com/bbs/thread-303319-1-1.html
 (出处: 一亩三分地)
 九个要点每层回复里写一个：
--	1CS自学基础课程和书籍清单-如果你没有基础或者基础薄弱
--	2做项目简历提升
--	3简历写作
--	4刷题5系统设计课程6面试准备与练习7海投简历+内推8SoftSkills提升9来自桌子另一边的反馈以及杂谈
+	-	1CS自学基础课程和书籍清单-如果你没有基础或者基础薄弱
+	-	2做项目简历提升
+	-	3简历写作
+	-	4刷题
+	-	5系统设计课程
+	-	6面试准备与练习
+	-	7海投简历+内推
+	-	8SoftSkills提升
+	-	9来自桌子另一边的反馈以及杂谈
  - [ ] 履歷更新(排版)
 	 - [ ] LinkedIn Align with CV
 	 - [ ]  加入cloud computing project
@@ -1538,7 +1543,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM1MDUxNTgsNDIwNjI1MDI4LDE2ND
+eyJoaXN0b3J5IjpbLTE3ODI1MjkyNTcsNDIwNjI1MDI4LDE2ND
 UzMzE2NzEsLTMwNjY0NjgwNiwtMTQwMzMyNjYzLC05NDg0ODIw
 NjgsLTIxMzcxNDIwNjcsNDMzNTY4NDY4LDk3MzUyNzk4NywxOT
 Y0MTcwODgwLC00Mjk5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4
