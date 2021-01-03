@@ -252,7 +252,7 @@ Behavior Questions
 - Have Backbone; Disagree and Commit
 - Deliver Results: 4G Massive MIMO Feature
 
-### 4G Massive MIMO Feature
+### 4G Massive MIMO Feature (STAR name: )
 - Customer obsession, 
 - **Situation**: Customer(Samsung) wants new feature  4G LTE Massive MIMO to be supported in the existing product
 - of course we could argue with customer 
@@ -271,7 +271,7 @@ Behavior Questions
 	-  release on time and new feature is added
 	- customer is satisfied
 
-### 5G Module Cycle optimization
+### 5G Module Cycle optimization (STAR name: 5G optimization)
 - **Situation**: After first 5G phone call, the existing code is flexible yet low HW u-rate and high cycle
 	- 5G Control Channel code is not optimized, low utilization of hardware DSP
 	- We even have several review meeting, my supervisor let me handle this independently
@@ -287,7 +287,7 @@ Behavior Questions
 - **Result**:  Reduced computation cycle by 72% (less than 1K cycles) in 5G control channel decoding
 	- u-rate is high
 
-### STAR5G Project: MediaTek's first 5G Modem Helio M70 (World’s fastest) development 
+### MediaTek's first 5G Modem Helio M70 (World’s fastest) development (STAR name: 1st 5G) 
 - **Situation**: 2018, MediaTek has always been a quick follower but never a leader. In 5G era, company decide to move forward and compete with industry leader Qualcomm
 	- External challenge: develop, vendor, operator not aligned
 - **Task**:  Develop 5G FW for Control Channel when spec and architecture is on-going, balance between ***flexibility for on-going spec***, ***performance for customer***,  ***deadline*** and ***cost for company benefit***
@@ -1570,11 +1570,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM5ODc5NjAsLTEwMDQ2MjMzNzksLT
-UwOTkxMzM0MSwxMzIwNDU4ODQwLDI5MjMzNTE4OCwtMTc4MjUy
-OTI1Nyw0MjA2MjUwMjgsMTY0NTMzMTY3MSwtMzA2NjQ2ODA2LC
-0xNDAzMzI2NjMsLTk0ODQ4MjA2OCwtMjEzNzE0MjA2Nyw0MzM1
-Njg0NjgsOTczNTI3OTg3LDE5NjQxNzA4ODAsLTQyOTkxNTM1Ni
-wtMTkwMDMxMjA1LC0xMTEwOTgsLTUwNDg5MzA3OSwtMTY3MDI4
-ODExN119
+eyJoaXN0b3J5IjpbLTYwNDU2NTcxNCwtMTAwNDYyMzM3OSwtNT
+A5OTEzMzQxLDEzMjA0NTg4NDAsMjkyMzM1MTg4LC0xNzgyNTI5
+MjU3LDQyMDYyNTAyOCwxNjQ1MzMxNjcxLC0zMDY2NDY4MDYsLT
+E0MDMzMjY2MywtOTQ4NDgyMDY4LC0yMTM3MTQyMDY3LDQzMzU2
+ODQ2OCw5NzM1Mjc5ODcsMTk2NDE3MDg4MCwtNDI5OTE1MzU2LC
+0xOTAwMzEyMDUsLTExMTA5OCwtNTA0ODkzMDc5LC0xNjcwMjg4
+MTE3XX0=
 -->
