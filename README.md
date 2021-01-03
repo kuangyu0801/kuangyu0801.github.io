@@ -213,8 +213,8 @@ Behavior Questions
 - 2如果你设立一个目标你如何完成它？
 - 3你如何抽丝剥茧的处理问题？
 - 4为什么选择亚麻？
-- 5到目前为止自己取得的最大成就是？这次面试被问到的就是以上这些问题在面试前也有好好准备所以感觉不是很难希望大家都取得自己心仪的offer~
-
+- 5到目前为止自己取得的最大成就是？
+- 
 ## My STAR
 
 ### 講多次就很可信
@@ -1557,11 +1557,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTkxMzM0MSwxMzIwNDU4ODQwLDI5Mj
-MzNTE4OCwtMTc4MjUyOTI1Nyw0MjA2MjUwMjgsMTY0NTMzMTY3
-MSwtMzA2NjQ2ODA2LC0xNDAzMzI2NjMsLTk0ODQ4MjA2OCwtMj
-EzNzE0MjA2Nyw0MzM1Njg0NjgsOTczNTI3OTg3LDE5NjQxNzA4
-ODAsLTQyOTkxNTM1NiwtMTkwMDMxMjA1LC0xMTEwOTgsLTUwND
-g5MzA3OSwtMTY3MDI4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5
-XX0=
+eyJoaXN0b3J5IjpbLTEwMDQ2MjMzNzksLTUwOTkxMzM0MSwxMz
+IwNDU4ODQwLDI5MjMzNTE4OCwtMTc4MjUyOTI1Nyw0MjA2MjUw
+MjgsMTY0NTMzMTY3MSwtMzA2NjQ2ODA2LC0xNDAzMzI2NjMsLT
+k0ODQ4MjA2OCwtMjEzNzE0MjA2Nyw0MzM1Njg0NjgsOTczNTI3
+OTg3LDE5NjQxNzA4ODAsLTQyOTkxNTM1NiwtMTkwMDMxMjA1LC
+0xMTEwOTgsLTUwNDg5MzA3OSwtMTY3MDI4ODExNyw3MDE3NDIx
+NzBdfQ==
 -->
