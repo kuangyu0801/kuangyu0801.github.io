@@ -111,12 +111,12 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 - Focus on cloud computing, distributed system and network
 
 # [Top 10 Question](https://www.monster.com/career-advice/article/Top-10-Interview-Questions-Prep)
-## **1. What are your weaknesses?**
+**1. What are your weaknesses?**
 - i am too eager to deliver result or accomplishment, so big projects always frustrates me a little in the beginning
 	- later i learn from the idea of agile development, instead of doing all the survey in the front, i break each goals and requirement into small task and start early and move fast.
 - i am not really great at saying no to others, in the end, it will only make me work more, so later when i was assigned an role, i will clear out the responsibility and clarify the task so that other won't have false 
 
-## **2. Why should we hire you?**
+**2. Why should we hire you?**
 - Focus on the employer’s needs 
 	+ requirement: state-of-the-art software development, very proficient in Java programming, Python or Bash, Git 
 - Reflect on the job itself: in mediatek, i have worked on large project, version control, build , testing. regression, CR handling, issue report
@@ -124,14 +124,14 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 - can cooperate communicate with people from different background, fluent in English
 - plus i learn thing rather fast, i think i can contribute the job
 
-## **3. Why do you want to work here?**
+ **3. Why do you want to work here?**
 IBM has always been my top choice. IBM was and is still a technology giant with a diverse and globalized team and probably the only company that is still doing research and development while being a commercial success. 
 From circuit design to AI, i believe working in IBM will be a very crucial stepping stone for my future career.
 Also I could use the internship opportunity to get hands on experience on industry level project
 Chip, DeepBlue, 
 My supervisor in was an J. Watson Research Center, Manager, High-Perf. Circuit Design
 
-## **4. What are your goals?**
+**4. What are your goals?**
 My goal is to become a software developer for my career. 
 I believe the trend of digitalization will go even further in the future and more and more commercial opportunity.
 ABC(AI, Big Dat, Cloud)
@@ -140,7 +140,7 @@ ABC(AI, Big Dat, Cloud)
  i could either work in a big company or start one-man studio, doing free-lancing jobs
  there are a lot new technology, material, tutorial online courses.
 
-## **5. Why did you leave (or why are you leaving) your job?**
+**5. Why did you leave (or why are you leaving) your job?**
 - I want to shift my career into cloud computing and software development 
 - firmware development for me is a turning point, so I made the decision for career shift.
 - The prospect of cloud computing and software development is enormous, right now every services is on the cloud! (SaaS, PaaS, IaaS)
@@ -150,7 +150,7 @@ ABC(AI, Big Dat, Cloud)
 - The computing power of hardware is more than enough
 - ex. people buy new smartphone every two and three years but pay  spotify and netflix every month
 
-## **6. When were you most satisfied in your job?**
+**6. When were you most satisfied in your job?**
 The time we have our first 5G test chip back and my code is running smoothly. The first 5G attachment and phonecall is made.
 see my code is actually running with the chip and the correct configuration with new 5G test machine: UXM 5G 無線測試平台 from keysight 
 Radio Communication Test Station MT8000A from Anritsu
@@ -1557,11 +1557,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ2MjMzNzksLTUwOTkxMzM0MSwxMz
-IwNDU4ODQwLDI5MjMzNTE4OCwtMTc4MjUyOTI1Nyw0MjA2MjUw
-MjgsMTY0NTMzMTY3MSwtMzA2NjQ2ODA2LC0xNDAzMzI2NjMsLT
-k0ODQ4MjA2OCwtMjEzNzE0MjA2Nyw0MzM1Njg0NjgsOTczNTI3
-OTg3LDE5NjQxNzA4ODAsLTQyOTkxNTM1NiwtMTkwMDMxMjA1LC
-0xMTEwOTgsLTUwNDg5MzA3OSwtMTY3MDI4ODExNyw3MDE3NDIx
-NzBdfQ==
+eyJoaXN0b3J5IjpbLTM5NjQzOTI3NywtMTAwNDYyMzM3OSwtNT
+A5OTEzMzQxLDEzMjA0NTg4NDAsMjkyMzM1MTg4LC0xNzgyNTI5
+MjU3LDQyMDYyNTAyOCwxNjQ1MzMxNjcxLC0zMDY2NDY4MDYsLT
+E0MDMzMjY2MywtOTQ4NDgyMDY4LC0yMTM3MTQyMDY3LDQzMzU2
+ODQ2OCw5NzM1Mjc5ODcsMTk2NDE3MDg4MCwtNDI5OTE1MzU2LC
+0xOTAwMzEyMDUsLTExMTA5OCwtNTA0ODkzMDc5LC0xNjcwMjg4
+MTE3XX0=
 -->
