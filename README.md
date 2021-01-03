@@ -222,17 +222,17 @@ Behavior Questions
 
 | LP | My STAR |
 |--|--|
-| Customer Obsession | 4G LTE MIMO |
-| Ownership |-- |
-| Invent and Simplify|-- |
+| Customer Obsession | 4G Massive MIMO Feature |
+| Ownership |1st 5G Modem |
+| Invent and Simplify|5G Module Cycle optimization |
 | Are Right, A Lot | --|
 | Learn and Be Curious | --|
 | Hire and Develop the Best | --|
 |Think Big|--|
 |Bias for Action|--|
-|Frugality|--|
+|Frugality|4G Massive MIMO Feature|
 |Earn Trust|--|
-|Dive Deep|--|
+|Dive Deep|5G Module Cycle optimization|
 |Have Backbone; Disagree and Commit|--|
 |Deliver Results|--|
 
@@ -1543,11 +1543,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI1MjkyNTcsNDIwNjI1MDI4LDE2ND
-UzMzE2NzEsLTMwNjY0NjgwNiwtMTQwMzMyNjYzLC05NDg0ODIw
-NjgsLTIxMzcxNDIwNjcsNDMzNTY4NDY4LDk3MzUyNzk4NywxOT
-Y0MTcwODgwLC00Mjk5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4
-LC01MDQ4OTMwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2Nz
-Y3MjMwOSwtNTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcw
-Nl19
+eyJoaXN0b3J5IjpbMTAyODM1NTUyNywtMTc4MjUyOTI1Nyw0Mj
+A2MjUwMjgsMTY0NTMzMTY3MSwtMzA2NjQ2ODA2LC0xNDAzMzI2
+NjMsLTk0ODQ4MjA2OCwtMjEzNzE0MjA2Nyw0MzM1Njg0NjgsOT
+czNTI3OTg3LDE5NjQxNzA4ODAsLTQyOTkxNTM1NiwtMTkwMDMx
+MjA1LC0xMTEwOTgsLTUwNDg5MzA3OSwtMTY3MDI4ODExNyw3MD
+E3NDIxNzAsNjY3NjcyMzA5LC01NjczNzk0NjAsLTQ2NzE3MDA5
+MF19
 -->
