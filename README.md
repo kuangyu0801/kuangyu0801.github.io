@@ -141,7 +141,7 @@ ABC(AI, Big Dat, Cloud)
  there are a lot new technology, material, tutorial online courses.
 
 **5. Why did you leave (or why are you leaving) your job?**
-- STAR: shift-career
+- **STAR: shift-career**
 - I want to shift my career into cloud computing and software development 
 - firmware development for me is a turning point, so I made the decision for career shift.
 - The prospect of cloud computing and software development is enormous, right now every services is on the cloud! (SaaS, PaaS, IaaS)
@@ -152,6 +152,7 @@ ABC(AI, Big Dat, Cloud)
 - ex. people buy new smartphone every two and three years but pay  spotify and netflix every month
 
 **6. When were you most satisfied in your job?**
+- STAR: 1st 5G 
 The time we have our first 5G test chip back and my code is running smoothly. The first 5G attachment and phonecall is made.
 see my code is actually running with the chip and the correct configuration with new 5G test machine: UXM 5G 無線測試平台 from keysight 
 Radio Communication Test Station MT8000A from Anritsu
@@ -286,7 +287,7 @@ Behavior Questions
 - **Result**:  Reduced computation cycle by 72% (less than 1K cycles) in 5G control channel decoding
 	- u-rate is high
 
-### MediaTek's first 5G Modem Helio M70 (World’s fastest) development 
+### STAR5G Project: MediaTek's first 5G Modem Helio M70 (World’s fastest) development 
 - **Situation**: 2018, MediaTek has always been a quick follower but never a leader. In 5G era, company decide to move forward and compete with industry leader Qualcomm
 	- External challenge: develop, vendor, operator not aligned
 - **Task**:  Develop 5G FW for Control Channel when spec and architecture is on-going, balance between ***flexibility for on-going spec***, ***performance for customer***,  ***deadline*** and ***cost for company benefit***
@@ -323,6 +324,17 @@ Behavior Questions
 	- **Result**:
 		- internship offer from IBM
 		- Amazon OA1~OA3 complete 
+
+- I want to shift my career into cloud computing and software development 
+- firmware development for me is a turning point, so I made the decision for career shift.
+- The prospect of cloud computing and software development is enormous, right now every services is on the cloud! (SaaS, PaaS, IaaS)
+- The gross of telecommunication is limited, if you look at the technology behind 5G which is an optimized version of 4G, with same technology MIMO and OFDM, unlike from 3G to 4G is a huge leap
+- people 
+- Also the the IC/hardware industry has reached a saturation of demand, right now it about service not product. 
+- The computing power of hardware is more than enough
+- ex. people buy new smartphone every two and three years but pay  spotify and netflix every month
+
+
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
 - **Situation**: Keysight-MediaTek starts their first 5G NR Data Demo Camp in Beijing
@@ -1558,11 +1570,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTExMDk4OSwtMTAwNDYyMzM3OSwtNT
-A5OTEzMzQxLDEzMjA0NTg4NDAsMjkyMzM1MTg4LC0xNzgyNTI5
-MjU3LDQyMDYyNTAyOCwxNjQ1MzMxNjcxLC0zMDY2NDY4MDYsLT
-E0MDMzMjY2MywtOTQ4NDgyMDY4LC0yMTM3MTQyMDY3LDQzMzU2
-ODQ2OCw5NzM1Mjc5ODcsMTk2NDE3MDg4MCwtNDI5OTE1MzU2LC
-0xOTAwMzEyMDUsLTExMTA5OCwtNTA0ODkzMDc5LC0xNjcwMjg4
-MTE3XX0=
+eyJoaXN0b3J5IjpbLTExMTM5ODc5NjAsLTEwMDQ2MjMzNzksLT
+UwOTkxMzM0MSwxMzIwNDU4ODQwLDI5MjMzNTE4OCwtMTc4MjUy
+OTI1Nyw0MjA2MjUwMjgsMTY0NTMzMTY3MSwtMzA2NjQ2ODA2LC
+0xNDAzMzI2NjMsLTk0ODQ4MjA2OCwtMjEzNzE0MjA2Nyw0MzM1
+Njg0NjgsOTczNTI3OTg3LDE5NjQxNzA4ODAsLTQyOTkxNTM1Ni
+wtMTkwMDMxMjA1LC0xMTEwOTgsLTUwNDg5MzA3OSwtMTY3MDI4
+ODExN119
 -->
