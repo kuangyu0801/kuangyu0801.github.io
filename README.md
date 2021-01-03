@@ -49,7 +49,14 @@ Mac 鍵符號
 - Caps Lock 鍵 ⇪
 
 # TODO
-
+- 美国CS软件求职精华汇总：简历、刷题、系统设计、面试、内推、谈工资
+https://www.1point3acres.com/bbs/thread-303319-1-1.html
+(出处: 一亩三分地)
+九个要点每层回复里写一个：
+-	1CS自学基础课程和书籍清单-如果你没有基础或者基础薄弱
+-	2做项目简历提升
+-	3简历写作
+-	4刷题5系统设计课程6面试准备与练习7海投简历+内推8SoftSkills提升9来自桌子另一边的反馈以及杂谈
  - [ ] 履歷更新(排版)
 	 - [ ] LinkedIn Align with CV
 	 - [ ]  加入cloud computing project
@@ -1186,6 +1193,10 @@ numpy.linalg.solve
 ## 必看！！！千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
 - ### [力扣高頻一百清單](https://leetcode.com/problemset/top-interview-questions/)
 - ### [我的刷題紀錄](https://github.com/kuangyu0801/LeetcodeDailyCheckIn/tree/master/Leetcode)
+- 刷题入门干货篇-刷一道题等于几百美金，不香吗？
+https://www.1point3acres.com/bbs/thread-681692-1-1.html
+(出处: 一亩三分地)
+
 
 - ### 解答網站
 
@@ -1527,11 +1538,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwNjI1MDI4LDE2NDUzMzE2NzEsLTMwNj
-Y0NjgwNiwtMTQwMzMyNjYzLC05NDg0ODIwNjgsLTIxMzcxNDIw
-NjcsNDMzNTY4NDY4LDk3MzUyNzk4NywxOTY0MTcwODgwLC00Mj
-k5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4LC01MDQ4OTMwNzks
-LTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mz
-c5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcwNiwyMDMxNDgyMzg4
-XX0=
+eyJoaXN0b3J5IjpbLTE2NzM1MDUxNTgsNDIwNjI1MDI4LDE2ND
+UzMzE2NzEsLTMwNjY0NjgwNiwtMTQwMzMyNjYzLC05NDg0ODIw
+NjgsLTIxMzcxNDIwNjcsNDMzNTY4NDY4LDk3MzUyNzk4NywxOT
+Y0MTcwODgwLC00Mjk5MTUzNTYsLTE5MDAzMTIwNSwtMTExMDk4
+LC01MDQ4OTMwNzksLTE2NzAyODgxMTcsNzAxNzQyMTcwLDY2Nz
+Y3MjMwOSwtNTY3Mzc5NDYwLC00NjcxNzAwOTAsLTIyMDY2NDcw
+Nl19
 -->
