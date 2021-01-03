@@ -234,7 +234,7 @@ Behavior Questions
 |Earn Trust|--|
 |Dive Deep|5G Module Cycle optimization|
 |Have Backbone; Disagree and Commit|--|
-|Deliver Results|--|
+|Deliver Results|4G Massive MIMO Feature|
 
 - Customer Obsession: 4G Massive MIMO Feature
 - Ownership: first 5G Modem
@@ -1543,11 +1543,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODM1NTUyNywtMTc4MjUyOTI1Nyw0Mj
-A2MjUwMjgsMTY0NTMzMTY3MSwtMzA2NjQ2ODA2LC0xNDAzMzI2
-NjMsLTk0ODQ4MjA2OCwtMjEzNzE0MjA2Nyw0MzM1Njg0NjgsOT
-czNTI3OTg3LDE5NjQxNzA4ODAsLTQyOTkxNTM1NiwtMTkwMDMx
-MjA1LC0xMTEwOTgsLTUwNDg5MzA3OSwtMTY3MDI4ODExNyw3MD
-E3NDIxNzAsNjY3NjcyMzA5LC01NjczNzk0NjAsLTQ2NzE3MDA5
-MF19
+eyJoaXN0b3J5IjpbLTEzMDk2MzgwNDgsLTE3ODI1MjkyNTcsND
+IwNjI1MDI4LDE2NDUzMzE2NzEsLTMwNjY0NjgwNiwtMTQwMzMy
+NjYzLC05NDg0ODIwNjgsLTIxMzcxNDIwNjcsNDMzNTY4NDY4LD
+k3MzUyNzk4NywxOTY0MTcwODgwLC00Mjk5MTUzNTYsLTE5MDAz
+MTIwNSwtMTExMDk4LC01MDQ4OTMwNzksLTE2NzAyODgxMTcsNz
+AxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mzc5NDYwLC00NjcxNzAw
+OTBdfQ==
 -->
