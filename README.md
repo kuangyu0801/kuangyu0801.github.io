@@ -309,7 +309,7 @@ Behavior Questions
 	- 2019, 5G functionality successfully verified with UXM 5G and Radio Communication Test Station MT8000A from Anritsu
 	- 2020, now the product is adopted with customer OPPO, VIVO, Xiaomi
 ### Shift My Career to Software Development
-- **Situation**: 
+- **Situation**:  After working three years in the world's largetst integarated circuit design company as firmware engineer for three year, I realized that every is about compute
 	- **Task**: 
 	- **Action**: 
 	- **Result**: 
@@ -1548,11 +1548,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyMzM1MTg4LC0xNzgyNTI5MjU3LDQyMD
-YyNTAyOCwxNjQ1MzMxNjcxLC0zMDY2NDY4MDYsLTE0MDMzMjY2
-MywtOTQ4NDgyMDY4LC0yMTM3MTQyMDY3LDQzMzU2ODQ2OCw5Nz
-M1Mjc5ODcsMTk2NDE3MDg4MCwtNDI5OTE1MzU2LC0xOTAwMzEy
-MDUsLTExMTA5OCwtNTA0ODkzMDc5LC0xNjcwMjg4MTE3LDcwMT
-c0MjE3MCw2Njc2NzIzMDksLTU2NzM3OTQ2MCwtNDY3MTcwMDkw
-XX0=
+eyJoaXN0b3J5IjpbLTkwMTkzNzMwLDI5MjMzNTE4OCwtMTc4Mj
+UyOTI1Nyw0MjA2MjUwMjgsMTY0NTMzMTY3MSwtMzA2NjQ2ODA2
+LC0xNDAzMzI2NjMsLTk0ODQ4MjA2OCwtMjEzNzE0MjA2Nyw0Mz
+M1Njg0NjgsOTczNTI3OTg3LDE5NjQxNzA4ODAsLTQyOTkxNTM1
+NiwtMTkwMDMxMjA1LC0xMTEwOTgsLTUwNDg5MzA3OSwtMTY3MD
+I4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5LC01NjczNzk0NjBd
+fQ==
 -->
