@@ -308,7 +308,8 @@ Behavior Questions
 - **Result**: 
 	- 2019, 5G functionality successfully verified with UXM 5G and Radio Communication Test Station MT8000A from Anritsu
 	- 2020, now the product is adopted with customer OPPO, VIVO, Xiaomi
-
+### Shift My Career to Software Development
+- **Situation**: 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
 - **Situation**: Keysight-MediaTek starts their first 5G NR Data Demo Camp in Beijing
 - - **Task**: 
@@ -1543,11 +1544,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk2MzgwNDgsLTE3ODI1MjkyNTcsND
-IwNjI1MDI4LDE2NDUzMzE2NzEsLTMwNjY0NjgwNiwtMTQwMzMy
-NjYzLC05NDg0ODIwNjgsLTIxMzcxNDIwNjcsNDMzNTY4NDY4LD
-k3MzUyNzk4NywxOTY0MTcwODgwLC00Mjk5MTUzNTYsLTE5MDAz
-MTIwNSwtMTExMDk4LC01MDQ4OTMwNzksLTE2NzAyODgxMTcsNz
-AxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mzc5NDYwLC00NjcxNzAw
-OTBdfQ==
+eyJoaXN0b3J5IjpbOTA3NDU0MzA1LC0xNzgyNTI5MjU3LDQyMD
+YyNTAyOCwxNjQ1MzMxNjcxLC0zMDY2NDY4MDYsLTE0MDMzMjY2
+MywtOTQ4NDgyMDY4LC0yMTM3MTQyMDY3LDQzMzU2ODQ2OCw5Nz
+M1Mjc5ODcsMTk2NDE3MDg4MCwtNDI5OTE1MzU2LC0xOTAwMzEy
+MDUsLTExMTA5OCwtNTA0ODkzMDc5LC0xNjcwMjg4MTE3LDcwMT
+c0MjE3MCw2Njc2NzIzMDksLTU2NzM3OTQ2MCwtNDY3MTcwMDkw
+XX0=
 -->
