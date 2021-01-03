@@ -314,8 +314,14 @@ Behavior Questions
 		- Which path to take? gradually shift in work or almost restart
 		- 
 	- **Action**: 
-		- ga
-	- **Result**: 
+		- gather information online and from friend
+		- prepare and apply for school while working
+		- learning from scratch online
+		- learning german
+		- 
+	- **Result**:
+		- internship offer from IBM
+		- Amazon OA1~OA3 complete 
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
 - **Situation**: Keysight-MediaTek starts their first 5G NR Data Demo Camp in Beijing
@@ -1551,11 +1557,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwMzc0MTE1LDEzMjA0NTg4NDAsMjkyMz
-M1MTg4LC0xNzgyNTI5MjU3LDQyMDYyNTAyOCwxNjQ1MzMxNjcx
-LC0zMDY2NDY4MDYsLTE0MDMzMjY2MywtOTQ4NDgyMDY4LC0yMT
-M3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMTk2NDE3MDg4
-MCwtNDI5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5OCwtNTA0OD
-kzMDc5LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDld
-fQ==
+eyJoaXN0b3J5IjpbLTUwOTkxMzM0MSwxMzIwNDU4ODQwLDI5Mj
+MzNTE4OCwtMTc4MjUyOTI1Nyw0MjA2MjUwMjgsMTY0NTMzMTY3
+MSwtMzA2NjQ2ODA2LC0xNDAzMzI2NjMsLTk0ODQ4MjA2OCwtMj
+EzNzE0MjA2Nyw0MzM1Njg0NjgsOTczNTI3OTg3LDE5NjQxNzA4
+ODAsLTQyOTkxNTM1NiwtMTkwMDMxMjA1LC0xMTEwOTgsLTUwND
+g5MzA3OSwtMTY3MDI4ODExNyw3MDE3NDIxNzAsNjY3NjcyMzA5
+XX0=
 -->
