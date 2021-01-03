@@ -141,6 +141,7 @@ ABC(AI, Big Dat, Cloud)
  there are a lot new technology, material, tutorial online courses.
 
 **5. Why did you leave (or why are you leaving) your job?**
+- STAR: shift-career
 - I want to shift my career into cloud computing and software development 
 - firmware development for me is a turning point, so I made the decision for career shift.
 - The prospect of cloud computing and software development is enormous, right now every services is on the cloud! (SaaS, PaaS, IaaS)
@@ -170,9 +171,9 @@ Seeing my code actually work in real-world environment, not just some self-simul
 - 1,500 pro Monat als intern 
 - 100,000 pro Jahre als FullTime
 
-## **10. If you were an animal, which one would you want to be?**
+**10. If you were an animal, which one would you want to be?**
  
-## ** Why do you want to study another master in Germany**
+ **11. Why do you want to study another master in Germany**
 - I want to shift my career into software. I had a HW background, but my first job in a smart phone company is FW developer. Then I started to realized that, nowadays everything is all about software. People are paying Spotify/Netflix every month but only buy a smartphone every two to three year. Oppurtunity is  more about delivering "Service" than producing "Product".
 - german has the strongest ecomony and offer good job oppurtunities: Amzaon, Microsoft, Google all have bases in DE. All so, automobile industry in DE are very strong, in the near future, car compay
 - i believe in formal education, although there are online courses but fundamental is important, the quality of education in german uni is very high
@@ -1557,7 +1558,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NjQzOTI3NywtMTAwNDYyMzM3OSwtNT
+eyJoaXN0b3J5IjpbMTc4MTExMDk4OSwtMTAwNDYyMzM3OSwtNT
 A5OTEzMzQxLDEzMjA0NTg4NDAsMjkyMzM1MTg4LC0xNzgyNTI5
 MjU3LDQyMDYyNTAyOCwxNjQ1MzMxNjcxLC0zMDY2NDY4MDYsLT
 E0MDMzMjY2MywtOTQ4NDgyMDY4LC0yMTM3MTQyMDY3LDQzMzU2
