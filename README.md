@@ -310,8 +310,11 @@ Behavior Questions
 	- 2020, now the product is adopted with customer OPPO, VIVO, Xiaomi
 ### Shift My Career to Software Development
 - **Situation**:  After working three years in the world's largetst integarated circuit design company as firmware engineer for three year, I realized that every is about software and want to shift my career.
-	- **Task**: 
+	- **Task**: Series of decision  
+		- Which path to take? gradually shift in work or almost restart
+		- 
 	- **Action**: 
+		- ga
 	- **Result**: 
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
@@ -1548,11 +1551,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDQ1ODg0MCwyOTIzMzUxODgsLTE3OD
-I1MjkyNTcsNDIwNjI1MDI4LDE2NDUzMzE2NzEsLTMwNjY0Njgw
-NiwtMTQwMzMyNjYzLC05NDg0ODIwNjgsLTIxMzcxNDIwNjcsND
-MzNTY4NDY4LDk3MzUyNzk4NywxOTY0MTcwODgwLC00Mjk5MTUz
-NTYsLTE5MDAzMTIwNSwtMTExMDk4LC01MDQ4OTMwNzksLTE2Nz
-AyODgxMTcsNzAxNzQyMTcwLDY2NzY3MjMwOSwtNTY3Mzc5NDYw
-XX0=
+eyJoaXN0b3J5IjpbNDQwMzc0MTE1LDEzMjA0NTg4NDAsMjkyMz
+M1MTg4LC0xNzgyNTI5MjU3LDQyMDYyNTAyOCwxNjQ1MzMxNjcx
+LC0zMDY2NDY4MDYsLTE0MDMzMjY2MywtOTQ4NDgyMDY4LC0yMT
+M3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMTk2NDE3MDg4
+MCwtNDI5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5OCwtNTA0OD
+kzMDc5LC0xNjcwMjg4MTE3LDcwMTc0MjE3MCw2Njc2NzIzMDld
+fQ==
 -->
