@@ -334,8 +334,6 @@ Behavior Questions
 - The computing power of hardware is more than enough
 - ex. people buy new smartphone every two and three years but pay  spotify and netflix every month
 
-
-
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
 - **Situation**: Keysight-MediaTek starts their first 5G NR Data Demo Camp in Beijing
 - - **Task**: 
@@ -1571,11 +1569,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxNjY2NzQzLC02MDQ1NjU3MTQsLTEwMD
-Q2MjMzNzksLTUwOTkxMzM0MSwxMzIwNDU4ODQwLDI5MjMzNTE4
-OCwtMTc4MjUyOTI1Nyw0MjA2MjUwMjgsMTY0NTMzMTY3MSwtMz
-A2NjQ2ODA2LC0xNDAzMzI2NjMsLTk0ODQ4MjA2OCwtMjEzNzE0
-MjA2Nyw0MzM1Njg0NjgsOTczNTI3OTg3LDE5NjQxNzA4ODAsLT
-QyOTkxNTM1NiwtMTkwMDMxMjA1LC0xMTEwOTgsLTUwNDg5MzA3
-OV19
+eyJoaXN0b3J5IjpbMTg4ODc2ODczMSw0NjE2NjY3NDMsLTYwND
+U2NTcxNCwtMTAwNDYyMzM3OSwtNTA5OTEzMzQxLDEzMjA0NTg4
+NDAsMjkyMzM1MTg4LC0xNzgyNTI5MjU3LDQyMDYyNTAyOCwxNj
+Q1MzMxNjcxLC0zMDY2NDY4MDYsLTE0MDMzMjY2MywtOTQ4NDgy
+MDY4LC0yMTM3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMT
+k2NDE3MDg4MCwtNDI5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5
+OF19
 -->
