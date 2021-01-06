@@ -339,7 +339,7 @@ Behavior Questions
 - ex. people buy new smartphone every two and three years but pay  spotify and netflix every month
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
-- **Situation**: Keysight-MediaTek starts their first 5G NR Data Demo Camp in Beijing. Time ar
+- **Situation**: Keysight-MediaTek starts their first 5G NR Data Demo Camp in Beijing. Deadline are approaching for we only have 10 days to finish before the new year, and delay would result in next developping stage.
 - - **Task**: Cannot provide a testable file for testing. By that time DSP and MCU bin files are conflicting with each other with all sorts of error and , the code-base is very
 - - **Action**:  
 - - **Result**: 
@@ -1573,11 +1573,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDAxOTg2NTcsLTE1NTAxODAwNTQsND
-YxNjY2NzQzLC02MDQ1NjU3MTQsLTEwMDQ2MjMzNzksLTUwOTkx
-MzM0MSwxMzIwNDU4ODQwLDI5MjMzNTE4OCwtMTc4MjUyOTI1Ny
-w0MjA2MjUwMjgsMTY0NTMzMTY3MSwtMzA2NjQ2ODA2LC0xNDAz
-MzI2NjMsLTk0ODQ4MjA2OCwtMjEzNzE0MjA2Nyw0MzM1Njg0Nj
-gsOTczNTI3OTg3LDE5NjQxNzA4ODAsLTQyOTkxNTM1NiwtMTkw
-MDMxMjA1XX0=
+eyJoaXN0b3J5IjpbMTEwMDg5MTQzNiwtMTU1MDE4MDA1NCw0Nj
+E2NjY3NDMsLTYwNDU2NTcxNCwtMTAwNDYyMzM3OSwtNTA5OTEz
+MzQxLDEzMjA0NTg4NDAsMjkyMzM1MTg4LC0xNzgyNTI5MjU3LD
+QyMDYyNTAyOCwxNjQ1MzMxNjcxLC0zMDY2NDY4MDYsLTE0MDMz
+MjY2MywtOTQ4NDgyMDY4LC0yMTM3MTQyMDY3LDQzMzU2ODQ2OC
+w5NzM1Mjc5ODcsMTk2NDE3MDg4MCwtNDI5OTE1MzU2LC0xOTAw
+MzEyMDVdfQ==
 -->
