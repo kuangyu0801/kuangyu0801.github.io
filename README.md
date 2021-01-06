@@ -644,11 +644,12 @@ amazon的文化是什麼？
 - [x]  計網概
 - [x] Software Engineering: Uni Stuttgart WS20
 - [ ] Agile Software Development (Coursera)[https://www.coursera.org/learn/agile-software-development/home/welcome](https://www.coursera.org/learn/agile-software-development/home/welcome)
-
+### TO-CONSIDER
+- [ ]  [AWS Fundamentals: Going Cloud-Native from AWS Fundamentals Specialization(Coursera)](https://coursera.org/share/7965486607405adf9331f5b2bd7253c9)
 ### Obsolete
 ~~- [ ] [Software Development Process (Udacity)](https://classroom.udacity.com/courses/ud805)~~(有修SER)
 ~~- [ ]  Computer Vision: Uni Stuttgart~~(不實用，對工作沒幫助）
-# Joanna List 
+## Joanna List 
 Janna LinkedIn: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
 - [ ] Introduction to Databases
 - [ ] Web Application
@@ -660,8 +661,8 @@ Janna LinkedIn: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com
 # 好用網站
 - 畫流程圖[https://app.diagrams.net/](https://app.diagrams.net/): 可以直接在上面編輯數學公式為 latex format
 Enable mathematical typesetting via _Extras_->_Mathematical Typesetting._ The following syntax is supported:
-# TO-CONSIDER
-- [ ]  [AWS Fundamentals: Going Cloud-Native from AWS Fundamentals Specialization(Coursera)](https://coursera.org/share/7965486607405adf9331f5b2bd7253c9)
+
+
 # Mind Set
 不要放棄！一般情況，申請三十家只有一家會回覆（還不是offer），所以千萬不要在意，想想人家在英國連奶茶店員工都應徵不上！
 目前schedule:
@@ -1570,11 +1571,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDU2NTcxNCwtMTAwNDYyMzM3OSwtNT
-A5OTEzMzQxLDEzMjA0NTg4NDAsMjkyMzM1MTg4LC0xNzgyNTI5
-MjU3LDQyMDYyNTAyOCwxNjQ1MzMxNjcxLC0zMDY2NDY4MDYsLT
-E0MDMzMjY2MywtOTQ4NDgyMDY4LC0yMTM3MTQyMDY3LDQzMzU2
-ODQ2OCw5NzM1Mjc5ODcsMTk2NDE3MDg4MCwtNDI5OTE1MzU2LC
-0xOTAwMzEyMDUsLTExMTA5OCwtNTA0ODkzMDc5LC0xNjcwMjg4
-MTE3XX0=
+eyJoaXN0b3J5IjpbNDYxNjY2NzQzLC02MDQ1NjU3MTQsLTEwMD
+Q2MjMzNzksLTUwOTkxMzM0MSwxMzIwNDU4ODQwLDI5MjMzNTE4
+OCwtMTc4MjUyOTI1Nyw0MjA2MjUwMjgsMTY0NTMzMTY3MSwtMz
+A2NjQ2ODA2LC0xNDAzMzI2NjMsLTk0ODQ4MjA2OCwtMjEzNzE0
+MjA2Nyw0MzM1Njg0NjgsOTczNTI3OTg3LDE5NjQxNzA4ODAsLT
+QyOTkxNTM1NiwtMTkwMDMxMjA1LC0xMTEwOTgsLTUwNDg5MzA3
+OV19
 -->
