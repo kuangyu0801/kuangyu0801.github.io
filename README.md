@@ -340,8 +340,8 @@ Behavior Questions
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing
 - **Situation**: Keysight-MediaTek starts their first 5G NR Data Demo Camp in Beijing
-- - **Task**: 
-- - **Action**: 
+- - **Task**: Cannot provide a testable file for testing DSP and MCU bin files are conflicting with each other, the code-base is very
+- - **Action**:  
 - - **Result**: 
 
 ### Projects from Android
@@ -1573,11 +1573,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTAxODAwNTQsNDYxNjY2NzQzLC02MD
-Q1NjU3MTQsLTEwMDQ2MjMzNzksLTUwOTkxMzM0MSwxMzIwNDU4
-ODQwLDI5MjMzNTE4OCwtMTc4MjUyOTI1Nyw0MjA2MjUwMjgsMT
-Y0NTMzMTY3MSwtMzA2NjQ2ODA2LC0xNDAzMzI2NjMsLTk0ODQ4
-MjA2OCwtMjEzNzE0MjA2Nyw0MzM1Njg0NjgsOTczNTI3OTg3LD
-E5NjQxNzA4ODAsLTQyOTkxNTM1NiwtMTkwMDMxMjA1LC0xMTEw
-OThdfQ==
+eyJoaXN0b3J5IjpbMTE5ODI4MjM5NCwtMTU1MDE4MDA1NCw0Nj
+E2NjY3NDMsLTYwNDU2NTcxNCwtMTAwNDYyMzM3OSwtNTA5OTEz
+MzQxLDEzMjA0NTg4NDAsMjkyMzM1MTg4LC0xNzgyNTI5MjU3LD
+QyMDYyNTAyOCwxNjQ1MzMxNjcxLC0zMDY2NDY4MDYsLTE0MDMz
+MjY2MywtOTQ4NDgyMDY4LC0yMTM3MTQyMDY3LDQzMzU2ODQ2OC
+w5NzM1Mjc5ODcsMTk2NDE3MDg4MCwtNDI5OTE1MzU2LC0xOTAw
+MzEyMDVdfQ==
 -->
