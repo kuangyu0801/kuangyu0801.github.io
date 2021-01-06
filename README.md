@@ -314,13 +314,11 @@ Behavior Questions
 - **Situation**:  After working three years in the world's largetst integarated circuit design company as firmware engineer for three year, I realized that every is about software and want to shift my career.
 	- **Task**: Series of decision  
 		- Which path to take? gradually shift in work or almost restart
-		- 
 	- **Action**: 
 		- gather information online and from friend
 		- prepare and apply for school while working
 		- learning from scratch online
 		- learning german
-		- 
 	- **Result**:
 		- internship offer from IBM
 		- Amazon OA1~OA3 complete 
@@ -1569,7 +1567,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODc2ODczMSw0NjE2NjY3NDMsLTYwND
+eyJoaXN0b3J5IjpbMTE2MzI1MTI0OSw0NjE2NjY3NDMsLTYwND
 U2NTcxNCwtMTAwNDYyMzM3OSwtNTA5OTEzMzQxLDEzMjA0NTg4
 NDAsMjkyMzM1MTg4LC0xNzgyNTI5MjU3LDQyMDYyNTAyOCwxNj
 Q1MzMxNjcxLC0zMDY2NDY4MDYsLTE0MDMzMjY2MywtOTQ4NDgy
