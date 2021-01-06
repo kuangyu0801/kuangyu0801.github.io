@@ -186,13 +186,19 @@ Seeing my code actually work in real-world environment, not just some self-simul
 Behavior Questions
 - 真的感谢亚麻得14条，准备了亚麻得14条，其他所有的公司的BQ都不怕了。建议大家是不是面亚麻，都好好看看他的14条。地里的大神们都总结的头头是道，可以参考过来人的经验，还有Youtube上有个叫Dan的人总结的如何回答亚麻14条。
 - 自我介绍 (5min):
-- 1. tell me a time when you had a challenge project -> 5G example
-- 2. tell me a time you had to make a decision when you didn't have much info
-- 3. Why do you choose Amazon ? AWS!
-    + Domain perspective: Deep in Cloud Computing, now everything is a cloud, Lots effort in all area, 
-    + Career perspective: Well Organized Compensated with training program help new grad student to have a good start, value people by potential, experience form work-flow   good compensation
-    + Personal perspective: location around the world, possible for transfer back to Asia
-- tight ddl, most challenging project, out of comfort zone
+- Tell me a time when you had a challenge project -> 5G example
+- Tell me a time you had to make a decision when you didn't have much info
+- 3. Why do you choose Amazon ? (AWS)  
+ + reference  
+      + WHY AMAZON? Interview QUESTION & TOP SCORING ANSWER! https://youtu.be/r3Rgp-Ja0mI  
+          + Customer centric, provide excellent services  
+          + Most innovate company with most brilliant people  
+              + related project, Alexa, AWS, Amazon Go, Amazon Prime Air, Amazon Kindle  
+          + I will reach my full potential, and I will get to achieve some pretty amazing things whilst working here.  
+      + My answer  
+          + Domain perspective: Deep in Cloud Computing, now every service is based on cloud. AWS from Amazon is the most powerful cloud technology.   
+          + Career perspective: Well Organized Compensated with training program help new grad student to have a good start, value people by potential, experience form work-flow   good compensation  
+          + Personal perspective: location around the world, possible for transfer back to Asia
 - leadership问了 how to communicate with the teammate, if u guys have some disagreements.
 - how to choose between different technical stack?
 - project 的deadline 快到，做了什么trade-off, deadline过后有没有做什么 improvement，怎么做
@@ -1567,11 +1573,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzI1MTI0OSw0NjE2NjY3NDMsLTYwND
-U2NTcxNCwtMTAwNDYyMzM3OSwtNTA5OTEzMzQxLDEzMjA0NTg4
-NDAsMjkyMzM1MTg4LC0xNzgyNTI5MjU3LDQyMDYyNTAyOCwxNj
-Q1MzMxNjcxLC0zMDY2NDY4MDYsLTE0MDMzMjY2MywtOTQ4NDgy
-MDY4LC0yMTM3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMT
-k2NDE3MDg4MCwtNDI5OTE1MzU2LC0xOTAwMzEyMDUsLTExMTA5
-OF19
+eyJoaXN0b3J5IjpbLTE1NTAxODAwNTQsNDYxNjY2NzQzLC02MD
+Q1NjU3MTQsLTEwMDQ2MjMzNzksLTUwOTkxMzM0MSwxMzIwNDU4
+ODQwLDI5MjMzNTE4OCwtMTc4MjUyOTI1Nyw0MjA2MjUwMjgsMT
+Y0NTMzMTY3MSwtMzA2NjQ2ODA2LC0xNDAzMzI2NjMsLTk0ODQ4
+MjA2OCwtMjEzNzE0MjA2Nyw0MzM1Njg0NjgsOTczNTI3OTg3LD
+E5NjQxNzA4ODAsLTQyOTkxNTM1NiwtMTkwMDMxMjA1LC0xMTEw
+OThdfQ==
 -->
