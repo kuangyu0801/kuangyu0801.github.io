@@ -134,7 +134,7 @@ My supervisor in was an J. Watson Research Center, Manager, High-Perf. Circuit D
 **4. What are your goals?**
 My goal is to become a software developer for my career. 
 I believe the trend of digitalization will go even further in the future and more and more commercial opportunity.
-ABC(AI, Big Dat, Cloud)
+ABC (AI, Big Dat, Cloud)
  
  Also i think a software career is longstanding and self-developing, and flexibel,
  i could either work in a big company or start one-man studio, doing free-lancing jobs
@@ -1581,7 +1581,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDk2MDI1MywtMTQ5Njc4NzgxMSwxMT
+eyJoaXN0b3J5IjpbLTU1NjkwMTM3MSwtMTQ5Njc4NzgxMSwxMT
 AwODkxNDM2LC0xNTUwMTgwMDU0LDQ2MTY2Njc0MywtNjA0NTY1
 NzE0LC0xMDA0NjIzMzc5LC01MDk5MTMzNDEsMTMyMDQ1ODg0MC
 wyOTIzMzUxODgsLTE3ODI1MjkyNTcsNDIwNjI1MDI4LDE2NDUz
