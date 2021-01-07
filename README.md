@@ -158,17 +158,17 @@ see my code is actually running with the chip and the correct configuration with
 Radio Communication Test Station MT8000A from Anritsu
 
 Seeing my code actually work in real-world environment, not just some self-simulation environment is really satisfying! All the theory, algorithm, HW/SW implementation works hand-in hand
-## **7. What can you do for us that other candidates can't?**
+ **7. What can you do for us that other candidates can't?**
 - highly-motivated in area of software and cloud
 - fast learner
 - team player from previous work experience, technically wise i have participated in 3 large project across team
 - rigorous programming with  6K code lines, reviewed and maintained 20K code lines in C/C++
-## **8. What are three positive things your last boss would say about you?**
+**8. What are three positive things your last boss would say about you?**
 - responsible ( delivery result),  case in point: 4G LTE MIMO. 5G phonecall
 - self-motivating
 - teamplayer, case in point: 4G/5G issue handling and 5G MTK, Keysight joint boot-camp
 
-## **9. What salary are you seeking?**
+ **9. What salary are you seeking?**
 - 1,500 pro Monat als intern 
 - 100,000 pro Jahre als FullTime
 
@@ -1581,11 +1581,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQ3NzA5NzcsLTE0OTY3ODc4MTEsMT
-EwMDg5MTQzNiwtMTU1MDE4MDA1NCw0NjE2NjY3NDMsLTYwNDU2
-NTcxNCwtMTAwNDYyMzM3OSwtNTA5OTEzMzQxLDEzMjA0NTg4ND
-AsMjkyMzM1MTg4LC0xNzgyNTI5MjU3LDQyMDYyNTAyOCwxNjQ1
-MzMxNjcxLC0zMDY2NDY4MDYsLTE0MDMzMjY2MywtOTQ4NDgyMD
-Y4LC0yMTM3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMTk2
-NDE3MDg4MF19
+eyJoaXN0b3J5IjpbLTc3MDk2MDI1MywtMTQ5Njc4NzgxMSwxMT
+AwODkxNDM2LC0xNTUwMTgwMDU0LDQ2MTY2Njc0MywtNjA0NTY1
+NzE0LC0xMDA0NjIzMzc5LC01MDk5MTMzNDEsMTMyMDQ1ODg0MC
+wyOTIzMzUxODgsLTE3ODI1MjkyNTcsNDIwNjI1MDI4LDE2NDUz
+MzE2NzEsLTMwNjY0NjgwNiwtMTQwMzMyNjYzLC05NDg0ODIwNj
+gsLTIxMzcxNDIwNjcsNDMzNTY4NDY4LDk3MzUyNzk4NywxOTY0
+MTcwODgwXX0=
 -->
