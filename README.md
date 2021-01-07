@@ -340,11 +340,12 @@ Behavior Questions
 
 ### Keysight-MediaTek 5G NR Data Demo Camp in Beijing (STAR code: 5G On-site)
 - **
-- **Situation**: Keysight-MediaTek starts their first 5G NR Data Demo Camp in Beijing. Deadline are approaching for we only have 10 days to finish before the new year, and delay would result in next developping stage.
+- **Situation**: 1st 5G Data Phone Call on a rush schedule before new year
+	- Keysight-MediaTek starts their first 5G NR Data Demo Camp in Beijing. Deadline are approaching for we only have 10 days to finish before the new year, and delay would result in next developping stage.
 -  **Task**: 
 	- HQ Cannot provide a testable executable for testing. By that time DSP and MCU bin files are conflicting with each other with all sorts of error and. 
 	- The project team makes us the 3rd in priority
-	- Asking some in HQ 
+	- Asking some in HQ to shelve a patch for here is almost impossible
 -  **Action**:  I took the liberty of merging the code on my own
 	- examine and compare the daily regression report
 	- creating local branches, submitting individual IT testing. After comfirming a solid bin, I use this for testing.
@@ -1579,11 +1580,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzNzA4OTM2LC0xNDk2Nzg3ODExLDExMD
-A4OTE0MzYsLTE1NTAxODAwNTQsNDYxNjY2NzQzLC02MDQ1NjU3
-MTQsLTEwMDQ2MjMzNzksLTUwOTkxMzM0MSwxMzIwNDU4ODQwLD
-I5MjMzNTE4OCwtMTc4MjUyOTI1Nyw0MjA2MjUwMjgsMTY0NTMz
-MTY3MSwtMzA2NjQ2ODA2LC0xNDAzMzI2NjMsLTk0ODQ4MjA2OC
-wtMjEzNzE0MjA2Nyw0MzM1Njg0NjgsOTczNTI3OTg3LDE5NjQx
-NzA4ODBdfQ==
+eyJoaXN0b3J5IjpbLTIxMDcwOTMzMjksLTE0OTY3ODc4MTEsMT
+EwMDg5MTQzNiwtMTU1MDE4MDA1NCw0NjE2NjY3NDMsLTYwNDU2
+NTcxNCwtMTAwNDYyMzM3OSwtNTA5OTEzMzQxLDEzMjA0NTg4ND
+AsMjkyMzM1MTg4LC0xNzgyNTI5MjU3LDQyMDYyNTAyOCwxNjQ1
+MzMxNjcxLC0zMDY2NDY4MDYsLTE0MDMzMjY2MywtOTQ4NDgyMD
+Y4LC0yMTM3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMTk2
+NDE3MDg4MF19
 -->
