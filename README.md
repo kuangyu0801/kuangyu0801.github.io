@@ -236,13 +236,13 @@ Behavior Questions
 | Are Right, A Lot | --|
 | Learn and Be Curious | --|
 | Hire and Develop the Best | --|
-|Think Big|--|
-|Bias for Action|5G On-site|
-|Frugality|4G Massive MIMO Feature|
-|Earn Trust|--|
-|Dive Deep|5G Module Cycle optimization|
-|Have Backbone; Disagree and Commit|--|
-|Deliver Results|4G Massive MIMO Feature|
+| Think Big|--|
+| Bias for Action |5G On-site|
+| Frugality |4G Massive MIMO Feature|
+| Earn Trust |--|
+| Dive Deep |5G Optimization|
+| Have Backbone; Disagree and Commit|--|
+| Deliver Results |4G MIMO|
 
 - Customer Obsession: 4G Massive MIMO Feature
 - Ownership: first 5G Modem
@@ -1574,11 +1574,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjUyMzkzNywtMTQ5Njc4NzgxMSwxMT
-AwODkxNDM2LC0xNTUwMTgwMDU0LDQ2MTY2Njc0MywtNjA0NTY1
-NzE0LC0xMDA0NjIzMzc5LC01MDk5MTMzNDEsMTMyMDQ1ODg0MC
-wyOTIzMzUxODgsLTE3ODI1MjkyNTcsNDIwNjI1MDI4LDE2NDUz
-MzE2NzEsLTMwNjY0NjgwNiwtMTQwMzMyNjYzLC05NDg0ODIwNj
-gsLTIxMzcxNDIwNjcsNDMzNTY4NDY4LDk3MzUyNzk4NywxOTY0
-MTcwODgwXX0=
+eyJoaXN0b3J5IjpbLTIyOTUxMTU1LC0xNDk2Nzg3ODExLDExMD
+A4OTE0MzYsLTE1NTAxODAwNTQsNDYxNjY2NzQzLC02MDQ1NjU3
+MTQsLTEwMDQ2MjMzNzksLTUwOTkxMzM0MSwxMzIwNDU4ODQwLD
+I5MjMzNTE4OCwtMTc4MjUyOTI1Nyw0MjA2MjUwMjgsMTY0NTMz
+MTY3MSwtMzA2NjQ2ODA2LC0xNDAzMzI2NjMsLTk0ODQ4MjA2OC
+wtMjEzNzE0MjA2Nyw0MzM1Njg0NjgsOTczNTI3OTg3LDE5NjQx
+NzA4ODBdfQ==
 -->
