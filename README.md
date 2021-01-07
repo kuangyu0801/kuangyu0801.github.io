@@ -244,20 +244,6 @@ Behavior Questions
 | Have Backbone; Disagree and Commit|--|
 | Deliver Results |4G MIMO|
 
-- Customer Obsession: 4G Massive MIMO Feature
-- Ownership: first 5G Modem
-- Invent and Simplify: 5G Module Cycle optimization
-- Are Right, A Lot
-- Learn and Be Curious
-- Hire and Develop the Best
-- Think Big: 5G Module Cycle optimization
-- Bias for Action: 5G Module Cycle optimization, 4G Massive MIMO Feature
-- Frugality: 4G Massive MIMO Feature
-- Earn Trust:
-- Dive Deep:
-- Have Backbone; Disagree and Commit
-- Deliver Results: 4G Massive MIMO Feature
-
 ### 4G Massive MIMO Feature (STAR name: 4G MIMO)
 - Customer obsession, 
 - **Situation**: Customer(Samsung) wants new feature  4G LTE Massive MIMO to be supported in the existing product
@@ -1581,11 +1567,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTQyOTQxNiwtNTU2OTAxMzcxLC0xND
-k2Nzg3ODExLDExMDA4OTE0MzYsLTE1NTAxODAwNTQsNDYxNjY2
-NzQzLC02MDQ1NjU3MTQsLTEwMDQ2MjMzNzksLTUwOTkxMzM0MS
-wxMzIwNDU4ODQwLDI5MjMzNTE4OCwtMTc4MjUyOTI1Nyw0MjA2
-MjUwMjgsMTY0NTMzMTY3MSwtMzA2NjQ2ODA2LC0xNDAzMzI2Nj
-MsLTk0ODQ4MjA2OCwtMjEzNzE0MjA2Nyw0MzM1Njg0NjgsOTcz
-NTI3OTg3XX0=
+eyJoaXN0b3J5IjpbNTg2ODE1ODc1LDE4NTU0Mjk0MTYsLTU1Nj
+kwMTM3MSwtMTQ5Njc4NzgxMSwxMTAwODkxNDM2LC0xNTUwMTgw
+MDU0LDQ2MTY2Njc0MywtNjA0NTY1NzE0LC0xMDA0NjIzMzc5LC
+01MDk5MTMzNDEsMTMyMDQ1ODg0MCwyOTIzMzUxODgsLTE3ODI1
+MjkyNTcsNDIwNjI1MDI4LDE2NDUzMzE2NzEsLTMwNjY0NjgwNi
+wtMTQwMzMyNjYzLC05NDg0ODIwNjgsLTIxMzcxNDIwNjcsNDMz
+NTY4NDY4XX0=
 -->
