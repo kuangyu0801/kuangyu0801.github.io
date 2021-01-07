@@ -238,7 +238,7 @@ Behavior Questions
 | Hire and Develop the Best | --|
 | Think Big|--|
 | Bias for Action |5G On-site|
-| Frugality |4G Massive MIMO Feature|
+| Frugality |4G MIMO|
 | Earn Trust |--|
 | Dive Deep |5G Optimization|
 | Have Backbone; Disagree and Commit|--|
@@ -1581,11 +1581,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzc5NDk1NywtMTQ5Njc4NzgxMSwxMT
-AwODkxNDM2LC0xNTUwMTgwMDU0LDQ2MTY2Njc0MywtNjA0NTY1
-NzE0LC0xMDA0NjIzMzc5LC01MDk5MTMzNDEsMTMyMDQ1ODg0MC
-wyOTIzMzUxODgsLTE3ODI1MjkyNTcsNDIwNjI1MDI4LDE2NDUz
-MzE2NzEsLTMwNjY0NjgwNiwtMTQwMzMyNjYzLC05NDg0ODIwNj
-gsLTIxMzcxNDIwNjcsNDMzNTY4NDY4LDk3MzUyNzk4NywxOTY0
-MTcwODgwXX0=
+eyJoaXN0b3J5IjpbLTE5NjQ3NzA5NzcsLTE0OTY3ODc4MTEsMT
+EwMDg5MTQzNiwtMTU1MDE4MDA1NCw0NjE2NjY3NDMsLTYwNDU2
+NTcxNCwtMTAwNDYyMzM3OSwtNTA5OTEzMzQxLDEzMjA0NTg4ND
+AsMjkyMzM1MTg4LC0xNzgyNTI5MjU3LDQyMDYyNTAyOCwxNjQ1
+MzMxNjcxLC0zMDY2NDY4MDYsLTE0MDMzMjY2MywtOTQ4NDgyMD
+Y4LC0yMTM3MTQyMDY3LDQzMzU2ODQ2OCw5NzM1Mjc5ODcsMTk2
+NDE3MDg4MF19
 -->
