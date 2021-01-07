@@ -343,9 +343,12 @@ Behavior Questions
 - **Situation**: Keysight-MediaTek starts their first 5G NR Data Demo Camp in Beijing. Deadline are approaching for we only have 10 days to finish before the new year, and delay would result in next developping stage.
 -  **Task**: 
 	- HQ Cannot provide a testable executable for testing. By that time DSP and MCU bin files are conflicting with each other with all sorts of error and. 
-	- The project team makes us the 3rd in prioritythe code-base is very 
--  **Action**:  I took the liberty of merging the code on my own, creating local branches, submitting individual IT testing. After comfirming a solid bin, I use this for testing.
--  **Result**:  The load worked and we can proceed with further developing and verification
+	- The project team makes us the 3rd in priority
+	- Asking some in HQ 
+-  **Action**:  I took the liberty of merging the code on my own
+	- examine and compare the daily regression report
+	- creating local branches, submitting individual IT testing. After comfirming a solid bin, I use this for testing.
+-  **Result**:  The load worked and we can proceed with further developing and verification without being hold back-by-HQ
 
 ### Projects from Android
 - **Situation**: 
@@ -1576,7 +1579,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5MTcxMDU5LC0xNDk2Nzg3ODExLDExMD
+eyJoaXN0b3J5IjpbNTkzNzA4OTM2LC0xNDk2Nzg3ODExLDExMD
 A4OTE0MzYsLTE1NTAxODAwNTQsNDYxNjY2NzQzLC02MDQ1NjU3
 MTQsLTEwMDQ2MjMzNzksLTUwOTkxMzM0MSwxMzIwNDU4ODQwLD
 I5MjMzNTE4OCwtMTc4MjUyOTI1Nyw0MjA2MjUwMjgsMTY0NTMz
