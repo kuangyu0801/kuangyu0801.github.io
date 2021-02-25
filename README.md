@@ -407,6 +407,9 @@ My name is Kuang-Yu Li from Taiwan. I am currently a master student of Informati
 Take a great photo
 Edit your headline
 Draft a compelling summary:
+- 1~2 sentences about who you are
+- 3~5 sentences about experience top skills
+- 1-2 setences about future goal and how other members can engage with me.
 Add your industry
 Detail your work experience
 Add examples of your work/company
@@ -1578,11 +1581,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQ5NzIyNTcsNTg2ODE1ODc1LDE4NT
-U0Mjk0MTYsLTU1NjkwMTM3MSwtMTQ5Njc4NzgxMSwxMTAwODkx
-NDM2LC0xNTUwMTgwMDU0LDQ2MTY2Njc0MywtNjA0NTY1NzE0LC
-0xMDA0NjIzMzc5LC01MDk5MTMzNDEsMTMyMDQ1ODg0MCwyOTIz
-MzUxODgsLTE3ODI1MjkyNTcsNDIwNjI1MDI4LDE2NDUzMzE2Nz
-EsLTMwNjY0NjgwNiwtMTQwMzMyNjYzLC05NDg0ODIwNjgsLTIx
-MzcxNDIwNjddfQ==
+eyJoaXN0b3J5IjpbLTE0Mzk1ODA3NywtMTk0NDk3MjI1Nyw1OD
+Y4MTU4NzUsMTg1NTQyOTQxNiwtNTU2OTAxMzcxLC0xNDk2Nzg3
+ODExLDExMDA4OTE0MzYsLTE1NTAxODAwNTQsNDYxNjY2NzQzLC
+02MDQ1NjU3MTQsLTEwMDQ2MjMzNzksLTUwOTkxMzM0MSwxMzIw
+NDU4ODQwLDI5MjMzNTE4OCwtMTc4MjUyOTI1Nyw0MjA2MjUwMj
+gsMTY0NTMzMTY3MSwtMzA2NjQ2ODA2LC0xNDAzMzI2NjMsLTk0
+ODQ4MjA2OF19
 -->
