@@ -403,6 +403,10 @@ Enclosed are my resume and transcript highlighting my education and work experie
 My name is Kuang-Yu Li from Taiwan. I am currently a master student of Information Technology in my 3rd semester at University of Stuttgart in Germany. I am a highly-motivated student with concentration on Cloud Computing, Distributed System and Network Technology. I am  team player with my extensive work experience as an 5G smartphone firmware developer in MediaTek Inc. in Taiwan.
 
 # 不要害怕海投海面 
+
+Draft a compelling summary:
+Add your ind
+
 ## 目標：收到10個interview
 要有投30家才有一個面試的機會的心理準備
 
@@ -1567,11 +1571,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2ODE1ODc1LDE4NTU0Mjk0MTYsLTU1Nj
-kwMTM3MSwtMTQ5Njc4NzgxMSwxMTAwODkxNDM2LC0xNTUwMTgw
-MDU0LDQ2MTY2Njc0MywtNjA0NTY1NzE0LC0xMDA0NjIzMzc5LC
-01MDk5MTMzNDEsMTMyMDQ1ODg0MCwyOTIzMzUxODgsLTE3ODI1
-MjkyNTcsNDIwNjI1MDI4LDE2NDUzMzE2NzEsLTMwNjY0NjgwNi
-wtMTQwMzMyNjYzLC05NDg0ODIwNjgsLTIxMzcxNDIwNjcsNDMz
-NTY4NDY4XX0=
+eyJoaXN0b3J5IjpbLTE1NTc2MzM1MzAsNTg2ODE1ODc1LDE4NT
+U0Mjk0MTYsLTU1NjkwMTM3MSwtMTQ5Njc4NzgxMSwxMTAwODkx
+NDM2LC0xNTUwMTgwMDU0LDQ2MTY2Njc0MywtNjA0NTY1NzE0LC
+0xMDA0NjIzMzc5LC01MDk5MTMzNDEsMTMyMDQ1ODg0MCwyOTIz
+MzUxODgsLTE3ODI1MjkyNTcsNDIwNjI1MDI4LDE2NDUzMzE2Nz
+EsLTMwNjY0NjgwNiwtMTQwMzMyNjYzLC05NDg0ODIwNjgsLTIx
+MzcxNDIwNjddfQ==
 -->
