@@ -34,6 +34,8 @@
 - [Java](#java)
   * [Java知識總整理大補包](#java知識總整理大補包)
   * [IntelliJ](#intellij)
+- [Environtment](#environtment)
+  * [Text Editor](#text-editor)
 - [Git and Github](#git-and-github)
 - [Python](#python)
   * [numpy](#sub-heading-1)
@@ -998,6 +1000,7 @@ JetBrain文章[https://www.jetbrains.com/help/idea/apply-changes-from-one-branch
 ```
 ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
 ```
+ref: https://www.sublimetext.com/docs/3/osx_command_line.html
 # Java
 ## [Java知識總整理大補包](https://drive.google.com/file/d/1voJnGUnO34fW9k70s-ECjATN-g5bS3t1/view?usp=sharing)
 - 黑馬Java教學，有規劃有組織且超級清楚！！！[# 2019年IDEA版黑马Java就业班-基础+高级](https://www.bilibili.com/video/BV1T7411m7Ta/?p=332)
@@ -1586,11 +1589,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTk1NjcxNSwtMTQzOTU4MDc3LC0xOT
-Q0OTcyMjU3LDU4NjgxNTg3NSwxODU1NDI5NDE2LC01NTY5MDEz
-NzEsLTE0OTY3ODc4MTEsMTEwMDg5MTQzNiwtMTU1MDE4MDA1NC
-w0NjE2NjY3NDMsLTYwNDU2NTcxNCwtMTAwNDYyMzM3OSwtNTA5
-OTEzMzQxLDEzMjA0NTg4NDAsMjkyMzM1MTg4LC0xNzgyNTI5Mj
-U3LDQyMDYyNTAyOCwxNjQ1MzMxNjcxLC0zMDY2NDY4MDYsLTE0
-MDMzMjY2M119
+eyJoaXN0b3J5IjpbLTQ1MzczOTM3NiwxMzU5OTU2NzE1LC0xND
+M5NTgwNzcsLTE5NDQ5NzIyNTcsNTg2ODE1ODc1LDE4NTU0Mjk0
+MTYsLTU1NjkwMTM3MSwtMTQ5Njc4NzgxMSwxMTAwODkxNDM2LC
+0xNTUwMTgwMDU0LDQ2MTY2Njc0MywtNjA0NTY1NzE0LC0xMDA0
+NjIzMzc5LC01MDk5MTMzNDEsMTMyMDQ1ODg0MCwyOTIzMzUxOD
+gsLTE3ODI1MjkyNTcsNDIwNjI1MDI4LDE2NDUzMzE2NzEsLTMw
+NjY0NjgwNl19
 -->
