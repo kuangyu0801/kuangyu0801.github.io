@@ -1134,6 +1134,10 @@ git commit -m 'Initial commit'
 ```console
 git log --oneline --decorate
 ```
+
+```console
+git log --pretty=format:"%h %s" --graph
+```
 ### Reference
 - 黑馬git教學，有規劃有組織且超級清楚！！！[# 2020黑马Git教程（2小时从入门到精通）](https://www.bilibili.com/video/BV1fK4y1b7XL/?p=18)
 - [課程文件](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
@@ -1597,11 +1601,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODc3NjgwMCwxMzU5OTU2NzE1LC0xND
-M5NTgwNzcsLTE5NDQ5NzIyNTcsNTg2ODE1ODc1LDE4NTU0Mjk0
-MTYsLTU1NjkwMTM3MSwtMTQ5Njc4NzgxMSwxMTAwODkxNDM2LC
-0xNTUwMTgwMDU0LDQ2MTY2Njc0MywtNjA0NTY1NzE0LC0xMDA0
-NjIzMzc5LC01MDk5MTMzNDEsMTMyMDQ1ODg0MCwyOTIzMzUxOD
-gsLTE3ODI1MjkyNTcsNDIwNjI1MDI4LDE2NDUzMzE2NzEsLTMw
-NjY0NjgwNl19
+eyJoaXN0b3J5IjpbODc1MjIxMzUyLDEzNTk5NTY3MTUsLTE0Mz
+k1ODA3NywtMTk0NDk3MjI1Nyw1ODY4MTU4NzUsMTg1NTQyOTQx
+NiwtNTU2OTAxMzcxLC0xNDk2Nzg3ODExLDExMDA4OTE0MzYsLT
+E1NTAxODAwNTQsNDYxNjY2NzQzLC02MDQ1NjU3MTQsLTEwMDQ2
+MjMzNzksLTUwOTkxMzM0MSwxMzIwNDU4ODQwLDI5MjMzNTE4OC
+wtMTc4MjUyOTI1Nyw0MjA2MjUwMjgsMTY0NTMzMTY3MSwtMzA2
+NjQ2ODA2XX0=
 -->
