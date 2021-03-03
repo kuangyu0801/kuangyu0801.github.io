@@ -1126,6 +1126,9 @@ Mac 鍵符號
 
 
 # Git and Github
+### 常用command
+
+
 ### Reference
 - 黑馬git教學，有規劃有組織且超級清楚！！！[# 2020黑马Git教程（2小时从入门到精通）](https://www.bilibili.com/video/BV1fK4y1b7XL/?p=18)
 - [課程文件](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
@@ -1589,7 +1592,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzczOTM3NiwxMzU5OTU2NzE1LC0xND
+eyJoaXN0b3J5IjpbMTg1NzYzNjE4NCwxMzU5OTU2NzE1LC0xND
 M5NTgwNzcsLTE5NDQ5NzIyNTcsNTg2ODE1ODc1LDE4NTU0Mjk0
 MTYsLTU1NjkwMTM3MSwtMTQ5Njc4NzgxMSwxMTAwODkxNDM2LC
 0xNTUwMTgwMDU0LDQ2MTY2Njc0MywtNjA0NTY1NzE0LC0xMDA0
