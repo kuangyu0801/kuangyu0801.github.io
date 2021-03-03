@@ -1000,6 +1000,10 @@ JetBrain文章[https://www.jetbrains.com/help/idea/apply-changes-from-one-branch
 ```
 ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
 ```
+
+## Terminal
+- How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures
+- https://www.freecodecamp.org/news/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22/
 ref: https://www.sublimetext.com/docs/3/osx_command_line.html
 # Java
 ## [Java知識總整理大補包](https://drive.google.com/file/d/1voJnGUnO34fW9k70s-ECjATN-g5bS3t1/view?usp=sharing)
@@ -1605,11 +1609,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzA5NjcwMSw4NzUyMjEzNTIsMTM1OT
-k1NjcxNSwtMTQzOTU4MDc3LC0xOTQ0OTcyMjU3LDU4NjgxNTg3
-NSwxODU1NDI5NDE2LC01NTY5MDEzNzEsLTE0OTY3ODc4MTEsMT
-EwMDg5MTQzNiwtMTU1MDE4MDA1NCw0NjE2NjY3NDMsLTYwNDU2
-NTcxNCwtMTAwNDYyMzM3OSwtNTA5OTEzMzQxLDEzMjA0NTg4ND
-AsMjkyMzM1MTg4LC0xNzgyNTI5MjU3LDQyMDYyNTAyOCwxNjQ1
-MzMxNjcxXX0=
+eyJoaXN0b3J5IjpbLTIyMzM5MDAxNCwxMDc3MDk2NzAxLDg3NT
+IyMTM1MiwxMzU5OTU2NzE1LC0xNDM5NTgwNzcsLTE5NDQ5NzIy
+NTcsNTg2ODE1ODc1LDE4NTU0Mjk0MTYsLTU1NjkwMTM3MSwtMT
+Q5Njc4NzgxMSwxMTAwODkxNDM2LC0xNTUwMTgwMDU0LDQ2MTY2
+Njc0MywtNjA0NTY1NzE0LC0xMDA0NjIzMzc5LC01MDk5MTMzND
+EsMTMyMDQ1ODg0MCwyOTIzMzUxODgsLTE3ODI1MjkyNTcsNDIw
+NjI1MDI4XX0=
 -->
