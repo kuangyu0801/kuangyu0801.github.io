@@ -994,10 +994,9 @@ JetBrain文章[https://www.jetbrains.com/help/idea/apply-changes-from-one-branch
 Youtube [How and when do I merge or rebase?](https://youtu.be/Nftif2ynvdA)
 # Environtment
 ## Text Editor
+讓terminal可以直接使用subl
 ```
-
-ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr//bin/subl
-
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
 ```
 # Java
 ## [Java知識總整理大補包](https://drive.google.com/file/d/1voJnGUnO34fW9k70s-ECjATN-g5bS3t1/view?usp=sharing)
@@ -1587,7 +1586,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDAxOTU4MSwtMTQzOTU4MDc3LC0xOT
+eyJoaXN0b3J5IjpbMTM1OTk1NjcxNSwtMTQzOTU4MDc3LC0xOT
 Q0OTcyMjU3LDU4NjgxNTg3NSwxODU1NDI5NDE2LC01NTY5MDEz
 NzEsLTE0OTY3ODc4MTEsMTEwMDg5MTQzNiwtMTU1MDE4MDA1NC
 w0NjE2NjY3NDMsLTYwNDU2NTcxNCwtMTAwNDYyMzM3OSwtNTA5
