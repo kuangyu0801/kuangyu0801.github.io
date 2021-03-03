@@ -1005,6 +1005,7 @@ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/loca
 ## Terminal
 - How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures
 	- https://www.freecodecamp.org/news/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22/
+	- # Powerlevel9k https://github.com/Powerlevel9k/powerlevel9k/wiki/Install-Instructions#macos-with-homebrew
 
 # Java
 ## [Java知識總整理大補包](https://drive.google.com/file/d/1voJnGUnO34fW9k70s-ECjATN-g5bS3t1/view?usp=sharing)
@@ -1143,7 +1144,8 @@ git log --oneline --decorate
 ```console
 git log --pretty=format:"%h %s" --graph
 ```
-## 
+## 線上練習
+- https://learngitbranching.js.org/
 ### Reference
 - 黑馬git教學，有規劃有組織且超級清楚！！！[# 2020黑马Git教程（2小时从入门到精通）](https://www.bilibili.com/video/BV1fK4y1b7XL/?p=18)
 - [課程文件](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
@@ -1611,11 +1613,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4MzQ0NjI0LDEwNzcwOTY3MDEsODc1Mj
-IxMzUyLDEzNTk5NTY3MTUsLTE0Mzk1ODA3NywtMTk0NDk3MjI1
-Nyw1ODY4MTU4NzUsMTg1NTQyOTQxNiwtNTU2OTAxMzcxLC0xND
-k2Nzg3ODExLDExMDA4OTE0MzYsLTE1NTAxODAwNTQsNDYxNjY2
-NzQzLC02MDQ1NjU3MTQsLTEwMDQ2MjMzNzksLTUwOTkxMzM0MS
-wxMzIwNDU4ODQwLDI5MjMzNTE4OCwtMTc4MjUyOTI1Nyw0MjA2
-MjUwMjhdfQ==
+eyJoaXN0b3J5IjpbLTE3NDY3ODUwMiwxMDc3MDk2NzAxLDg3NT
+IyMTM1MiwxMzU5OTU2NzE1LC0xNDM5NTgwNzcsLTE5NDQ5NzIy
+NTcsNTg2ODE1ODc1LDE4NTU0Mjk0MTYsLTU1NjkwMTM3MSwtMT
+Q5Njc4NzgxMSwxMTAwODkxNDM2LC0xNTUwMTgwMDU0LDQ2MTY2
+Njc0MywtNjA0NTY1NzE0LC0xMDA0NjIzMzc5LC01MDk5MTMzND
+EsMTMyMDQ1ODg0MCwyOTIzMzUxODgsLTE3ODI1MjkyNTcsNDIw
+NjI1MDI4XX0=
 -->
