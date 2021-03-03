@@ -992,7 +992,13 @@ SQL is a structured database: data need to fit into the predifined structure in 
 ###  Apply changes from one Git branch to another
 JetBrain文章[https://www.jetbrains.com/help/idea/apply-changes-from-one-branch-to-another.html](https://www.jetbrains.com/help/idea/apply-changes-from-one-branch-to-another.html)
 Youtube [How and when do I merge or rebase?](https://youtu.be/Nftif2ynvdA)
+# Environtment
+## Text Editor
+```
 
+ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr//bin/subl
+
+```
 # Java
 ## [Java知識總整理大補包](https://drive.google.com/file/d/1voJnGUnO34fW9k70s-ECjATN-g5bS3t1/view?usp=sharing)
 - 黑馬Java教學，有規劃有組織且超級清楚！！！[# 2019年IDEA版黑马Java就业班-基础+高级](https://www.bilibili.com/video/BV1T7411m7Ta/?p=332)
@@ -1581,11 +1587,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk1ODA3NywtMTk0NDk3MjI1Nyw1OD
-Y4MTU4NzUsMTg1NTQyOTQxNiwtNTU2OTAxMzcxLC0xNDk2Nzg3
-ODExLDExMDA4OTE0MzYsLTE1NTAxODAwNTQsNDYxNjY2NzQzLC
-02MDQ1NjU3MTQsLTEwMDQ2MjMzNzksLTUwOTkxMzM0MSwxMzIw
-NDU4ODQwLDI5MjMzNTE4OCwtMTc4MjUyOTI1Nyw0MjA2MjUwMj
-gsMTY0NTMzMTY3MSwtMzA2NjQ2ODA2LC0xNDAzMzI2NjMsLTk0
-ODQ4MjA2OF19
+eyJoaXN0b3J5IjpbMTUwNDAxOTU4MSwtMTQzOTU4MDc3LC0xOT
+Q0OTcyMjU3LDU4NjgxNTg3NSwxODU1NDI5NDE2LC01NTY5MDEz
+NzEsLTE0OTY3ODc4MTEsMTEwMDg5MTQzNiwtMTU1MDE4MDA1NC
+w0NjE2NjY3NDMsLTYwNDU2NTcxNCwtMTAwNDYyMzM3OSwtNTA5
+OTEzMzQxLDEzMjA0NTg4NDAsMjkyMzM1MTg4LC0xNzgyNTI5Mj
+U3LDQyMDYyNTAyOCwxNjQ1MzMxNjcxLC0zMDY2NDY4MDYsLTE0
+MDMzMjY2M119
 -->
