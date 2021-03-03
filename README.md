@@ -1144,6 +1144,10 @@ git log --pretty=format:"%h %s" --graph
 - [Coursera: Introduction to Git and GitHub by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
 - [Git Official Documentation](https://git-scm.com/book/en/v2): 講得很完整！
 - [Git/Github操作手册](https://zhuanlan.zhihu.com/p/58547172)
+
+### 如何合併多個repo
+- https://my.oschina.net/u/2007323/blog/1860305
+
 ### JetBrains IDE Version Control with Git
 - [All we need to know about git from Jetbrain](https://www.jetbrains.com/help/idea/using-git-integration.html)
 - [Version control](https://www.jetbrains.com/help/idea/version-control-integration.html)
@@ -1601,11 +1605,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 原文網址：[https://kknews.cc/code/gmp53lm.html](https://kknews.cc/code/gmp53lm.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1MjIxMzUyLDEzNTk5NTY3MTUsLTE0Mz
-k1ODA3NywtMTk0NDk3MjI1Nyw1ODY4MTU4NzUsMTg1NTQyOTQx
-NiwtNTU2OTAxMzcxLC0xNDk2Nzg3ODExLDExMDA4OTE0MzYsLT
-E1NTAxODAwNTQsNDYxNjY2NzQzLC02MDQ1NjU3MTQsLTEwMDQ2
-MjMzNzksLTUwOTkxMzM0MSwxMzIwNDU4ODQwLDI5MjMzNTE4OC
-wtMTc4MjUyOTI1Nyw0MjA2MjUwMjgsMTY0NTMzMTY3MSwtMzA2
-NjQ2ODA2XX0=
+eyJoaXN0b3J5IjpbMTA3NzA5NjcwMSw4NzUyMjEzNTIsMTM1OT
+k1NjcxNSwtMTQzOTU4MDc3LC0xOTQ0OTcyMjU3LDU4NjgxNTg3
+NSwxODU1NDI5NDE2LC01NTY5MDEzNzEsLTE0OTY3ODc4MTEsMT
+EwMDg5MTQzNiwtMTU1MDE4MDA1NCw0NjE2NjY3NDMsLTYwNDU2
+NTcxNCwtMTAwNDYyMzM3OSwtNTA5OTEzMzQxLDEzMjA0NTg4ND
+AsMjkyMzM1MTg4LC0xNzgyNTI5MjU3LDQyMDYyNTAyOCwxNjQ1
+MzMxNjcxXX0=
 -->
