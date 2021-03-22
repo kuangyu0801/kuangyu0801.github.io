@@ -109,7 +109,7 @@ https://www.practiceaptitudetests.com/top-employer-profiles/ibm-assessments/
 - Current Status: I and IT student in my third semester, expected to graduate on 2021 Oct.
 - Work experience: mediatek (the 4th largest IC design company and 2nd largest smart phone chip) as firmware engineer for 4G and 5G smartphone for almost 4 years
 - https://www.telecomlead.com/telecom-chips/top-ten-ic-design-companies-for-q2-2020-96567
-- Future Goal: software industrie
+- Future Goal: software engineer, full-stack, cloud architect
 - Focus on cloud computing, distributed system and network
 
 # [Top 10 Question](https://www.monster.com/career-advice/article/Top-10-Interview-Questions-Prep)
@@ -648,6 +648,7 @@ amazon的文化是什麼？
 - 熟悉歐洲
 - 教育質量好
 - 移民就業環境好
+
 # TO-LEARN
 - [ ]  LaTex on Mac + Git version control
 - [ ]  System and Web Security: Uni Stuttgart
@@ -741,16 +742,16 @@ last update on 18 Jun. 2020:
 
 # HR教你如何準備coding interview
 
-
 # 履歷 
-谷歌教你如何寫CV: [https://learndigital.withgoogle.com/digitalgarage/course/start-a-cv](https://learndigital.withgoogle.com/digitalgarage/course/start-a-cv)
-我的履歷[https://www.overleaf.com/project](https://www.overleaf.com/project)
-軟體工程履歷範本
-[https://www.visualcv.com/resume-samples/software-engineer/](https://www.visualcv.com/resume-samples/software-engineer/)
+- 谷歌教你如何寫CV: [https://learndigital.withgoogle.com/digitalgarage/course/start-a-cv](https://learndigital.withgoogle.com/digitalgarage/course/start-a-cv)
+- 我的履歷[https://www.overleaf.com/project](https://www.overleaf.com/project)
+- 軟體工程履歷範本[https://www.visualcv.com/resume-samples/software-engineer/](https://www.visualcv.com/resume-samples/software-engineer/)
+
 # Cover Letter
 glassdoor教學如何撰寫Cover Letter: [https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/](https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/)
 
 哈佛cover letter範例[https://hls.harvard.edu/content/uploads/2008/06/allcoverlettersweb2011.pdf](https://hls.harvard.edu/content/uploads/2008/06/allcoverlettersweb2011.pdf)
+
 ## 我的背景：
 - IT student, 希望投入cloud computing軟體開發
 ## 我的優勢：
