@@ -26,14 +26,6 @@
 	* [Data Structure and Algorithm](#data-structure-and-algorithm)
 		+ [BST](#bst), [Sorting](#sorting), [Total Order](#total-order), [Shuffling](#shuffling), 
 	* [The Missing Semester of Your CS Education](#the-missing-semester-of-your-cs-education)
-- [刷題找工作](#刷題找工作)
-  * [力扣高頻一百清單](#力扣高頻一百清單)
-  * [我的刷題紀錄](#我的刷題紀錄)
-  * [Frequent-Used Library](#frequent-used-library)
-    + [Arrays](#arrays), [Random](#random), [Sorting](#sorting), [Generic Type](#generic-type), [List](#list)
-- [Java](#java)
-  * [Java知識總整理大補包](#java知識總整理大補包)
-  * [IntelliJ](#intellij)
 - [Environtment](#environtment)
   * [Text Editor](#text-editor)
 - [Git and Github](#git-and-github)
@@ -64,26 +56,8 @@ https://www.1point3acres.com/bbs/thread-303319-1-1.html
 	-	7海投简历+内推
 	-	8SoftSkills提升
 	-	9来自桌子另一边的反馈以及杂谈
- - [ ] 履歷更新(排版)
-	 - [ ] LinkedIn Align with CV
-	 - [ ]  加入cloud computing project
-	 - [ ] 加入change request handling
-	 - [ ] 加入jenkins經驗
-	 - [ ] 加入sdn project
-	 - [ ] CV git版本管理
-	 - [ ] local latex environment
- - [ ] Java 學習
-	 - [ ] Java IO 看黑馬
-	 - [ ] Java concurrency 看黑馬
-	 - [ ] Java Casting.... more detail on overloading and overriding
-	 - [ ]  [Java 關鍵字final static this] 	(https://www.bilibili.com/video/BV1uJ411k7wy/?p=190)
-	 - [ ]  Java privacy: private, protected.... review
- - [ ] 持續閱讀給外行人的工程師自學手冊[這份完整的學習手冊，讓你自學成為獨當一面的軟體工程師](https://t.goodbits.io/f/a/dTiKn4HMYKXTcr48Qz10Cg~~/AAB5kwA~/RgRgXeHlP0QWaHR0cHM6Ly91YmluLmlvL2V6dHdLNVcDc3BjQgoAIetce17gBJIBUhNsaTUwOTE2a3VAZ21haWwuY29tWAQAAAAA)
- - [ ] Personal Website
- - [ ]  中長期，System Design for Senior Software Engineer
-	 - [ ] Database 更深入了解
 
-# CV
+# CV and Cover Letter
 - linkedIn Page and CV always up to date
 - work visa eligibility
 - https://resumegenius.com/blog/resume-help/latex-resume-template
@@ -316,7 +290,6 @@ Behavior Questions
 	- **Result**:
 		- internship offer from IBM
 		- Amazon OA1~OA3 complete 
-
 - I want to shift my career into cloud computing and software development 
 - firmware development for me is a turning point, so I made the decision for career shift.
 - The prospect of cloud computing and software development is enormous, right now every services is on the cloud! (SaaS, PaaS, IaaS)
@@ -367,42 +340,10 @@ Behavior Questions
 
 
 # Technical interview
-### server當掉
-
-### 做過最困難的project
-### Python 
-- multi-threading (no multi-threading)
-- memory 管理: everything is reference
-- equals理解
-### Git
-- add vs commit
-- rebase vs.fetch
-### 
-**XML教学视频 黑馬on bilibili https://www.bilibili.com/video/BV1Na4y1J75w**
 
 
 # Cover Letter
-## 1-Introduction
 
-I am a master student in Information Technology at University of Stuttgart in my third semester. I am writing to apply for _**position**_. 
-I learned about your company via **_recruiting website_**. Being ***position*** at your company would allow me to continue my interest in ***cloud computing***. As a highly-motivated student, fast learner and team player, I feel confident that I could contribute substantively to the work of your company while strengthening the skills I’ll need for a career in ***position***.
-
-## 2-Study Description
-
-In my study, I concentrate on *Cloud Computing*, *Distributed System* and *Network Technology*. As an IT student, I have good understanding in data structure and algorithm, solid programming skill in Java. Moreover, I have extensive hands-on experience with Android development and tools such as Git and IntelliJ. Last semester, I developed an Android App using cloud service, the Google Firebase, whose  power and handiness amazed motivated me to focus myself in cloud-related technology. To deepen my knowledge in could computing, I am current taking courses "Cloud Computing" and "Service Computing" in this semester. I am able to pick up new concepts and catch up new project quickly, as I learned to develop Android from scratch within just one month. The ***position*** will give me the opportunity to participate in cloud-related projects in the industry. 
-
-## 3-Work Experience
-
-I grow into a team player from my previous position as firmware developer in MediaTek. I am capable of collaborating and communicating effortlessly with other developers in large project, as I have participated in three 5G/4G smartphone projects, which involves over 100 developers around the world. My task in firmware development required me to work hand-in-hand with HW and SW developers in all stages of product development life cycle: from specification all the way to maintenance. During my service in smartphone industry, I foresee the booming opportunity in digital transforming, which motivates me to shift my career into **cloud computing**.
-
-
-## 4-Conclusion
-
-Enclosed are my resume and transcript highlighting my education and work experience. I thoroughly believe that my background would allow me to make significant contributions to **COMPANY NAME**. I'm looking forward to this great opportunity and hope to interview with you regarding this ***position***. I will call your office in a few weeks to see if you could schedule a time to speak with me. Thank you in advance for your time and consideration.
-
-## Introduction in 5 Sentences
-
-My name is Kuang-Yu Li from Taiwan. I am currently a master student of Information Technology in my 3rd semester at University of Stuttgart in Germany. I am a highly-motivated student with concentration on Cloud Computing, Distributed System and Network Technology. I am  team player with my extensive work experience as an 5G smartphone firmware developer in MediaTek Inc. in Taiwan.
 
 # 不要害怕海投海面 
 ## Build Profile
@@ -421,194 +362,6 @@ Don't forget to request recommendations
 
 ## 目標：收到10個interview
 要有投30家才有一個面試的機會的心理準備
-
-
-| Rejection | Interview | Offer|
-|--|--|--|
-| 7 | 0 |0|
-|1. Acrolinx, Werkstudent IT Operations<br>2. SAP, Intern (f/m/d): Java Developer for Cloud Applications<br>3. SAP, Software to Improve the Productivity of SAP HANA Developers <br> 4. IVU Traffic, Studenten im Cloud-Bereich <br> 5. IBM, Internship: Cloud Software Engineer for IBM Cloud Platform <br> 6. IBM,  Internship: Integrated monitoring system for an enterprise server, <br> 7. MVST GmbH, Intern Full Stack Developer (React.js, Node.js) (m/f/d)|--|--|
-
-### 已拒絕
-
-### 關鍵字：Praktikum Informatik,   Software development intern
-1. Praktikum SAP Inhouse Developer (w/m/d)[https://www.stepstone.de/stellenangebote--Praktikum-SAP-Inhouse-Developer-w-m-d-Berlin-Duisburg-Duesseldorf-Frankfurt-a-M-Mannheim-Muenchen-PwC--6696566-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=4_4_25_dynrl_s_0_0_2_0]
-2.   ~~[11.03申請 via mail, 11.11收到拒絕信]Acrolinx GmbH:## Werkstudent IT Operations (m/w/d)[https://jobs.eu.lever.co/acrolinx/5a91fff7-d10c-4114-8a4a-b694270c5b60]~~
-3.  [adesso SE](https://www.stepstone.de/cmp/de/adesso-SE-7420/jobs.html), Trainee (w/m/d) Softwareentwicklung Java [https://www.stepstone.de/stellenangebote--Trainee-w-m-d-Softwareentwicklung-Java-Dortmund-Aachen-Berlin-Essen-Frankfurt-Main-Hamburg-Hannover-Karlsruhe-Koeln-Muenchen-adesso-SE--6749957-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=8_8_25_dynrl_s_0_1_1_0]
-4.   MBition GmbH,  Internship in Agile Software Testing (all genders)[https://www.stepstone.de/stellenangebote--Internship-in-Agile-Software-Testing-all-genders-Berlin-MBition-GmbH--6170406-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=9_9_25_dynrl_s_0_1_0_0]
-5. [Accenture](https://www.stepstone.de/cmp/de/Accenture-7521/jobs.html), Trainee Software Engineering - Java (all genders)[https://www.stepstone.de/stellenangebote--Trainee-Software-Engineering-Java-all-genders-Dresden-Berlin-Frankfurt-Heidelberg-Duesseldorf-Stuttgart-Hof-Jena-Hamburg-Muenchen-Accenture--6660313-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=10_10_25_dynrl_s_1_2_2_0]
-6. ~~MBition GmbH, Intern Hardware Lab (all genders)[https://www.stepstone.de/stellenangebote--Intern-Hardware-Lab-all-genders-Berlin-MBition-GmbH--6280844-inline.html?suid=ab12509c-4771-4f93-a7d9-572b7346b516&rltr=13_13_25_dynrl_s_0_0_0_0]~~
-7. ~~[11.08申請 via Indeed, 11.11得到回覆說是不支薪, 我表明要薪水,後來就沒有下文了] CQuest, Software Engineering Intern[https://de.indeed.com/Zeige-Job?cmp=CQuest&t=Software+Engineering+Intern&jk=7b19eedeacd26eda&q=Software&vjs=3],~~ 這是環保公司, 我興趣不大但姑且試試
-8. resonanz energy, Software Engineer Intern (m/w/d)
-9. Mailbutler GmbH - Berlin, Working Student: Software Tester (m/f/x)
-10. KUGU Home GmbH, Werkstudent IOT/Hardware/Embedded Software[https://de.indeed.com/viewjob?jk=86658035f323294b&tk=1elr6tdtut56n800&from=serp&vjs=3] 
-11.  [11.08申請 via mail, 這是一家實驗室公司, 我興趣不大但姑且試試] Tentamus, IT Software Developer Intern (m/f/d)[https://www.tentamus.com/career/software-developer-intern-paid/]
-12. beroNet GmbH, Developer Intern[https://de.indeed.com/viewjob?from=web%2CiaBackPress&jk=24f5be6375ce2653&l=Berlin&q=Software&tk=1elr7but8s7d8800&vjs=3]
-13. Boston Consulting Group, Visiting Software Engineer (internship)
-14. [interact.io](https://de.indeed.com/cmp/Interact.io?campaignid=mobvjcmp&from=mobviewjob&tk=1elr7c83mt538800&fromjk=5d6ef5756fcb8ca7),  Working Students - Backend Developer
-15. creative workline, Android Entwickler (m/w/d)
-16. KAMAsys GmbH, WERKSTUDENT ENTWICKLUNG (M/W/D)
-17.  [Campusjäger GmbH](https://de.indeed.com/cmp/Campusj%C3%A4ger-Gmbh?campaignid=mobvjcmp&from=mobviewjob&tk=1elr81ctot4qs800&fromjk=6d0919e38c8449e8), Software development intern
-18. (linkedin) msg, Trainee Software Engineer / Branche Banking (m/w/d),
-
-19. ~~[11.03申請, 11.11拒絕(語言)] IVU Traffic Technologies, # Studenten (m/w/d) im Cloud-Bereich[https://www.stepstone.de/stellenangebote--Studenten-m-w-d-im-Cloud-Bereich-Berlin-IVU-Traffic-Technologies-AG--6758148-inline.html]~~
-20. Jina AI Company,[ Deep Learning Engineer Intern](https://www.linkedin.com/jobs/view/2273454728/?alternateChannel=search&refId=99d269d1-1c83-49ad-a67e-75349d45fedd&trackingId=KJqXCXJ%2BoxFQUesbuhLJOg%3D%3D&trk=flagship3_search_srp_jobs)
-21. ### [gamigo group](https://www.linkedin.com/company/gamigo-ag/life/) Company Location Data Engineering Intern (m/f/d), 
-22. ### [Trade Republic](https://www.linkedin.com/company/trade-republic/life/) # Intern IT Security
-23. [Next Big Thing AG](https://www.linkedin.com/company/next-big-thing-ag/life/), [part-time paid intern as technical support @ ConcR](https://www.linkedin.com/jobs/view/2231802288/?alternateChannel=search&refId=cdf5b961-fa18-4fc6-acea-0e1d45c8c965&trackingId=R8BG%2BqXEDFzTehIBYe2BEg%3D%3D&trk=flagship3_search_srp_jobs&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_jobs%3BpFgeiIwCSLiKwSGXz2DtJw%3D%3D)
-24.  ### [sennder](https://www.linkedin.com/company/sennder/life/) ,Automation Intern (Linkedin)
-25. ### [door2door](https://www.linkedin.com/company/door2door-the-mobility-company/life/) Company Location, # IT System Admin Working Student - f/m/x(Linkedin)
-26. ### Tentamus, IT Software Developer Intern (m/f/d) (Linkedin)
-27.  [11.15via官網] Snowflake, [# Software Engineer Intern (Linkedin)](https://careers.snowflake.com/us/en/job/SNCOUS4778830002EXTERNALENUS)
-28. Tesla, # Quality Engineering Internship (m/w/d) - Gigafactory Berlin-Brandenburg
-29. Spotify, Backend Engineering – Summer Internship, [Java, Distributed System] https://www.spotifyjobs.com/job/backend-engineering-summer-internship-2/
-30. [11.08申請via career portal IBM, 11.12拒絕信]~~### IBM,  Internship: Cloud Software Engineer for IBM Cloud Platform https://careers.ibm.com/ShowJob/Id/1011554/Internship%20%20Cloud%20Software%20Engineer%20for%20IBM%20Cloud%20Platform,~~ 
--   可能拒絕原因：Basic knowledge about databases and scripting languages (such as Node.js, Python)
--    Experience with Public Cloud providers, such as IBM Cloud, AWS, Azure or Google Cloud （再等一個禮拜）
-31. ###  Name [DRW](https://www.linkedin.com/company/drw/life/) Company Location Singapore, SG Software Developer Intern
-32. SAP # SAP HANA Database Group: Intern, Working Student or Thesis-Student (f/m/d) Job
-33. SAP  Intern / Working Student (f/m/d) at SAP Innovation Center Network Job
-34. Working Student (f/m/d): Software Development (Python, Java) Job
-35. [11.08申請via career portal SAP portal]  Intern (f/m/d): SAP Cloud Programming Model (CAP) - Java Developer (254863)
-36. [REJ @ 11.09, 11.08申請via career portal SAP portal] ~~SAP, Intern (f/m/d): Java Developer for Cloud Applications~~(可能原因：1. Good database programming and SQL knowledge, 2. Fluent in English and German)
-37. Bosch # Bachelorarbeit/ Masterarbeit/ Praktikum IT-Sicherheit und angewandte Kryptographie https://www.bosch.de/en/career/job/REF31546R-bachelorarbeit-masterarbeit-praktikum-it-sicherheit-und-angewandte-kryptographie/
-38. [XING]  DIVA, Praktikant* im Bereich Softwareentwicklung,  https://www.diva-e.com/de/karriere/stellenangebot/praktikant-im-bereich-softwareentwicklung-in-berlin/
-39. [XING] https://www.get-in-it.de/jobsuche/p8539-1d2b9aa1/1d2b9aa1?utm_source=xing&utm_medium=cpc&utm_campaign=launch-premium&tem=landingpage
-40. [XING] # Reply, # Werkstudent Testautomatisierung im Bereich Mobile App (m/w/d)
-41. [XING] EXXETA AG, Werkstudent / Praktikant Softwareentwicklung (m/w/d)
-42. MHP Management- und IT-Beratung GmbH, # Intern Software Engineering (m/f/d),https://jobs.porsche.com/index.php?ac=jobad&id=24560
-43. https://career5.successfactors.eu/careers
-44.  [11.13 , via 內推] Amazon , Software Development Engineer Graduate - Amazon Redshift Spectrum https://www.amazon.jobs/en/jobs/1312592/software-development-engineer-graduate-amazon-redshift-spectrum
-45. ### [11.13 , via 內推 amazon job portal] Amazon , Software Development Engineer Graduate – 2021 (Berlin), https://www.amazon.jobs/en/jobs/1271472/software-development-engineer-graduate-2021-berlin?fbclid=IwAR0sd4LydpTNKVNZhxFjwRhhvWt_nuSw3VYUx3q2lHspRhdxV5FXQEpCqx8
-46.   [11.17 , via 內推 amazon job portal] Software Development Engineer Intern – 2021 (Berlin) https://www.amazon.jobs/de/jobs/1271516/software-development-engineer-intern-2021-berlin, ID 1271516 
- 47.   [11.17 , via 內推 amazon job portal] Software Development Engineer Intern - Amazon Redshift Database https://www.amazon.jobs/de/jobs/1312583/software-development-engineer-intern-amazon-redshift-database ID: 1312583
-48.  [11.12 via career portal] SAP, Students (f/m/d) for the SAP Data Hub Development Team
-49. ### Intern / Working Student (f/m/d) at SAP Innovation Center Network
-50. [REJ@11.17] ~~SAP, Intern/Working Student/Thesis (f/m/d): Software to Improve the Productivity of SAP HANA Developers~~
-	+ Experience with programming demonstrated by existing projects. Experience with Python, SQL
-
-### Facebook, You can submit up to three job applications every 90 days. Be sure to apply for roles that strongly match your skills and work experience
-#### 
-
-49.  [11.15 , via 內推] Facebook, [Software Engineer, Intern/Co-op](https://www.facebook.com/careers/jobs/1716969328451048/), Dublin, London, 可能有身份的問題
-50.  [REJ@11.27 收到感謝信, 11.21 完成OA, 11.20 收到followup mail,11.15 , via 內推] Facebook, [Network Engineer, Intern](https://www.facebook.com/careers/jobs/378524066675191/)
-		-  OA問python, linux與BGP指令, 如果有摸過基本不難, 不過我BGP根本是沒有接觸過, linux指令跟網路相關的也不太熟習(他問到要怎麼看ip, MAC, port, host有沒有正在接收封包），回答OA只是一部分, 不太想為這些瑣碎的內容來準備...network engineer其實在fb算是support IT...主要是累積面試經驗！
-51. ### Facebook, [2021 Production Engineering - Internship](https://www.facebook.com/careers/jobs/376500203532233/)
-		-   Ability to perform 'guerrilla capacity planning' for internet service architectures
-		-   Knowledge of basic large-scale internet service architectures (such as load balancing, LAMP, CDN's), even if you haven't worked on one
-		-   Configuration and maintenance of common applications such as Apache, memcached, Squid, MySQL, NFS, DHCP, NTP, SSH, DNS, and SNMP
-	
-52.   [11.15 , via 內推]  Facebook, [Enterprise Engineer, Intern](https://www.facebook.com/careers/jobs/698645737362352/), 
-		 - enterprise engineer的其實就是software engineer
-53. ### Facebook, [Hardware Systems Engineer, Intern](https://www.facebook.com/careers/jobs/779264215951406/)
-54. ### Facebook, [Automation Infrastructure Engineer, Intern](https://www.facebook.com/careers/jobs/1716969328451048/)
-55. ### (linkedIn) [VMware](https://www.linkedin.com/company/vmware/life/) , Solutions Engineering Intern, https://careers.vmware.com/main/jobs/R2010919?lang=en-us&source=LIPJ
-56. ### (linkedIn) [VMware] - IT Colleague Support Engineer, https://careers.vmware.com/main/jobs/R2009777?lang=en-us&source=LIPJ
-57. #### cloudreach(學姊公司）, https://boards.greenhouse.io/cloudreach
-58. ~~[REJ@DEC,11.18 via官網] TomTom, Software Engineering Intern, https://www.tomtom.com/careers/jobdetails/JOB_POSTING-3-17842/software-engineering-intern/~~
-59.  ~~[REJ@DEC,11.19申請via career portal IBM] IBM, Internship/Praktikum: Improving an Open-Source gRPC CLI Tool~~
-60. [Offered,11.20收到IBM assessment test詢問, 11.19申請via career portal IBM] IBM, Internship/Praktikum: Integrated Development Environment (m/w/x)
-61. ~~[REJ@DEC,11.19申請via career portal IBM] IBM,Internship/Praktikum: Cloud Web UI - Cloud Front-End Development~~
-62. ~~[REJ@DEC,11.19申請via career portal IBM] IBM,Internship/Praktikum:WebUI application development, Linux on Z (m/f/d)~~
-63. ~~[REJ @ 11.19, 11.19申請via career portal IBM,  11.19拒絕]  Internship: Integrated monitoring system for an enterprise server~~
-	- 秒拒絕，我覺得自己背景有符合java, git
-64.  ~~[REJ@DEC, @11.19申請via career portal IBM] IBM, Internship: Cloud Software Engineer (confidential computing) - Ref:342060BR.~~
-65. ~~[REJ@DEC, 11.19申請via career portal IBM] IBM, Internship/Praktikum:Integration of static-code analysis tools (m/f/d) - Ref:336610BR.~~
-66.  JetBrains, Intern
-67. [11.20 via Thales官網] Thales, Internship/Working Student (f/m/d) in Software Engineering (R0108192)
-68. [11.20 via 官網] TERAKI, Berlin # C++ Software Engineer Internship / Working Student
-
-
-# Amazon OA
-## Reference
-- https://youtu.be/595NTKwQbwY
-- [Amazon OA demo Video](https://sp-brand2020.s3-us-west-2.amazonaws.com/Online+Assessment+for+Student+Programs.mp4)
-- [Amazon OA OA Demo](https://www.myamcat.com/start-demo?data=amazon-campus)
-- Leadership Principle [https://www.amazon.jobs/en/principles](https://www.amazon.jobs/en/principles)
-- Behavior Interview (Situation, Task, Action, Result) Why do you choose Amazon?
-- https://wdxtub.com/interview/14520850399861.html
-- https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions
-	- Timeline參考1:
-  Applied: September 6th, 2019
-  Received OA 1: September 20th, 2019
-  Completed OA 1: September 23rd, 2019
-  Received OA 2: September 25th, 2019
-  Completed OA 2: September 25th, 2019
-  Received OA 3: September 26th, 2019
-  Completed OA 3: September 26th, 2019
-  - Timeline參考2
-8/12 内推  
-10/8 OA1  
-10/12 OA2, OA3  
-10/14 约VO  
-10/18 确认VO  
-10/21 VO  
-10/27 move  
-10/28 offer
-https://www.1point3acres.com/bbs/thread-682861-1-1.html
-- [一畝三分地面试经验](https://www.1point3acres.com/bbs/thread-571102-1-1.html)  亚麻 OA 1 & OA2 & OA3 汇总
-- [Amazon 一般面試大集錦](https://wdxtub.com/interview/14520850399925.html)
-- [Amazon OA大集錦](https://wdxtub.com/interview/14520850399861.html) 
-- [小土刀的面试刷题笔记](https://wdxtub.com/interview/index.html)
-- [前期準備如何开始找工作](https://wdxtub.com/interview/14520609088903.html)
-
-## My Timeline
-- 12/1 收到OA1
-- 12/5 完成OA1(OA1 ID: 23280703802660), 收到OA2 (典型7題debugging from SHL)
-- 12/9 完成OA2(OA2 ID: 23280704492952) 
-    + Subtree, BookGenre中間有runtime error, 懷疑是getting non-existing value from hashmap, 花了我一個小時debug..., 最後五分鐘寫出來
-    + Similar to https://leetcode.com/discuss/interview-question/373006
-    + 一開始出現symbol error超慌, 才發現是自己要import class
-- 12/12 完成OA3
-    + 真的跟上班很像，有一題是看log
-    + 一題求比較algorithm
-    
-## 操作細節
-- 早上的時候精神最好，先刷一兩題easy開機
-- OA仔細閱讀好說明 （review information carefully)
-- 不要跳過任何頁面
-- 認真看清楚每個題目
-- 確定時間到才submit! 
-- 不要試圖背題目！
-
-
-# OA2
-老七題：
-- 1) Two-sum +
-- 2) Subarrays with k distinct elements
-- 3) Path with Maximum Score:
-- 4) Longest Palindromic String:
-- 5) Substrings of size K with K distinct chars
-- 6) Most Common Word
-- 7) K Closest Points to Origin +
-- 8) Merge Two sorted lists +
-LC高頻題
-- 1）Find Pair With Given Sum / Movies on flight
-- 2）[Done] Count substrings with exactly K distinct chars
-- 3）[Done] Max Of Min Altitudes: https://leetcode.com/discuss/interview-question/383669/
-- 4）[Done] 5. Longest Palindromic Substring
-- 5）[Done] Substrings of size K with K distinct chars
-- 6）[Done] 819. Most Common Word https://leetcode.com/problems/most-common-word/
-- 7）[Done] K Closest Points to Origin
-- 8）[Done] Merge two sorted linked list https://leetcode.com/problems/merge-two-sorted-lists/
-- 9）[Done] 146. LRU Cache https://leetcode.com/problems/lru-cache/
-- 10）[Done] Search a 2D Matrix II https://leetcode.com/problems/search-a-2d-matrix-ii/
-- 11) [Done] 572. Subtree of Another Tree
-- 12) [Done] Divisibility of Strings https://leetcode.com/problems/greatest-common-divisor-of-strings/
-- 13) [Done] Earliest Time to complete delivery https://leetcode.com/discuss/interview-question/943711/Amazon-or-OA-2020-or-Earliest-Time-to-Complete-Deliveries
-- 14) [Done] 1268. Search Suggestions System
-- 15) [Done] 1584. Min Cost to Connect All Points
-
-## OA3
-work simulation要重视，还是很有区分度的。
-- https://www.1point3acres.com/bbs/interview/amazon-software-engineer-556705.html
-- https://www.1point3acres.com/bbs/interview/amazon-software-engineer-506684.html (內容超詳細）
-- https://www.1point3acres.com/bbs/interview/amazon-software-engineer-474434.html （只有選項）
-
-指导原则，之前有人总结的，我把第二、三条改了一下：
-
-1）deadline 是最重要的（说三遍），有用户需求的时候requirement更重要。(customer obsession, Deliver Results)
-2）多跟manager/VP/senior/other team/colleague交流，不能自己暗搓搓做。
-3）自己要主动多帮忙。（ownership)
 
 # 公司如何決定錄用
 my edge: attribute and behavior 符合公司文化，high potential with training（刷題）
@@ -659,9 +412,7 @@ amazon的文化是什麼？
 - [ ] Agile Software Development (Coursera)[https://www.coursera.org/learn/agile-software-development/home/welcome](https://www.coursera.org/learn/agile-software-development/home/welcome)
 ### TO-CONSIDER
 - [ ]  [AWS Fundamentals: Going Cloud-Native from AWS Fundamentals Specialization(Coursera)](https://coursera.org/share/7965486607405adf9331f5b2bd7253c9)
-### Obsolete
-~~- [ ] [Software Development Process (Udacity)](https://classroom.udacity.com/courses/ud805)~~(有修SER)
-~~- [ ]  Computer Vision: Uni Stuttgart~~(不實用，對工作沒幫助）
+
 ## Joanna List 
 Janna LinkedIn: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
 - [ ] Introduction to Databases
@@ -693,8 +444,6 @@ C --> D[WS21面試]
 D --> E[WS21畢業]
 E --> F{全職}
 ```
-
-
 - 要趁著學生時期的優勢，找一個好的半年實習機會（目標放在愛爾蘭亞馬遜），不要急著畢業
 - 要找一個符合自己未來專業的實習跟學生工，面試可以多面，但是職缺要慎選，要能夠學到技能、要有一個願意帶人的主管、要有一個願意延續職缺的公司
 
@@ -720,24 +469,6 @@ SQL, NoSQL, Graph Database，要能夠說出簡單的架構，上網課就可以
 Stage-1: JuneStuttgart small company -> Large company
 Stage-2: September Berlin or Munich large company
 Stage-3: November Amazon in Dublin, and Singapore
-## 學生工
-
-last update on 18 Jun. 2020:
-
-|no|position|company|requirement|attraction|
-|--|--|--|--|--|
-| 1 |Student (m/f/d) Software Development|[TeamViewer Global](https://de.indeed.com/cmp/Teamviewer?campaignid=mobvjcmp&from=mobviewjob&tk=1eb46cdb4ot1a800&fromjk=1421022b7d679653)| Good Linux and Windows experience, have good knowledge of C++|---|
-|--|--|--|--|--|
-| 2 | Cloud & DevOps Entwickler & Berater Werkstudent-/in / Praktikant-/in (M/W/D) | [Cloud Excels GmbH](https://www.stepstone.de/cmp/de/Cloud-Excels-GmbH-237534/jobs.html) | You study computer science, software engineering, business informatics or similar, You are fit in at least one modern object-oriented programming language | 有機會學到database, AWS, CD/CI,Scrum |
-|--|--|--|--|--|
-| 3 | Werkstudent (w/m/d) Softwareentwicklung Java|[adesso SE](https://www.linkedin.com/company/adesso-se/life/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3Bfv0aiYe3RcqiEYb5DZxI3Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-company_link)|Kenntnisse einiger Open Source Produkte und Frameworks (z.B. Tomcat, Hibernate, Spring), Erstes Entwicklungs-Know-How ist wünschenswert, Sehr gute Deutschkenntnisse | 大公司要求不多，但要好的德語|
-|--|--|--|--|--|
-| 4 | Working Student - Software Engineering Golang |[thismo messenger](https://www.linkedin.com/company/thismo-com/life/?lipi=urn%3Ali%3Apage%3Ad_flagship3_job_details%3BnhOXH082TM6jH4d2UBqcDw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_job_details-company_link)| Strong coding skills of Golang and preferrably Python, Experience with modern datastores like MongoDB and Redis.| 感覺我很有機會, 不用英文 |
-|--|--|--|--|--|
-|5|[IT PRAKTIKUM/ WERKSTUDENT IM BEREICH GOOGLE CLOUD (M/W/D)](https://cloudwuerdig.com/karriere/praktikum-google-cloud/)|Cloudwürdig[https://cloudwuerdig.com/](https://cloudwuerdig.com/)|Verständnis über agile Software-Projekte, Grundlegendes Wissen im Bereich Datenbanken, Datenmodellierung und SQL von Vorteil|可學習google cloud, database, agile, jobsmess出現過|
-|--|--|--|--|--|
-|6|[JAVA DEVELOPER](https://omm-solutions.de/wp-content/uploads/2019/06/2017-10-25_OMM_Stellenausschreibung_Java-Developer-Working-Student-Internship_Gross_DRUCK.pdf)|[omm-solutions](https://omm-solutions.de/home/)|java, agile development|接觸data base, |
-|--|--|--|--|--|
 
 
 # HR教你如何準備coding interview
@@ -975,16 +706,6 @@ SHA-256: AD:75:30:44:9D:EC:F4:32:3E:1B:F5:24:44:4F:F6:A3:64:A4:DB:EB:71:F0:BE:47
 Valid until: Saturday, April 30, 2050
 
 
-#### Firebase cloud storage Rules setting
-[https://firebase.google.com/docs/storage/security/start#user](https://firebase.google.com/docs/storage/security/start#user)
-
-
-# Database
-### NoSQL  
-[What is NoSQL?](https://www.youtube.com/watch?v=BgQFJ_UNIgw)  
-NoSQL: semi-structured database: can store first then categrorize later  
-SQL is a structured database: data need to fit into the predifined structure in order to be stored  
-
 
 
 
@@ -1021,95 +742,7 @@ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/loca
 [Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
 
-## 內存管理
-參考黑馬day-05
-[https://www.bilibili.com/video/BV1T7411m7Ta/?p=85](https://www.bilibili.com/video/BV1T7411m7Ta/?p=85)
-### Modifier
-### final
-### static
-using "static" member variable, method belong to class not object
 
-## 內部類
-參考黑馬day-11
-[https://www.bilibili.com/video/BV1T7411m7Ta?p=203](https://www.bilibili.com/video/BV1T7411m7Ta?p=203)
-```
-// 間接方式
-// 直接方式 外.內
-Body.Heart heart = new Body().new Heart();
-```
-
-## Lambda function
-
-https://www.bilibili.com/video/BV1T7411m7Ta/?p=332
-兩種寫法都可以
-In case all your lambda expression is doing is to calculate a return value and return it, you can specify the return value in a shorter way. Instead of this:
-```
- (a1, a2) -> { return a1 > a2; }
-```
-You can write:
-```
- (a1, a2) -> a1 > a2;
-```
-
-The compiler then figures out that the expression  `a1 > a2`  is the return value of the lambda expression (hence the name lambda  _expressions_  - as expressions return a value of some kind).
-## Inheritance
-
-### Overriding vs Overloading
-[cs61b 2019 lec9 inheritance2](https://docs.google.com/presentation/d/15dNZyGIvXbBwkZX35BMRQx7Qjdu6i7Ul5-uovsxut-c/edit?usp=sharing)
-
-### Casting
-upcasting is always safe
-but down casting an object is only possible when the object is originally up-casted by from the target downloaded class
-簡單來說animal can only be down casted to cat when this animal was originally up-casted from cat!
-https://www.bilibili.com/video/BV1uJ411k7wy/?p=191
-要確安全的向下轉型，使用`instnaceof` 確定class是不是繼承關係
-
-### Higher Order Function
-HOF在java-7必須要用interface來實作
-```
-public interface IntUnaryFunction {
-	int apply(int x);
-}
-
-public class TenX implements IntUnaryFunction {
-	public  int apply(int x) {
-		return 10 * x;
-	}
-}
-
-public class HoFDemo {
-
-	public static  int do_twice(IntUnaryFunction f, int x) {
-		return f.apply(f.apply(x));
-	}
-
-	public static  void main(String[] args) {
-		System.out.println(do_twice(new TenX(), 2));
-	}
-}
-```
-在java8則可以用interface `Function<T,R>`來完成
-```
-public class Java8HoFDemo {
-		public static  int tenX(int x) {
-		return 10*x;
-	}
-
-	public static  int doTwice(Function<Integer, Integer> f, int x) {
-		return f.apply(f.apply(x));
-	}
-
-	public static  void main(String[] args) {
-		int result = doTwice(Java8HoFDemo::tenX, 2);
-		System.out.println(result);
-	}
-}
-```
-### I/O
-#### Writing to Files[https://www.youtube.com/watch?v=Bws9aQuAcdg](https://www.youtube.com/watch?v=Bws9aQuAcdg)
-
-## IntelliJ
-- [Josh’s IntelliJ Editor Settings](https://drive.google.com/drive/folders/1Y5cHl-nNe731EgG4pAk2Dokgbu4ZpV5E?usp=sharing): CS61B Josh自己tune的的color scheme,兩個字：好看！黑背景、高對比、關鍵字一目瞭然，用過就回不去！[original page](https://sp18.datastructur.es/materials/lab/lab2setup/lab2setup)
 
 ### 快捷鍵
 Mac 鍵符號
@@ -1127,9 +760,6 @@ Mac 鍵符號
 |複製整行|⌘ + D|
 |移動整行|⇧⌥+ scroll|
 |選取整個字|⌥ + UP|
-
-
-
 
 
 # Git and Github
@@ -1263,193 +893,6 @@ str_array = np.ndarray.tostring(mean[0], precision=3)
 
 ```markdown
 numpy.linalg.solve
-```
-
-# 刷題找工作
-## 必看！！！千題時代該如何刷題[https://www.youtube.com/watch?v=NdWYxz3izH4](https://www.youtube.com/watch?v=NdWYxz3izH4)
-- ### [力扣高頻一百清單](https://leetcode.com/problemset/top-interview-questions/)
-- ### [我的刷題紀錄](https://github.com/kuangyu0801/LeetcodeDailyCheckIn/tree/master/Leetcode)
-- 刷题入门干货篇-刷一道题等于几百美金，不香吗？
-https://www.1point3acres.com/bbs/thread-681692-1-1.html
-(出处: 一亩三分地)
-
-
-- ### 解答網站
-
-	- 強大的力扣心得[https://github.com/azl397985856/leetcode](https://github.com/azl397985856/leetcode)
-	- 某人簡單明瞭的部落格，答案是java[https://leetcode.jp/problems.php](https://leetcode.jp/problems.php)
-	- [花花醬playlist](https://www.youtube.com/user/xxfflower/playlists)
-	- 花花醬網站，部分有視頻講解，代碼是c++ or  Python 	[https://zxi.mytechroad.com/blog/](https://zxi.mytechroad.com/blog/)
-
-
-- ### 心得
-
-刷題考出很多東西
-- 算法與資料結構的熟係度
-- 程式語言syntax的掌握度
-- coding style的嚴謹度
-
-所以，每天一定要抽出時間來刷題，時間不夠挑一題easy來做也能夠維持自己對語法的熟悉
-
-## Frequent-Used Library
-
-Object cloning means to create an exact copy of the original object.
-###  Bitwise operators in Java
-[https://www.geeksforgeeks.org/bitwise-operators-in-java/](https://www.geeksforgeeks.org/bitwise-operators-in-java/)
-
-### Generic Type
-Always states the type explicitly!
-In Java 6, you must specify the concrete type both in the variable declaration (left-hand side) and the constructor call (right-hand side). Starting in Java 7, you can use the diamond operator instead:
-```markdown
-Stack<Integer> stack = new Stack<Integer>();
-Stack<Integer> stack = new Stack<>();
-```
-
-### Object
-```markdown
- clone()
-```
-### Sorting
-- [https://www.geeksforgeeks.org/sorting-in-java/](https://www.geeksforgeeks.org/sorting-in-java/)
-- [https://www.geeksforgeeks.org/collections-sort-java-examples/](https://www.geeksforgeeks.org/collections-sort-java-examples/)
-2 Ways:
-collection.sort()
-Arrays.sort()
-Previously, Java’s Arrays.sort method used Quicksort for arrays of primitives and Merge sort for arrays of objects. In the latest versions of Java, Arrays.sort method and Collection.sort() uses Timsort.
-
-### Arrays
-
-[https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html](https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html)
-
-```markdown
-// return a copy array
-Arrays.copyOf(original, original.length);
-
-// Copies the specified array, truncating or padding with zeros (if necessary) so the copy has the specified length.
-Arrays.copyOf(int[] original, int newLength);
-
-// fill the array with designated value
-Arrays.fill(array, value);
-
-// int[][] intervals = new int[SIZE0][SIZE1];
-// sorting the array using the comparator, this is done by using Lambda function
-// sorting the array of array according to the 1st element of inner array.
-Arrays.sort(intervals, (x1, x2)->x1[0] - x2[0]);
-
-// checking whether 2 array are equal
-boolean isEqual = Arrays.equals(s1, s2);
-```
-###  List
-[https://docs.oracle.com/javase/8/docs/api/java/util/List.html](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)
-```markdown
-// 把一個list全部加到另外一個list裡
-someList.addAll(anotherList);
-// 把list輸出成array;
-int[] arr = new int[someList.size()];
-someList.toArray(arr);
-```
-List to array in Java: [https://www.geeksforgeeks.org/list-array-java/](https://www.geeksforgeeks.org/list-array-java/)
-
-### [Random](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
-
-```markdown
-//nextInt(int bound), from 0 to bound - 1
-int rand = Random.nexInt(maxNum + 1); // from 0 to maxNum
-```
-
-### Iterator
-
-```markdown
-Iterator.hasNext();
-
-Iterator.next();
-```
-
-### [HashMap](https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html)
-```markdown
-HashMap.replace(K key, V value);
-
-HashMap.put(K key, V value);
-
-<V> = HashMap.get(K key);
-
-<V> = HashMap.getOrDefault(K key, V value);
-
-Set<K> = HashMap.keySet();
-
-Set<Map.Entry<K,V>> = HashMap.entrySet();
-// Java HashMap無法直接return iterator(沒有繼承Set), 必須先return entry set再, get entry set的 iterator
-
-```
-Traverse through a HashMap in Java: [https://www.geeksforgeeks.org/traverse-through-a-hashmap-in-java/](https://www.geeksforgeeks.org/traverse-through-a-hashmap-in-java/)
-First use 
-
-```
-// get Set of Map.Entry and then get the iterator
-iterator hmIterator = hm.entrySet().iterator(); 
-// iterate over the iterator
-while (hmIterator.hasNext()) { 
-	Map.Entry mapElement = (Map.Entry)hmIterator.next(); 
-    int marks = ((int)mapElement.getValue() + 10); 
-    System.out.println(mapElement.getKey() + " : " + marks); 
-} 
-```
-###  Map.Entry
-[https://docs.oracle.com/javase/8/docs/api/java/util/Map.Entry.html](https://docs.oracle.com/javase/8/docs/api/java/util/Map.Entry.html)
-
-
-### [Character](https://docs.oracle.com/javase/7/docs/api/java/lang/Character.html)
-```markdown
-Character.isDigit(char ch);
-Character.isLetter(cahr ch);
-Character.isSpaceChar(char ch);
-
-```
-### [Integer](https://docs.oracle.com/javase/7/docs/api/java/lang/Integer.html)
-**Parse String to Integer**
-``` markdown
-int i = Integer.parseInt(myString);
-```
-
-### String
-[Convert float to String](https://www.javatpoint.com/java-float-to-string)
-```
-int int1 = 10;
-String str = String.valueOf(int1);
-
-float f = 12.3F;//F is the suffix for float  
-String s = String.valueOf(f);  
-```
-Compare string in Java
-- String.compareTo(String): 順序是字典順序，同樣prefix, 越長的越大, 不同character a, b, ... z
-- String.equals(String)
-[https://www.geeksforgeeks.org/compare-two-strings-in-java/](https://www.geeksforgeeks.org/compare-two-strings-in-java/)
-
-Converting String in Java
-```
-char[] s1 = s.toCharArray();
-```
-
-### Math
-```
-int ran = Math.random();
-```
-
-### LinkedList
-
-
-### Deque
-Java 如果要用stack的話，建議用Deque而不是Stack
-[https://www.geeksforgeeks.org/deque-interface-java-example/](https://www.geeksforgeeks.org/deque-interface-java-example/)
-
-### [ArrayDeque](https://docs.oracle.com/javase/7/docs/api/java/util/ArrayDeque.html)
-
-```
-// Inserts the specified element at the end of this deque.
-ArrayDeque.offer(E e)
-
-// Retrieves and removes the head of the queue represented by this deque (in other words, the first element of this deque), or returns null if this deque is empty.
-ArrayDeque.poll()
 ```
 
 
