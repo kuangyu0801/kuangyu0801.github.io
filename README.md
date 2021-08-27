@@ -402,16 +402,6 @@ amazon的文化是什麼？
 - 教育質量好
 - 移民就業環境好
 
-# TO-LEARN
-- [ ]  LaTex on Mac + Git version control
-- [ ]  System and Web Security: Uni Stuttgart
-- [ ]  Database [Introduction to Databases from IBM (Coursera](https://coursera.org/share/ad494950743493c0a516ab51ce986cb6)
-- [x]  Cloud Computing:  Uni Stuttgart WS20
-- [x]  計網概
-- [x] Software Engineering: Uni Stuttgart WS20
-- [ ] Agile Software Development (Coursera)[https://www.coursera.org/learn/agile-software-development/home/welcome](https://www.coursera.org/learn/agile-software-development/home/welcome)
-### TO-CONSIDER
-- [ ]  [AWS Fundamentals: Going Cloud-Native from AWS Fundamentals Specialization(Coursera)](https://coursera.org/share/7965486607405adf9331f5b2bd7253c9)
 
 ## Joanna List 
 Janna LinkedIn: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com/in/chjoanna/)
@@ -421,10 +411,6 @@ Janna LinkedIn: [https://www.linkedin.com/in/chjoanna/](https://www.linkedin.com
 - [ ] [Database Systems Concepts & Design (Udacity)]([https://classroom.udacity.com/courses/ud150](https://classroom.udacity.com/courses/ud150))
 - [ ] [Using Databases with Python (Coursera)](https://coursera.org/share/e415f2e24068608093964fdd330f9bd0)
 - [ ] [Using Python to Access Web Data (Coursera)](https://coursera.org/share/1188b2397ed5cbf6fd690c03ab87aa32)
-
-# 好用網站
-- 畫流程圖[https://app.diagrams.net/](https://app.diagrams.net/): 可以直接在上面編輯數學公式為 latex format
-Enable mathematical typesetting via _Extras_->_Mathematical Typesetting._ The following syntax is supported:
 
 
 # Mind Set
@@ -473,15 +459,6 @@ Stage-3: November Amazon in Dublin, and Singapore
 
 # HR教你如何準備coding interview
 
-# 履歷 
-- 谷歌教你如何寫CV: [https://learndigital.withgoogle.com/digitalgarage/course/start-a-cv](https://learndigital.withgoogle.com/digitalgarage/course/start-a-cv)
-- 我的履歷[https://www.overleaf.com/project](https://www.overleaf.com/project)
-- 軟體工程履歷範本[https://www.visualcv.com/resume-samples/software-engineer/](https://www.visualcv.com/resume-samples/software-engineer/)
-
-# Cover Letter
-glassdoor教學如何撰寫Cover Letter: [https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/](https://www.glassdoor.com/blog/guide/how-to-write-a-cover-letter/)
-
-哈佛cover letter範例[https://hls.harvard.edu/content/uploads/2008/06/allcoverlettersweb2011.pdf](https://hls.harvard.edu/content/uploads/2008/06/allcoverlettersweb2011.pdf)
 
 ## 我的背景：
 - IT student, 希望投入cloud computing軟體開發
@@ -584,130 +561,6 @@ Minimum Qualifications
 - [《Python Data Science Handbook》](https://jakevdp.github.io/PythonDataScienceHandbook/): Machine Learning實作會用到各種library, package都可以在這裡面查找
 - [《Cracking the Coding Interview》](https://drive.google.com/file/d/1t2GL9Nvj9sRa2hHgi0_2MNJnbeE64IN5/view?usp=sharing): 大家大推的面試指南
 
-# Programming Course
-- 《CS61B Data Structure》by UC Berkeley
-	- [https://sp18.datastructur.es/](https://sp18.datastructur.es/)
-	- [https://sp19.datastructur.es/](https://sp19.datastructur.es/)
-	- Screencast of sp18
-- [《Algorithms, Part I》by Princeton](https://www.coursera.org/learn/algorithms-part1/home/welcome)
-- [《The Missing Semester of Your CS Education 》by MIT](https://missing.csail.mit.edu/): 課程有系統教授許多“職業”工程師應該要會知道的技能：shell-command, git,
-- [《 Introduction to Git and GitHub by Google》by Google](https://www.coursera.org/learn/introduction-git-github/home/welcome)
--  [《Android Developer Fundamentals》by Google](https://developer.android.com/courses/fundamentals-training/toc-v2)
-- [《黑馬Java》](https://drive.google.com/drive/folders/1k8OlKUAjlgz8Je7V-EjjaQCYOmjYmALy?usp=sharing): Java語法講得非常詳細！遇到語法的問題先回來複習整個觀念，不要去stack overflow找
-- [《黑馬Git》](https://drive.google.com/drive/folders/12m6G_CCUiWuYipRlaIHkPsfrVnMHOA-d?usp=sharing)
-- [《黑馬Android》]
-- [《黑馬Python+人工智能 基础班（懂中文就能学）》](https://www.bilibili.com/video/BV1Dt4y1C7Y1/?p=57)
-本视频共有六部分： 00ubuntu安装教程+01linux基础视频+02python基础+03面向对象+04 项目实战视频+05 vi视频 本套教程15天 学前环境搭建 1-3 天内容为Linux基础命令 4-13 天内容为Python基础教程 14-15 天内容为 飞机大战项目演练
-- [《019python3.7从入门到入门（零基础）》](https://www.bilibili.com/video/BV1M741177ph/)
-
-
-## Data Structure and Algorithm
-此兩門課是CS教育的核心，基礎不好地動山搖！
-軟體工程師遇到問題->選擇適合的演算法->選擇對應的資料結構：這兩點如果沒有學好，那就不用玩了！
-
-Complexity 大補懶人包[https://www.bigocheatsheet.com/](https://www.bigocheatsheet.com/)：所有的資料結構與算法的complexity都整理在這邊
-
-
-### BST
-參考algorithm 3.2內容
-- Hibbard deletion 這邊比較複雜
-- computing floor, computing ceiling都要再仔細看
-
-### Sorting
-Comparison:
-
-| Algorithm |Time complexity|--|--|Space complexity|Stability|Description|
-|--|--|--|--|--|--|--|
-|--|Best |Average|Worst| Worst|--|--|
-| Selection Sort |  $\Omega(N^2)$  | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |unstable| Most naive approach|
-| Insertion Sort | $\Omega(N)$ | $\Theta(N^2)$ | $O(N^2)$ | $O(1)$ |stable| Good for partially sorted|
-|Merge Sort|$\Omega(N log(N))$ |$\Theta(N log(N))$|$O(N log(N))$|$O(N)$|stable|--|
-|Quick Sort|$\Omega(N^2)$ |$\Theta(N log(N))$|$O(N^2)$|$O(N)$|unstable|--|
-
-array
-
-#### Total Order 
-- Antisymmetry: if v ≤ w and w ≤ v, then v = w. 
-- Transitivity: if v ≤ w and w ≤ x, then v ≤ x. 
-- Totality: either v ≤ w or w ≤ v or both.
-
-### Shuffling
-Knuth shuffle
-Shuffle sort produces a uniformly random permutation of the input array
-
-
-## The Missing Semester of Your CS Education
-###  Course overview + the shell
-
-- Why learn terminal? GUI has limited function, and text-based command terminal is more general, and versatile
-- privilege: x: execute, have the permission to access the entire parent folder of certain file/directory
-useful command
-
-```markdown
- //program take #input as input argument
- #program < #input 
- 
- //program its export output to #output
- #program > #output
- 
- //program append output to #output
- #program >> #output  
- 
- // means space (because shell differentiate different argument by space character 
- \
- 
- // takes an input write to a file and also show it
- tee 
-```
-
-### Vim 小技巧
-set number 開啟行數顯示
-修改.vimrc 加入set number讓vim都可以顯示行數
-
-
-## Android Developer Fundamentals
-[學習紀錄](https://docs.google.com/document/d/1s32QPhb5lg1lOj1ke2YFubwk6O8naeVqfNGvok5X3c4/edit?usp=sharing)
-
-
-## Firebase in a Weekend on Udacity
-### 我的github source code: [https://github.com/kuangyu0801/udacity-friendly-chat](https://github.com/kuangyu0801/udacity-friendly-chat)
-
-最後的remote config2.05沒有做，因為原本的api已經被廢棄，加上不好debug，所以就沒有做了
-
-###  相關資料
-- Android Basics: Networking on Udacity[https://classroom.udacity.com/courses/ud843](https://classroom.udacity.com/courses/ud843)
-- JSON syntax [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
-- JSON intro [https://www.w3schools.com/js/js_json_intro.asp](https://www.w3schools.com/js/js_json_intro.asp)
-
-- Add Firebase to your Android project[https://firebase.google.com/docs/android/setup](https://firebase.google.com/docs/android/setup)
-- [https://firebase.google.com/docs/database/android/read-and-write](https://firebase.google.com/docs/database/android/read-and-write)
-
-### Issue
-- Migrating to AndroidX [https://developer.android.com/jetpack/androidx/migrate](https://developer.android.com/jetpack/androidx/migrate)
-Issue: [https://discussions.udacity.com/t/keytool-error-java-lang-exception-only-one-command-is-allowed-both-exportcert-and-list-were-specified/935120](https://discussions.udacity.com/t/keytool-error-java-lang-exception-only-one-command-is-allowed-both-exportcert-and-list-were-specified/935120)
-
-
-```
-keytool -list -v -alias androiddebugkey -keystore ~/.android/debug.keystore
-SHA1: F8:E6:05:65:D6:4A:58:17:C8:A9:75:6F:62:F5:58:DD:E5:8D:2A:78
-```
-
-     Caused by: java.lang.IllegalStateException: Default FirebaseApp is not initialized in this process com.google.firebase.udacity.friendlychat. Make sure to call FirebaseApp.initializeApp(Context) first.
-
-
-
-Variant: debugAndroidTest
-Config: debug
-Store: /Users/Kuang-Yu/.android/debug.keystore
-Alias: AndroidDebugKey
-MD5: F3:02:0A:6E:20:34:25:E9:11:7F:66:D7:57:00:44:B6
-SHA1: F8:E6:05:65:D6:4A:58:17:C8:A9:75:6F:62:F5:58:DD:E5:8D:2A:78
-SHA-256: AD:75:30:44:9D:EC:F4:32:3E:1B:F5:24:44:4F:F6:A3:64:A4:DB:EB:71:F0:BE:47:83:F9:AE:15:EF:6B:4B:0B
-Valid until: Saturday, April 30, 2050
-
-
-
-
 
 # 常用問題
 ###  Pull from a remote public project and add it to my own remote repo in IDEA
@@ -741,7 +594,6 @@ ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/loca
 ## Concurrency
 [Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
 [Google Java Style Guide](http://google.github.io/styleguide/javaguide.html#s2.2-file-encoding)
-
 
 
 ### 快捷鍵
@@ -856,141 +708,7 @@ Footer:
    以 BREAKING CHANGE: 開頭，後面是對變動的描述、以及變動原因和遷移方法。
 ```
 [https://wadehuanglearning.blogspot.com/2019/05/commit-commit-commit-why-what-commit.html](https://wadehuanglearning.blogspot.com/2019/05/commit-commit-commit-why-what-commit.html)
-# Machine Learning
-# Python
-## Reference
-- [Fluent Python](https://drive.google.com/file/d/1AV59fwciY2RwgEN11vs5V9_G_mJhyy6e/view?usp=sharing) 
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/): 非常實用的入門書，把python data science最重要的numpy, matplotlib都介紹一遍, 基本function就不需要一直去查overstack查的很心累
-- [最详尽使用指南：超快上手Jupyter Notebook](https://zhuanlan.zhihu.com/p/32320214)
-- [w3schools](https://www.w3schools.com/python/default.asp): 網站把所有常用的python syntax都列入，每次忘記直接來查
-- [史上最完整 PyTorch 資源來了！工程師不能錯過的中文教程、精選書單全在這](https://github.com/INTERMT/Awesome-PyTorch-Chinese)
-
-##  numpy
-### 從文字檔load進數值到numpy array numpy.loadtxt
-
-```markdown
-np_array = np.loadtxt(f, comments='#', skiprows=1)
-```
-
-### numpy.ndarray.tostring
-一個點 <class 'numpy.float64'> 用formatter
-ndarray 必須改用 ndarray.tostring
-不能用tostring(ndarry[0])
-
-```markdown
-# correct
-str_single_point = 'mean_x= ' + '{:.2f}'.format(mean[0])
-print(str_single_point)
-
-# correct
-str_array = np.ndarray.tostring(mean, precision=3)
-
-# error
-str_array = np.ndarray.tostring(mean[0], precision=3)
-```
-
-### 解線性代數 [numpy.linalg.solve](https://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.solve.html)
-
-```markdown
-numpy.linalg.solve
-```
-
-
-# Overleaf使用
-
-
-# Android Development
-## Reference
-### 谷歌官方教程
-- 官方網站: [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/toc-v2)
-- 影片:[Android Developer Fundamentals on Youtube](https://www.youtube.com/playlist?list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB):谷歌官方教程，有些api版本比較舊，需要多注意。
-- [課程投影片](https://drive.google.com/open?id=1eu-LXxiHocSktGYpG04PfE9Xmr_pBY5P)
-- 代碼: [colab source code] (https://developer.android.com/courses/fundamentals-training/toc-v2)
-- gitbook: [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/)
-
-書籍：
-
-視頻：
-- [Android开发教程（2019最新版,使用JetPack)](https://www.bilibili.com/video/BV1w4411t7UQ/)：操作跟講解都很清楚
-- [# 黑马程序员95期培训 安卓开发基础教程 (全)](https://www.bilibili.com/video/BV1HJ411L756/):  搭配講義
-- [Android开发书籍推荐：从入门到精通系列学习路线书籍介绍](https://zhuanlan.zhihu.com/p/25843565)
-- [Adroid Studio User Guide](https://developer.android.com/studio/intro)
-課程：
-
-### Broadcast 
-
-
-### Request App Permissions
-Reference:
-- 谷歌官方介紹:[https://developer.android.com/training/permissions/requesting](https://developer.android.com/training/permissions/requesting)
-- 谷歌官方source code: [https://github.com/android/permissions-samples](https://github.com/android/permissions-samples)
-- import [RuntimePermissionsBasic](https://github.com/android/permissions-samples/tree/master/RuntimePermissionsBasic "RuntimePermissionsBasic")這個資料夾到project就好
-- 不要用Snackbar, 改用Toast
-- ActivityCompat class谷歌官方文件:[https://developer.android.com/reference/androidx/core/app/ActivityCompat](https://developer.android.com/reference/androidx/core/app/ActivityCompat)
-- 我找到的youtube教學跟source code[https://codinginflow.com/tutorials/android/run-time-permission-request](https://codinginflow.com/tutorials/android/run-time-permission-request): 講得很明確
-
-注意：
-- 權限必須要一次取得 只能用一次**requestPermissions()**
-- On Android 6.0 (API level 23) and higher, user not only have to declare permission in manifest.xml but also need to acquire permission at runtime. For version below (API level 32), only declare permission in manifest.xml is required and permission is acquired at install-time/compile-time.
-
-Request permission特別麻煩，主要分成好5個stage:
- 1. check Android version 
- 2. check permission via public method **ContextCompat.checkSelfPermission() **
- 3. explain permission to User via public method **ActivityCompat.shouldShowRequestPermissionRationale()**
- 4. Request permission via public method **ActivityCompat.requestPermissions()**
- 5. Handle the response via override method **onRequestPermissionsResult**
-
-example code:
-```
-// Step-1
-if (Build.VERSION.SDK_INT >= 23) {
-	checkPermission();
-}
-
-// Step-2 
-void checkPermission() {
-	public static int checkSelfPermission ([Context] context, String permission)
-}
-
-// Step-3
-public static boolean shouldShowRequestPermissionRationale ([Activity] activity, String permission)
-
-// Step-4
-public static void requestPermissions ([Activity]ctivity, String[] permissions, int requestCode)
-
-// Step-5
-@Override  
-public  void onRequestPermissionsResults(int requestCode,  String[] permissions,  int[] grantResults)  {  switch  (requestCode)  {  
-	case  PERMISSION_REQUEST_CODE:  
-	// If request is cancelled, the result arrays are empty.  
-	if  (grantResults.length >  0  && grantResults[0]  ==  PackageManager.PERMISSION_GRANTED)  {  
-		// Permission is granted. Continue the action or workflow  /
-		/ in your app.  
-	}  
-	else  {  
-		// Explain to the user that the feature is unavailable because  
-		// the features requires a permission that the user has denied.  
-		// At the same time, respect the user's decision. Don't link to  
-		// system settings in an effort to convince the user to change  
-		// their decision.  
-	}  
-	return;  
-}  // Other 'case' lines to check for other  // permissions this app might request.  }
-```
-
-### [回调函数（callback）是什么？](https://www.zhihu.com/question/19801131/answer/26586203): 舉例的深入簡出
-
-[How to delete a module in Android Studio](https://mranderson.nl/2019/06/08/how-to-delete-a-module-in-android-studio/)
-1. Right click on the Project and select “Open module settings”
-2. Select the module you want to delete and press the minus button above.
-
-[https://zhuanlan.zhihu.com/p/25843565](https://zhuanlan.zhihu.com/p/25843565)
-
-## Issue
-[TextView and Button get stuck in the top-left corner of the blueprint in android studio](https://stackoverflow.com/questions/51056109/textview-and-button-get-stuck-in-the-top-left-corner-of-the-blueprint-in-android/51058177)
-
-在Component Tree點選view convert 成[constraint layout](https://developer.android.com/training/constraint-layout#convert)
-
+# 
 
 # Markdown Quick Lookup
 
@@ -1011,7 +729,6 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
-
 
 
 ```markdown
