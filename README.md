@@ -1,5 +1,3 @@
-# Welcome to Kuang-Yu Li's GitHub Page
-
 # About me
 I'm Kuang-Yu Li (李光宇). I come from Taiwan and my mother tongue is Mandrian.
 I'm a full-stack developer, cloud specialist, and DevOps advocate.
@@ -30,4 +28,5 @@ I'm a full-stack developer, cloud specialist, and DevOps advocate.
 ***National Chiao Tung University (NCTU)***, Hsinchu, Taiwan
 - B.S. in Electrical Engineering and Computer Science, GPA: 3.9/4.3 
 - M.S. in Electronics Engineering and Electronics, GPA: 4.27/4.3
+
 # Projects
