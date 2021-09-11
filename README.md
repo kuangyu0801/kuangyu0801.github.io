@@ -26,6 +26,7 @@ I'm a full-stack developer, cloud specialist, and DevOps advocate.
 
 ***Universität Stuttgart***, Stuttgart, Germany
 - M.S. in Information Technology, GPA: 3.53/4.0 (German Grading: 1.7 (Gut))
+
 ***National Chiao Tung University (NCTU)***, Hsinchu, Taiwan
 - B.S. in Electrical Engineering and Computer Science, GPA: 3.9/4.3 
 - M.S. in Electronics Engineering and Electronics, GPA: 4.27/4.3
