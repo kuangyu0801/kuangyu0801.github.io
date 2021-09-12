@@ -53,4 +53,14 @@ I'm a full-stack developer, cloud specialist, and DevOps advocate.
 # Projects
 
 # Publication & Honor 
-Received 7 MediaTek vAwards (top 10\% monthly team performance) including  improving 4G downlink data rate by 300\% (14$\rightarrow$42 Mbps) with Massive MIMO feature and reducing 5G control channel decoding computation  cycles by 72\% (3700$\rightarrow$1000 cycles)
+[**A 0.5-V 28-nm 256-kb Mini-Array Based 6T SRAM With Vtrip-Tracking Write-Assist**](https://ieeexplore.ieee.org/document/7885536/), *IEEE Transactions on Circuits and Systems I*, Jul. 2017.
+- 2nd Ranking in integrated circuit journal
+
+**NCTU Excellent Exchange Student Scholarship**, *NCTU*, Aug. 2012
+- 9,000 USD for exchange to Katholieke Universiteit Leuven, Belgium (top 2% in NCTU)
+
+**MediaTek vAward**, *MediaTek*, Oct. 2016, Apr/Jul./Oct. 2017, Apr./Oct./Nov. 2018 
+- 7-time award receiver with 270 USD bonus for each (top 10% in MediaTek per month)
+
+**Recognition of contribution to the Gen91 modem**, *MediaTek*, Aug. 2016
+- R&D and market success for achieving 4G world-mode and 25% battery life saving in Gen91 modem 
