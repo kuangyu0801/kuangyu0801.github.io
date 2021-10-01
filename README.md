@@ -20,9 +20,9 @@ I'm a full-stack developer, cloud specialist, and DevOps advocate.
 # Work Experience
 **IBM**, Böblingen, Germany
 
-*Intern*, IBM Systems, Apr. 2021 - Sept. 2021 (6 months)
+*Intern*, Z Firmware, IBM Systems, Apr. 2021 - Sept. 2021 (6 months)
 - Developed a cloud-native C++ remote IDE (integrated development environment) for [Ubuntu on z15 mainframe](https://www.ibm.com/it-infrastructure/z/os/linux) based on [Eclipse Theia](https://theia-ide.org/) and [VSCode Extension API](https://code.visualstudio.com/api) using Scrum approach
- 
+- Automated Theia deployment by using bash script to install package dependency and packing application with Dockerfile to Docker image file 
 - Verified IDE feasibility and compatibility by deploying and testing Eclipse Theia on [Hyper Protect Virtual Server](https://www.ibm.com/cloud/hyper-protect-virtual-servers) and [Eclipse Che](https://www.eclipse.org/che/) on Minikube
 - Integrated, tested, and deployed C++ dev tools to [Codeready Workspace](https://www.redhat.com/en/technologies/jboss-middleware/codeready-workspaces)  w/ CMake, IntelliSense, CTest, GDB and GoogleTest functionality on a self-administered [OpenShift Container Platform](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform) on zFyre
 - Improved [z/CECSIM](https://ieeexplore.ieee.org/document/5389024) server development productivity by rewriting traces (15 files and 400 lines) from C filestream API to POSIX system call, to ensure trace visibility when crashing.
