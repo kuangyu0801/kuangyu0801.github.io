@@ -1,7 +1,18 @@
 ![avatar](/image/banner.jpeg)
 # About me
-I'm Kuang-Yu Li (李光宇). I come from Taiwan and my mother tongue is Mandrian.
-I'm a full-stack developer, cloud specialist, and DevOps advocate.
+My name Kuang-Yu Li (李光宇). I come from Taiwan and my mother tongue is Mandarin.
+
+I'm...
+- a full-stack developer, cloud specialist, and DevOps advocate.
+- an experienced developer from my previous roles at IBM and MediaTek.
+- proficient in Java programming, Data Structures, Algorithms, and System Design.
+- focusing on Cloud Computing, Distributed Systems, and Network Technology.
+- familiar with cloud platforms, container technology, RESTful web service development.
+- a team player with both agile practice experience and mindset.
+
+My current career goal is to become a Solution Architect.
+I am expected to finish my Master's program at the University of Stuttgart in Germany around Feb 2022.
+
 
 # Technical Strength
 - Domain Area: Distributed Systems, Cloud Computing, Service Computing 
@@ -22,7 +33,7 @@ I'm a full-stack developer, cloud specialist, and DevOps advocate.
 
 *Intern*, Z Firmware, IBM Systems, Apr. 2021 - Sept. 2021 (6 months)
 - Developed a cloud-native C++ remote IDE (integrated development environment) for [Ubuntu on z15 mainframe](https://www.ibm.com/it-infrastructure/z/os/linux) based on [Eclipse Theia](https://theia-ide.org/) and [VSCode Extension API](https://code.visualstudio.com/api) using Scrum approach
-- Automated Theia deployment by using bash script to install package dependency and packing application with Dockerfile to Docker image file 
+- Automated Theia deployment with bash script for installing packages and packaged application into Docker image file with Dockerfile
 - Verified IDE feasibility and compatibility by deploying and testing Eclipse Theia on [Hyper Protect Virtual Server](https://www.ibm.com/cloud/hyper-protect-virtual-servers) and [Eclipse Che](https://www.eclipse.org/che/) on Minikube
 - Integrated, tested, and deployed C++ dev tools to [Codeready Workspace](https://www.redhat.com/en/technologies/jboss-middleware/codeready-workspaces)  w/ CMake, IntelliSense, CTest, GDB and GoogleTest functionality on a self-administered [OpenShift Container Platform](https://www.redhat.com/en/technologies/cloud-computing/openshift/container-platform) on zFyre
 - Improved [z/CECSIM](https://ieeexplore.ieee.org/document/5389024) server development productivity by rewriting traces (15 files and 400 lines) from C filestream API to POSIX system call, to ensure trace visibility when crashing.
